@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>Table 3</label>
+ <caption>
+  <p>Patterns seen in CT scan of the lungs in COVID-19 affected patients who were diagnosed with pneumonia[
+   <xref rid="ref3" ref-type="bibr">3</xref>]
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Ground-glass opacities +/-consolidation</td>
+    <td align="left" rowspan="1" colspan="1">Prominent</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pure consolidation</td>
+    <td align="left" rowspan="1" colspan="1">Rare</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Multiple lesions</td>
+    <td align="left" rowspan="1" colspan="1">Prominent</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Bilateral involvement</td>
+    <td align="left" rowspan="1" colspan="1">Prominent</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Posterior part/lower lobe predilection</td>
+    <td align="left" rowspan="1" colspan="1">Prominent</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Peripheral/subpleural distribution</td>
+    <td align="left" rowspan="1" colspan="1">Prominent</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Ground-glass opacity with superimposed thickening of interlobular septa</td>
+    <td align="left" rowspan="1" colspan="1">Can be present</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Air-filled bronchi on a background of airless lung</td>
+    <td align="left" rowspan="1" colspan="1">Can be present</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Atoll sign with dense crescent formation on high-resolution CT</td>
+    <td align="left" rowspan="1" colspan="1">Rare</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Pleural effusion</td>
+    <td align="left" rowspan="1" colspan="1">Rare</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Cavitation, calcification, lymphadenopathy</td>
+    <td align="left" rowspan="1" colspan="1">Absent</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

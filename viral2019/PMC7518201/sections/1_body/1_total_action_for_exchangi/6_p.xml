@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0050">Thus, the total action can be written as:
+ <disp-formula id="fd8">
+  <label>(8)</label>
+  <math id="M18" display="block" altimg="si18.svg" alttext="Equation 8.">
+   <mrow>
+    <msubsup>
+     <mi>S</mi>
+     <mrow>
+      <mi>t</mi>
+      <mi>o</mi>
+      <mi>t</mi>
+      <mo linebreak="badbreak">−</mo>
+      <mi>P</mi>
+      <mi>e</mi>
+      <mi>n</mi>
+      <mi>d</mi>
+      <mi>a</mi>
+      <mi>m</mi>
+      <mi>i</mi>
+      <mi>c</mi>
+      <mo linebreak="badbreak">−</mo>
+      <mi>C</mi>
+      <mi>O</mi>
+      <mi>V</mi>
+      <mi>I</mi>
+      <mi>D</mi>
+      <mn>19</mn>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mi>n</mi>
+      <mo linebreak="badbreak">+</mo>
+      <mi>m</mi>
+     </mrow>
+    </msubsup>
+    <mo linebreak="badbreak">=</mo>
+    <msubsup>
+     <mi>S</mi>
+     <mrow>
+      <mi>cov</mi>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mi>m</mi>
+     </mrow>
+    </msubsup>
+    <mo linebreak="goodbreak">+</mo>
+    <msubsup>
+     <mi>S</mi>
+     <mrow>
+      <mi>cov</mi>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mi>n</mi>
+     </mrow>
+    </msubsup>
+    <mo linebreak="goodbreak">+</mo>
+    <msubsup>
+     <mi>S</mi>
+     <mrow>
+      <mi>b</mi>
+      <mi>r</mi>
+      <mi>i</mi>
+      <mi>d</mi>
+      <mi>g</mi>
+      <mi>e</mi>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mi>n</mi>
+      <mo linebreak="badbreak">+</mo>
+      <mi>m</mi>
+     </mrow>
+    </msubsup>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

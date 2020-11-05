@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0215">
+ <element-citation publication-type="journal" id="sbref0215">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Schmidt</surname>
+    <given-names>H.A.</given-names>
+   </name>
+   <name>
+    <surname>von Haeseler</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Maximum-likelihood analysis using TREE-PUZZLE</article-title>
+  <source>Curr. Protoc. Bioinf.</source>
+  <year>2007</year>
+  <pub-id pub-id-type="doi">10.1002/0471250953.bi0606s17</pub-id>
+  <comment>Chapter 6, Unit 6 6</comment>
+ </element-citation>
+</ref>

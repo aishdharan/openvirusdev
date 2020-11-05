@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR71">
+ <label>71.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lau</surname>
+    <given-names>SKP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Severe acute respiratory syndrome (SARS) coronavirus ORF8 protein is acquired from SARS-related coronavirus from greater horseshoe bats through recombination</article-title>
+  <source>J. Virol.</source>
+  <year>2015</year>
+  <volume>89</volume>
+  <fpage>10532</fpage>
+  <lpage>10547</lpage>
+  <pub-id pub-id-type="doi">10.1128/JVI.01048-15</pub-id>
+  <?supplied-pmid 26269185?>
+  <pub-id pub-id-type="pmid">26269185</pub-id>
+ </element-citation>
+</ref>

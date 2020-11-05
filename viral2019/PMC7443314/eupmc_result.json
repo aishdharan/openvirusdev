@@ -1,0 +1,642 @@
+{
+  "id": [
+    "32861835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32861835"
+  ],
+  "pmcid": [
+    "PMC7443314"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7443314"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.jad.2020.08.034"
+  ],
+  "title": [
+    "Impact of viral epidemic outbreaks on mental health of healthcare workers: a rapid systematic review and meta-analysis."
+  ],
+  "authorString": [
+    "Serrano-Ripoll MJ, Meneses-Echavez JF, Ricci-Cabello I, Fraile-Navarro D, Fiol-deRoque MA, Pastor-Moreno G, Castro A, Ruiz-Pérez I, Zamanillo Campos R, Gonçalves-Bradley DC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Serrano-Ripoll MJ"
+          ],
+          "firstName": [
+            "Maria J"
+          ],
+          "lastName": [
+            "Serrano-Ripoll"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Health Research Institute of the Balearic Islands (IdISBa). Carretera de Valldemossa, 79 Hospital Universitario Son Espases. Edificio S. 07120 Palma, Illes Balears, Spain; Balearic Islands Health Services, Primary Care Research Unit of Mallorca, Palma, Illes Balears, Spain; University of Balearic Islands (UIB), Department of Psychology, Carretera de Valldemossa, km 7.5. 07122, Palma, Illes Balears, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Meneses-Echavez JF"
+          ],
+          "firstName": [
+            "Jose F"
+          ],
+          "lastName": [
+            "Meneses-Echavez"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division for Health Services, Norwegian Institute of Public Health. Oslo, Norway; Facultad de Cultura Física, Deporte y Recreación. Universidad Santo Tomás. Bogotá, Colombia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ricci-Cabello I"
+          ],
+          "firstName": [
+            "Ignacio"
+          ],
+          "lastName": [
+            "Ricci-Cabello"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Health Research Institute of the Balearic Islands (IdISBa). Carretera de Valldemossa, 79 Hospital Universitario Son Espases. Edificio S. 07120 Palma, Illes Balears, Spain; Balearic Islands Health Services, Primary Care Research Unit of Mallorca, Palma, Illes Balears, Spain; Centro de Investigación Biomédica en Red (CIBERESP). Avda. Monforte de Lemos, 3-5. Pabellón 11. 28029 Madrid, Spain. Electronic address: nacho.ricci.cabello@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fraile-Navarro D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Fraile-Navarro"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1108-7071",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Australian Institute of Health Innovation, Macquarie University, Sydney, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fiol-deRoque MA"
+          ],
+          "firstName": [
+            "Maria A"
+          ],
+          "lastName": [
+            "Fiol-deRoque"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Health Research Institute of the Balearic Islands (IdISBa). Carretera de Valldemossa, 79 Hospital Universitario Son Espases. Edificio S. 07120 Palma, Illes Balears, Spain; Balearic Islands Health Services, Primary Care Research Unit of Mallorca, Palma, Illes Balears, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pastor-Moreno G"
+          ],
+          "firstName": [
+            "Guadalupe"
+          ],
+          "lastName": [
+            "Pastor-Moreno"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centro de Investigación Biomédica en Red (CIBERESP). Avda. Monforte de Lemos, 3-5. Pabellón 11. 28029 Madrid, Spain; Escuela Andaluza de Salud Pública. Campus Universitario de Cartuja. Cuesta del Observatorio, 4. 18080. Granada, Spain; Instituto de Investigación Biosanitaria (Ibs. Granada). Avda. de Madrid, 15. 18012. Granada, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Castro A"
+          ],
+          "firstName": [
+            "Adoración"
+          ],
+          "lastName": [
+            "Castro"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Health Research Institute of the Balearic Islands (IdISBa). Carretera de Valldemossa, 79 Hospital Universitario Son Espases. Edificio S. 07120 Palma, Illes Balears, Spain; Research Institute of Health Sciences (IUNICS), University of Balearic Islands. Carretera de Valldemossa, km 7.5. Edificio Científico-Técnico. 07122 Palma, Illes Balears, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruiz-Pérez I"
+          ],
+          "firstName": [
+            "Isabel"
+          ],
+          "lastName": [
+            "Ruiz-Pérez"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Balearic Islands (UIB), Department of Psychology, Carretera de Valldemossa, km 7.5. 07122, Palma, Illes Balears, Spain; Centro de Investigación Biomédica en Red (CIBERESP). Avda. Monforte de Lemos, 3-5. Pabellón 11. 28029 Madrid, Spain; Escuela Andaluza de Salud Pública. Campus Universitario de Cartuja. Cuesta del Observatorio, 4. 18080. Granada, Spain; Instituto de Investigación Biosanitaria (Ibs. Granada). Avda. de Madrid, 15. 18012. Granada, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zamanillo Campos R"
+          ],
+          "firstName": [
+            "Rocío"
+          ],
+          "lastName": [
+            "Zamanillo Campos"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7162-0889",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Health Research Institute of the Balearic Islands (IdISBa). Carretera de Valldemossa, 79 Hospital Universitario Son Espases. Edificio S. 07120 Palma, Illes Balears, Spain; Balearic Islands Health Services, Primary Care Research Unit of Mallorca, Palma, Illes Balears, Spain; Valencian International University (VIU), Department of Health, 46002, Valencia, Comunitat Valenciana, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gonçalves-Bradley DC"
+          ],
+          "firstName": [
+            "Daniela C"
+          ],
+          "lastName": [
+            "Gonçalves-Bradley"
+          ],
+          "initials": [
+            "DC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nuffield Department of Population Health, University of Oxford, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1108-7071",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7162-0889",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "277"
+      ],
+      "journalIssueId": [
+        "3038095"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of affective disorders"
+          ],
+          "ISOAbbreviation": [
+            "J Affect Disord"
+          ],
+          "medlineAbbreviation": [
+            "J Affect Disord"
+          ],
+          "NLMid": [
+            "7906073"
+          ],
+          "ISSN": [
+            "0165-0327"
+          ],
+          "ESSN": [
+            "1573-2517"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "347-357"
+  ],
+  "abstractText": [
+    "BACKGROUND:This study aimed at examining the impact of providing healthcare during health emergencies caused by viral epidemic outbreaks on healthcare workers' (HCWs) mental health; to identify factors associated with worse impact, and; to assess the available evidence base regarding interventions to reduce such impact. METHOD:Rapid systematic review. We searched MEDLINE, Embase, and PsycINFO (inception to August 2020). We pooled data using random-effects meta-analyses to estimate the prevalence of specific mental health problems, and used GRADE to ascertain the certainty of evidence. RESULTS:We included 117 studies. The pooled prevalence was higher for acute stress disorder (40% (95%CI 39 to 41%)), followed by anxiety (30%, (30 to 31%)), burnout (28% (26 to 31%)), depression (24% (24 to 25%)), and post-traumatic stress disorder (13% (13 to 14%)). We identified factors associated with the likelihood of developing those problems, including sociodemographic (younger age and female gender), social (lack of social support, stigmatization), and occupational (working in a high-risk environment, specific occupational roles, and lower levels of specialised training and job experience) factors. Four studies reported interventions for frontline HCW: two educational interventions increased confidence in pandemic self-efficacy and in interpersonal problems solving (very low certainty), whereas one multifaceted intervention improved anxiety, depression, and sleep quality (very low certainty). LIMITATIONS:We only searched three databases, and the initial screening was undertaken by a single reviewer. CONCLUSION:Given the very limited evidence regarding the impact of interventions to tackle mental health problems in HCWs, the risk factors identified represent important targets for future interventions."
+  ],
+  "affiliation": [
+    "Health Research Institute of the Balearic Islands (IdISBa). Carretera de Valldemossa, 79 Hospital Universitario Son Espases. Edificio S. 07120 Palma, Illes Balears, Spain; Balearic Islands Health Services, Primary Care Research Unit of Mallorca, Palma, Illes Balears, Spain; University of Balearic Islands (UIB), Department of Psychology, Carretera de Valldemossa, km 7.5. 07122, Palma, Illes Balears, Spain."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Systematic Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mental Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress Disorders, Post-Traumatic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Personnel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Mental health",
+        "Systematic review",
+        "Healthcare Workers",
+        "Covid-19",
+        "Viral Pandemic"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jad.2020.08.034"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7443314"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7443314?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-22"
+  ],
+  "dateOfCreation": [
+    "2020-08-31"
+  ],
+  "firstIndexDate": [
+    "2020-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-27"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-23"
+  ],
+  "firstPublicationDate": [
+    "2020-08-23"
+  ]
+}

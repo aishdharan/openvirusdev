@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig5">
+ <label>Fig. 5</label>
+ <caption>
+  <p>
+   <inline-formula>
+    <math id="d1e400" display="inline" altimg="si238.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> versus 
+   <inline-formula>
+    <math id="d1e418" display="inline" altimg="si239.svg">
+     <mi mathvariant="bold-fraktur">t</mi>
+    </math>
+   </inline-formula> for three scenarios: disease outbreak with controls 
+   <inline-formula>
+    <math id="d1e423" display="inline" altimg="si240.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>7</mn>
+     </mrow>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="d1e446" display="inline" altimg="si241.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>8</mn>
+     </mrow>
+    </math>
+   </inline-formula> and also, disease outbreak with no controls.
+  </p>
+ </caption>
+ <graphic xlink:href="gr5_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

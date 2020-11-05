@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec>
+  <title>Background</title>
+  <p>The novel coronavirus (coronavirus disease 2019 [COVID-19]) outbreak began in China in December last year, and confirmed cases began occurring in Korea in mid-February 2020. Since the end of February, the rate of infection has increased greatly due to mass (herd) infection within religious groups and nursing homes in the Daegu and Gyeongbuk regions. This mass infection has increased the number of infected people more rapidly than was initially expected; the epidemic model based on existing studies had predicted a much lower infection rate and faster recovery.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p>The present study evaluated rapid infection spread by mass infection in Korea and the high mortality rate for the elderly and those with underlying diseases through the Susceptible-Exposed-Infected-Recovered-Dead (SEIRD) model.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p>The present study demonstrated early infection peak occurrence (-6.3 days for Daegu and -5.3 days for Gyeongbuk) and slow recovery trend (= -1,486.6 persons for Daegu and -223.7 persons for Gyeongbuk) between the actual and the epidemic model for a mass infection region compared to a normal infection region.</p>
+ </sec>
+ <sec>
+  <title>Conclusion</title>
+  <p>The analysis of the time difference between infection and recovery can help predict the epidemic peak due to mass (or normal) infection and can also be used as a time index to prepare medical resources.</p>
+ </sec>
+</abstract>

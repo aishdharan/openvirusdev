@@ -1,0 +1,472 @@
+{
+  "id": [
+    "32983582"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32983582"
+  ],
+  "pmcid": [
+    "PMC7502241"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7502241"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.eng.2020.07.018"
+  ],
+  "title": [
+    "Buying time for an effective epidemic response: The impact of a public holiday for outbreak control on COVID-19 epidemic spread."
+  ],
+  "authorString": [
+    "Chen S, Chen Q, Yang W, Xue L, Liu Y, Yang J, Wang C, Bärnighausen T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Simiao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Heidelberg Institute of Global Health (HIGH), Faculty of Medicine and University Hospital, Heidelberg University, Heidelberg 69117, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Q"
+          ],
+          "firstName": [
+            "Qiushi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Harold and Inge Marcus Department of Industrial and Manufacturing Engineering, The Pennsylvania State University, University Park, PA, 16802, United States."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang W"
+          ],
+          "firstName": [
+            "Weizhong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xue L"
+          ],
+          "firstName": [
+            "Lan"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Public Policy, Tsinghua University, Beijing 100084, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yuanli"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Juntao"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Chinese Academy of Engineering, Beijing 100088, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "The National Center for Respiratory Medicine, Beijing 100029, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100730, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bärnighausen T"
+          ],
+          "firstName": [
+            "Till"
+          ],
+          "lastName": [
+            "Bärnighausen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Heidelberg Institute of Global Health (HIGH), Faculty of Medicine and University Hospital, Heidelberg University, Heidelberg 69117, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Global Health and Population, Harvard School of Public Health, Boston, MA, 02115-5810, United States."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan Friendship Hospital, Beijing 100029, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3009721"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Engineering (Beijing, China)"
+          ],
+          "ISOAbbreviation": [
+            "Engineering (Beijing)"
+          ],
+          "medlineAbbreviation": [
+            "Engineering (Beijing)"
+          ],
+          "NLMid": [
+            "101673395"
+          ],
+          "ISSN": [
+            "2095-8099"
+          ],
+          "ESSN": [
+            "2096-0026"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Rapid responses in the early stage of a new epidemic are crucial in outbreak control. Public holidays for outbreak control could provide a critical time window for a rapid rollout of social distancing and other control measures at a large population scale. The objective of our study was to explore the impact of the timing and duration of outbreak-control holidays on the coronavirus disease 2019 (COVID-19) epidemic spread during the early stage in China. We developed a compartment model to simulate the dynamic transmission of COVID-19 in China starting from January 2020. We projected and compared epidemic trajectories with and without an outbreak-control holiday that started during the Chinese Lunar New Year. We considered multiple scenarios of the outbreak-control holiday with different durations and starting times, and under different assumptions about viral transmission rates. We estimated the delays in days to reach certain thresholds of infections under different scenarios. Our results show that the outbreak-control holiday in China likely stalled the spread of COVID-19 for several days. The base case outbreak-control holiday (21 d for Hubei province and 10 days for all other provinces) delayed the time to reach 100 000 confirmed infections by 7.54 d. A longer outbreak-control holiday would have had stronger effects. A nationwide outbreak-control holiday of 21 d would have delayed the time to 100 000 confirmed infections by nearly 10 d. Furthermore, we find that outbreak-control holidays that start earlier in the course of a new epidemic are more effective in stalling epidemic spread than later holidays and that additional control measures during the holidays can boost the holiday effect. In conclusion, an outbreak-control holiday can likely effectively delay the transmission of epidemics that spread through social contacts. The temporary delay in the epidemic trajectory buys time, which scientists can use to discover transmission routes and identify effective public health interventions and which governments can use to build physical infrastructure, organize medical supplies, and deploy human resources for long-term epidemic mitigation and control efforts."
+  ],
+  "affiliation": [
+    "Heidelberg Institute of Global Health (HIGH), Faculty of Medicine and University Hospital, Heidelberg University, Heidelberg 69117, Germany."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Model",
+        "extension",
+        "Social Distancing",
+        "Covid-19",
+        "Lunar New Year Holiday"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.eng.2020.07.018"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7502241"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7502241?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-24"
+  ],
+  "dateOfRevision": [
+    "2020-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-20"
+  ],
+  "firstPublicationDate": [
+    "2020-09-20"
+  ]
+}

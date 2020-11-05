@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Origins and information regarding the Guangxi strains from 2017 to 2019.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top" align="left" rowspan="1" colspan="1">
+     <bold>Name</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Collection area</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Collection date</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>ORF3 gene size</bold>
+    </th>
+    <th valign="top" align="center" rowspan="1" colspan="1">
+     <bold>Accession number</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXWZ-1/2017</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Wuzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2017.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518432</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXWZ-2/2017</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Wuzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2017.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518433</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-1/2017</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2017.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MK895557</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-1/2017</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2017.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518434</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXGG-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Guigang</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.03</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518435</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXYL-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Yulin</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.03</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518452</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-5/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.03</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518461</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXLZ-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Liuzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518449</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXBH-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Beihai</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.05</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518442</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.06</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MK895558</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.07</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518453</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518454</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-3-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518455</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-3-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">293 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518456</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-4/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518457</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-6-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518459</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-6-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.08</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">293 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518460</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXGG-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Guigang</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518436</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MK895559</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXBH-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Beihai</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518443</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXBH-6/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Beihai</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518447</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXBH-7/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Beihai</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518448</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-5/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.10</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518458</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-4-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518440</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-4-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">293 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518441</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXBH-3/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Beihai</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518444</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXBH-4/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Beihai</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518445</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXBH-5/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Beihai</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518446</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXLB-1/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Laibin</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518450</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXLB-2/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Laibin</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.11</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518451</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXGG-3/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Guigang</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.12</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518437</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-3/2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2018.12</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MK895560</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXLB-1-1/2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Laibin</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019.01</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518462</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXLB-1-2/2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Laibin</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019.01</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">293 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518463</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-1-1/2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019.01</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518464</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXQZ-1-2/2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Qinzhou</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019.01</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">293 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518465</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/GXNN-1/2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518438</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1">CHN/CXNN-2/2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Nanning</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2019.04</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">675 bp</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">MN518439</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

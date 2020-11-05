@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Agarwal</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sharma</surname>
+    <given-names>AK</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sukumaran</surname>
+    <given-names>D</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Parida</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Dash</surname>
+    <given-names>PK</given-names>
+   </name>
+  </person-group>
+  <year>2016</year>
+  <article-title>Two novel epistatic mutations (E1:K211E and E2:V264A) in structural proteins of chikungunya virus enhance fitness in 
+   <italic>Aedes aegypti</italic>
+  </article-title>. 
+  <source>Virology</source>
+  <volume>497</volume>:
+  <fpage>59</fpage>–
+  <lpage>68</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1016/j.virol.2016.06.025</pub-id>.
+  <pub-id pub-id-type="pmid">27423270</pub-id>
+ </mixed-citation>
+</ref>

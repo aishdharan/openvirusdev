@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par6">The main contributions of this study are as follows:
+ <list list-type="bullet">
+  <list-item>
+   <p id="Par7">First, we integrate daily intercity migration data and traditional SEIR model to develop an extended SEIR model;</p>
+  </list-item>
+  <list-item>
+   <p id="Par8">A novel pseudocoevolutionary simulated annealing algorithm is proposed. Additionally, we compared the estimation result with simulated annealing, particle swarm optimization, and pattern search algorithms. Results show that the proposed algorithm provides the best results;</p>
+  </list-item>
+  <list-item>
+   <p id="Par9">The pandemic situation of China has been investigated. Results show that this technique can accurately reflect the spread of COVID-19. Study shows that migration control is extremely effective in controlling the spread of the epidemic.</p>
+  </list-item>
+ </list>The rest of this paper is organized as follows. Section 
+ <xref rid="Sec2" ref-type="sec">2</xref> reviews related works. The description of data is introduced in Sect. refsec:dataspsdescription, including official released confirmed cases, recovered cases, death toll, and intercity migration data. In Sect. 
+ <xref rid="Sec6" ref-type="sec">4</xref>, the SEIR-migration model and pseudocoevolutionary simulated annealing algorithm are introduced. Then, the experimental design and results are shown in Sect. 
+ <xref rid="Sec10" ref-type="sec">5</xref>. Finally, conclusion and future work are presented in Sect. 
+ <xref rid="Sec11" ref-type="sec">6</xref>.
+</p>

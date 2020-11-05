@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0001">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="celist0001">
+   <list-item id="celistitem0001">
+    <label>•</label>
+    <p id="para0001">During the COVID-19 outbreak, antibiotic use has increased, especially respiratory antibiotics.</p>
+   </list-item>
+   <list-item id="celistitem0002">
+    <label>•</label>
+    <p id="para0002">Healthcare resources are diverted to containment and management of COVID-19 cases, but the efforts of antibiotic stewardship programmes (ASPs) must run in parallel to mitigate antibiotic misuse and antimicrobial resistance.</p>
+   </list-item>
+   <list-item id="celistitem0003">
+    <label>•</label>
+    <p id="para0003">ASPs must be operationally adaptable, and possess robust surveillance systems that detect subtle changes in prescribing and resistance trends.</p>
+   </list-item>
+   <list-item id="celistitem0004">
+    <label>•</label>
+    <p id="para0004">This is an opportunity to execute a syndromic approach to guide antibiotic prescribing.</p>
+   </list-item>
+   <list-item id="celistitem0005">
+    <label>•</label>
+    <p id="para0005">Continued engagement and education of prescribers to ensure appropriate prescription of antibiotics is important.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

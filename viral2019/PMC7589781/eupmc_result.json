@@ -1,0 +1,400 @@
+{
+  "id": [
+    "33096703"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33096703"
+  ],
+  "pmcid": [
+    "PMC7589781"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7589781"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/microorganisms8101620"
+  ],
+  "title": [
+    "Rhinovirus Infection in Children with Acute Bronchiolitis and Its Impact on Recurrent Wheezing and Asthma Development."
+  ],
+  "authorString": [
+    "Biagi C, Rocca A, Poletti G, Fabi M, Lanari M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Biagi C"
+          ],
+          "firstName": [
+            "Carlotta"
+          ],
+          "lastName": [
+            "Biagi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical and Surgical Sciences, Pediatric Emergency Unit, St Orsola Polyclinic, University of Bologna, 40138 Bologna, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rocca A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Rocca"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3406-630X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical and Surgical Sciences, Pediatric Emergency Unit, St Orsola Polyclinic, University of Bologna, 40138 Bologna, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Poletti G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Poletti"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical and Surgical Sciences, Pediatric Emergency Unit, St Orsola Polyclinic, University of Bologna, 40138 Bologna, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fabi M"
+          ],
+          "firstName": [
+            "Marianna"
+          ],
+          "lastName": [
+            "Fabi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical and Surgical Sciences, Pediatric Emergency Unit, St Orsola Polyclinic, University of Bologna, 40138 Bologna, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lanari M"
+          ],
+          "firstName": [
+            "Marcello"
+          ],
+          "lastName": [
+            "Lanari"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical and Surgical Sciences, Pediatric Emergency Unit, St Orsola Polyclinic, University of Bologna, 40138 Bologna, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3406-630X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "3035437"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microorganisms"
+          ],
+          "ISOAbbreviation": [
+            "Microorganisms"
+          ],
+          "medlineAbbreviation": [
+            "Microorganisms"
+          ],
+          "NLMid": [
+            "101625893"
+          ],
+          "ISSN": [
+            "2076-2607"
+          ],
+          "ESSN": [
+            "2076-2607"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Acute bronchiolitis represents the leading cause of hospitalization in infants. Together with a respiratory syncytial virus, rhinovirus (RV) is one of the most common pathogens associated with bronchiolitis, and its genetic diversity (>150 types) makes the recurrence of RV infections each year quite typical. The frequency of RV infection and co-infection with other viruses and its impact on the clinical course of bronchiolitis have been studied by several authors with controversial results. Some studies demonstrate that multiple virus infections result in more severe clinical presentation and a higher risk of complications, whereas other studies suggest no influence on clinical course. Moreover, RV bronchiolitis has been reported to potentially contribute to the development of long-term sequelae, such as recurrent wheezing and asthma, in the pediatric population. In the present review, we summarize the most recent findings of the role of RV infection in children with acute bronchiolitis, its impact on subsequent asthma development, and the implication in clinical practice."
+  ],
+  "affiliation": [
+    "Department of Medical and Surgical Sciences, Pediatric Emergency Unit, St Orsola Polyclinic, University of Bologna, 40138 Bologna, Italy."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Asthma",
+        "Rhinovirus",
+        "Wheezing",
+        "bronchiolitis",
+        "Clinical Severity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/microorganisms8101620"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7589781"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7589781?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-24"
+  ],
+  "firstIndexDate": [
+    "2020-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-31"
+  ],
+  "dateOfRevision": [
+    "2020-10-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-21"
+  ],
+  "firstPublicationDate": [
+    "2020-10-21"
+  ]
+}

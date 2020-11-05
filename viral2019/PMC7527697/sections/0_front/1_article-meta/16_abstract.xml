@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="ceab10">
+ <title>Summary</title>
+ <sec>
+  <title>Background</title>
+  <p>Community-based delivery of antiretroviral therapy (ART) for HIV, including ART initiation, clinical and laboratory monitoring, and refills, could reduce barriers to treatment and improve viral suppression, reducing the gap in access to care for individuals who have detectable HIV viral load, including men who are less likely than women to be virally suppressed. We aimed to test the effect of community-based ART delivery on viral suppression among people living with HIV not on ART.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p>We did a household-randomised, unblinded trial (DO ART) of delivery of ART in the community compared with the clinic in rural and peri-urban settings in KwaZulu-Natal, South Africa and the Sheema District, Uganda. After community-based HIV testing, people living with HIV were randomly assigned (1:1:1) with mobile phone software to community-based ART initiation with quarterly monitoring and ART refills through mobile vans; ART initiation at the clinic followed by mobile van monitoring and refills (hybrid approach); or standard clinic ART initiation and refills. The primary outcome was HIV viral suppression at 12 months. If the difference in viral suppression was not superior between study groups, an a-priori test for non-inferiority was done to test for a relative risk (RR) of more than 0·95. The cost per person virally suppressed was a co-primary outcome of the study. This study is registered with 
+   <ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov" id="interrefs10" xmlns:xlink="http://www.w3.org/1999/xlink">ClinicalTrials.gov</ext-link>, 
+   <ext-link ext-link-type="ClinicalTrials.gov" xlink:href="NCT02929992" id="interrefs20" xmlns:xlink="http://www.w3.org/1999/xlink">NCT02929992</ext-link>.
+  </p>
+ </sec>
+ <sec>
+  <title>Findings</title>
+  <p>Between May 26, 2016, and March 28, 2019, of 2479 assessed for eligibility, 1315 people living with HIV and not on ART with detectable viral load at baseline were randomly assigned; 666 (51%) were men. Retention at the month 12 visit was 95% (n=1253). At 12 months, community-based ART increased viral suppression compared with the clinic group (306 [74%] 
+   <italic>vs</italic> 269 [63%], RR 1·18, 95% CI 1·07–1·29; p
+   <sub>superiority</sub>=0·0005) and the hybrid approach was non-inferior (282 [68%] 
+   <italic>vs</italic> 269 [63%], RR 1·08, 0·98–1·19; p
+   <sub>non-inferiority</sub>=0·0049). Community-based ART increased viral suppression among men (73%, RR 1·34, 95% CI 1·16–1·55; p
+   <sub>superiority</sub>&lt;0·0001) as did the hybrid approach (66%, RR 1·19, 1·02–1·40; p
+   <sub>superiority</sub>=0·026), compared with clinic-based ART (54%). Viral suppression was similar for men (n=156 [73%]) and women (n=150 [75%]) in the community-based ART group. With efficient scale-up, community-based ART could cost US$275–452 per person reaching viral suppression. Community-based ART was considered safe, with few adverse events.
+  </p>
+ </sec>
+ <sec>
+  <title>Interpretation</title>
+  <p>In high and medium HIV prevalence settings in South Africa and Uganda, community-based delivery of ART significantly increased viral suppression compared with clinic-based ART, particularly among men, eliminating disparities in viral suppression by gender. Community-based ART should be implemented and evaluated in different contexts for people with detectable viral load.</p>
+ </sec>
+ <sec>
+  <title>Funding</title>
+  <p>The Bill &amp; Melinda Gates Foundation; the University of Washington and Fred Hutch Center for AIDS Research; the Wellcome Trust; the University of Washington Royalty Research Fund; and the University of Washington King K Holmes Endowed Professorship in STDs and AIDS.</p>
+ </sec>
+</abstract>

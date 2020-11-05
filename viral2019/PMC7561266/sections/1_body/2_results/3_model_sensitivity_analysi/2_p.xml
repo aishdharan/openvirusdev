@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="pntd.0008679.t003" ref-type="table">Table 3</xref> shows the relative importance of the input parameters to our QOI, using uniform LHS distributions for dengue parameters (
+ <xref rid="pntd.0008679.t002" ref-type="table">Table 2</xref>). Considering the main effects only, our QOI were all sensitive to the arrival date of the infectious human and mean annual temperature. Epidemic size (i.e. peak and final) were both sensitive to temperature range, while time to peak was less sensitive. Other influential parameters on all the QOI were transmission rates, mortality rate, and mosquito recruitment. The time to epidemic peak was less sensitive to the mosquito life-history trait parameters in comparison to other QOI (
+ <xref rid="pntd.0008679.t003" ref-type="table">Table 3</xref>).
+</p>

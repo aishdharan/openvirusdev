@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R13">
+ <label>13</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Zheng</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Fan</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Yu</surname>
+    <given-names>F</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Viral load dynamics and disease severity in patients infected with SARS-CoV-2 in Zhejiang Province, China, January-March 2020: retrospective cohort study</article-title>. 
+  <source>BMJ</source>
+  <year>2020</year>;
+  <volume>369</volume>:
+  <elocation-id>m1443</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1136/bmj.m1443</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32317267?>
+  <pub-id pub-id-type="pmid">32317267</pub-id>
+ </mixed-citation>
+</ref>

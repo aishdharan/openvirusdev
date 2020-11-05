@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0145">
+ <label>29</label>
+ <element-citation publication-type="journal" id="h0145">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stout</surname>
+    <given-names>N.K.</given-names>
+   </name>
+   <name>
+    <surname>Knudsen</surname>
+    <given-names>A.B.</given-names>
+   </name>
+   <name>
+    <surname>Kong</surname>
+    <given-names>C.Y.</given-names>
+   </name>
+   <name>
+    <surname>McMahon</surname>
+    <given-names>P.M.</given-names>
+   </name>
+   <name>
+    <surname>Gazelle</surname>
+    <given-names>G.S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Calibration methods used in cancer simulation models and suggested reporting guidelines</article-title>
+  <source>PharmacoEconomics</source>
+  <volume>27</volume>
+  <issue>7</issue>
+  <year>2009</year>
+  <fpage>533</fpage>
+  <lpage>545</lpage>
+  <pub-id pub-id-type="pmid">19663525</pub-id>
+ </element-citation>
+</ref>

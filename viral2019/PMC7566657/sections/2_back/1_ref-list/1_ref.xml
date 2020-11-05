@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Stover</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Bollinger</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Izazola</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Loures</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>DeLay</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Ghys</surname>
+    <given-names>PD</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>What is required to end the AIDS epidemic as a public health threat by 2030? The cost and impact of the fast-track approach.</article-title>
+  <source>PLoS One</source>. 
+  <year>2016</year>;
+  <volume>11</volume>:
+  <elocation-id>e0154893</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0154893</pub-id>
+  <?supplied-pmid 27159260?>
+  <pub-id pub-id-type="pmid">27159260</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib3">
+ <element-citation publication-type="journal" id="sref3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cojocaru</surname>
+    <given-names>M.-G.</given-names>
+   </name>
+   <name>
+    <surname>Migot</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Jaber</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Controlling infection in predator-prey systems with transmission dynamics</article-title>
+  <source>Infectious Disease Modelling</source>
+  <volume>5</volume>
+  <year>2020</year>
+  <fpage>1e11</fpage>
+  <pub-id pub-id-type="pmid">31891013</pub-id>
+ </element-citation>
+</ref>

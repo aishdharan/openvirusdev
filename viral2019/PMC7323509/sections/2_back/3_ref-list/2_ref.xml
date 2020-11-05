@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Stanley</surname>
+   <given-names>ED</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Jackson</surname>
+   <given-names>GG</given-names>
+  </string-name>. 
+  <article-title>Viremia in Asian influenza.</article-title>
+  <source>Trans Assoc Am Physicians</source>. 
+  <year>1966</year>;
+  <volume>79</volume>:
+  <fpage>376</fpage>–
+  <lpage>87</lpage>.
+  <?supplied-pmid 5929470?>
+  <pub-id pub-id-type="pmid">5929470</pub-id>
+ </mixed-citation>
+</ref>

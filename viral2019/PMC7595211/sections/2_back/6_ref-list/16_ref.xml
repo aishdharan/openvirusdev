@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Price</surname>
+    <given-names>MA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Control of the HIV-1 load varies by viral subtype in a large cohort of African adults with incident HIV-1 infection</article-title>
+  <source>J. Infect. Dis.</source>
+  <year>2019</year>
+  <volume>220</volume>
+  <fpage>432</fpage>
+  <lpage>441</lpage>
+  <pub-id pub-id-type="doi">10.1093/infdis/jiz127</pub-id>
+  <?supplied-pmid 30938435?>
+  <pub-id pub-id-type="pmid">30938435</pub-id>
+ </element-citation>
+</ref>

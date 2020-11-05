@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl2">
+ <label>Table 2</label>
+ <caption>
+  <p>Rates and relative risks of viral suppression</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th/>
+    <th colspan="3" align="left">
+     <bold>Rate of viral suppression</bold>
+     <hr/>
+    </th>
+    <th colspan="4" align="left">
+     <bold>Adjusted</bold>
+     <xref rid="tbl2fn1" ref-type="table-fn">*</xref>
+     <bold>RR of viral suppression</bold>
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th/>
+    <th/>
+    <th align="left">Clinic group</th>
+    <th align="left">Hybrid group</th>
+    <th align="left">Community group</th>
+    <th colspan="2" align="left">Hybrid group versus clinic group
+     <hr/>
+    </th>
+    <th colspan="2" align="left">Community group versus clinic group
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th/>
+    <th/>
+    <th/>
+    <th/>
+    <th/>
+    <th align="left">RR (95% CI)</th>
+    <th align="left">p value</th>
+    <th align="left">RR (95% CI)</th>
+    <th align="left">p value</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="2" align="left">Overall for South Africa and Uganda</td>
+    <td align="left">269/426 (63%)</td>
+    <td align="left">282/413 (68%)</td>
+    <td align="left">306/414 (74%)</td>
+    <td align="left">1·08 (0·98–1·19)</td>
+    <td align="left">0·12; 0·0049
+     <xref rid="tbl2fn2" ref-type="table-fn">†</xref>
+    </td>
+    <td align="left">1·18 (1·07–1·29)</td>
+    <td align="left">0·0005</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Gender overall</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">0·035
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+    <td align="left">..</td>
+    <td align="left">0·0067
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Men</td>
+    <td align="left">120/221 (54%)</td>
+    <td align="left">134/203 (66%)</td>
+    <td align="left">156/213 (73%)</td>
+    <td align="left">1·19 (1·02–1·40)</td>
+    <td align="left">..</td>
+    <td align="left">1·34 (1·16–1·55)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Women</td>
+    <td align="left">149/205 (73%)</td>
+    <td align="left">148/210 (70%)</td>
+    <td align="left">150/201 (75%)</td>
+    <td align="left">0·98 (0·87–1·10)</td>
+    <td align="left">..</td>
+    <td align="left">1·04 (0·93–1·17)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Age overall, years</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">0·85
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+    <td align="left">..</td>
+    <td align="left">0·50
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">18–29</td>
+    <td align="left">98/144 (68%)</td>
+    <td align="left">114/160 (71%)</td>
+    <td align="left">116/154 (75%)</td>
+    <td align="left">1·07 (0·92–1·24)</td>
+    <td align="left">..</td>
+    <td align="left">1·14 (0·98–1·31)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">≥30</td>
+    <td align="left">171/282 (61%)</td>
+    <td align="left">168/253 (66%)</td>
+    <td align="left">190/260 (73%)</td>
+    <td align="left">1·08 (0·96–1·23)</td>
+    <td align="left">..</td>
+    <td align="left">1·20 (1·07–1·35)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Site</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">0·21
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+    <td align="left">..</td>
+    <td align="left">0·16
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Southwestern Uganda</td>
+    <td align="left">64/84 (76%)</td>
+    <td align="left">66/91 (73%)</td>
+    <td align="left">74/94 (79%)</td>
+    <td align="left">0·97 (0·81–1·16)</td>
+    <td align="left">..</td>
+    <td align="left">1·06 (0·90–1·24)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Midlands KwaZulu-Natal, South Africa</td>
+    <td align="left">125/213 (59%)</td>
+    <td align="left">137/216 (63%)</td>
+    <td align="left">151/220 (69%)</td>
+    <td align="left">1·08 (0·93–1·25)</td>
+    <td align="left">..</td>
+    <td align="left">1·17 (1·01–1·35)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Northern KwaZulu-Natal, South Africa</td>
+    <td align="left">80/129 (62%)</td>
+    <td align="left">79/106 (75%)</td>
+    <td align="left">81/100 (81%)</td>
+    <td align="left">1·20 (1·01–1·42)</td>
+    <td align="left">..</td>
+    <td align="left">1·31 (1·11–1·55)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">South Africa</td>
+    <td align="left">205/342 (60%)</td>
+    <td align="left">216/322 (67%)</td>
+    <td align="left">232/320 (72%)</td>
+    <td align="left">1·12 (1·00–1·25)</td>
+    <td align="left">0·055; 0·0026
+     <xref rid="tbl2fn2" ref-type="table-fn">†</xref>
+    </td>
+    <td align="left">1·22 (1·09–1·36)</td>
+    <td align="left">0·0004</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Gender for South Africa</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">..</td>
+    <td align="left">0·037
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+    <td align="left">..</td>
+    <td align="left">0·015
+     <xref rid="tbl2fn3" ref-type="table-fn">‡</xref>
+    </td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Men</td>
+    <td align="left">91/178 (51%)</td>
+    <td align="left">100/153 (65%)</td>
+    <td align="left">113/158 (72%)</td>
+    <td align="left">1·26 (1·04–1·51)</td>
+    <td align="left">..</td>
+    <td align="left">1·39 (1·17–1·66)</td>
+    <td align="left">..</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Women</td>
+    <td align="left">114/164 (70%)</td>
+    <td align="left">116/169 (69%)</td>
+    <td align="left">119/162 (73%)</td>
+    <td align="left">0·99 (0·86–1·15)</td>
+    <td align="left">..</td>
+    <td align="left">1·07 (0·93–1·22)</td>
+    <td align="left">..</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Data are n (%) unless specified. Data are for the modified intention-to-treat population, overall and among subgroups. RR=relative risk.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fn1">
+   <label>*</label>
+   <p id="cenpara10">Adjusted for gender, age younger than 30 years, baseline CD4 cell count (WHO category), and study site.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fn2">
+   <label>†</label>
+   <p id="cenpara20">p value for a one-sided Wald test for non-inferiority (RR &gt;0·95).</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl2fn3">
+   <label>‡</label>
+   <p id="cenpara30">p value for a Wald test for significant interaction.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

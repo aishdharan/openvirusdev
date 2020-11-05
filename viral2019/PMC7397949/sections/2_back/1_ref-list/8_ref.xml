@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="C8">
+ <label>8</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Stochino</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Villa</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zucchi</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Clinical characteristics of COVID-19 and active tuberculosis co-infection in an Italian reference hospital</article-title>. 
+  <source>Eur Respir J</source>
+  <year>2020</year>; 
+  <volume>56</volume>: 
+  <fpage>2001708</fpage>. doi:
+  <pub-id pub-id-type="doi">10.1183/13993003.01708-2020</pub-id>
+  <pub-id pub-id-type="pmid">32482787</pub-id>
+ </mixed-citation>
+</ref>

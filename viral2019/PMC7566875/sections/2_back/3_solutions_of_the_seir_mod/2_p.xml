@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e11243">We show that solutions 
+ <inline-formula>
+  <math id="d1e11245" display="inline" altimg="si399.svg">
+   <mrow>
+    <mo>(</mo>
+    <mi mathvariant="bold-fraktur">S</mi>
+    <mo>,</mo>
+    <mi mathvariant="bold-fraktur">E</mi>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mi mathvariant="bold-fraktur">R</mi>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> of Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> remain bounded for all time, once suitable initial conditions are provided. For clarity of the exposition, we assume that Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> is posed on a time interval 
+ <inline-formula>
+  <math id="d1e11296" display="inline" altimg="si400.svg">
+   <mrow>
+    <mo>(</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mi>τ</mi>
+    <mo>]</mo>
+   </mrow>
+  </math>
+ </inline-formula>, with initial conditions provided at 
+ <inline-formula>
+  <math id="d1e11309" display="inline" altimg="si86.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>; specifically, 
+ <disp-formula id="fdC.1">
+  <label>(C.1)</label>
+  <math id="d1e11324" display="block" altimg="si402.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">S</mi>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <mo id="mmlalignd1e11409" linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <mi mathvariant="bold-fraktur">E</mi>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">E</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="1em" id="mmlalignd1e11504"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <mi mathvariant="bold-fraktur">R</mi>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">R</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="d1e11483" display="inline" altimg="si403.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">R</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> are non-negative real numbers, and where specifically, 
+ <disp-formula id="fdC.2">
+  <label>(C.2)</label>
+  <math id="d1e11510" display="block" altimg="si404.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">&gt;</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">E</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">&gt;</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>corresponding to standard initial conditions for the outbreak of an epidemic.
+</p>

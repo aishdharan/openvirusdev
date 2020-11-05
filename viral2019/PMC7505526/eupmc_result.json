@@ -1,0 +1,433 @@
+{
+  "id": [
+    "PMC7505526"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7505526"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7505526"
+      ]
+    }
+  ],
+  "title": [
+    "“Is a Bird in the Hand Worth 5 in the Bush?”: A Comparison of 3 Data-to-Care Referral Strategies on HIV Care Continuum Outcomes in San Francisco"
+  ],
+  "authorString": [
+    "Sachdev D, Mara E, Hughes A, Antunez E, Kohn R, Cohen S, Scheer S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sachdev D"
+          ],
+          "firstName": [
+            "Darpun D"
+          ],
+          "lastName": [
+            "Sachdev"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1 \n Disease Prevention and Control Branch, San Francisco Department of Public Health , San Francisco, California,"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mara E"
+          ],
+          "firstName": [
+            "Elise"
+          ],
+          "lastName": [
+            "Mara"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 \n HIV Epidemiology Section, San Francisco Department of Public Health , San Francisco, California,"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes A"
+          ],
+          "firstName": [
+            "Alison J"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 \n HIV Epidemiology Section, San Francisco Department of Public Health , San Francisco, California,"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Antunez E"
+          ],
+          "firstName": [
+            "Erin"
+          ],
+          "lastName": [
+            "Antunez"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1 \n Disease Prevention and Control Branch, San Francisco Department of Public Health , San Francisco, California,"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kohn R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Kohn"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1 \n Disease Prevention and Control Branch, San Francisco Department of Public Health , San Francisco, California,"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Cohen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1 \n Disease Prevention and Control Branch, San Francisco Department of Public Health , San Francisco, California,"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Scheer S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Scheer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 \n HIV Epidemiology Section, San Francisco Department of Public Health , San Francisco, California,"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "3006759"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Open forum infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Open Forum Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Open Forum Infect Dis"
+          ],
+          "NLMid": [
+            "101637045"
+          ],
+          "ISSN": [
+            "2328-8957"
+          ],
+          "ESSN": [
+            "2328-8957"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Abstract Background Health departments utilize HIV surveillance data to identify people with HIV (PWH) who need re-linkage to HIV care as part of an approach known as Data to Care (D2C.) The most accurate, effective, and efficient method of identifying PWH for re-linkage is unknown. Methods We evaluated referral and care continuum outcomes among PWH identified using 3 D2C referral strategies: health care providers, surveillance, and a combination list derived by matching an electronic medical record registry to HIV surveillance. PWH who were enrolled in the re-linkage intervention received short-term case management for up to 90 days. Relative risks and 95% confidence intervals were calculated to compare proportions of PWH retained and virally suppressed before and after re-linkage. Durable viral suppression was defined as having suppressed viral loads at all viral load measurements in the 12 months after re-linkage. Results After initial investigation, 233 (24%) of 954 referrals were located and enrolled in navigation. Although the numbers of surveillance and provider referrals were similar, 72% of enrolled PWH were identified by providers, 16% by surveillance, and 12% by combination list. Overall, retention and viral suppression improved, although relative increases in retention and viral suppression were only significant among individuals identified by surveillance or providers. Seventy percent of PWH who achieved viral suppression after the intervention remained durably virally suppressed. Conclusions PWH referred by providers were more likely to be located and enrolled in navigation than PWH identified by surveillance or combination lists. Overall, D2C re-linkage efforts improved retention, viral suppression, and durable viral suppression."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV",
+        "Surveillance",
+        "Retention",
+        "Linkage To Care",
+        "Data To Care"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505526/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505526/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505526"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7505526?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-06"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-06"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-21"
+  ],
+  "firstPublicationDate": [
+    "2020-08-21"
+  ]
+}

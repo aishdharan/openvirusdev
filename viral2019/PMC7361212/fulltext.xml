@@ -1,0 +1,104 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="letter"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><?covid-19-tdm?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Virol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1096-9071</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7361212</article-id><article-id pub-id-type="doi">10.1002/jmv.26269</article-id><article-id pub-id-type="publisher-id">JMV26269</article-id><article-categories><subj-group subj-group-type="overline"><subject>Letter to the Editor</subject></subj-group><subj-group subj-group-type="heading"><subject>Letter to the Editor</subject></subj-group></article-categories><title-group><article-title>Coinfection, coepidemics of COVID&#x02010;19, and dengue in dengue&#x02010;endemic countries: A serious health concern</article-title><alt-title alt-title-type="right-running-head">LETTER TO THE EDITOR</alt-title></title-group><contrib-group><contrib id="jmv26269-cr-0001" contrib-type="author" corresp="yes"><name><surname>Miah</surname><given-names>Md. Asaduzzaman</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-2966-249X</contrib-id><xref ref-type="aff" rid="jmv26269-aff-0001">
+<sup>1</sup>
+</xref><address><email>mamiah81@yahoo.com</email></address></contrib><contrib id="jmv26269-cr-0002" contrib-type="author"><name><surname>Husna</surname><given-names>Asmaul</given-names></name><xref ref-type="aff" rid="jmv26269-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26269-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jmv26269-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Entomology</named-content>
+<institution>Patuakhali Science and Technology University</institution>
+<city>Patuakhali</city>
+<country country="BD">Bangladesh</country>
+</aff><aff id="jmv26269-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Mycology Division, School of Biological Sciences</named-content>
+<institution>University Sains Malaysia</institution>
+<city>George Town</city>
+<country country="MY">Malaysia</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Md. Asaduzzaman Miah, Department of Entomology, Patuakhali Science and Technology University, Bangladesh.<break/>
+Email: <email>mamiah81@yahoo.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>7</month><year>2020</year></pub-date><elocation-id>10.1002/jmv.26269</elocation-id><history><date date-type="received"><day>30</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>02</day><month>7</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley Periodicals LLC <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 Wiley Periodicals LLC</copyright-statement><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JMV-9999-na.pdf"/><counts><fig-count count="0"/><table-count count="0"/><page-count count="2"/><word-count count="989"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>edited-state</meta-name><meta-value>corrected-proof</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.5 mode:remove_FC converted:15.07.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>
+<named-content content-type="salutation">To the Editor,</named-content>
+</p><sec sec-type="opening-section" id="jmv26269-sec-0010"><p>The WHO has declared coronavirus disease&#x02010;2019 (COVID&#x02010;19) outbreak as a global pandemic.<xref rid="jmv26269-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> The outbreak of COVID&#x02010;19 caused by severe acute respiratory syndrome coronavirus 2 (SARS&#x02010;CoV&#x02010;2) has spread in 213 countries across the world. As of 30 June 2020, the total confirmed cases of COVID&#x02010;19 have reached over 11 million with over half million deaths globally.<xref rid="jmv26269-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> During the COVID&#x02010;19 pandemic, dengue cases have been increased in most of the dengue&#x02010;endemic countries in the world. While COVID&#x02010;19 causes havoc across the world, countries in South and South&#x02010;East Asia and Latin America are faced with the prospect of a second epidemic: dengue.<xref rid="jmv26269-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> The countries in South America like Brazil, Paraguay, Bolivia, Argentina, Colombia, Mexico, and in the Southeast Asia like the Philippines, Malaysia, Singapore, Vietnam, Thailand, and Indonesia are currently in the high risk of dengue outbreak as dengue infection is increasing at an alarming rate.<xref rid="jmv26269-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="jmv26269-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Besides, several South Asian countries like India, Pakistan, and Bangladesh are also suffering from dengue disease this year. Interestingly, almost all these countries are currently suffering seriously from COVID&#x02010;19 due to its pandemic situation.<xref rid="jmv26269-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Therefore, in these countries both COVID&#x02010;19 and dengue are occurring simultaneously.</p><p>Dengue, a mosquito&#x02010;borne viral infection, itself a great threat in the world. Severe dengue is a leading cause of serious illness and death in some Asian and South American countries that are dengue endemic.<xref rid="jmv26269-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> The dengue&#x02010;endemic countries have a history of occurring repeated outbreak of dengue. During the COVID&#x02010;19 crisis, the situation would be very difficult to manage if the dengue epidemic is further added in these countries. At present all the countries are struggling against COVID&#x02010;19, further epidemic of dengue will really pose new challenges to combat. As the combination of COVID&#x02010;19 and dengue is assumed as dangerous for health care professionals in any country.</p><p>Corona and dengue, both viruses are coexisting currently in the dengue&#x02010;endemic countries. Therefore, the coinfection of these viruses to the patients has been reported recently in different dengue&#x02010;endemic countries like Singapore, Thailand, India, and Bangladesh. As an extremely unique occurrence, Singapore at first confirmed two patients who were coinfected with both corona and dengue virus.<xref rid="jmv26269-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> In Thailand, a man who also had dengue died from coronavirus infection.<xref rid="jmv26269-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Also, an old patient with coinfection of dengue and corona died in India.<xref rid="jmv26269-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> Moreover, two patients from Bangladesh were coinfected with both corona and dengue and one of them died.<xref rid="jmv26269-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> Hence, it can be speculated that coinfection cases may be increased in the upcoming days as peak dengue season. Coinfection poses a challenge for accurate diagnosis and treatment, particularly when symptoms such as fever and aches are similar for several viral diseases like COVID&#x02010;19 and dengue. The distinction can be made with disease progresses. In fact, the symptoms of these viral diseases begin with fever. Guan et al<xref rid="jmv26269-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> in their recent study reported that fever, cough, and headache were observed as the most common symptoms for patients with COVID&#x02010;19<xref rid="jmv26269-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> whereas fever, headache, and skin rash were observed for patients with dengue. Besides, patient with COVID&#x02010;19 could present with a rash that was mistaken for dengue.<xref rid="jmv26269-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> The clinical and laboratory features of both dengue and COVID&#x02010;19 are quite identical, and therefore, it is difficult to distinguish. In Singapore, patient with COVID&#x02010;19 produced false&#x02010;positive dengue results in rapid serological test.<xref rid="jmv26269-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> Thus, a new symptom of COVID&#x02010;19 was discovered where the patient was suspected of suffering from dengue. The report warned that patients with COVID&#x02010;19 were wrongly considered as dengue resulting a delay in diagnosis of corona infection and further spread of the virus.<xref rid="jmv26269-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>
+</p><p>The dengue&#x02010;endemic countries are at the risk of possible coinfection and coepidemics in where COVID&#x02010;19 and dengue disease are coexisting, and the viruses are cocirculating. It has appeared that several patients have been coinfected with corona and dengue virus and coepidemics have also been started in several countries. Coinfections may cause illness with overlapping signs and symptoms that make diagnosis and treatment difficult for physicians. Coepidemics of dengue and COVID&#x02010;19 have been grown as a new burden. Thus, coinfection and coepidemics trigger alert, especially in the dengue&#x02010;endemic countries where the dengue epidemic occurred repeatedly. For facing the upcoming dengue epidemic, special measures should be taken in these countries and therefore, an effective mosquito control program is strongly recommended.</p></sec><sec sec-type="COI-statement" id="jmv26269-sec-0020"><title>CONFLICT OF INTERESTS</title><p>The authors declare that there are no conflict of interests.</p></sec><sec id="jmv26269-sec-0030"><title>AUTHOR CONTRIBUTIONS</title><p>Both authors prepared manuscript, critically read and revised the manuscript, and gave final approval for publication.</p></sec></body><back><ref-list id="jmv26269-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="jmv26269-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="jmv26269-cit-0001">
+<article-title>WHO Director&#x02010;General's opening remarks at the media briefing on COVID19&#x02010;March 2020</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---8-june-2020">https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---8-june-2020</ext-link>. Accessed June 29, 2020.</mixed-citation></ref><ref id="jmv26269-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="jmv26269-cit-0002">
+<ext-link ext-link-type="uri" xlink:href="https://www.worldometers.info/coronavirus/">https://www.worldometers.info/coronavirus/</ext-link>. Accessed June 28, 2020.</mixed-citation></ref><ref id="jmv26269-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv26269-cit-0003">
+<string-name>
+<surname>Ridwan</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>COVID&#x02010;19 and dengue: a deadly duo</article-title>
+<source xml:lang="en">Trop Doct</source>. <year>2020</year>
+<pub-id pub-id-type="doi">10.1177/0049475520936874</pub-id>
+</mixed-citation></ref><ref id="jmv26269-bib-0004"><label>4</label><mixed-citation publication-type="miscellaneous" id="jmv26269-cit-0004">
+<article-title>Dengue worldwide overview</article-title>. <ext-link ext-link-type="uri" xlink:href="https://wwwecdceuropaeu/en/dengue-monthly">https://wwwecdceuropaeu/en/dengue-monthly</ext-link>. Accessed June 9, 2020.</mixed-citation></ref><ref id="jmv26269-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="jmv26269-cit-0005">
+<article-title>Dengue fever in America</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/252-dengue-pais-ano-en.html?start=2">https://www.paho.org/data/index.php/en/mnu-topics/indicadores-dengue-en/dengue-nacional-en/252-dengue-pais-ano-en.html?start=2</ext-link>. Accessed June 29, 2020.</mixed-citation></ref><ref id="jmv26269-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="jmv26269-cit-0006">
+<article-title>Dengue and severe dengue</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue">https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue</ext-link>. Accessed June 29, 2020.</mixed-citation></ref><ref id="jmv26269-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv26269-cit-0007">
+<string-name>
+<surname>Yan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Covert COVID&#x02010;19 and false&#x02010;positive dengue serology in Singapore</article-title>. <source xml:lang="en">Lancet Infect Dis</source>. <year>2020</year>;<volume>20</volume>:<fpage>536</fpage>.<pub-id pub-id-type="pmid">32145189</pub-id></mixed-citation></ref><ref id="jmv26269-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv26269-cit-0008">
+<string-name>
+<surname>Joob</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wiwanitkit</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>COVID&#x02010;19 can present with a rash and be mistaken for dengue</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>. <year>2020</year>;<volume>82</volume>:<fpage>177</fpage>.</mixed-citation></ref><ref id="jmv26269-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="jmv26269-cit-0009">
+<string-name>
+<surname>Ayub</surname>
+<given-names>J</given-names>
+</string-name>, <article-title>Stung by dengue, patient dies of coronavirus co&#x02010;infection in Bhopal, in The Times of India</article-title>. <year>2020</year>
+<ext-link ext-link-type="uri" xlink:href="https://timesofindia.indiatimes.com/city/bhopal/stung-by-dengue-patient-dies-of-coronavirus-co-infection-in-bhopal/articleshow/75330826.cms">https://timesofindia.indiatimes.com/city/bhopal/stung-by-dengue-patient-dies-of-coronavirus-co-infection-in-bhopal/articleshow/75330826.cms</ext-link>. Accessed June 25, 2020.</mixed-citation></ref><ref id="jmv26269-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="jmv26269-cit-0010">
+<string-name>
+<surname>Report</surname>
+<given-names>SO</given-names>
+</string-name>, <article-title>A double struggle: Home ministry PRO battling Covid&#x02010;19, dengue, in The Daily Star</article-title>. <year>2020</year>; Bangladesh. <ext-link ext-link-type="uri" xlink:href="https://www.thedailystar.net/coronavirus-deadly-new-threat/news/double-struggle-homeministry-pro-battling-covid-19-dengue-1905013">https://www.thedailystar.net/coronavirus-deadly-new-threat/news/double-struggle-homeministry-pro-battling-covid-19-dengue-1905013</ext-link>. Accessed June 26, 2020.</mixed-citation></ref><ref id="jmv26269-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv26269-cit-0011">
+<string-name>
+<surname>Guan</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Ni</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Clinical characteristics of coronavirus disease 2019 in China</article-title>. <source xml:lang="en">N Eng J Med</source>. <year>2020</year>;<volume>382</volume>:<fpage>1708</fpage>&#x02010;<lpage>1720</lpage>.</mixed-citation></ref></ref-list></back></article>

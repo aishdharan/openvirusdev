@@ -1,0 +1,576 @@
+{
+  "id": [
+    "PMC7530558"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7530558"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7530558"
+      ]
+    }
+  ],
+  "title": [
+    "Human respiratory viruses, including SARS-CoV-2, circulating in the winter season 2019-2020 in Parma, Northern Italy"
+  ],
+  "authorString": [
+    "Calderaro A, De Conto F, Buttrini M, Piccolo G, Montecchini S, Maccari C, Martinelli M, Di Maio A, Ferraglia F, Pinardi F, Montagna P, Arcangeletti M, Chezzi C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Calderaro A"
+          ],
+          "firstName": [
+            "Adriana"
+          ],
+          "lastName": [
+            "Calderaro"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Medicine and Surgery, University of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De Conto F"
+          ],
+          "firstName": [
+            "Flora"
+          ],
+          "lastName": [
+            "De Conto"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Medicine and Surgery, University of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Buttrini M"
+          ],
+          "firstName": [
+            "Mirko"
+          ],
+          "lastName": [
+            "Buttrini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Medicine and Surgery, University of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Piccolo G"
+          ],
+          "firstName": [
+            "Giovanna"
+          ],
+          "lastName": [
+            "Piccolo"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Medicine and Surgery, University of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Montecchini S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Montecchini"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b Unit of Clinical Virology, University Hospital of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maccari C"
+          ],
+          "firstName": [
+            "Clara"
+          ],
+          "lastName": [
+            "Maccari"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Medicine and Surgery, University of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Martinelli M"
+          ],
+          "firstName": [
+            "Monica"
+          ],
+          "lastName": [
+            "Martinelli"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "c Unit of Clinical Microbiology, University Hospital of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Di Maio A"
+          ],
+          "firstName": [
+            "Alan"
+          ],
+          "lastName": [
+            "Di Maio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "c Unit of Clinical Microbiology, University Hospital of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ferraglia F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Ferraglia"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b Unit of Clinical Virology, University Hospital of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pinardi F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Pinardi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b Unit of Clinical Virology, University Hospital of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Montagna P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Montagna"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b Unit of Clinical Virology, University Hospital of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Arcangeletti M"
+          ],
+          "firstName": [
+            "Maria Cristina"
+          ],
+          "lastName": [
+            "Arcangeletti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Medicine and Surgery, University of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chezzi C"
+          ],
+          "firstName": [
+            "Carlo"
+          ],
+          "lastName": [
+            "Chezzi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Medicine and Surgery, University of Parma, Viale A. Gramsci 14, 43126 Parma, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3028610"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases"
+          ],
+          "ISOAbbreviation": [
+            "Int J Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Int J Infect Dis"
+          ],
+          "NLMid": [
+            "9610933"
+          ],
+          "ISSN": [
+            "1201-9712"
+          ],
+          "ESSN": [
+            "1878-3511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Graphical abstract  Highlights • In this study the viral etiology of patients with respiratory infections was explored.• In this study adult males are the most infected by SARS-CoV-2.• In this study children are the most infected by non-SARS-CoV-2 respiratory viruses. Objectives This study aimed to determine the prevalence of respiratory virus infections, including SARS-CoV-2, during December 2019 – March 2020, in a tertiary care hospital-based survey in Parma (Northern Italy). Methods A total of 906 biological samples of respiratory tract were analyzed by both conventional (including culture) and molecular assays targeting SARS-CoV-2 and the other respiratory viruses nucleic acids. Results 474 samples (52.3%) were positive for at least one virus for a total of 583 viruses detected. Single infections were detected in 380 (80.2%) samples and mixed infections were detected in 94 (19.8%). RSV (138/583: 23.7%) and RV (130/583: 22.3%) were the most common viruses identified, followed by SARS-CoV2 (82/583: 14.1%). RSV predominates until February with 129 detections and drastically decreases in March to 9 detections. SARS-CoV-2 absent in our area until February 26, in just over a month reached 82 detections. SARS-CoV-2 was found in mixed infections only in 3 cases all observed in children younger than one year old. Conclusions This study showed a completely different trend between SARS-CoV-2 and the \"common\" respiratory viruses that have seen children most affected without distinction of sex, as opposed to SARS-CoV-2 that have seen adult males the most infected."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cultivation",
+        "Diagnosis",
+        "epidemiology",
+        "Respiratory Viruses",
+        "Molecular Assays",
+        "Pandemia",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530558/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530558/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7530558"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7530558?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-06"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-02"
+  ],
+  "firstPublicationDate": [
+    "2020-10-02"
+  ]
+}

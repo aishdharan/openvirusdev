@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR39">
+ <label>39.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pacciarini</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Ghezzi</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Canducci</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Sims</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Sampaolo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ferioli</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Persistent replication of severe acute respiratory syndrome coronavirus in human tubular kidney cells selects for adaptive mutations in the membrane protein</article-title>
+  <source>J Virol</source>
+  <year>2008</year>
+  <volume>82</volume>
+  <issue>11</issue>
+  <fpage>5137</fpage>
+  <lpage>5144</lpage>
+  <pub-id pub-id-type="doi">10.1128/JVI.00096-08</pub-id>
+  <?supplied-pmid 18367528?>
+  <pub-id pub-id-type="pmid">18367528</pub-id>
+ </element-citation>
+</ref>

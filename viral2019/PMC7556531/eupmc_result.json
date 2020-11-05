@@ -1,0 +1,488 @@
+{
+  "id": [
+    "33007002"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33007002"
+  ],
+  "pmcid": [
+    "PMC7556531"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7556531"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1371/journal.pntd.0008475"
+  ],
+  "title": [
+    "The recently introduced Aedes albopictus in Tunisia has the potential to transmit chikungunya, dengue and Zika viruses."
+  ],
+  "authorString": [
+    "Bohers C, Mousson L, Madec Y, Vazeille M, Rhim A, M'ghirbi Y, Bouattour A, Failloux AB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bohers C"
+          ],
+          "firstName": [
+            "Chloé"
+          ],
+          "lastName": [
+            "Bohers"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institut Pasteur, Department of Virology, Arboviruses and Insect Vectors, Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mousson L"
+          ],
+          "firstName": [
+            "Laurence"
+          ],
+          "lastName": [
+            "Mousson"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institut Pasteur, Department of Virology, Arboviruses and Insect Vectors, Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Madec Y"
+          ],
+          "firstName": [
+            "Yoann"
+          ],
+          "lastName": [
+            "Madec"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institut Pasteur, Department of Global Health, Epidemiology of Emerging Diseases, Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vazeille M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Vazeille"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institut Pasteur, Department of Virology, Arboviruses and Insect Vectors, Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rhim A"
+          ],
+          "firstName": [
+            "Adel"
+          ],
+          "lastName": [
+            "Rhim"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratoire Virus, Vecteurs et Hôtes, Institut Pasteur de Tunis, Université de Tunis El Manar, Tunis-Belvédère, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "M'ghirbi Y"
+          ],
+          "firstName": [
+            "Youmna"
+          ],
+          "lastName": [
+            "M'ghirbi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratoire Virus, Vecteurs et Hôtes, Institut Pasteur de Tunis, Université de Tunis El Manar, Tunis-Belvédère, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bouattour A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Bouattour"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratoire Virus, Vecteurs et Hôtes, Institut Pasteur de Tunis, Université de Tunis El Manar, Tunis-Belvédère, Tunisia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Failloux AB"
+          ],
+          "firstName": [
+            "Anna-Bella"
+          ],
+          "lastName": [
+            "Failloux"
+          ],
+          "initials": [
+            "AB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6890-0820",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institut Pasteur, Department of Virology, Arboviruses and Insect Vectors, Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6890-0820",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "full_text",
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "3028658"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS neglected tropical diseases"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "medlineAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "NLMid": [
+            "101291488"
+          ],
+          "ISSN": [
+            "1935-2727"
+          ],
+          "ESSN": [
+            "1935-2735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0008475"
+  ],
+  "abstractText": [
+    "The mosquito Aedes albopictus was detected for the first time in Tunisia in 2018. With its establishment in the capital city of Tunis, local health authorities fear the introduction of new human arboviral diseases, like what happened in Europe with unexpected local cases of chikungunya, dengue and Zika. Even though this mosquito is competent to transmit the arboviruses mentioned above, the transmission level will vary depending on the couple, mosquito population and virus genotype. Here, we assessed the vector competence of Ae. albopictus Tunisia by experimental infections with chikungunya (CHIKV), dengue (DENV), and Zika (ZIKV) viruses. We found that Ae. albopictus Tunisia was highly competent for CHIKV (transmission efficiency of 25% at 21 post-infection) and to a lesser extent, for ZIKV (8.7%) and DENV (8.3%). Virus was detected in mosquito saliva at day 3 (CHIKV), day 10 (ZIKV) and day 21 (DENV) post-infection. These results suggest that the risk of emergence of chikungunya is the highest imposing a more sustained surveillance to limit Ae. albopictus populations in densely populated urban dwellings and at the entry points of travelers returning from CHIKV-endemic regions."
+  ],
+  "affiliation": [
+    "Institut Pasteur, Department of Virology, Arboviruses and Insect Vectors, Paris, France."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0008475"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7556531"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7556531?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-02"
+  ],
+  "firstIndexDate": [
+    "2020-10-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-02"
+  ],
+  "firstPublicationDate": [
+    "2020-10-02"
+  ]
+}

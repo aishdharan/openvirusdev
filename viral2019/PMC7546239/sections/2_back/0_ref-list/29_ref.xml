@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b29">
+ <element-citation publication-type="journal" id="sb29">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Paré</surname>
+    <given-names>P.E.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Beck</surname>
+    <given-names>C.L.</given-names>
+   </name>
+   <name>
+    <surname>Kirwan</surname>
+    <given-names>B.E.</given-names>
+   </name>
+   <name>
+    <surname>Başar</surname>
+    <given-names>T.</given-names>
+   </name>
+  </person-group>
+  <article-title>Analysis, estimation, and validation of discrete-time epidemic processes</article-title>
+  <source>IEEE Transactions on Control Systems Technology</source>
+  <volume>28</volume>
+  <issue>1</issue>
+  <year>2020</year>
+  <fpage>79</fpage>
+  <lpage>93</lpage>
+ </element-citation>
+</ref>

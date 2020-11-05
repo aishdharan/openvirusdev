@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>There is a statistically significant and strong correlation between the confirmed cases (from 24 January to 30 January 2020) and the population flow from Wuhan (from 17 January to 23 January 2020) for cities in China (R
+ <sup>2</sup> = 0.88, 
+ <italic>P</italic> &lt; 0.001 for cities within Hubei province and R
+ <sup>2</sup> = 0.41, 
+ <italic>P</italic> &lt; 0.001 for cities outside Hubei province, see Figure S1). We found the travel ban came after the outflow peak based on the trend in 2019 and dramatic movement reduction for Wuhan after the travel ban on 23 January 2020 (
+ <xref rid="F0001" ref-type="fig">Figure 1</xref>(A)). We assumed that the observed case counts followed a Poisson distribution and built a simple linear regression model to simulate the effect of population flow on the imported cases (see Methods in supplementary materials for details). Based on this model, we then tested the consequences from different travel restriction policies (see Methods in supplementary materials for details). Overall, no restriction policy on travel potentially increased 118% (91%–172%) of the overall cases [13,857 (10,920–20,574) cases increased] for the coming week from 31 January to 6 February for all cities in China, compared with the implemented travel ban on 23 January (
+ <xref rid="F0001" ref-type="fig">Figure 1</xref>(B) and Table S1). The top five cities in Hubei province, that is, Huanggang, Xiaogan, Jingzhou, Shennongjia, and Xianning, gained the most from the travel ban of Wuhan (Table S1). Had the travel ban come three days earlier, we would have seen an overall protection rate of 47% [(26%–58%), 3103 (1732–3830) cases reduced] for cases in the early stage of the outbreak (
+ <xref rid="F0001" ref-type="fig">Figure 1</xref>(C)). Wenzhou, Chongqing, Shanghai, Beijing, Guangzhou, Shenzhen, and Hangzhou outside Hubei, and Huanggang, Xiangyang, Suizhou, Xiaogan, and Jingmen in Hubei province are among the top cities that would have benefited from an earlier lockdown (see Table S2 for details; also see Figure S2 and Table S3 for a week-earlier lockdown on Wuhan city). 
+</p>

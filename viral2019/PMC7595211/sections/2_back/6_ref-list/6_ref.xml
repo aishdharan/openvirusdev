@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Simon</surname>
+    <given-names>JHM</given-names>
+   </name>
+   <name>
+    <surname>Gaddis</surname>
+    <given-names>NC</given-names>
+   </name>
+   <name>
+    <surname>Fouchier</surname>
+    <given-names>RAM</given-names>
+   </name>
+   <name>
+    <surname>Malim</surname>
+    <given-names>MH</given-names>
+   </name>
+  </person-group>
+  <article-title>Evidence for a newly discovered cellular anti-HIV-1 phenotype</article-title>
+  <source>Nat. Med.</source>
+  <year>1998</year>
+  <volume>4</volume>
+  <fpage>1397</fpage>
+  <lpage>1400</lpage>
+  <pub-id pub-id-type="doi">10.1038/3987</pub-id>
+  <?supplied-pmid 9846577?>
+  <pub-id pub-id-type="pmid">9846577</pub-id>
+ </element-citation>
+</ref>

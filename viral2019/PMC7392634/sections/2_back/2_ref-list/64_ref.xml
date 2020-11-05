@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R64">
+ <label>64</label>
+ <mixed-citation publication-type="web">
+  <person-group person-group-type="author">
+   <collab>Institute for Health Metrics and Evaluation</collab>
+  </person-group>
+  <article-title>COVID-19 projections</article-title>, 
+  <year>2020</year> Available: 
+  <uri xlink:href="https://covid19.healthdata.org/united-states-of-america" xmlns:xlink="http://www.w3.org/1999/xlink">https://covid19.healthdata.org/united-states-of-america</uri> [Accessed 
+  <comment>20 May 2020</comment>].
+ </mixed-citation>
+</ref>

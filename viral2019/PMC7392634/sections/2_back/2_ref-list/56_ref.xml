@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R56">
+ <label>56</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Bedford</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Enria</surname>
+    <given-names>D</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Giesecke</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>COVID-19: towards controlling of a pandemic</article-title>. 
+  <source>Lancet</source>
+  <year>2020</year>;
+  <volume>395</volume>:
+  <fpage>1015</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30673-5</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32197103?>
+  <pub-id pub-id-type="pmid">32197103</pub-id>
+ </mixed-citation>
+</ref>

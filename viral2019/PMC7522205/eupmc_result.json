@@ -1,0 +1,603 @@
+{
+  "id": [
+    "32985559"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32985559"
+  ],
+  "pmcid": [
+    "PMC7522205"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7522205"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1038/s41598-020-72701-4"
+  ],
+  "title": [
+    "Effects of HIV-1 genotype on baseline CD4+ cell count and mortality before and after antiretroviral therapy."
+  ],
+  "authorString": [
+    "Cao Z, Li J, Chen H, Song C, Shen Z, Zhou X, Lan G, Zhu Q, Liang S, Xing H, Liao L, Feng Y, Shao Y, Ruan Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cao Z"
+          ],
+          "firstName": [
+            "Zhiqiang"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jianjun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangxi Zhuang Autonomous Region Center for Disease Prevention and Control, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen H"
+          ],
+          "firstName": [
+            "Huanhuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangxi Zhuang Autonomous Region Center for Disease Prevention and Control, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Song C"
+          ],
+          "firstName": [
+            "Chang"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shen Z"
+          ],
+          "firstName": [
+            "Zhiyong"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangxi Zhuang Autonomous Region Center for Disease Prevention and Control, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xinjuan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangxi Zhuang Autonomous Region Center for Disease Prevention and Control, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lan G"
+          ],
+          "firstName": [
+            "Guanghua"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangxi Zhuang Autonomous Region Center for Disease Prevention and Control, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Q"
+          ],
+          "firstName": [
+            "Qiuying"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangxi Zhuang Autonomous Region Center for Disease Prevention and Control, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liang S"
+          ],
+          "firstName": [
+            "Shujia"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangxi Zhuang Autonomous Region Center for Disease Prevention and Control, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xing H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liao L"
+          ],
+          "firstName": [
+            "Lingjie"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shao Y"
+          ],
+          "firstName": [
+            "Yiming"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruan Y"
+          ],
+          "firstName": [
+            "Yuhua"
+          ],
+          "lastName": [
+            "Ruan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China. ruanyuhua92@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "3003340"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "15875"
+  ],
+  "abstractText": [
+    "To assess whether human immunodeficiency virus type 1 (HIV-1) genotype influences baseline CD4+ T lymphocyte (CD4+) cell count and mortality of patients. The study was conducted from 2014 to 2019 in Guangxi, China, and included 2845 newly diagnosed HIV patients. We used a median regression model to compare CD4+ cell counts in patients newly diagnosed with different HIV-1 genotypes, and a Cox regression model to analyze the associations between HIV-1 genotypes and mortality before and after antiretroviral treatment (ART). In newly diagnosed HIV patients, the baseline CD4+ cell counts of patients with CRF01_AE were significantly lower than those of patients with CRF07_BC, CRF08_BC, and other genotypes. Compared with CRF01_AE, patients infected with CRF07_BC (hazard ratio, 0.55; 95% CI 0.36-0.85), CRF08_BC (hazard ratio, 0.67; 95% CI 0.52-0.85), or other genotypes (hazard ratio, 0.52; 95% CI 0.29-0.94) had significantly lower mortality rates before ART. There were no significant associations between different HIV-1 genotypes and mortality after ART. HIV-1 genotype significantly influences baseline CD4+ cell count and mortality before ART in newly diagnosed HIV patients. We find no significant difference in the outcome of death after ART in patients with different HIV-1 genotypes."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Infectious Disease Prevention and Control (SKLID), National Center for AIDS/STD Control and Prevention (NCAIDS), Chinese Center for Disease Control and Prevention (China CDC), Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Beijing, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-72701-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7522205"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7522205?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-28"
+  ],
+  "firstPublicationDate": [
+    "2020-09-28"
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>(Average ACC: worst value = 0; best value = 100)
+ <disp-formula id="deqn20">
+  <label>(20)</label>
+  <tex-math id="M20">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} \mathrm{Average}\ \mathrm{error}\ \mathrm{rate}=\frac{\sum_{i=1}^m\frac{{\mathrm{Fp}}_i+{\mathrm{Fn}}_i}{{\mathrm{Tn}}_i+{\mathrm{Tn}}_i+{\mathrm{Fp}}_i+{\mathrm{Fn}}_i}}{m} \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

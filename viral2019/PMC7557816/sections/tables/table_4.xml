@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pathogens-09-00728-t004" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">pathogens-09-00728-t004_Table 4</object-id>
+ <label>Table 4</label>
+ <caption>
+  <p>Mosquito collection locations in Vientiane Capital.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">District</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Village</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Latitude</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Longitude</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Sittattanak</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Donkoy</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17.562677</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">102.390768</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Sittattanak</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Kao-Gnot</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17.962684</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">102.615035</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Xaysettha</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Sengsavang</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">17.995816</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">102.664895</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Xaithany</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Sivilay</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">18.003705</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">102.380003</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sittattanak</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Saphanthong Tai</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">17.949470</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">102.628487</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

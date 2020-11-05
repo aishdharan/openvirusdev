@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Fioranelli</surname>
+   <given-names>Massimo</given-names>
+  </name>
+  <email>m.fioranelli73@gmail.com</email>
+  <email>massimo.fioranelli@gmail.com</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Roccia</surname>
+   <given-names>Maria Grazia</given-names>
+  </name>
+  <email>mrocciagrazia@gmail.com</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Beesham</surname>
+   <given-names>A.</given-names>
+  </name>
+  <email>abeesham@yahoo.com</email>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Istituto Terapie Sistemiche Integrate, Via Flaminia 449, 00181, Rome, Italy
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Faculty of Natural Sciences, Mangosuthu University of Technology, P O Box 12363, Umlazi, 4026, South Africa
+ </aff>
+</contrib-group>

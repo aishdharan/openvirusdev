@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Hanaoka</surname>
+   <given-names>Nozomu</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ito</surname>
+   <given-names>Shin</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Nojiri</surname>
+   <given-names>Naomi</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Konagaya</surname>
+   <given-names>Masami</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yasuda</surname>
+   <given-names>Mitsuru</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Deguchi</surname>
+   <given-names>Takashi</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fujimoto</surname>
+   <given-names>Tsuguto</given-names>
+  </name>
+ </contrib>
+ <aff id="aff1">National Institute of Infectious Diseases, Tokyo, Japan (N. Hanaoka, N. Nojiri, M. Konagaya, T. Fujimoto); i</aff>
+ <aff id="aff2">Clinic, Sendai City, Japan (S. Ito); </aff>
+ <aff id="aff3">Gifu University Hospital, Gifu City, Japan (M. Yasuda); </aff>
+ <aff id="aff4">Kizawa Memorial Hospital, Gifu City (T. Deguchi)</aff>
+</contrib-group>

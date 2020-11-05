@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Here, the coefficient 
+ <italic>ρ</italic> is the mosquito recruitment term (expanded below); 
+ <italic>a</italic> is the biting rate; 
+ <italic>β</italic>
+ <sub>
+  <italic>h</italic>→
+  <italic>v</italic>
+ </sub> and 
+ <italic>β</italic>
+ <sub>
+  <italic>v</italic>→
+  <italic>h</italic>
+ </sub> are the human-to-mosquito and mosquito-to-human transmission rates, respectively; 1/
+ <italic>γ</italic>
+ <sub>
+  <italic>h</italic>
+ </sub> and 1/
+ <italic>η</italic>
+ <sub>
+  <italic>h</italic>
+ </sub> represent the intrinsic incubation and human infectivity periods; 1/
+ <italic>γ</italic>
+ <sub>
+  <italic>v</italic>
+ </sub> and 
+ <italic>μ</italic>
+ <sub>
+  <italic>v</italic>
+ </sub> represent the extrinsic incubation period and mortality rate for mosquitoes. The biting rate, EIP and mortality rates are temperature-dependent, detailed below. The state variables and parameters used for our model are displayed in Tables 
+ <xref rid="pntd.0008679.t001" ref-type="table">1</xref> and 
+ <xref rid="pntd.0008679.t002" ref-type="table">2</xref>, respectively. Preliminary exploration of parameter values was performed to determine their permissibility for transmission and to define model starting conditions (see 
+ <xref ref-type="supplementary-material" rid="pntd.0008679.s007">S1 File</xref>).
+</p>

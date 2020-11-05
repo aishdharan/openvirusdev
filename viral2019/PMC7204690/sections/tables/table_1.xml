@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0005">
+ <label>Table 1</label>
+ <caption>
+  <p>The baseline features of respiratory virus-infected patients.</p>
+ </caption>
+ <alt-text id="at0010">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">Total</th>
+    <th align="left">Flu A virus</th>
+    <th align="left">Flu B virus</th>
+    <th align="left">COVID-19</th>
+    <th align="left">RSV</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">n</td>
+    <td align="left">136</td>
+    <td align="left">72</td>
+    <td align="left">32</td>
+    <td align="left">18</td>
+    <td align="left">14</td>
+   </tr>
+   <tr>
+    <td align="left">Sex (M/F)</td>
+    <td align="left">59/77</td>
+    <td align="left">28/44</td>
+    <td align="left">14/18</td>
+    <td align="left">11/7</td>
+    <td align="left">6/8</td>
+   </tr>
+   <tr>
+    <td align="left">Age</td>
+    <td align="left">37.00(27.00-58.75)</td>
+    <td align="left">38.50(27.00-62.75)</td>
+    <td align="left">32.00(26.00-37.00)</td>
+    <td align="left">39.00(34.00-60.25)</td>
+    <td align="left">47.64 ± 17.92</td>
+   </tr>
+   <tr>
+    <td align="left">Epidemiologic features (within two weeks)</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Contact with epidemic area</td>
+    <td align="left">16 (11.76%)</td>
+    <td align="left">3 (4.17%)</td>
+    <td align="left">2 (6.25%)</td>
+    <td align="left">11 (61.11%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Contact with confirmed or suspected cases</td>
+    <td align="left">33 (24.26%)</td>
+    <td align="left">17 (23.61%)</td>
+    <td align="left">5 (15.63%)</td>
+    <td align="left">7 (38.89%)</td>
+    <td align="left">4 (28.57%)</td>
+   </tr>
+   <tr>
+    <td align="left">Contact with poultry, livestock or wild animals</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Clustering onset</td>
+    <td align="left">18 (13.24%)</td>
+    <td align="left">4 (5.56%)</td>
+    <td align="left">3 (9.78%)</td>
+    <td align="left">11 (61.11%)</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left">Comorbidities</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">yes</td>
+    <td align="left">36 (26 .47%)</td>
+    <td align="left">21 (29.17%)</td>
+    <td align="left">7 (21.88%)</td>
+    <td align="left">1 (5.56%)</td>
+    <td align="left">7 (50.00%)</td>
+   </tr>
+   <tr>
+    <td align="left">no</td>
+    <td align="left">100 (73.53%)</td>
+    <td align="left">51 (70.83%)</td>
+    <td align="left">25 (78.13%)</td>
+    <td align="left">17 (94.44%)</td>
+    <td align="left">7 (50.00%)</td>
+   </tr>
+   <tr>
+    <td align="left">Symptoms (days from onset to visit)</td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Fever</td>
+    <td align="left">130 (95.59%)</td>
+    <td align="left">72 (100%)</td>
+    <td align="left">31 (96.88%)</td>
+    <td align="left">15 (83.33%)</td>
+    <td align="left">12 (85.71%)</td>
+   </tr>
+   <tr>
+    <td align="left">Tmax, ℃</td>
+    <td align="left">38.50(38.00-39.00)</td>
+    <td align="left">38.53 ± 0.56</td>
+    <td align="left">38.38 ± 0.56</td>
+    <td align="left">38.00(37.60-38.50)</td>
+    <td align="left">38.00(37.70-38.90)</td>
+   </tr>
+   <tr>
+    <td align="left">Cough</td>
+    <td align="left">89 (65.44%)</td>
+    <td align="left">51 (70.83%)</td>
+    <td align="left">21 (65.63%)</td>
+    <td align="left">9 (50.00%)</td>
+    <td align="left">8 (57.14%)</td>
+   </tr>
+   <tr>
+    <td align="left">Sputum</td>
+    <td align="left">60 (41.18%)</td>
+    <td align="left">32 (44.44%)</td>
+    <td align="left">13 (40.63%)</td>
+    <td align="left">9 (50.00%)</td>
+    <td align="left">6 (42.86%)</td>
+   </tr>
+   <tr>
+    <td align="left">Pharyngalgia</td>
+    <td align="left">63 (46.32%)</td>
+    <td align="left">39 (54.17%)</td>
+    <td align="left">14 (43.75%)</td>
+    <td align="left">4 (22.22%)</td>
+    <td align="left">6 (42.86%)</td>
+   </tr>
+   <tr>
+    <td align="left">Rhinorrhea</td>
+    <td align="left">61 (44.85%)</td>
+    <td align="left">35 (48.61%)</td>
+    <td align="left">16 (50.00%)</td>
+    <td align="left">6 (33.33%)</td>
+    <td align="left">4 (28.57%)</td>
+   </tr>
+   <tr>
+    <td align="left">Myalgia or fatigue</td>
+    <td align="left">75 (55.15%)</td>
+    <td align="left">41 (56.94%)</td>
+    <td align="left">23 (71.88%)</td>
+    <td align="left">6 (33.33%)</td>
+    <td align="left">5 (35.71%)</td>
+   </tr>
+   <tr>
+    <td align="left">Headache</td>
+    <td align="left">69 (50.74%)</td>
+    <td align="left">40 (55.56%)</td>
+    <td align="left">21 (65.63%)</td>
+    <td align="left">2 (11.11%)</td>
+    <td align="left">6 (42.86%)</td>
+   </tr>
+   <tr>
+    <td align="left">Dyspnea</td>
+    <td align="left">12 (8.82%)</td>
+    <td align="left">7 (9.72%)</td>
+    <td align="left">2 (6.25%)</td>
+    <td align="left">2 (11.11%)</td>
+    <td align="left">1 (7.14%)</td>
+   </tr>
+   <tr>
+    <td align="left">Chest pain</td>
+    <td align="left">8 (5.88%)</td>
+    <td align="left">4 (5.56%)</td>
+    <td align="left">3 (9.38%)</td>
+    <td align="left">0</td>
+    <td align="left">1 (7.14%)</td>
+   </tr>
+   <tr>
+    <td align="left">Diarrhea</td>
+    <td align="left">4 (2.94%)</td>
+    <td align="left">1 (1.39%)</td>
+    <td align="left">1 (3.13%)</td>
+    <td align="left">1 (5.56%)</td>
+    <td align="left">1 (7.14%)</td>
+   </tr>
+   <tr>
+    <td align="left">Days from onset to visit</td>
+    <td align="left">2.00(1.00-3.00)</td>
+    <td align="left">2.00(1.00-3.00)</td>
+    <td align="left">2.00(1.00-3.00)</td>
+    <td align="left">3.00(2.00-4.00)</td>
+    <td align="left">3.00(2.00-7.00)</td>
+   </tr>
+   <tr>
+    <td align="left">SpO
+     <sub>2</sub>, % (at room air)
+    </td>
+    <td align="left">98.00(97.00-100.00)</td>
+    <td align="left">99.00(97.00-100.00)</td>
+    <td align="left">98.00(98.00-100.00)</td>
+    <td align="left">98.06 ± 1.63</td>
+    <td align="left">98.5(96.00-99.25)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Notes: Flu A: influenza A; Flu B: influenza B; COVID-19: coronavirus disease 2019; RSV: respiratory syncytial virus; M: male; F: female; Tmax: the highest temperature; SpO
+    <sub>2</sub>: pulse oxygen saturation.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

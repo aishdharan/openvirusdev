@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <label>1</label>
+ <element-citation publication-type="other" id="sref1">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Centers for Disease Control and Prevention</surname>
+   </name>
+  </person-group>
+  <article-title>Burden of influenza</article-title>
+  <ext-link ext-link-type="uri" xlink:href="https://www.cdc.gov/flu/about/burden/index.html" id="intref0010" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.cdc.gov/flu/about/burden/index.html</ext-link>
+  <year>2020</year>
+ </element-citation>
+</ref>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <list list-type="bullet">
+  <list-item>
+   <p>People not infected with HIV, that is, are susceptible to infection. At each cycle they may remain uninfected, acquire HIV infection or evolve to death.</p>
+  </list-item>
+  <list-item>
+   <p>People infected with HIV and with a viral load above 50 copies/ml, that is, are the people who have the possibility of transmitting the virus. At each cycle they can remain infected, evolve to undetectable viral load or evolve to death.</p>
+  </list-item>
+  <list-item>
+   <p>People undergoing treatment and with an undetectable viral load (viral load below 50 copies/ml), that is, they have HIV, but do not have the possibility of transmitting the virus. At each cycle they can have detectable viral load or evolve to death.</p>
+  </list-item>
+  <list-item>
+   <p>People who die, which may or may not be related to the infection situation. People who are in this cycle do not have the possibility to change to another state of health.</p>
+  </list-item>
+ </list>
+</p>

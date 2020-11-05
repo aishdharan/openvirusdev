@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b19">
+ <label>19</label>
+ <element-citation publication-type="book" id="sb19">
+  <person-group person-group-type="author">
+   <name>
+    <surname>IEMAG Epidemiology Modelling subgroup</surname>
+   </name>
+  </person-group>
+  <chapter-title>Time-Series Based Estimation of the Effective Reproduction Number (Rt) - 21 May 2020</chapter-title>
+  <year>2020</year>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://www.gov.ie/en/publication/dc5711-irish-epidemiology-modelling-advisory-group-to-nphet-technical-notes/" id="interref4" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.gov.ie/en/publication/dc5711-irish-epidemiology-modelling-advisory-group-to-nphet-technical-notes/</ext-link>. Visited: 15th June 2020
+  </comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par5">Recombination events were detected using two different methods. First, whole genome sequences were aligned and analyzed using the Recombination Detection Program (RDP 4 version 4.95) to detect potential recombination events by eight algorithms (RDP, GENECONV, BootScan, MaxChi, Chimaera, SiScan, 3Seq, and LARD) [
+ <xref ref-type="bibr" rid="CR14">14</xref>]. Recombination breakpoint detection by at least four of these methods was considered confirmation of any putative recombination event. Second, the potential recombination events and breakpoints were further verified by similarity plot analysis using SimPlot version 3.5.1 [
+ <xref ref-type="bibr" rid="CR12">12</xref>].
+</p>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0050">
+ <xref rid="bib31" ref-type="bibr">Inoue et al. (2007)</xref> analyzed the impact of chlorpromazine on the clathrin-dependent endocytosis of coronavirus by expression angiotensin-converting enzyme 2 (ACE2). Chlorpromazine might interfere with clathrin-mediated endocytosis, by inhibition of clathrin and AP2 transportation on the cell membrane, due to its cationic amphiphilic properties. The Authors treated cells with different concentrations of chlorpromazine for 1 h then infected the cells with the indicated pseudoviruses: SARS-CoV-(HIV), VSV(HIV), or A-MLV(HIV). Chlorpromazine in the concentration of 20 μM inhibited SARS-CoV and VSV infection efficiency (the observed infectivity was 14 and 42%, respectively), while in the case of A-MLV infection was unaffected by the drug concentration. The Authors showed that not only the clathrin-dependent pathway, but also caveolae and/or lipid rafts participate in SARS-CoV entry into host cells. Moreover, the incubation of COS7 cells with the wild-type ACE2 or ACE2-Δtail with chlorpromazine and infected with SARS-CoV showed that the drug-induced suppression of SARS-CoV infection to the host cells. The Authors suggest that the obtained results “indicate that the cytoplasmic domain of the ACE2 is not essential for the clathrin-dependent entry of SARS-CoV, which suggests that there is a possible coreceptor for the ACE2, which interacts with the AP2/clathrin complex” (
+ <xref rid="bib31" ref-type="bibr">Inoue et al., 2007</xref>). In opposite to Inoue results, 
+ <xref rid="bib57" ref-type="bibr">Wang et al. (2008)</xref> showed that SARS-CoV can enter Vero E6 cells despite chlorpromazine treatment. Those results suggest that the drug did not significantly inhibit virus entry as well as that SARS-CoV infects host cells not only in the absence of clathrin-mediated endocytosis but also in a caveolin-independent manner (
+ <xref rid="bib57" ref-type="bibr">Wang et al., 2008</xref>). 
+ <xref rid="bib9" ref-type="bibr">de Wilde et al. (2014)</xref> showed that chlorpromazine in low molecular concentrations significantly inhibits MERS-CoV replication 
+ <italic>in vitro</italic> (in the concentration of 12 μM complete inhibition of MERS-CoV infected cells was observed). Furthermore, chlorpromazine inhibited HCoV-229E-GFP replication in a dose-dependent manner as well as affect an early and a post-entry stage of the MERS-CoV replication cycle in Vero and Huh7 cells. Based on the obtained results, it is unlikely, that endocytosis with clatrine is integrated into the antiviral mechanism (
+ <xref rid="bib9" ref-type="bibr">de Wilde et al., 2014</xref>). The EC
+ <sub>50</sub> value was calculated to be 4.9 μM, 8.8 μM, and 2.5 μM for MERS-CoV, SARS-CoV, and HCoV-229E-GFP, respectively (
+ <xref rid="bib9" ref-type="bibr">de Wilde et al., 2014</xref>; 
+ <xref rid="bib46" ref-type="bibr">Pillaiyar et al., 2020</xref>). 
+ <xref rid="bib11" ref-type="bibr">Dyall et al. (2014)</xref> analyzed the antiviral activity of chlorpromazine against MERS-CoV and SARS-CoV. The obtained EC
+ <sub>50</sub> values were 9.51 and 12.97 μM for MERS and SARS coronaviruses, respectively (
+ <xref rid="bib11" ref-type="bibr">Dyall et al., 2014</xref>). Since chlorpromazine possesses inhibitory activity of viral entry by clathrin-mediated endocytosis (prevent the formation of clathrin-coated pits at the cell membrane), it may be used as a potential broad-spectrum inhibitor not only against West Nile virus (WNV) but also MERS-CoV and SARS-CoV, which used clathrin-mediated endocytosis for entry to host cells (
+ <xref rid="bib11" ref-type="bibr">Dyall et al., 2014</xref>). The ability of chlorpromazine to the inhibition of cell-cell fusion of MERS-CoV was also analyzed by 
+ <xref rid="bib40" ref-type="bibr">Liu et al. (2015)</xref>. The authors showed, that the drug inhibits MERS-CoV replication (IC
+ <sub>50</sub> = 8.80 or 9.51 μM), cell-cell fusion, and clathrin-mediated endocytosis (
+ <xref rid="bib40" ref-type="bibr">Liu et al., 2015</xref>). The IC
+ <sub>50</sub> values of chlorpromazine inhibiting cell-cell fusion and clathrin-mediated endocytosis were shown in 
+ <xref rid="tbl1" ref-type="table">Table 1</xref> .
+</p>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0400">
+ <label>80</label>
+ <element-citation publication-type="journal" id="h0400">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>K.H.</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Kao</surname>
+    <given-names>R.Y.</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>H.T.</given-names>
+   </name>
+   <name>
+    <surname>Fan</surname>
+    <given-names>K.W.</given-names>
+   </name>
+  </person-group>
+  <article-title>
+   <italic>In vitro</italic> susceptibility of 10 clinical isolates of SARS coronavirus to selected antiviral compounds
+  </article-title>
+  <source>J Clin Virol</source>
+  <volume>31</volume>
+  <issue>1</issue>
+  <year>2004</year>
+  <fpage>69</fpage>
+  <lpage>75</lpage>
+  <pub-id pub-id-type="pmid">15288617</pub-id>
+ </element-citation>
+</ref>

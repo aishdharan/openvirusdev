@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241269.ref050">
+ <label>50</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Letunic</surname>
+   <given-names>I</given-names>
+  </name>, 
+  <name>
+   <surname>Bork</surname>
+   <given-names>P</given-names>
+  </name> (
+  <year>2019</year>) 
+  <article-title>Interactive Tree Of Life (iTOL) v4: recent updates and new developments</article-title>. 
+  <source>Nucleic Acids Res</source>
+  <volume>47</volume>: 
+  <fpage>W256</fpage>–
+  <lpage>W259</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/nar/gkz239</pub-id>
+  <?supplied-pmid 30931475?>
+  <pub-id pub-id-type="pmid">30931475</pub-id>
+ </mixed-citation>
+</ref>

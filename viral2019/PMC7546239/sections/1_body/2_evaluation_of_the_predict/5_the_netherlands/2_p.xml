@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3456">As a second case study, we regard the spread of COVID-19 in the Netherlands. The first case was diagnosed on February 27, who had visited Italy the week before. After February 27, the number of cases grew rapidly, as depicted in 
+ <xref rid="fig4" ref-type="fig">Fig. 4</xref>. The epidemic peak was observed at the end of March, and the daily number of cases has dropped ever since. We consider the spread of COVID-19 on a provincial level, for which data is available from the Dutch National Institute for Public Health and the Environment, called RIVM (
+ <xref rid="b35" ref-type="bibr">RIVM, 2020</xref>). The Netherlands is subdivided into twelve provinces, for which the RIVM reports the daily number of new infections. Since the number of infected cases increased more gradually in the Netherlands than in Hubei, China, the total epidemic period is longer and more data points are available. A more gradual increase in the number of cases should be beneficial for the prediction accuracy.
+</p>

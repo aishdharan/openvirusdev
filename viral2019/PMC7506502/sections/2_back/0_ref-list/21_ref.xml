@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0021">
+ <label>21</label>
+ <element-citation publication-type="journal" id="sbref0018">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dauxois</surname>
+    <given-names>J.-Y.</given-names>
+   </name>
+   <name>
+    <surname>Nucit</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>Some estimation problems in epidemic modeling</article-title>
+  <source>Commun. Stat.-Simul.Comput.</source>
+  <volume>47</volume>
+  <issue>4</issue>
+  <year>2018</year>
+  <fpage>1066</fpage>
+  <lpage>1087</lpage>
+ </element-citation>
+</ref>

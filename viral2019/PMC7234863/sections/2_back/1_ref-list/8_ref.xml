@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Cowling</surname>
+    <given-names>BJ</given-names>
+   </name>
+   <name>
+    <surname>Ali</surname>
+    <given-names>ST</given-names>
+   </name>
+   <name>
+    <surname>Ng</surname>
+    <given-names>TW</given-names>
+   </name>
+   <name>
+    <surname>Tsang</surname>
+    <given-names>TK</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Fong</surname>
+    <given-names>MW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Impact assessment of non-pharmaceutical interventions against coronavirus disease 2019 and influenza in Hong Kong: an observational study</article-title>
+  <source>Lancet Public Health</source>
+  <year>2020</year>
+  <volume>5</volume>
+  <issue>5</issue>
+  <fpage>e279</fpage>
+  <lpage>88</lpage>
+  <pub-id pub-id-type="pmid">32311320</pub-id>
+ </element-citation>
+</ref>

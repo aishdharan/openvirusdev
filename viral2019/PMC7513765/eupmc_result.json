@@ -1,0 +1,627 @@
+{
+  "id": [
+    "32995710"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32995710"
+  ],
+  "pmcid": [
+    "PMC7513765"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7513765"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.isci.2020.101605"
+  ],
+  "title": [
+    "Forcing Seasonality of Influenza-like Epidemics with Daily Solar Resonance."
+  ],
+  "authorString": [
+    "Nicastro F, Sironi G, Antonello E, Bianco A, Biasin M, Brucato JR, Ermolli I, Pareschi G, Salvati M, Tozzi P, Trabattoni D, Clerici M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nicastro F"
+          ],
+          "firstName": [
+            "Fabrizio"
+          ],
+          "lastName": [
+            "Nicastro"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6896-1364",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Rome Astronomical Observatory, Monte Porzio Catone, Rome, RM 00078, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sironi G"
+          ],
+          "firstName": [
+            "Giorgia"
+          ],
+          "lastName": [
+            "Sironi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Brera Astronomical Observatory, Milano/Merate, MI 20121, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Antonello E"
+          ],
+          "firstName": [
+            "Elio"
+          ],
+          "lastName": [
+            "Antonello"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Brera Astronomical Observatory, Milano/Merate, MI 20121, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bianco A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Bianco"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Brera Astronomical Observatory, Milano/Merate, MI 20121, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Biasin M"
+          ],
+          "firstName": [
+            "Mara"
+          ],
+          "lastName": [
+            "Biasin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Milano, Department of Biomedical and Clinical Sciences L. Sacco, Milano, MI 20157, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Brucato JR"
+          ],
+          "firstName": [
+            "John R"
+          ],
+          "lastName": [
+            "Brucato"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Arcetri Astrophysical Observatory, Firenze, FI 50125, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ermolli I"
+          ],
+          "firstName": [
+            "Ilaria"
+          ],
+          "lastName": [
+            "Ermolli"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Rome Astronomical Observatory, Monte Porzio Catone, Rome, RM 00078, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pareschi G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Pareschi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3967-403X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Brera Astronomical Observatory, Milano/Merate, MI 20121, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salvati M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Salvati"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Regional Agency for Environmental Protection of Lombardia (ARPA Lombardia), Milano, MI 20124, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tozzi P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Tozzi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3096-9966",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Italian National Institute for Astrophysics (INAF) - Arcetri Astrophysical Observatory, Firenze, FI 50125, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Trabattoni D"
+          ],
+          "firstName": [
+            "Daria"
+          ],
+          "lastName": [
+            "Trabattoni"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Milano, Department of Biomedical and Clinical Sciences L. Sacco, Milano, MI 20157, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Clerici M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Clerici"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Milano, Department of Pathophysiology and Transplantation, Milano, MI 20157, Italy."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Don C. Gnocchi Foundation, IRCCS, Milano, MI 20148 Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6896-1364",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3967-403X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3096-9966",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "3030709"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "iScience"
+          ],
+          "ISOAbbreviation": [
+            "iScience"
+          ],
+          "medlineAbbreviation": [
+            "iScience"
+          ],
+          "NLMid": [
+            "101724038"
+          ],
+          "ISSN": [
+            "2589-0042"
+          ],
+          "ESSN": [
+            "2589-0042"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "101605"
+  ],
+  "abstractText": [
+    "Seasonality of acute viral respiratory diseases is a well-known and yet not fully understood phenomenon. Several models have been proposed to explain the regularity of yearly recurring outbreaks and the phase differences observed at different latitudes on the Earth. Such models consider known internal causes, primarily the periodic emergence of new virus variants that evade the host immune response. Yet, this alone is generally unable to explain the regularity of recurrences and the observed phase differences. Here we show that seasonality of viral respiratory diseases, as well as its distribution with latitude on the Earth, can be fully explained by the virucidal properties of UV-B and UV-A solar photons through a daily, minute-scale, resonant forcing mechanism. Such an induced periodicity can last, virtually unperturbed, from tens to hundreds of cycles, and even in the presence of internal dynamics (host's loss of immunity) much slower than seasonal will, on a long period, generate seasonal oscillations."
+  ],
+  "affiliation": [
+    "Italian National Institute for Astrophysics (INAF) - Rome Astronomical Observatory, Monte Porzio Catone, Rome, RM 00078, Italy."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Complex Systems",
+        "Infection Control In Health Technology",
+        "Solar Terrestrial Physics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.isci.2020.101605"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7513765"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7513765?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR184957"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-30"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-24"
+  ],
+  "firstPublicationDate": [
+    "2020-09-24"
+  ]
+}

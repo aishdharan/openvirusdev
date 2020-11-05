@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0365">
+ <label>73</label>
+ <element-citation publication-type="journal" id="h0365">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liang</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Yao</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Lv</surname>
+    <given-names>Q.</given-names>
+   </name>
+   <name>
+    <surname>Zanin</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Early triage of critically ill COVID-19 patients using deep learning</article-title>
+  <source>Nat Commun</source>
+  <volume>11</volume>
+  <year>2020</year>
+  <fpage>3543</fpage>
+  <pub-id pub-id-type="pmid">32669540</pub-id>
+ </element-citation>
+</ref>

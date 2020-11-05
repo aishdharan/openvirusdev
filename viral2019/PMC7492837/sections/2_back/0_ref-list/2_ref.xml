@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <element-citation publication-type="journal" id="sref2">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ralph</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Lew</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Zeng</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Francis</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Xue</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Roux</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>2019-nCoV (Wuhan virus), a novel Coronavirus: human-to-human transmission, travel-related cases, and vaccine readiness</article-title>
+  <source>The Journal of Infection in Developing Countries</source>
+  <volume>14</volume>
+  <year>2020</year>
+  <fpage>3</fpage>
+  <lpage>17</lpage>
+  <comment>01</comment>
+  <pub-id pub-id-type="pmid">32088679</pub-id>
+ </element-citation>
+</ref>

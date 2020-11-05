@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Phylogenetic relationships among sequences were resolved using a ML tree inferred with IQ-TREE [
+ <xref rid="pone.0241269.ref044" ref-type="bibr">44</xref>] under the GTR+I+G model of nucleotide substitution, which was selected as best fitting in jModelTest v2.1.7. [
+ <xref rid="pone.0241269.ref045" ref-type="bibr">45</xref>]. The reliability of the phylogenies was estimated with the approximate likelihood-ratio test based on a Shimodaira–Hasegawa-like procedure (SH-aLRT). Transmission clusters were identified using ClusterPicker software with default parameters [
+ <xref rid="pone.0241269.ref046" ref-type="bibr">46</xref>]. Before evolutionary and demographic reconstruction, the temporal structure of CRF03_AB 
+ <italic>pol</italic> datasets was estimated using TempEst v1.5 [
+ <xref rid="pone.0241269.ref047" ref-type="bibr">47</xref>] by regression analysis of root-to-tip genetic distances against the sampling dates, inferred from the ML tree (
+ <xref ref-type="supplementary-material" rid="pone.0241269.s002">S2 Fig</xref>).
+</p>

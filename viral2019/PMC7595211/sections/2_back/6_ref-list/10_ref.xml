@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yamaguchi</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Complete genome sequence of CG-0018a-01 establishes HIV-1 subtype L</article-title>
+  <source>J. Acquir. Immune Defic. Syndr.</source>
+  <year>2020</year>
+  <volume>83</volume>
+  <issue>3</issue>
+  <fpage>319</fpage>
+  <lpage>322</lpage>
+  <pub-id pub-id-type="doi">10.1097/QAI.0000000000002246</pub-id>
+  <?supplied-pmid 31693506?>
+  <pub-id pub-id-type="pmid">31693506</pub-id>
+ </element-citation>
+</ref>

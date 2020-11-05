@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0140">Our model is able to reproduce in a particularly precise way the seasonality of respiratory diseases where airborne transmission is the main path of infection and their phase-latitude dependence. The solar-pump mechanism works more efficiently on free-to-spread (i.e. no distancing measure adopted) epidemics with intrinsic reproductive number R
+ <sub>0</sub> lower than ≈2–3. For epidemics with larger intrinsic reproductive number, and no restriction measures at work, the first outbreak could quickly produce herd immunity (e.g. 
+ <xref rid="bib3" ref-type="bibr">Baker et al., 2020</xref>) and the onset of seasonality due to the solar-pump mechanism may be harder to achieve even in the presence of fast LOI rates. Nonetheless, even for highly contagious diseases that turn into pandemic, like the recent SARS-CoV-2, our model is able to explain the qualitative differences generally observed when the strength of the pandemics is compared in countries located in the northern, tropical, and southern hemisphere (e.g. 
+ <xref rid="bib26" ref-type="bibr">Nicastro et al., 2020</xref>, submitted).
+</p>

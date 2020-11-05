@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The subtype assignment of all sequences was verified using REGA HIV subtyping tool v.3 (accessible at 
+ <ext-link ext-link-type="uri" xlink:href="http://dbpartners.stanford.edu:8080/RegaSubtyping/stanford-hiv/typingtool/" xmlns:xlink="http://www.w3.org/1999/xlink">http://dbpartners.stanford.edu:8080/RegaSubtyping/stanford-hiv/typingtool/</ext-link>) and Maximum Likelihood (ML) phylogenetic analysis, as described below. For subtype verification by ML approach, pure subtype and recombinant forms reference sequences for HIV-1 group M were added to the alignment by Los Alamos HIV Sequence Database.
+</p>

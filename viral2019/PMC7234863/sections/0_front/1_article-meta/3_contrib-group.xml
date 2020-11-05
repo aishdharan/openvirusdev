@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8541-5704</contrib-id>
+  <name>
+   <surname>Noh</surname>
+   <given-names>Ji Yun</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5633-7214</contrib-id>
+  <name>
+   <surname>Seong</surname>
+   <given-names>Hye</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3283-1880</contrib-id>
+  <name>
+   <surname>Yoon</surname>
+   <given-names>Jin Gu</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0148-7194</contrib-id>
+  <name>
+   <surname>Song</surname>
+   <given-names>Joon Young</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2532-1463</contrib-id>
+  <name>
+   <surname>Cheong</surname>
+   <given-names>Hee Jin</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4546-3880</contrib-id>
+  <name>
+   <surname>Kim</surname>
+   <given-names>Woo Joo</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1">1</xref>
+  <xref ref-type="aff" rid="A2">2</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T5" orientation="portrait" position="float">
+ <label>Table 5</label>
+ <caption>
+  <p>Measures recommended by the WHO for preventing transmission and slowing down the COVID-19 epidemic, 2020</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Implementation level</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Intervention</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Individual</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Hand hygiene: handwashing or use of hydroalcoholic solution.</p>
+      </list-item>
+      <list-item>
+       <p>Physical distancing.</p>
+      </list-item>
+      <list-item>
+       <p>Respiratory etiquette.</p>
+      </list-item>
+      <list-item>
+       <p>Masks for infected and symptomatic individuals.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Community</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Mass masking with surgical and/or homemade masks by everyone in public spaces.</p>
+      </list-item>
+      <list-item>
+       <p>Avoid crowding and mass gatherings.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Public authorities</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Tracing, testing and isolating cases and providing them with appropriate care.</p>
+      </list-item>
+      <list-item>
+       <p>Tracking, quarantining and monitoring of asymptomatic contacts.</p>
+      </list-item>
+      <list-item>
+       <p>Protecting health workers and vulnerable groups.</p>
+      </list-item>
+      <list-item>
+       <p>Environmental cleaning and sanitising.</p>
+      </list-item>
+      <list-item>
+       <p>Closures of schools, places of worship, sporting events, non-essential shops.</p>
+      </list-item>
+      <list-item>
+       <p>Workplace closures and other measures: work from home where possible and/or reduction in workforce capacity.</p>
+      </list-item>
+      <list-item>
+       <p>Public transportation closures.</p>
+      </list-item>
+      <list-item>
+       <p>Stay-at-home orders.</p>
+      </list-item>
+      <list-item>
+       <p>Limiting national and international travel.</p>
+      </list-item>
+      <list-item>
+       <p>Maintaining essential health services.</p>
+      </list-item>
+      <list-item>
+       <p>Ensuring continuity of essential social and economic functions and services.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

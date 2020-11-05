@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r23">
+ <label>23</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Hollingsworth</surname>
+    <given-names>T. D.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Klinkenberg</surname>
+    <given-names>D.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Heesterbeek</surname>
+    <given-names>H.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Anderson</surname>
+    <given-names>R. M.</given-names>
+   </name>
+  </person-group>, 
+  <article-title>Mitigation strategies for pandemic influenza A: Balancing conflicting policy objectives</article-title>. 
+  <source>PLoS Comput. Biol.</source>
+  <volume>7</volume>, 
+  <fpage>e1001076</fpage> (
+  <year>2011</year>).
+  <pub-id pub-id-type="pmid">21347316</pub-id>
+ </mixed-citation>
+</ref>

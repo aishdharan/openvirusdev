@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR29">
+ <label>29.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Berkowitz</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Beckerman</surname>
+    <given-names>KP</given-names>
+   </name>
+   <name>
+    <surname>Schall</surname>
+    <given-names>TJ</given-names>
+   </name>
+   <name>
+    <surname>McCune</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>
+  <article-title>CXCR4 and CCR5 expression delineates targets for HIV-1 disruption of T cell differentiation</article-title>
+  <source>J. Immunol.</source>
+  <year>1998</year>
+  <volume>161</volume>
+  <fpage>3702</fpage>
+  <lpage>3710</lpage>
+  <?supplied-pmid 9759895?>
+  <pub-id pub-id-type="pmid">9759895</pub-id>
+ </element-citation>
+</ref>

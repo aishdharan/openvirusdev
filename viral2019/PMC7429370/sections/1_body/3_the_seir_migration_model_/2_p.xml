@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">In the classic SIR model, each individual can be in three different states: infected (
+ <italic>I</italic>), susceptible (
+ <italic>S</italic>), and recovered (
+ <italic>R</italic>). In an epidemic spreading case, infected individuals (
+ <italic>I</italic>) can infect susceptible individuals (
+ <italic>S</italic>) through human contact network, while an infected individual can be cured and turn into recovery state (
+ <italic>R</italic>). Once an infectious disease starts to spread in a certain sub-network, due to the denseness of the sub-network nodes and the short distance between neighboring nodes, the epidemic will outbreak within the sub-network in a short time (
+ <inline-formula id="IEq14">
+  <alternatives>
+   <tex-math id="M29">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$G_1$$\end{document}</tex-math>
+   <math id="M30">
+    <msub>
+     <mi>G</mi>
+     <mn>1</mn>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq14.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> in Fig. 
+ <xref rid="Fig4" ref-type="fig">4</xref>b). With the epidemic spread, plenty of susceptible nodes in the network transit into infected nodes. Some infected nodes have connections with nodes in other sub-network. Then, the virus can spread from one sub-network to another sub-network through the nodes connecting two sub-networks and eventually spread to the entire network (
+ <inline-formula id="IEq15">
+  <alternatives>
+   <tex-math id="M31">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$G_2$$\end{document}</tex-math>
+   <math id="M32">
+    <msub>
+     <mi>G</mi>
+     <mn>2</mn>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq15.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> in Fig. 
+ <xref rid="Fig4" ref-type="fig">4</xref>b).
+</p>

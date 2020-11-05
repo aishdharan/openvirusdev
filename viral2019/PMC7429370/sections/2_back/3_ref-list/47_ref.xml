@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Koh</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Teong</surname>
+    <given-names>HFC</given-names>
+   </name>
+   <name>
+    <surname>Clément</surname>
+    <given-names>M-V</given-names>
+   </name>
+   <name>
+    <surname>Hsu</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Thiagarajan</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>A decompositional approach to parameter estimation in pathway modeling: a case study of the akt and mapk pathways and their crosstalk</article-title>
+  <source>Bioinformatics</source>
+  <year>2006</year>
+  <volume>22</volume>
+  <issue>14</issue>
+  <fpage>e271</fpage>
+  <lpage>e280</lpage>
+  <pub-id pub-id-type="pmid">16873482</pub-id>
+ </element-citation>
+</ref>

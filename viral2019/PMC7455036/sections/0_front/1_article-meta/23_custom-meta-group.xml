@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custom-meta-group>
+ <custom-meta id="data-availability">
+  <meta-name>Data Availability</meta-name>
+  <meta-value>The data underlying the results presented in the study are available from Tencent real time tracking (
+   <ext-link ext-link-type="uri" xlink:href="https://news.qq.com/zt2020/page/feiyan.htm#/global" xmlns:xlink="http://www.w3.org/1999/xlink">https://news.qq.com/zt2020/page/feiyan.htm#/global</ext-link>.), Ifeng real time tracking (
+   <ext-link ext-link-type="uri" xlink:href="https://news.ifeng.com/c/specialClient/7tPlDSzDgVk?needpage=1&amp;webkit=1" xmlns:xlink="http://www.w3.org/1999/xlink">https://news.ifeng.com/c/specialClient/7tPlDSzDgVk?needpage=1&amp;webkit=1</ext-link>) and data from National Health Commission of the People’s Republic of China (
+   <ext-link ext-link-type="uri" xlink:href="http://www.nhc.gov.cn/xcs/yqfkdt/gzbd_index.shtml" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.nhc.gov.cn/xcs/yqfkdt/gzbd_index.shtml</ext-link>).
+  </meta-value>
+ </custom-meta>
+ <custom-meta id="outbreaks">
+  <meta-name>Outbreaks</meta-name>
+  <meta-value>COVID-19</meta-value>
+ </custom-meta>
+</custom-meta-group>

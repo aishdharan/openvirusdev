@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The viral metagenomic pipeline identified a 756-bp fragment of polymerase base (PB) 2 gene of influenza A, but targeted assembly using Burrow-Wheeler Aligner version 0.6 (
+ <ext-link ext-link-type="uri" xlink:href="http://bio-bwa.sourceforge.net" xmlns:xlink="http://www.w3.org/1999/xlink">http://bio-bwa.sourceforge.net</ext-link>) detected other genomic regions like matrix 1 and 2 (252 bp), nucleoprotein (257 bp), and polymerase acidic frameshift protein (707 bp). We directly confirmed influenza A using multisegment reverse transcription PCR (RT-PCR) as described previously (
+ <xref rid="R6" ref-type="bibr">
+  <italic>6</italic>
+ </xref>). We then amplified the hemagglutinin and neuraminidase segments individually by conventional PCR (
+ <xref rid="R7" ref-type="bibr">
+  <italic>7</italic>
+ </xref>) using the multisegment RT-PCR product as input volume and sequenced. Consensus sequences of hemagglutinin (477 bp) and neuraminidase (647 bp) were aligned with MAFFT 7.0 software (ThermoFisher Scientific) using a dataset obtained from GISAID (
+ <ext-link ext-link-type="uri" xlink:href="https://www.gisaid.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.gisaid.org</ext-link>), selecting strains from Brazil that circulated during 2011–2019. The phylogenetic analysis with IQ-TREE 2.0 software (
+ <ext-link ext-link-type="uri" xlink:href="http://www.iqtree.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.iqtree.org</ext-link>) using hemagglutinin (264 sequences) and neuraminidase (419 sequences) applying the K3Pu+F+G4 and TVMe+G4 substitution models demonstrated that the strain clustered with isolates circulating during the 2019 epidemic season. The influenza A in the donated blood was phylogenetically determined to belong to H3N2 type (
+ <xref ref-type="fig" rid="F1">Figure</xref>). We deposited the hemagglutinin sequence in GenBank under accession no. MT126243 and the neuraminidase sequence under accession no. MT126244.
+</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR28">
+ <label>28.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Calvez</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Marcelin</surname>
+    <given-names>A-G</given-names>
+   </name>
+   <name>
+    <surname>Vingerhoets</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Hill</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Hadacek</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Moecklinghoff</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Systematic review to determine the prevalence of transmitted drug resistance mutations to rilpivirine in HIV-infected treatment-naive persons</article-title>
+  <source>Antivir Ther (Lond)</source>
+  <year>2016</year>
+  <volume>21</volume>
+  <issue>5</issue>
+  <fpage>405</fpage>
+  <lpage>412</lpage>
+  <pub-id pub-id-type="doi">10.3851/IMP3024</pub-id>
+  <pub-id pub-id-type="pmid">26761642</pub-id>
+ </element-citation>
+</ref>

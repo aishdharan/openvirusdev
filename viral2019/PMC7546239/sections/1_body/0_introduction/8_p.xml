@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e672">Most epidemic models forecast the number of infected cases as a point forecast (generally: the mean of a distribution) rather than a complete distribution. All models in this work have been designed to provide point forecasts, but can be generalised to provide prediction intervals. We discuss this topic further in Section 
+ <xref rid="sec2" ref-type="sec">2</xref>.
+</p>

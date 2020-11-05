@@ -1,0 +1,787 @@
+{
+  "id": [
+    "33059739"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33059739"
+  ],
+  "pmcid": [
+    "PMC7558248"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7558248"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s13018-020-01978-y"
+  ],
+  "title": [
+    "The strategies of perioperative management in orthopedic department during the pandemic of COVID-19."
+  ],
+  "authorString": [
+    "Zeng H, Li G, Weng J, Xiong A, Xu C, Yang Y, Wang D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zeng H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6966-0769",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China. zenghui_36@163.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National & Local Joint Engineering Research Center of Orthopaedic Biomaterials, Department of Bone & Joint Surgery , Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China. zenghui_36@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li G"
+          ],
+          "firstName": [
+            "Guoqing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National & Local Joint Engineering Research Center of Orthopaedic Biomaterials, Department of Bone & Joint Surgery , Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Weng J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Weng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National & Local Joint Engineering Research Center of Orthopaedic Biomaterials, Department of Bone & Joint Surgery , Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong A"
+          ],
+          "firstName": [
+            "Ao"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National & Local Joint Engineering Research Center of Orthopaedic Biomaterials, Department of Bone & Joint Surgery , Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu C"
+          ],
+          "firstName": [
+            "Chang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Administration, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Y"
+          ],
+          "firstName": [
+            "Yifei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Deli"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China. wangdelinavy@163.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National & Local Joint Engineering Research Center of Orthopaedic Biomaterials, Department of Bone & Joint Surgery , Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China. wangdelinavy@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6966-0769",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "3032240"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of orthopaedic surgery and research"
+          ],
+          "ISOAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "medlineAbbreviation": [
+            "J Orthop Surg Res"
+          ],
+          "NLMid": [
+            "101265112"
+          ],
+          "ISSN": [
+            "1749-799X"
+          ],
+          "ESSN": [
+            "1749-799X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "474"
+  ],
+  "abstractText": [
+    "BACKGROUND:Coronavirus disease 2019 (COVID-19) has broken out and spread rapidly nationwide at the beginning of 2020, which has brought huge impacts to people and work. The current situation of prevention and control is severe and urges guidance for clinicians, especially for medical systems. In the hope of providing a reference and recommendation for the prevention and control of the COVID-19, we carried out research to improve the quality of patient care and prevention during this epidemic. METHODS:All of the staff were trained rapidly to master personal protection in our department. We reviewed the patients' discharged records who underwent surgery in our department during January 1 to March 1, 2019, and January 1 to March 1, 2020. The management of the surgery patients and flow charts were described and analyzed. Post-operation outcomes of the patients include duration, complications, surgical site infection (SSI), system infection, re-operation, and mortality. Both chi-squared test and Student's t test were performed to determine the relationship between the two periods in terms of post-operation outcomes. RESULTS:Descriptive statistics analysis revealed that demographic of the patients between the two periods is similar. We had benefited from the strict flowcharts, smart robot, and protection equipment during the perioperative managements for orthopedic patients. With the help of the strict flow charts and smart equipment, post-operation outcomes of the patients revealed that the rates of the complications and re-operation had been reduced significantly (p < 0.05), while duration of operation, SSI, and system infection had no significant difference between two periods (p > 0.05). No patient and staff caught COVID-19 infection or mortality during the epidemic. CONCLUSIONS:Our study indicated that medical quality and efficiency were affected little with the help of strategies described above during the epidemic, which could be a reference tool for medical staff in routine clinical practice for admission of patients around the world. What is more, the provided strategies, which may evolve over time, could be used as empirical guidance and reference for orthopedic peers to get through the pandemic and ensure the normal operation of the hospital."
+  ],
+  "affiliation": [
+    "Department of Bone & Joint Surgery, Peking University Shenzhen Hospital, Shenzhen, 518036, People's Republic of China. zenghui_36@163.com."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JCYJ20170307111755218"
+          ],
+          "agency": [
+            "Research and Development Projects of Shenzhen"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2019A1515011290"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SZSM201612092"
+          ],
+          "agency": [
+            "Sanming Project of Medicine in Shenzhen (CN)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Postoperative Complications"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Orthopedic Procedures"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Perioperative Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reoperation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infection Control"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Robotics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hospital Units"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Efficiency, Organizational"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quality Assurance, Health Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Workflow"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Operative Time"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Personal Protective Equipment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Perioperative management",
+        "Orthopedic Surgery",
+        "Flow Chart",
+        "Coronavirus Disease 2019 (Covid-19)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13018-020-01978-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7558248"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7558248?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR210657"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-27"
+  ],
+  "dateOfCreation": [
+    "2020-10-16"
+  ],
+  "firstIndexDate": [
+    "2020-10-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-18"
+  ],
+  "dateOfRevision": [
+    "2020-10-27"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-15"
+  ],
+  "firstPublicationDate": [
+    "2020-10-15"
+  ]
+}

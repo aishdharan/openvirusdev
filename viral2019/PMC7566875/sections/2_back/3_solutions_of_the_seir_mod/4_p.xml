@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e11908">We assume as per Eq. 
+ <xref rid="fdC.2" ref-type="disp-formula">(C.2)</xref> that 
+ <inline-formula>
+  <math id="d1e11913" display="inline" altimg="si410.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">E</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>, with 
+ <inline-formula>
+  <math id="d1e11927" display="inline" altimg="si411.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="d1e11943" display="inline" altimg="si412.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≥</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>. By continuity, there is a time interval on which 
+ <inline-formula>
+  <math id="d1e11971" display="inline" altimg="si413.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>. Let 
+ <inline-formula>
+  <math id="d1e11993" display="inline" altimg="si414.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mo>∗</mo>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> be the first time such that 
+ <inline-formula>
+  <math id="d1e12002" display="inline" altimg="si415.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>. We assume for contradiction that 
+ <inline-formula>
+  <math id="d1e12023" display="inline" altimg="si416.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mo>∗</mo>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>[</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>τ</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>.
+</p>

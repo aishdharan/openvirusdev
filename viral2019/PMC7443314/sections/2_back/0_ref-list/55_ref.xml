@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0055">
+ <element-citation publication-type="journal" id="sbref0055">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nyaga</surname>
+    <given-names>V.N.</given-names>
+   </name>
+   <name>
+    <surname>Arbyn</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Aerts</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Metaprop: a Stata command to perform meta-analysis of binomial data</article-title>
+  <source>Arch. Public Health = Arch. Belges De Sante Publique</source>
+  <volume>72</volume>
+  <issue>1</issue>
+  <year>2014</year>
+  <comment>39-39</comment>
+ </element-citation>
+</ref>

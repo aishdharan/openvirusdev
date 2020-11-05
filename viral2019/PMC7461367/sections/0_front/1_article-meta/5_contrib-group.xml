@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="jmv26445-cr-0001" contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Ru</given-names>
+  </name>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="jmv26445-note-0001">
+   <sup>†</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0002" contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Jieting</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2886-9344</contrib-id>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="jmv26445-note-0001">
+   <sup>†</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0003" contrib-type="author">
+  <name>
+   <surname>Duan</surname>
+   <given-names>Chaohui</given-names>
+  </name>
+  <xref ref-type="aff" rid="jmv26445-aff-0003">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="jmv26445-note-0001">
+   <sup>†</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0004" contrib-type="author">
+  <name>
+   <surname>Liao</surname>
+   <given-names>Qiao</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1422-6161</contrib-id>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0005" contrib-type="author">
+  <name>
+   <surname>Shan</surname>
+   <given-names>Zhengang</given-names>
+  </name>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0006" contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Min</given-names>
+  </name>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0007" contrib-type="author">
+  <name>
+   <surname>Rong</surname>
+   <given-names>Xia</given-names>
+  </name>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0008" contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Chengyao</given-names>
+  </name>
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2087-873X</contrib-id>
+  <xref ref-type="aff" rid="jmv26445-aff-0004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib id="jmv26445-cr-0009" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Fu</surname>
+   <given-names>Yongshui</given-names>
+  </name>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0004">
+   <sup>4</sup>
+  </xref>
+  <address>
+   <email>fuyongshui1969@yahoo.com</email>
+  </address>
+ </contrib>
+ <contrib id="jmv26445-cr-0010" contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Hao</given-names>
+  </name>
+  <xref ref-type="aff" rid="jmv26445-aff-0001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="jmv26445-aff-0002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+</contrib-group>

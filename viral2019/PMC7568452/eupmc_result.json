@@ -1,0 +1,416 @@
+{
+  "id": [
+    "33068285"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33068285"
+  ],
+  "pmcid": [
+    "PMC7568452"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7568452"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s11427-020-1818-4"
+  ],
+  "title": [
+    "ZIKV viral proteins and their roles in virus-host interactions."
+  ],
+  "authorString": [
+    "Guo M, Hui L, Nie Y, Tefsen B, Wu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Guo M"
+          ],
+          "firstName": [
+            "Moujian"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Virology, School of Basic Medical Sciences, Wuhan University, Wuhan, 430071, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hui L"
+          ],
+          "firstName": [
+            "Lixia"
+          ],
+          "lastName": [
+            "Hui"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Virology, School of Basic Medical Sciences, Wuhan University, Wuhan, 430071, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nie Y"
+          ],
+          "firstName": [
+            "Yiwen"
+          ],
+          "lastName": [
+            "Nie"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Virology, School of Basic Medical Sciences, Wuhan University, Wuhan, 430071, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tefsen B"
+          ],
+          "firstName": [
+            "Boris"
+          ],
+          "lastName": [
+            "Tefsen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6668-217X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biological Sciences, Xi'an Jiaotong-Liverpool University, Suzhou, 215123, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "State Key Laboratory of Virology, School of Basic Medical Sciences, Wuhan University, Wuhan, 430071, China. yingwu@whu.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Hubei Province Key Laboratory of Allergy and Immunology, Wuhan, 430071, China. yingwu@whu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6668-217X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3038224"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science China. Life sciences"
+          ],
+          "ISOAbbreviation": [
+            "Sci China Life Sci"
+          ],
+          "medlineAbbreviation": [
+            "Sci China Life Sci"
+          ],
+          "NLMid": [
+            "101529880"
+          ],
+          "ISSN": [
+            "1674-7305"
+          ],
+          "ESSN": [
+            "1869-1889"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The re-emergence of Zika virus (ZIKV) and its associated neonatal microcephaly and Guillain-Barré syndrome have led the World Health Organization to declare a global health emergency. Until today, many related studies have successively reported the role of various viral proteins of ZIKV in the process of ZIKV infection and pathogenicity. These studies have provided significant insights for the treatment and prevention of ZIKV infection. Here we review the current research advances in the functional characterization of the interactions between each ZIKV viral protein and its host factors."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Virology, School of Basic Medical Sciences, Wuhan University, Wuhan, 430071, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pathogenicity",
+        "Immune response",
+        "Viral protein",
+        "Host-virus Interactions",
+        "Zikv"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11427-020-1818-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7568452"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7568452?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-17"
+  ],
+  "firstIndexDate": [
+    "2020-10-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-21"
+  ],
+  "dateOfRevision": [
+    "2020-10-20"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-14"
+  ],
+  "firstPublicationDate": [
+    "2020-10-14"
+  ]
+}

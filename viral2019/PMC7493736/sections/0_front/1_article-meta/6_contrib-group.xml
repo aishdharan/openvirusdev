@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Otręba</surname>
+   <given-names>Michał</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Kośmider</surname>
+   <given-names>Leon</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Rzepecka-Stojko</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Drug Technology, Medical University of Silesia, Katowice Faculty of Pharmaceutical Sciences in Sosnowiec, Jednosci 8, 41-200, Sosnowiec, Poland
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Department of General and Inorganic Chemistry, Medical University of Silesia, Katowice Faculty of Pharmaceutical Sciences in Sosnowiec, Jagiellonska 4, 41-200, Sosnowiec, Poland
+ </aff>
+</contrib-group>

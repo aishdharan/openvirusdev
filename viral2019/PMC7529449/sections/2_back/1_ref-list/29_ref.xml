@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Canan</surname>
+    <given-names>CE</given-names>
+   </name>
+   <name>
+    <surname>Waselewski</surname>
+    <given-names>ME</given-names>
+   </name>
+   <name>
+    <surname>Waldman</surname>
+    <given-names>ALD</given-names>
+   </name>
+   <name>
+    <surname>Reynolds</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Flickinger</surname>
+    <given-names>TE</given-names>
+   </name>
+   <name>
+    <surname>Cohn</surname>
+    <given-names>WF</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Long term impact of PositiveLinks: Clinic-deployed mobile technology to improve engagement with HIV care</article-title>
+  <source>PloS One</source>
+  <year>2020</year>
+  <date-in-citation content-type="access-date">Feb 6, 2020</date-in-citation>
+  <volume>15</volume>
+  <issue>1</issue>
+  <elocation-id>e0226870</elocation-id>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0226870</pub-id>
+  <pub-id pub-id-type="pmid">31905209</pub-id>
+ </element-citation>
+</ref>

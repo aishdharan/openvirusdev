@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0200">
+ <element-citation publication-type="journal" id="sbref0200">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rambaut</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Lam</surname>
+    <given-names>T.T.</given-names>
+   </name>
+   <name>
+    <surname>Max Carvalho</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Pybus</surname>
+    <given-names>O.G.</given-names>
+   </name>
+  </person-group>
+  <article-title>Exploring the temporal structure of heterochronous sequences using TempEst (formerly Path-O-Gen)</article-title>
+  <source>Virus Evol.</source>
+  <volume>2</volume>
+  <year>2016</year>
+  <pub-id pub-id-type="doi">10.1093/ve/vew007</pub-id>
+  <comment>vew007</comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pntd.0008679.g002" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pntd.0008679.g002</object-id>
+ <label>Fig 2</label>
+ <caption>
+  <title>The epidemic progression in the human and mosquito populations.</title>
+  <p>The y-axis is the number of humans or mosquitoes in the simulation and the x-axis is the 2-year simulation dates with a start date of February 15. 
+   <italic>t</italic>
+   <sub>
+    <italic>crit</italic>
+   </sub> = arrival date of infectious human; 
+   <italic>maxI</italic>
+   <sub>
+    <italic>h</italic>
+   </sub> = the epidemic peak size, the maximum human infected at any given point during the simulation. (A) indicates the disease progression in the human population, for an arrival date of an infectious human on August 29. (C) indicates disease progression for an arrival date of an infectious human on October 7. (B) and (D) show the disease progression in the mosquito population for the respective dates of arrival. (A) shows a classical rapid epidemic, with a unimodal response, with the peak occurring few weeks after virus introduction; while (C) shows a prolonged period of lower-level transmission, resulting in a bimodal response. Default parameters from 
+   <xref rid="pntd.0008679.t002" ref-type="table">Table 2</xref> were used for these simulations, except for dates of arrival of infectious human.
+  </p>
+ </caption>
+ <graphic xlink:href="pntd.0008679.g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

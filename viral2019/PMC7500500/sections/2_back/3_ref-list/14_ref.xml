@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pan</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Ye</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Time course of lung changes at chest CT during recovery from coronavirus disease 2019 (COVID-19)</article-title>
+  <source>Radiology</source>
+  <year>2020</year>
+  <volume>295</volume>
+  <issue>3</issue>
+  <fpage>715</fpage>
+  <lpage>721</lpage>
+  <pub-id pub-id-type="doi">10.1148/radiol.2020200370</pub-id>
+  <?supplied-pmid 32053470?>
+  <pub-id pub-id-type="pmid">32053470</pub-id>
+ </element-citation>
+</ref>

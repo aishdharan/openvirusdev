@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0045">
+ <label>9</label>
+ <element-citation publication-type="journal" id="h0045">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lai</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Ruktanonchai</surname>
+    <given-names>N.W.</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Prosper</surname>
+    <given-names>O.</given-names>
+   </name>
+   <name>
+    <surname>Luo</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Floyd</surname>
+    <given-names>J.R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Effect of non-pharmaceutical interventions to contain COVID-19 in China</article-title>
+  <source>Nature</source>
+  <volume>585</volume>
+  <year>2020</year>
+  <fpage>410</fpage>
+  <lpage>413</lpage>
+  <pub-id pub-id-type="pmid">32365354</pub-id>
+ </element-citation>
+</ref>

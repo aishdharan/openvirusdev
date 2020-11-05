@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Sizes of the three populations and number of individuals within each state for each population</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Parameter</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Base value</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Lower bound</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Upper bound</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Source</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSW population</td>
+    <td align="left" valign="top" colspan="4" rowspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV- (State 1)</td>
+    <td align="char" char="." rowspan="1" colspan="1">25 964</td>
+    <td align="char" char="." rowspan="1" colspan="1">13 340</td>
+    <td align="char" char="." rowspan="1" colspan="1">48 950</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBSS SW Rwanda 2015
+     <xref rid="R6" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Undiagnosed HIV (State 2)</td>
+    <td align="char" char="." rowspan="1" colspan="1">983</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="char" char="." rowspan="1" colspan="1">53 625</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBSS SW Rwanda 2015
+     <xref rid="R6" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Diagnosed HIV pre-ART (State 3)</td>
+    <td align="char" char="." rowspan="1" colspan="1">771</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="char" char="." rowspan="1" colspan="1">50 734</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBSS SW Rwanda 2015
+     <xref rid="R6" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV+ with viral suppression on ART (State 4)</td>
+    <td align="char" char="." rowspan="1" colspan="1">9940</td>
+    <td align="char" char="." rowspan="1" colspan="1">5444</td>
+    <td align="char" char="." rowspan="1" colspan="1">35 425</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBSS SW Rwanda 2015
+     <xref rid="R6" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV+ without viral suppression on ART
+     <break/> (State 5)
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">10 092</td>
+    <td align="char" char="." rowspan="1" colspan="1">1894</td>
+    <td align="char" char="." rowspan="1" colspan="1">10 266</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBSS SW Rwanda 2015
+     <xref rid="R6" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Total size</td>
+    <td align="char" char="." rowspan="1" colspan="1">47 750</td>
+    <td align="char" char="." rowspan="1" colspan="1">25 000</td>
+    <td align="char" char="." rowspan="1" colspan="1">111 000</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">ESPHS Rwanda 2011
+     <xref rid="R29" ref-type="bibr">29</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Sex client population</td>
+    <td align="left" valign="top" colspan="4" rowspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV- (State 1)</td>
+    <td align="char" char="." rowspan="1" colspan="1">133 808</td>
+    <td align="char" char="." rowspan="1" colspan="1">38 070</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBSS SW Rwanda 2015
+     <xref rid="R6" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Undiagnosed HIV (State 2)</td>
+    <td align="char" char="." rowspan="1" colspan="1">4166</td>
+    <td align="char" char="." rowspan="1" colspan="1">550</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">BBSS SW Rwanda 2015
+     <xref rid="R6" ref-type="bibr">6</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Diagnosed HIV pre-ART (State 3)</td>
+    <td align="char" char="." rowspan="1" colspan="1">1859</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="char" char="." rowspan="1" colspan="1">31 573</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">UNAIDS 2016
+     <xref rid="R13" ref-type="bibr">13</xref>; Nsanzimana 2015
+     <xref rid="R25" ref-type="bibr">25</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV+ with viral suppression on ART (State 4)</td>
+    <td align="char" char="." rowspan="1" colspan="1">9815</td>
+    <td align="char" char="." rowspan="1" colspan="1">524</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">UNAIDS 2016
+     <xref rid="R13" ref-type="bibr">13</xref>; Nsanzimana 2015
+     <xref rid="R25" ref-type="bibr">25</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV+ without viral suppression on ART
+     <break/> (State 5)
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">6963</td>
+    <td align="char" char="." rowspan="1" colspan="1">736</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">UNAIDS 2016
+     <xref rid="R13" ref-type="bibr">13</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Total size</td>
+    <td align="char" char="." rowspan="1" colspan="1">156 611</td>
+    <td align="char" char="." rowspan="1" colspan="1">42 300</td>
+    <td align="char" char="." rowspan="1" colspan="1">177 000</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">ESPHS Rwanda 2011
+     <xref rid="R29" ref-type="bibr">29</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">General population</td>
+    <td align="left" valign="top" colspan="4" rowspan="1"/>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV- (State 1)</td>
+    <td align="char" char="." rowspan="1" colspan="1">11 467 068</td>
+    <td align="char" char="." rowspan="1" colspan="1">11 395 940</td>
+    <td align="char" char="." rowspan="1" colspan="1">11 502 223</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">NISR 2015
+     <xref rid="R5" ref-type="bibr">5</xref>; UNAIDS 2016
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Undiagnosed HIV (State 2)</td>
+    <td align="char" char="." rowspan="1" colspan="1">24 337</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="char" char="." rowspan="1" colspan="1">179 973</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">UNAIDS 2016
+     <xref rid="R13" ref-type="bibr">13</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Diagnosed HIV pre-ART (State 3)</td>
+    <td align="char" char="." rowspan="1" colspan="1">11 874</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="char" char="." rowspan="1" colspan="1">231 646</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">UNAIDS 2016
+     <xref rid="R13" ref-type="bibr">13</xref>; Nsanzimana 2015
+     <xref rid="R25" ref-type="bibr">25</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV+ with viral suppression on ART (State 4)</td>
+    <td align="char" char="." rowspan="1" colspan="1">156 679</td>
+    <td align="char" char="." rowspan="1" colspan="1">112 499</td>
+    <td align="char" char="." rowspan="1" colspan="1">244 172</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">UNAIDS 2016
+     <xref rid="R13" ref-type="bibr">13</xref>; Nsanzimana 2015
+     <xref rid="R25" ref-type="bibr">25</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> HIV+ without viral suppression on ART
+     <break/> (State 5)
+    </td>
+    <td align="char" char="." rowspan="1" colspan="1">161 180</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="char" char="." rowspan="1" colspan="1">236 966</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">UNAIDS 2016
+     <xref rid="R13" ref-type="bibr">13</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1"> Total size</td>
+    <td align="char" char="." rowspan="1" colspan="1">11 809 264</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">–</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">NISR 2015
+     <xref rid="R5" ref-type="bibr">5</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="T1_FN1">
+   <p>The base values used for the 2017–2027 model run were the output values for the calibrated model.</p>
+  </fn>
+  <fn id="T1_FN2">
+   <p>ART, antiretroviral therapy.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

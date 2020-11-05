@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e1846">Conceptually, a prediction interval for the future viral state 
+ <inline-formula>
+  <math id="d1e1849" display="inline" altimg="si32.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="script">I</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> can be obtained by two steps. First, obtain random samples from the distribution of the model errors 
+ <inline-formula>
+  <math id="d1e1867" display="inline" altimg="si53.svg">
+   <mrow>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>n</mi>
+     <mo>−</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Second, for every sample of the errors 
+ <inline-formula>
+  <math id="d1e1899" display="inline" altimg="si53.svg">
+   <mrow>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>n</mi>
+     <mo>−</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, obtain a point forecast of the future viral states 
+ <inline-formula>
+  <math id="d1e1932" display="inline" altimg="si54.svg">
+   <mrow>
+    <mi mathvariant="script">I</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. The prediction intervals for the future viral state 
+ <inline-formula>
+  <math id="d1e1945" display="inline" altimg="si54.svg">
+   <mrow>
+    <mi mathvariant="script">I</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> can be obtained from the ensemble of point forecasts.
+</p>

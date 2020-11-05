@@ -1,0 +1,322 @@
+{
+  "id": [
+    "33110711"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33110711"
+  ],
+  "pmcid": [
+    "PMC7581214"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7581214"
+      ]
+    }
+  ],
+  "doi": [
+    "10.7759/cureus.11081"
+  ],
+  "title": [
+    "Deep Neck Space Infection in HIV-Infected Children: A Case Series."
+  ],
+  "authorString": [
+    "Hari K, Mungul S, Maharaj S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hari K"
+          ],
+          "firstName": [
+            "Kapila"
+          ],
+          "lastName": [
+            "Hari"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Internal Medicine, School of Medicine, University of the Witwatersrand, Johannesburg, ZAF."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mungul S"
+          ],
+          "firstName": [
+            "Sheetal"
+          ],
+          "lastName": [
+            "Mungul"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Neurosciences, Charlotte Maxeke Johannesburg Academic Hospital, Johannesburg, ZAF."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maharaj S"
+          ],
+          "firstName": [
+            "Shivesh"
+          ],
+          "lastName": [
+            "Maharaj"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Otorhinolaryngology, Charlotte Maxeke Johannesburg Academic Hospital, Johannesburg, ZAF."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3032770"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cureus"
+          ],
+          "ISOAbbreviation": [
+            "Cureus"
+          ],
+          "medlineAbbreviation": [
+            "Cureus"
+          ],
+          "NLMid": [
+            "101596737"
+          ],
+          "ISSN": [
+            "2168-8184"
+          ],
+          "ESSN": [
+            "2168-8184"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e11081"
+  ],
+  "abstractText": [
+    "Background Deep neck space infections (DNSIs) in children may lead to airway compromise and damage to the great vessels in the neck. They occur more commonly in the HIV-infected population. To our knowledge, this is the first case series of DNSI in HIV-infected children Objectives The aim of this study was to describe the demography and document the sites of infection; organisms identified and resistance patterns in HIV-infected children with DNSI. Methods We retrospectively reviewed the clinical records of children (<16 years) diagnosed with deep neck infections at the teaching hospitals for the Department of Otolaryngology, Head and Neck Surgery, University of the Witwatersrand, between January 2010 and December 2018. Results We identified 17 patients with DNSI of which six children had concomitant HIV infection. The average age at presentation was six years (range: 0.35-13 years); there were four males and two females. The most common site involved was the submandibular space, which was affected in four patients. The detected organisms included: Coagulase-negative staphylococcus, Streptococcus viridans, Prevotella, Proteus mirabilis and Bacteroides fragilis. The organisms were universally resistant to penicillin and ampicillin resistance was documented in all but one patient. Conclusion Our findings on microbiology, resistance and tuberculosis culture are significant even in the face of a small series and have implications for the diagnosis and treatment of DNSI in HIV-infected children. Tuberculosis should routinely be considered in high burden settings. We recommend the empiric use of a β-lactamase-resistant antibiotic until targeted therapy based on culture and sensitivity can be instituted."
+  ],
+  "affiliation": [
+    "Internal Medicine, School of Medicine, University of the Witwatersrand, Johannesburg, ZAF."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibiotics",
+        "HIV",
+        "Paediatric Deep Neck Space Infections"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7759/cureus.11081"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7581214"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7581214?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-28"
+  ],
+  "firstIndexDate": [
+    "2020-10-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-28"
+  ],
+  "dateOfRevision": [
+    "2020-10-29"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-21"
+  ],
+  "firstPublicationDate": [
+    "2020-10-21"
+  ]
+}

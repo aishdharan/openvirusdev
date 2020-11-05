@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R14">
+ <label>14</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <collab>R Core Team</collab>
+  </person-group>
+  <source>R: A language and environment for statistical computing (v.3.4.2) [program]</source>. 
+  <publisher-loc>Vienna, Austria</publisher-loc>: 
+  <publisher-name>R Foundation for Statistical Computing</publisher-name>, 
+  <year>2017</year>.
+ </mixed-citation>
+</ref>

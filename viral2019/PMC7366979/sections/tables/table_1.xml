@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0005">
+ <label>Table 1</label>
+ <caption>
+  <p>Bayesian phylogenetic estimates of evolutionary parameters and model comparison for genome sequences of SARS-CoV-2 under different clock models and coalescent tree priors.</p>
+ </caption>
+ <alt-text id="at0030">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" valign="middle" rowspan="2">Clock model</th>
+    <th align="left" valign="middle" rowspan="2">Coalescent tree prior</th>
+    <th colspan="3" align="left">Substitution rate (substitutions/site/year)
+     <hr/>
+    </th>
+    <th colspan="3" align="left">TMRCA
+     <hr/>
+    </th>
+    <th align="left" valign="middle" rowspan="2">PS</th>
+    <th align="left" valign="middle" rowspan="2">Rank</th>
+    <th align="left" valign="middle" rowspan="2">SS</th>
+    <th align="left" valign="middle" rowspan="2">Rank</th>
+   </tr>
+   <tr>
+    <th align="left">Mean</th>
+    <th align="left">Lower 95 % HPD</th>
+    <th align="left">Upper 95 % HPD</th>
+    <th align="left">Mean</th>
+    <th align="left">Lower 95 % HPD</th>
+    <th align="left">Upper 95 % HPD</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="middle" rowspan="5">Strict</td>
+    <td align="left">Constant</td>
+    <td align="left">1.02E-03</td>
+    <td align="left">6.83E-04</td>
+    <td align="left">1.38E-03</td>
+    <td align="left">2019-11-14</td>
+    <td align="left">2019-10-16</td>
+    <td align="left">2019-12-07</td>
+    <td align="left">−42140.6</td>
+    <td align="left">10</td>
+    <td align="left">−42141</td>
+    <td align="left">9</td>
+   </tr>
+   <tr>
+    <td align="left">Exponential
+     <xref rid="tblfn0005" ref-type="table-fn">a</xref>
+    </td>
+    <td align="left">9.97E-04</td>
+    <td align="left">6.56E-04</td>
+    <td align="left">1.39E-03</td>
+    <td align="left">2019-11-14</td>
+    <td align="left">2019-10-16</td>
+    <td align="left">2019-12-09</td>
+    <td align="left">−42117.4</td>
+    <td align="left">2</td>
+    <td align="left">−42117</td>
+    <td align="left">2</td>
+   </tr>
+   <tr>
+    <td align="left">Exponential
+     <xref rid="tblfn0010" ref-type="table-fn">b</xref>
+    </td>
+    <td align="left">1.11E-03</td>
+    <td align="left">7.38E-04</td>
+    <td align="left">1.53E-03</td>
+    <td align="left">2019-11-29</td>
+    <td align="left">2019-11-09</td>
+    <td align="left">2019-12-15</td>
+    <td align="left">−42123.5</td>
+    <td align="left">3</td>
+    <td align="left">−42124</td>
+    <td align="left">3</td>
+   </tr>
+   <tr>
+    <td align="left">Skyline</td>
+    <td align="left">9.90E-04</td>
+    <td align="left">5.43E-04</td>
+    <td align="left">1.44E-03</td>
+    <td align="left">2019-12-06</td>
+    <td align="left">2019-11-15</td>
+    <td align="left">2019-12-21</td>
+    <td align="left">−42124.6</td>
+    <td align="left">5</td>
+    <td align="left">−42125.3</td>
+    <td align="left">5</td>
+   </tr>
+   <tr>
+    <td align="left">Skygrid</td>
+    <td align="left">8.37E-04</td>
+    <td align="left">5.06E-04</td>
+    <td align="left">1.23E-03</td>
+    <td align="left">2019-12-05</td>
+    <td align="left">2019-11-19</td>
+    <td align="left">2019-12-16</td>
+    <td align="left">−42129.6</td>
+    <td align="left">7</td>
+    <td align="left">−42130.5</td>
+    <td align="left">7</td>
+   </tr>
+   <tr>
+    <td align="left" valign="middle" rowspan="5">Relaxed</td>
+    <td align="left">Constant</td>
+    <td align="left">1.03E-03</td>
+    <td align="left">6.94E-04</td>
+    <td align="left">1.40E-03</td>
+    <td align="left">2019-11-13</td>
+    <td align="left">2019-10-14</td>
+    <td align="left">2019-12-09</td>
+    <td align="left">−42140.5</td>
+    <td align="left">9</td>
+    <td align="left">−42141</td>
+    <td align="left">10</td>
+   </tr>
+   <tr>
+    <td align="left">Exponential
+     <xref rid="tblfn0005" ref-type="table-fn">a</xref>
+    </td>
+    <td align="left">9.90E-04</td>
+    <td align="left">6.29E-04</td>
+    <td align="left">1.35E-03</td>
+    <td align="left">2019-11-12</td>
+    <td align="left">2019-10-11</td>
+    <td align="left">2019-12-09</td>
+    <td align="left">−42116.1</td>
+    <td align="left">1</td>
+    <td align="left">−42117</td>
+    <td align="left">1</td>
+   </tr>
+   <tr>
+    <td align="left">Exponential
+     <xref rid="tblfn0010" ref-type="table-fn">b</xref>
+    </td>
+    <td align="left">1.12E-03</td>
+    <td align="left">7.40E-04</td>
+    <td align="left">1.53E-03</td>
+    <td align="left">2019-11-30</td>
+    <td align="left">2019-11-10</td>
+    <td align="left">2019-12-16</td>
+    <td align="left">−42127.8</td>
+    <td align="left">6</td>
+    <td align="left">−42129</td>
+    <td align="left">6</td>
+   </tr>
+   <tr>
+    <td align="left">Skyline</td>
+    <td align="left">1.00E-03</td>
+    <td align="left">5.09E-04</td>
+    <td align="left">1.47E-03</td>
+    <td align="left">2019-</td>
+    <td align="left">2019-11-16</td>
+    <td align="left">2019-12-21</td>
+    <td align="left">−42123.7</td>
+    <td align="left">4</td>
+    <td align="left">−42125</td>
+    <td align="left">4</td>
+   </tr>
+   <tr>
+    <td align="left">Skygrid</td>
+    <td align="left">8.57E-04</td>
+    <td align="left">5.32E-04</td>
+    <td align="left">1.24E-03</td>
+    <td align="left">2019-12-06</td>
+    <td align="left">2019-11-19</td>
+    <td align="left">2019-12-16</td>
+    <td align="left">−42130.1</td>
+    <td align="left">8</td>
+    <td align="left">−42131</td>
+    <td align="left">8</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>PS: path sampling, SS: stepping-stone sampling.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tblfn0005">
+   <label>a</label>
+   <p id="npar0005">exponential growth population with growth rate parameterization.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tblfn0010">
+   <label>b</label>
+   <p id="npar0010">exponential growth population with doubling time parameterization.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

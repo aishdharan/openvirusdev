@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="table1-0020731420946590" orientation="portrait" position="float">
+ <label>Table 1.</label>
+ <caption>
+  <p>Country-Specific COVID-19 Case Fatality Rate Among Confirmed Cases (as of June 6, 2020) and Excess Deaths Compared to the Same Periods in Some European Countries.
+   <sup>
+    <xref ref-type="table-fn" rid="table-fn2-0020731420946590">a</xref>
+   </sup>
+  </p>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="10.1177_0020731420946590-table1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <thead valign="top">
+    <tr>
+     <th rowspan="1" colspan="1"/>
+     <th rowspan="1" colspan="1">CFR</th>
+     <th rowspan="1" colspan="1">Excess Deaths</th>
+    </tr>
+   </thead>
+   <tbody valign="top">
+    <tr>
+     <td rowspan="1" colspan="1">France</td>
+     <td align="char" char="." rowspan="1" colspan="1">19.02</td>
+     <td rowspan="1" colspan="1">34% (March 16–April 26)</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">Belgium</td>
+     <td align="char" char="." rowspan="1" colspan="1">16.24</td>
+     <td rowspan="1" colspan="1">51% (March 16–May 10)</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">Italy</td>
+     <td align="char" char="." rowspan="1" colspan="1">14.4</td>
+     <td rowspan="1" colspan="1">49% (in March)</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">United Kingdom</td>
+     <td align="char" char="." rowspan="1" colspan="1">14.21</td>
+     <td rowspan="1" colspan="1">56% (March 14–May 15)</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">Spain</td>
+     <td align="char" char="." rowspan="1" colspan="1">11.24</td>
+     <td rowspan="1" colspan="1">72% (March 16–May 10)</td>
+    </tr>
+    <tr>
+     <td rowspan="1" colspan="1">Germany</td>
+     <td align="char" char="." rowspan="1" colspan="1">4.71</td>
+     <td rowspan="1" colspan="1">3% (March 16–April 26)</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="table-fn1-0020731420946590">
+   <p>Abbreviation: CFR, case fatality rate.</p>
+  </fn>
+  <fn id="table-fn2-0020731420946590">
+   <p>
+    <sup>a</sup>Data obtained from Our World in Data
+    <sup>
+     <xref rid="bibr26-0020731420946590" ref-type="bibr">26</xref>
+    </sup> and Wu et al.
+    <sup>
+     <xref rid="bibr27-0020731420946590" ref-type="bibr">27</xref>
+    </sup>
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

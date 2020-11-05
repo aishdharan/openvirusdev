@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Carr</surname>
+    <given-names>JK</given-names>
+   </name>
+  </person-group>
+  <article-title>Viral diversity as a challenge to HIV-1 vaccine development</article-title>
+  <source>Curr. Opin. HIV AIDS</source>
+  <year>2006</year>
+  <volume>1</volume>
+  <fpage>294</fpage>
+  <lpage>300</lpage>
+  <pub-id pub-id-type="doi">10.1097/01.COH.0000232344.23533.be</pub-id>
+  <?supplied-pmid 19372824?>
+  <pub-id pub-id-type="pmid">19372824</pub-id>
+ </element-citation>
+</ref>

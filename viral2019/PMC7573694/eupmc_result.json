@@ -1,0 +1,486 @@
+{
+  "id": [
+    "33126032"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33126032"
+  ],
+  "pmcid": [
+    "PMC7573694"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7573694"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.envpol.2020.115897"
+  ],
+  "title": [
+    "Associations between air pollution and COVID-19 epidemic during quarantine period in China."
+  ],
+  "authorString": [
+    "Zhang X, Tang M, Guo F, Wei F, Yu Z, Gao K, Jin M, Wang J, Chen K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xinhan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China. Electronic address: zhangxinhan@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang M"
+          ],
+          "firstName": [
+            "Mengling"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China. Electronic address: tangml@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guo F"
+          ],
+          "firstName": [
+            "Fanjia"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China. Electronic address: guofj@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China. Electronic address: 18367565457@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Z"
+          ],
+          "firstName": [
+            "Zhebin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China. Electronic address: yu_zhebin@foxmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gao K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China. Electronic address: 39196626@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jin M"
+          ],
+          "firstName": [
+            "Mingjuan"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China; Department of Epidemiology and Biostatistics, And Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China. Electronic address: jinmj@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jianbing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China; Department of Epidemiology and Biostatistics, And National Clinical Research Center for Child Health of the Children's Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China. Electronic address: wangjianbing@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen K"
+          ],
+          "firstName": [
+            "Kun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China; Department of Epidemiology and Biostatistics, And Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China. Electronic address: ck@zju.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Pt A"
+      ],
+      "volume": [
+        "268"
+      ],
+      "journalIssueId": [
+        "3037071"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Environmental pollution (Barking, Essex : 1987)"
+          ],
+          "ISOAbbreviation": [
+            "Environ Pollut"
+          ],
+          "medlineAbbreviation": [
+            "Environ Pollut"
+          ],
+          "NLMid": [
+            "8804476"
+          ],
+          "ISSN": [
+            "0269-7491"
+          ],
+          "ESSN": [
+            "1873-6424"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "115897"
+  ],
+  "abstractText": [
+    "The coronavirus disease (COVID-19) has become a global public health threaten. A series of strict prevention and control measures were implemented in China, contributing to the improvement of air quality. In this study, we described the trend of air pollutant concentrations and the incidence of COVID-19 during the epidemic and applied generalized additive models (GAMs) to assess the association between short-term exposure to air pollution and daily confirmed cases of COVID-19 in 235 Chinese cities. Disease progression based on both onset and report dates as well as control measures as potential confounding were considered in the analyses. We found that stringent prevention and control measures intending to mitigate the spread of COVID-19, contributed to a significant decline in the concentrations of air pollutants except ozone (O3). Significant positive associations of short-term exposure to air pollutants, including particulate matter with diameters ≤2.5 μm (PM2.5), particulate matter with diameters ≤10 μm (PM10), and nitrogen dioxide (NO2) with daily new confirmed cases were observed during the epidemic. Per interquartile range (IQR) increase in PM2.5 (lag0-15), PM10 (lag0-15), and NO2 (lag0-20) were associated with a 7% [95% confidence interval (CI): (4-9)], 6% [95% CI: (3-8)], and 19% [95% CI: (13-24)] increase in the counts of daily onset cases, respectively. Our results suggest that there is a statistically significant association between ambient air pollution and the spread of COVID-19. Thus, the quarantine measures can not only cut off the transmission of virus, but also retard the spread by improving ambient air quality, which might provide implications for the prevention and control of COVID-19."
+  ],
+  "affiliation": [
+    "Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China. Electronic address: zhangxinhan@zju.edu.cn."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "China",
+        "Air pollution",
+        "Quarantine",
+        "time series",
+        "Short-term Exposure",
+        "Covid-19"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.envpol.2020.115897"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7573694"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7573694?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-30"
+  ],
+  "firstIndexDate": [
+    "2020-10-31"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-20"
+  ],
+  "firstPublicationDate": [
+    "2020-10-20"
+  ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>KW</given-names>
+   </name>
+   <name>
+    <surname>Wong</surname>
+    <given-names>VT</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>SCW</given-names>
+   </name>
+  </person-group>
+  <article-title>COVID-19: an update on the epidemiological, clinical, preventive and therapeutic evidence and guidelines of integrative Chinese-Western medicine for the management of 2019 novel coronavirus disease</article-title>
+  <source>Am J Chin Med</source>
+  <year>2020</year>
+  <volume>48</volume>
+  <issue>3</issue>
+  <fpage>737</fpage>
+  <lpage>762</lpage>
+  <pub-id pub-id-type="doi">10.1142/S0192415X20500378</pub-id>
+  <pub-id pub-id-type="pmid">32164424</pub-id>
+ </element-citation>
+</ref>

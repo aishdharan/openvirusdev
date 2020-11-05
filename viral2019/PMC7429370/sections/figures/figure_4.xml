@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>An illustrative example of epidemic spreading a human contact network including three sub-networks (cities) 
+   <inline-formula id="IEq6">
+    <alternatives>
+     <tex-math id="M23">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$G_1$$\end{document}</tex-math>
+     <math id="M24">
+      <msub>
+       <mi>G</mi>
+       <mn>1</mn>
+      </msub>
+     </math>
+     <inline-graphic xlink:href="521_2020_5285_Article_IEq6.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </alternatives>
+   </inline-formula>, 
+   <inline-formula id="IEq7">
+    <alternatives>
+     <tex-math id="M25">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$G_2$$\end{document}</tex-math>
+     <math id="M26">
+      <msub>
+       <mi>G</mi>
+       <mn>2</mn>
+      </msub>
+     </math>
+     <inline-graphic xlink:href="521_2020_5285_Article_IEq7.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </alternatives>
+   </inline-formula> and 
+   <inline-formula id="IEq8">
+    <alternatives>
+     <tex-math id="M27">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$G_3$$\end{document}</tex-math>
+     <math id="M28">
+      <msub>
+       <mi>G</mi>
+       <mn>3</mn>
+      </msub>
+     </math>
+     <inline-graphic xlink:href="521_2020_5285_Article_IEq8.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+    </alternatives>
+   </inline-formula>. 
+   <bold>a</bold> Virus spread from person to person through a human contact network. A susceptible individual may become an infection if he/she contacts with an infection. A red man with virus icon on the head represents an infection who can spread virus to susceptible neighbors (light blue man), and the solid line between two individuals means they have closely contacted and virus can transmit from one person to the other. An infected individual can be cured and then become a recovered individual (light green mean); 
+   <bold>b</bold> a human contact network with three highly clustered communities (cities) of infected, susceptible, and recovered individuals. (Color online)
+  </p>
+ </caption>
+ <graphic xlink:href="521_2020_5285_Fig4_HTML" id="MO5" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

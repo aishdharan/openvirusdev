@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Detection and identification of two distinct bands of the ORF3 gene of PEDV in Guangxi. 
+   <bold>(A)</bold> Amplification of ORF3 gene in PEDV positive samples. M
+   <sub>1</sub>: DL 2000 marker; Lane 1: negative control; Lane 2: predicted product (740 bp); Lane 3: predicted product (740 bp) and large genomic deletion (~358 bp); Lane 4: CV777 strain; Lane 5: Zhejiang-08 strain; Lane 6: AJ1102 strain. 
+   <bold>(B)</bold> Identification of the plasmid, pMD-18T-ORF3, by enzyme digestion using PstI and BamHI. M
+   <sub>2</sub>: DL 5000 marker; Lane 1: The solid arrows indicate the predicted products (740 bp); Lane 2: The dashed arrows indicate products of PEDV variants with a large genomic deletion (~358 bp).
+  </p>
+ </caption>
+ <graphic xlink:href="fvets-07-00435-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

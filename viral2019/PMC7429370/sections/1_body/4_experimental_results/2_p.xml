@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par32">This model can estimate the daily number of infected, exposed, and recovered individuals in all 367 cities. Due to space limitations, we only show the results of 17 cities in Fig. 
+ <xref rid="Fig5" ref-type="fig">5</xref>. Assuming that the migration control measures, infection rate, and recovery rate will remain unchanged for a period of time in the future, this model can provide a prediction of the amount of actively infected individuals in each city, as shown in 
+ <xref rid="Fig5" ref-type="fig">5</xref>. Results clearly show that the number of actively infected individuals has reached or peaked in most cities in China from February 20 to March 15, 2020. The prediction results show that there will be few new confirmed cases from early March, and the number of actively infected individuals will gradually decrease. The pseudocoevolutionary simulated annealing algorithm successfully finds the optimal parameter set: 
+ <inline-formula id="IEq71">
+  <alternatives>
+   <tex-math id="M167">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\alpha = 0.5631\pm 0.0161$$\end{document}</tex-math>
+   <math id="M168">
+    <mrow>
+     <mi>α</mi>
+     <mo>=</mo>
+     <mn>0.5631</mn>
+     <mo>±</mo>
+     <mn>0.0161</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq71.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq72">
+  <alternatives>
+   <tex-math id="M169">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\beta =0.2742\pm 0.0178$$\end{document}</tex-math>
+   <math id="M170">
+    <mrow>
+     <mi>β</mi>
+     <mo>=</mo>
+     <mn>0.2742</mn>
+     <mo>±</mo>
+     <mn>0.0178</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq72.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq73">
+  <alternatives>
+   <tex-math id="M171">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\gamma = 0.0509\pm 0.0007$$\end{document}</tex-math>
+   <math id="M172">
+    <mrow>
+     <mi>γ</mi>
+     <mo>=</mo>
+     <mn>0.0509</mn>
+     <mo>±</mo>
+     <mn>0.0007</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq73.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq74">
+  <alternatives>
+   <tex-math id="M173">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\kappa = 0.1310\pm 0.0035$$\end{document}</tex-math>
+   <math id="M174">
+    <mrow>
+     <mi>κ</mi>
+     <mo>=</mo>
+     <mn>0.1310</mn>
+     <mo>±</mo>
+     <mn>0.0035</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq74.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. Figure 
+ <xref rid="Fig6" ref-type="fig">6</xref>a shows the estimated peak number of infected individual in each province, while Fig. 
+ <xref rid="Fig6" ref-type="fig">6</xref>b reveals the estimated total number of infected individuals in each province. Results show that the number of infections in most provinces is smaller than 1000. It is reasonable to assume that our knowledge of the COVID-19 will gradually increase. Then, the medical treatment will improve and the recovery rate will increase each day. We assume the recovery rate will increase 0.0005 each day, namely every 20 days, the number of daily recovered individuals increases by 1% of the total number of infected individuals. Then, most cities in China will have almost zero infections before July 2020. Therefore, we can claim that China has already controlled the spreading of COVID-19 in China.
+</p>

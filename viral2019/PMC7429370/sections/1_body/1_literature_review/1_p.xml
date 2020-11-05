@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par10">Complex network theory is a powerful tool for researchers to study epidemic spreading. With the development of complex network theory, a large amount of work has investigated the effect of the structure of complex networks (such as degree of relevance, clustering coefficients, community structure, hierarchical structure, and edge weights) on the propagation properties of infectious diseases (such as spreading rate, scale of propagation, and epidemic threshold) [
+ <xref ref-type="bibr" rid="CR13">13</xref>, 
+ <xref ref-type="bibr" rid="CR28">28</xref>]. In 2001, Pastor-Satorras et al. studied the propagation model on scale-free networks and proved that scale-free networks are weak against infectious diseases and can maintain spreading at any small infection rate [
+ <xref ref-type="bibr" rid="CR12">12</xref>, 
+ <xref ref-type="bibr" rid="CR13">13</xref>]. In the same year, May and Lloyd investigate the effect of network scale on spreading behavior of scale-free networks and pointed out that there are positive propagation thresholds for limited scale-free networks [
+ <xref ref-type="bibr" rid="CR29">29</xref>]. In 2002, Newman investigated the SIR propagation model in a scale-free network and proved that there is an epidemic threshold when the cutoff value of the degree of nodes in the network is relatively small [
+ <xref ref-type="bibr" rid="CR30">30</xref>]. In 2007, Toroczkai et al. proposed the concept of dynamic proximity networks based on the premise of dynamic contact networks [
+ <xref ref-type="bibr" rid="CR31">31</xref>]. Ball et al. constructed a model that includes local adjacent and global accidental connections, and results showed that the degree distribution and accidental connections have a significant effect on the spreading of epidemic [
+ <xref ref-type="bibr" rid="CR32">32</xref>]. In 2018, Wang et al. proposed a dynamic epidemiological model based on complex routing in the form of multiple routes [
+ <xref ref-type="bibr" rid="CR33">33</xref>].
+</p>

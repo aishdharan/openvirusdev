@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="pntd.0008658.s006">
+ <label>S3 Table</label>
+ <caption>
+  <title>Information of yellow fever virus (YFV) sequences included in the dataset.</title>
+  <p>ID: identification. YFV: yellow fever virus. NHP: non-human primate. NA: not available. This dataset included 112 YFV nucleotide (nt) sequences, spanning 621 nt (from the nucleotide 1,766 to 2,386 of MK333808.1 sequence) from South American and African genotypes.</p>
+  <p>(DOC)</p>
+ </caption>
+ <media xlink:href="pntd.0008658.s006.doc" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

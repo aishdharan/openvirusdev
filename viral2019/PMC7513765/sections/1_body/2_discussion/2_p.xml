@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0145">Accurate predictions of ongoing epidemics depend critically on the initial and boundary conditions of the simulations. For example, the particular set of model parameters we used to match the Italian data of the ongoing SARS-CoV-2 epidemics (see 
+ <xref rid="fig6" ref-type="fig">Figure 6</xref>'s caption for details) is obviously not unique. In particular, these predictions depend (given the initial dates for lockdown and phase 2) on the starting time of the epidemics and the actual efficiency of the solar effect (two parameters strongly degenerate with each other: see below). The second of these parameters, in turn, depends on the exact knowledge of the virus' UV-C lethal dose D
+ <sub>0</sub>, the way this is delivered, and the time the virus (in aerosol or surfaces) remains exposed to the dose. Accurate modeling of this phenomenon is beyond the scope of this work. However, it is useful to show the comparison with drastically different solar-pump efficiencies to highlight the potential predictive power of the model for, e.g., the SARS-CoV-2 epidemic.
+</p>

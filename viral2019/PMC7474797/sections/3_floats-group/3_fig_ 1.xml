@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>The four main deletions or insertions in the complete genome sequence alignment. A multiple sequence alignment was constructed using ClustalW in the DNASTAR software. The four PDCoV strains sequenced in this study are indicated by black triangles. A dot (•) indicates that the nucleotide exactly matches the reference sequence. A dash (-) indicates that the nucleotide is deleted relative to the reference sequence</p>
+ </caption>
+ <graphic xlink:href="705_2020_4796_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

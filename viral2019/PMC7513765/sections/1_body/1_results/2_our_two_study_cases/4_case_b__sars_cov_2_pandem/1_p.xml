@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0110">Our second study case aims to model the recent SARS-CoV-2 pandemic outbreak under the different assumptions tested in this work and allows us to gain insights into possible future scenarios. As for study case A, we use the three groups at latitudes 40
+ <sup>0</sup> north, 40
+ <sup>0</sup> south, and the equator and run simulations both with (ε≠0) and without (ε = 0) the solar forcing term and for LOI rates γ
+ <sub>in</sub> = 0.0055, 0.00055, and 0. Additionally, for study case B, we also compare our northern hemisphere simulation with the SARS-CoV-2 data for Italy (central latitude +41.5°) observed from 24 February 2020 through 21 August 2020 (see Methods in 
+ <xref rid="appsec1" ref-type="fn">Supplementary Information</xref>). To do so, we introduce, for all groups, two additional external forcing terms that modulate the contact rate β (chosen to be 0.33, to reproduce the observed—in virtually every monitored country—initial exponential growth rate): a “lockdown” term and a “phase 2” term (see 
+ <xref rid="fig6" ref-type="fig">Figure 6</xref>'s caption for details).
+</p>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Description of recombination transmission net found among the 165 HIV-1 variants collected in Kinshasa from 2016 to 2018.</p>
+ </caption>
+ <graphic position="anchor" xlink:href="41598_2020_74558_Tab3_HTML" id="MO15" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ <table-wrap-foot>
+  <p>RecB, recombination network sharing 599 nts subtype B fragment in RT; RecG, recombination network sharing 615 nts subtype G fragment in IN; M, male; F, female; frag., fragment. Analysed 
+   <italic>pol</italic> fragment (numbering according to HXB2): 1, positions 2253-2934 (in protease); 2, positions 2935-3534 (in retrotranscriptase); 3, positions 3704-4389 (in RNase H); 4, positions 4390-5005 (in integrase).
+  </p>
+ </table-wrap-foot>
+</table-wrap>

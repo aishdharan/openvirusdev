@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Zhang</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Li</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zhou</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Persistent viral shedding lasting over 60 days in a mild COVID-19 patient with ongoing positive SARS-CoV-2</article-title>. 
+  <source>Quant Imaging Med Surg</source>
+  <year>2020</year>;
+  <volume>10</volume>:
+  <fpage>1141</fpage>–
+  <lpage>4</lpage>. 
+  <pub-id pub-id-type="doi">10.21037/qims.2020.04.08</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32489935?>
+  <pub-id pub-id-type="pmid">32489935</pub-id>
+ </mixed-citation>
+</ref>

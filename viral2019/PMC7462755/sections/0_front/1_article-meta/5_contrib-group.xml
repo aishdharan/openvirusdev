@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Mi</given-names>
+  </name>
+  <xref rid="af0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0010">
+  <name>
+   <surname>Deng</surname>
+   <given-names>Lizong</given-names>
+  </name>
+  <xref rid="af0010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0015">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Dayan</given-names>
+  </name>
+  <xref rid="af0015" ref-type="aff">c</xref>
+  <xref rid="cr0005" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0020">
+  <name>
+   <surname>Jiang</surname>
+   <given-names>Taijiao</given-names>
+  </name>
+  <xref rid="af0010" ref-type="aff">b</xref>
+  <xref rid="cr0010" ref-type="corresp">⁎⁎</xref>
+ </contrib>
+ <aff id="af0005">
+  <label>a</label>Jiangsu Institute of Clinical Immunology &amp; Jiangsu Key Laboratory of Clinical Immunology, First Affiliated Hospital of Soochow University, Suzhou 215006, China
+ </aff>
+ <aff id="af0010">
+  <label>b</label>Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing 100005; Suzhou Institute of Systems Medicine, Suzhou 215123, Jiangsu, China
+ </aff>
+ <aff id="af0015">
+  <label>c</label>Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, China CDC, Beijing 102206, China
+ </aff>
+</contrib-group>

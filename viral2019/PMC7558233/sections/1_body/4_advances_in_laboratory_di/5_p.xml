@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0090">To accelerate the clinical diagnostic testing of COVID-19 (particularly for population-based survey or point-of-care testing), a rapid, accurate, and portable detection method based on clustered regularly interspaced short palindromic repeats (CRISPR)/ CRISPR associate system (Cas) has been developed. The CRISPR/Cas system is an adaptive immune system in archaea and bacteria that defends against foreign genetic elements 
+ <xref rid="b0235" ref-type="bibr">[47]</xref>, 
+ <xref rid="b0240" ref-type="bibr">[48]</xref>. CRISPR allows a programmable protein to attach onto the target site assisted by a guide RNA for cleavage of the target sequence 
+ <xref rid="b0235" ref-type="bibr">[47]</xref>, 
+ <xref rid="b0245" ref-type="bibr">[49]</xref>, 
+ <xref rid="b0250" ref-type="bibr">[50]</xref>, 
+ <xref rid="b0255" ref-type="bibr">[51]</xref>. CRISPR/Cas12a-based detection has been established together with SARS-CoV-2-specific CRISPR RNAs (crRNAs) targeting the orf1a, orf1b, N, and E genes, and a single-stranded DNA (ssDNA) reporter labeled with a quenched green fluorescent molecule has been developed 
+ <xref rid="b0240" ref-type="bibr">[48]</xref>. The fluorescent molecule is cleaved in the presence of a trace amount of SARS-CoV-2 sequences; more importantly, the results can be determined by the naked eye. This system also allows for simultaneous reverse transcription and isothermal amplification at a low temperature, independent of laboratory instruments, and thus could meet the urgent need for rapid diagnosis.
+</p>

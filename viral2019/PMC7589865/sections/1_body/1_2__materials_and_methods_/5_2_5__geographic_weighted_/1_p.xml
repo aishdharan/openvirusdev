@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>General linear and non-linear regression were widely used in previous studies to analyze the relation between two groups of variables, However, taking consideration of heterogeneity of POI data, an advanced method of GWR is adopted in this study to eliminate spatial heterogeneity and improve the fitting results. Fotheringham et al. [
+ <xref rid="B40-ijerph-17-07664" ref-type="bibr">40</xref>], based on the thinking behind the local smooth GWR model, is put forward [
+ <xref rid="B41-ijerph-17-07664" ref-type="bibr">41</xref>,
+ <xref rid="B42-ijerph-17-07664" ref-type="bibr">42</xref>,
+ <xref rid="B43-ijerph-17-07664" ref-type="bibr">43</xref>]. The GWR model can be formulated by, 
+ <disp-formula id="FD9-ijerph-17-07664">
+  <label>(9)</label>
+  <math id="mm40">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>y</mi>
+      <mi>p</mi>
+     </msub>
+     <mo>=</mo>
+     <msub>
+      <mi>β</mi>
+      <mn>0</mn>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>u</mi>
+        <mi>p</mi>
+       </msub>
+       <mo>,</mo>
+       <mtext> </mtext>
+       <msub>
+        <mi>v</mi>
+        <mi>p</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>+</mo>
+     <msub>
+      <mi>β</mi>
+      <mn>1</mn>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>u</mi>
+        <mi>p</mi>
+       </msub>
+       <mo>,</mo>
+       <mtext> </mtext>
+       <msub>
+        <mi>v</mi>
+        <mi>p</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>·</mo>
+     <msub>
+      <mi>x</mi>
+      <mrow>
+       <mi>p</mi>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>+</mo>
+     <mo>⋯</mo>
+     <mo>+</mo>
+     <msub>
+      <mi>β</mi>
+      <mi>q</mi>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>u</mi>
+        <mi>p</mi>
+       </msub>
+       <mo>,</mo>
+       <mtext> </mtext>
+       <msub>
+        <mi>v</mi>
+        <mi>p</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>·</mo>
+     <msub>
+      <mi>x</mi>
+      <mrow>
+       <mi>p</mi>
+       <mi>q</mi>
+      </mrow>
+     </msub>
+     <mo>+</mo>
+     <msub>
+      <mi>ε</mi>
+      <mi>s</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm41">
+   <mrow>
+    <mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>u</mi>
+        <mi>p</mi>
+       </msub>
+       <mo>,</mo>
+       <mtext> </mtext>
+       <msub>
+        <mi>v</mi>
+        <mi>p</mi>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> represents the spatial position 
+ <inline-formula>
+  <math id="mm42">
+   <mrow>
+    <mi>p</mi>
+   </mrow>
+  </math>
+ </inline-formula>, (
+ <inline-formula>
+  <math id="mm43">
+   <mrow>
+    <mrow>
+     <mi>p</mi>
+     <mo>=</mo>
+     <mn>1</mn>
+     <mo>,</mo>
+     <mn>2</mn>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+     <mn>367</mn>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>). The spatial regression coefficient of 
+ <inline-formula>
+  <math id="mm44">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>β</mi>
+      <mn>0</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, 
+ <inline-formula>
+  <math id="mm45">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>β</mi>
+      <mn>1</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, …
+ <inline-formula>
+  <math id="mm46">
+   <mrow>
+    <mrow>
+     <mo>,</mo>
+     <msub>
+      <mi>β</mi>
+      <mi>q</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is a function of position space coordinates which indicates the degree that spatial independent variables affected dependent variables. 
+ <inline-formula>
+  <math id="mm47">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>ε</mi>
+      <mi>s</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is a deviation, it represents the degree of deviation of two variables. 
+ <inline-formula>
+  <math id="mm48">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>y</mi>
+      <mi>p</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is PM
+ <sub>2.5</sub> concentration. 
+ <inline-formula>
+  <math id="mm49">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>x</mi>
+      <mrow>
+       <mi>p</mi>
+       <mi>q</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is POI data.
+</p>

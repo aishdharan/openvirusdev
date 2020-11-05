@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shen</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Zou</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Lai</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Existence of Th22 in children and evaluation of IL-22 + CD4 + T, Th17, and other T cell effector subsets from healthy children compared to adults</article-title>. 
+  <source>BMC Immunol.</source> (
+  <year>2016</year>) 
+  <volume>17</volume>:
+  <fpage>20</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/s12865-016-0158-8</pub-id>
+  <?supplied-pmid 27338754?>
+  <pub-id pub-id-type="pmid">27338754</pub-id>
+ </mixed-citation>
+</ref>

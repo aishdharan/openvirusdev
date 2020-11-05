@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R54">
+ <label>54</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Lai</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ruktanonchai</surname>
+    <given-names>NW</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zhou</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Effect of non-pharmaceutical interventions to contain COVID-19 in China</article-title>. 
+  <source>Nature</source>
+  <year>2020</year>;
+  <volume>41</volume>. 
+  <pub-id pub-id-type="doi">10.1038/s41586-020-2293-x</pub-id>. [Epub ahead of print: 04 May 2020].
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32365354?>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0010">
+ <label>10</label>
+ <element-citation publication-type="journal" id="sbref0007">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tian</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Yuan</surname>
+    <given-names>R.</given-names>
+   </name>
+  </person-group>
+  <article-title>Traveling waves for a diffusive SEIR epidemic model with non-local reaction</article-title>
+  <source>Appl. Math. Model.</source>
+  <volume>50</volume>
+  <year>2017</year>
+  <fpage>432</fpage>
+  <lpage>449</lpage>
+ </element-citation>
+</ref>

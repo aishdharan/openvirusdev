@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Prevalence of most frequently detected TDRM (including NRTI A62 and NNRTI E138) in women, 2010–2018</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="3">Drug Class</th>
+    <th rowspan="3">DRM</th>
+    <th colspan="6">HIV-1 Subtype</th>
+    <th>
+     <bold>
+      <italic>p value</italic>
+     </bold>
+    </th>
+    <th>
+     <bold>
+      <italic>p value</italic>
+     </bold>
+    </th>
+    <th>
+     <bold>
+      <italic>p value</italic>
+     </bold>
+    </th>
+   </tr>
+   <tr>
+    <th>All</th>
+    <th>A</th>
+    <th>C</th>
+    <th>B</th>
+    <th>G/AG</th>
+    <th>Other</th>
+    <th>
+     <bold>
+      <italic>A</italic>
+     </bold> vs. 
+     <bold>
+      <italic>C</italic>
+     </bold>
+    </th>
+    <th>
+     <bold>
+      <italic>B</italic>
+     </bold> vs. 
+     <bold>
+      <italic>C</italic>
+     </bold>
+    </th>
+    <th>
+     <bold>
+      <italic>A</italic>
+     </bold> vs. 
+     <bold>
+      <italic>B</italic>
+     </bold>
+    </th>
+   </tr>
+   <tr>
+    <th>
+     <bold>
+      <italic>N</italic>
+     </bold> = 337
+    </th>
+    <th>
+     <bold>
+      <italic>N</italic>
+     </bold> = 130
+    </th>
+    <th>
+     <bold>
+      <italic>N</italic>
+     </bold> = 141
+    </th>
+    <th>
+     <bold>
+      <italic>N</italic>
+     </bold> = 34
+    </th>
+    <th>
+     <bold>
+      <italic>N</italic>
+     </bold> = 23
+    </th>
+    <th>
+     <bold>
+      <italic>N</italic>
+     </bold> = 9
+    </th>
+    <th/>
+    <th/>
+    <th/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="3">PI, n (%)</td>
+    <td>D30N</td>
+    <td>1 (0.3)</td>
+    <td/>
+    <td>1 (0.7)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>M46I</td>
+    <td>5 (1.5)</td>
+    <td>1 (0.8)</td>
+    <td>4 (2.8)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>0.222</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>V82MS</td>
+    <td>1 (0.3)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td char="(" align="char">1 (1.5)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td rowspan="7">NRTI, n (%)</td>
+    <td>M41L</td>
+    <td>1 (0.3)</td>
+    <td/>
+    <td>1 (0.7)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>A62V</td>
+    <td>19 (5.6)</td>
+    <td>17 (13)</td>
+    <td>2 (1.4)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>&lt; 0.001</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>D67EGN</td>
+    <td>5 (1.5)</td>
+    <td>3 (2.3)</td>
+    <td>2 (1.4)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>0.582</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>K70R</td>
+    <td>3 (0.9)</td>
+    <td>2 (1.5)</td>
+    <td>1 (0.7)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>0.526</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>M184V</td>
+    <td>5 (1.5)</td>
+    <td>3 (2.3)</td>
+    <td>2 (1.4)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>0.582</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>T215EIS</td>
+    <td>4 (1.2)</td>
+    <td>1 (0.8)</td>
+    <td>3 (2.1)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>0.376</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>K219Q</td>
+    <td>1 (0.3)</td>
+    <td>1 (0.8)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td rowspan="7">NNRTI, n (%)</td>
+    <td>K101E</td>
+    <td>1 (0.3)</td>
+    <td/>
+    <td>1 (0.7)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>K103NS</td>
+    <td>14 (4.2)</td>
+    <td>5 (3.8)</td>
+    <td>3 (2.1)</td>
+    <td char="(" align="char">4 (11.8)</td>
+    <td char="(" align="char">2 (8.7)</td>
+    <td/>
+    <td>
+     <italic>0.407</italic>
+    </td>
+    <td>
+     <italic>0.010</italic>
+    </td>
+    <td>
+     <italic>0.068</italic>
+    </td>
+   </tr>
+   <tr>
+    <td>V106M</td>
+    <td>1 (0.3)</td>
+    <td/>
+    <td>1 (0.7)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>E138AGKQ</td>
+    <td>19 (5.6)</td>
+    <td>11 (8.5)</td>
+    <td>6 (4.3)</td>
+    <td char="(" align="char">1 (3)</td>
+    <td char="(" align="char">1 (4.3)</td>
+    <td/>
+    <td>
+     <italic>0.156</italic>
+    </td>
+    <td>
+     <italic>0.731</italic>
+    </td>
+    <td>
+     <italic>0.276</italic>
+    </td>
+   </tr>
+   <tr>
+    <td>Y181C</td>
+    <td>5 (1.5)</td>
+    <td>1 (0.8)</td>
+    <td>4 (2.8)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>0.222</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>Y188L</td>
+    <td>1 (0.3)</td>
+    <td>1 (0.8)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+    <td/>
+   </tr>
+   <tr>
+    <td>G190AS</td>
+    <td>6 (1.8)</td>
+    <td>2 (1.5)</td>
+    <td>4 (2.8)</td>
+    <td/>
+    <td/>
+    <td/>
+    <td>
+     <italic>0.465</italic>
+    </td>
+    <td/>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Data are presented as n (%). Differences in proportions were measured using the chi-squared test. Empty cells, n = zero.</p>
+ </table-wrap-foot>
+</table-wrap>

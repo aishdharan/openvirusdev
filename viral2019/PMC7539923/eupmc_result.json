@@ -1,0 +1,267 @@
+{
+  "id": [
+    "PMC7539923"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7539923"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7539923"
+      ]
+    }
+  ],
+  "title": [
+    "Genetics of COVID-19"
+  ],
+  "authorString": [
+    "Raskin S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Raskin S"
+          ],
+          "firstName": [
+            "Salmo"
+          ],
+          "lastName": [
+            "Raskin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b Comitê Científico de Genética, Sociedade Brasileira de Pediatria, Brazil"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3031667"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Jornal de pediatria"
+          ],
+          "ISOAbbreviation": [
+            "J Pediatr (Rio J)"
+          ],
+          "medlineAbbreviation": [
+            "J Pediatr (Rio J)"
+          ],
+          "NLMid": [
+            "2985188R"
+          ],
+          "ISSN": [
+            "0021-7557"
+          ],
+          "ESSN": [
+            "1678-4782"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Objective This narrative, non-systematic review provides an update on the genetic aspects of the SARS-CoV-2 virus and its interactions with the human genome within the context of COVID-19. Although the main focus is on the etiology of this new disease, the genetics of SARS-CoV-2 impacts prevention, diagnosis, prognosis, and the development of therapies. Data source A literature search was conducted on MEDLINE, BioRxiv, and SciELO, as well as a manual search on the internet (mainly in 2019 and 2020) using the keywords “COVID-19,” “SARS-CoV-2,” “coronavirus,” “genetics,” “molecular,” “mutation,” “vaccine,” “Brazil,” “Brasil,” and combinations of these terms. The keywords “Brazil” and “Brasil” were used to find publications that were specific to the Brazilian population’s molecular epidemiology data. Articles most relevant to the scope were selected non-systematically. Data synthesis A number of publications illustrate an expanding knowledge on the genetics and genomics of SARS-CoV-2 and its implications for understanding COVID-19. Conclusions Knowledge of the SARS-CoV-2 genome sequence permits an in-depth investigation of the role its proteins play in the pathophysiology of COVID-19, which in turn will be enormously valuable for understanding the evolutionary, clinical, and epidemiological aspects of this disease and focusing on prevention and treatment."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Coronavirus",
+        "Covid-19",
+        "Sars-cov-2",
+        "Genetics, Molecular, Genomics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539923/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539923/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7539923"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7539923?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-12"
+  ],
+  "firstIndexDate": [
+    "2020-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-12"
+  ],
+  "dateOfRevision": [
+    "2020-10-21"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-07"
+  ],
+  "firstPublicationDate": [
+    "2020-10-07"
+  ]
+}

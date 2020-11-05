@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jiang</surname>
+   <given-names>Zhen-zhen</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-medscimonit-26-e924582">1</xref>
+  <xref ref-type="author-notes" rid="fn1-medscimonit-26-e924582">A</xref>
+  <xref ref-type="author-notes" rid="fn2-medscimonit-26-e924582">B</xref>
+  <xref ref-type="author-notes" rid="fn5-medscimonit-26-e924582">E</xref>
+  <xref ref-type="author-notes" rid="fn8-medscimonit-26-e924582">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>He</surname>
+   <given-names>Cong</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-medscimonit-26-e924582">2</xref>
+  <xref ref-type="author-notes" rid="fn2-medscimonit-26-e924582">B</xref>
+  <xref ref-type="author-notes" rid="fn4-medscimonit-26-e924582">D</xref>
+  <xref ref-type="author-notes" rid="fn5-medscimonit-26-e924582">E</xref>
+  <xref ref-type="author-notes" rid="fn8-medscimonit-26-e924582">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>De-qing</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-medscimonit-26-e924582">3</xref>
+  <xref ref-type="author-notes" rid="fn2-medscimonit-26-e924582">B</xref>
+  <xref ref-type="author-notes" rid="fn3-medscimonit-26-e924582">C</xref>
+  <xref ref-type="author-notes" rid="fn4-medscimonit-26-e924582">D</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shen</surname>
+   <given-names>Hua-liang</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-medscimonit-26-e924582">1</xref>
+  <xref ref-type="author-notes" rid="fn2-medscimonit-26-e924582">B</xref>
+  <xref ref-type="author-notes" rid="fn6-medscimonit-26-e924582">F</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Jia-li</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-medscimonit-26-e924582">1</xref>
+  <xref ref-type="author-notes" rid="fn2-medscimonit-26-e924582">B</xref>
+  <xref ref-type="author-notes" rid="fn4-medscimonit-26-e924582">D</xref>
+  <xref ref-type="author-notes" rid="fn6-medscimonit-26-e924582">F</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gan</surname>
+   <given-names>Wan-ni</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-medscimonit-26-e924582">1</xref>
+  <xref ref-type="author-notes" rid="fn4-medscimonit-26-e924582">D</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>Jia-ying</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-medscimonit-26-e924582">1</xref>
+  <xref ref-type="author-notes" rid="fn4-medscimonit-26-e924582">D</xref>
+  <xref ref-type="author-notes" rid="fn6-medscimonit-26-e924582">F</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Xia-tian</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-medscimonit-26-e924582">1</xref>
+  <xref ref-type="author-notes" rid="fn1-medscimonit-26-e924582">A</xref>
+  <xref ref-type="author-notes" rid="fn4-medscimonit-26-e924582">D</xref>
+  <xref ref-type="author-notes" rid="fn5-medscimonit-26-e924582">E</xref>
+ </contrib>
+</contrib-group>

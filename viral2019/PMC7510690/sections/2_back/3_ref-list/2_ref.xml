@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Killerby</surname>
+   <given-names>ME</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Rozwadowski</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lu</surname>
+   <given-names>X</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Caulcrick-Grimes</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>McHugh</surname>
+   <given-names>L</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Haldeman</surname>
+   <given-names>AM</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>Respiratory illness associated with emergent human adenovirus genome type 7d, New Jersey, 2016–2017.</article-title>
+  <source>Open Forum Infect Dis</source>. 
+  <year>2019</year>;
+  <volume>6</volume>:
+  <elocation-id>ofz017</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1093/ofid/ofz017</pub-id>
+  <?supplied-pmid 30800698?>
+  <pub-id pub-id-type="pmid">30800698</pub-id>
+ </mixed-citation>
+</ref>

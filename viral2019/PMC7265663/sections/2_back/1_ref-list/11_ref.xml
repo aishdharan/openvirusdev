@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>AA</given-names>
+   </name>
+   <name>
+    <surname>Behel</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Northbrook</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Parekh</surname>
+    <given-names>BS</given-names>
+   </name>
+  </person-group>
+  <article-title>Tracking with recency assays to control the epidemic: real-time HIV surveillance and public health response</article-title>
+  <source>AIDS (London, England)</source>
+  <year>2019</year>
+  <volume>33</volume>
+  <fpage>1527</fpage>
+  <lpage>1529</lpage>
+  <pub-id pub-id-type="doi">10.1097/QAD.0000000000002239</pub-id>
+ </element-citation>
+</ref>

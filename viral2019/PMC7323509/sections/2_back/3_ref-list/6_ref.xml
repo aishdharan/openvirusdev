@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>6. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Venkatesh</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Poen</surname>
+   <given-names>MJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bestebroer</surname>
+   <given-names>TM</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Scheuer</surname>
+   <given-names>RD</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Vuong</surname>
+   <given-names>O</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Chkhaidze</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>Avian influenza viruses in wild birds: virus evolution in a multihost ecosystem.</article-title>
+  <source>J Virol</source>. 
+  <year>2018</year>;
+  <volume>92</volume>:
+  <fpage>e00433</fpage>–
+  <lpage>18</lpage>. 
+  <pub-id pub-id-type="doi">10.1128/JVI.00433-18</pub-id>
+  <?supplied-pmid 29769347?>
+  <pub-id pub-id-type="pmid">29769347</pub-id>
+ </mixed-citation>
+</ref>

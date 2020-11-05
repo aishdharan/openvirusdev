@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gao</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human infection by genetically diverse SIVSM-related HIV-2 in West Africa</article-title>
+  <source>Nature</source>
+  <year>1992</year>
+  <volume>358</volume>
+  <fpage>495</fpage>
+  <lpage>499</lpage>
+  <pub-id pub-id-type="doi">10.1038/358495a0</pub-id>
+  <?supplied-pmid 1641038?>
+  <pub-id pub-id-type="pmid">1641038</pub-id>
+ </element-citation>
+</ref>

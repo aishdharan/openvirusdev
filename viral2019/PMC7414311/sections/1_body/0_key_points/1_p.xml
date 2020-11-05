@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0010">
+ <boxed-text id="dtbox1">
+  <p id="p0015">
+   <list list-type="simple" id="ulist0010">
+    <list-item id="u0010">
+     <label>•</label>
+     <p id="p0020">Human coronaviruses are differentiated into endemic types, which cause largely self-limiting respiratory infections, and highly pathogenic types with high case fatality rates.</p>
+    </list-item>
+    <list-item id="u0015">
+     <label>•</label>
+     <p id="p0025">Specific primers for diagnosing the endemic strains are routinely included in the most commonly used extended molecular respiratory panels.</p>
+    </list-item>
+    <list-item id="u0020">
+     <label>•</label>
+     <p id="p0030">Highly pathogenic strains were first identified by molecular assays that include amplification with pancoronavirus primers and amplicon sequencing, and most recently with metagenomic next-generation sequencing.</p>
+    </list-item>
+    <list-item id="u0025">
+     <label>•</label>
+     <p id="p0035">Specific molecular assays for the diagnosis of highly pathogenic coronaviruses were developed and are usually only available at public health laboratories and the US Centers for Disease Control and Prevention, but public health as well as clinical laboratories should harbor this diagnostic capacity in order to nimbly respond to an outbreak.</p>
+    </list-item>
+    <list-item id="u0030">
+     <label>•</label>
+     <p id="p0040">Metagenomic whole-genome sequencing is a promising tool for the quick detection and epidemiologic characterization of novel coronaviruses.</p>
+    </list-item>
+   </list>
+  </p>
+ </boxed-text>
+</p>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Samji</surname>
+   <given-names>Hasina</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Yu</surname>
+   <given-names>Amanda</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0003">
+  <name>
+   <surname>Wong</surname>
+   <given-names>Stanley</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0004">
+  <name>
+   <surname>Wilton</surname>
+   <given-names>James</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Binka</surname>
+   <given-names>Mawuena</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0006">
+  <name>
+   <surname>Alvarez</surname>
+   <given-names>Maria</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0007">
+  <name>
+   <surname>Bartlett</surname>
+   <given-names>Sofia</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0005" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0008">
+  <name>
+   <surname>Pearce</surname>
+   <given-names>Margo</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0009">
+  <name>
+   <surname>Adu</surname>
+   <given-names>Prince</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0010">
+  <name>
+   <surname>Jeong</surname>
+   <given-names>Dahn</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0011">
+  <name>
+   <surname>Clementi</surname>
+   <given-names>Emilia</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0012">
+  <name>
+   <surname>Butt</surname>
+   <given-names>Zahid</given-names>
+  </name>
+  <xref rid="aff0004" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0013">
+  <name>
+   <surname>Buxton</surname>
+   <given-names>Jane</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0014">
+  <name>
+   <surname>Gilbert</surname>
+   <given-names>Mark</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0015">
+  <name>
+   <surname>Krajden</surname>
+   <given-names>Mel</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0005" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0016">
+  <name>
+   <surname>Janjua</surname>
+   <given-names>Naveed Z.</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <aff id="aff0001">
+  <label>a</label>Faculty of Health Sciences, Simon Fraser University, 8888 University Dr, Burnaby, British Columbia, Canada, V5A 1S6
+ </aff>
+ <aff id="aff0002">
+  <label>b</label>British Columbia Centre for Disease Control, 655 West 12
+  <sup>th</sup> Avenue, Vancouver, British Columbia, Canada, V5Z 4R4
+ </aff>
+ <aff id="aff0003">
+  <label>c</label>School of Population and Public Health, University of British Columbia, 2206 E Mall, Vancouver, British Columbia, Canada, V6T 1Z3
+ </aff>
+ <aff id="aff0004">
+  <label>d</label>School of Public Health and Health Systems, University of Waterloo, 200 University Avenue West, Waterloo, Ontario, Canada, N2L 3G1
+ </aff>
+ <aff id="aff0005">
+  <label>e</label>Department of Pathology and Laboratory Medicine, University of British Columbia, 2211 Wesbrook Mall, Vancouver, British Columbia, Canada, BC V6T 2B5
+ </aff>
+</contrib-group>

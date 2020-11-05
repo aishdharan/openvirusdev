@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Instead, achieving herd immunity without exceeding hospital capacity requires that social distancing is implemented nonlinearly. An idealized optimal strategy for achieving social distancing, calculated using a two-age group (
+ <inline-formula>
+  <math id="i10">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60 y old and 
+ <inline-formula>
+  <math id="i11">
+   <mo>≥</mo>
+  </math>
+ </inline-formula>60 y old) SEIR model, is shown in 
+ <xref ref-type="fig" rid="fig05">Fig. 5 
+  <italic>A</italic> and 
+  <italic>B</italic>
+ </xref>. We assumed that individuals 
+ <inline-formula>
+  <math id="i12">
+   <mo>≥</mo>
+  </math>
+ </inline-formula>60 y old were able to perfectly self-isolate, while herd immunity is built up in the 
+ <inline-formula>
+  <math id="i13">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60-y age group. The epidemic in 
+ <inline-formula>
+  <math id="i14">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60-y-old individuals is initially allowed to grow unimpeded until the hospital burden caused by the number of sick individuals reaches the hospital capacity. At this point, social distancing among those younger than 60 y commences (
+ <xref ref-type="fig" rid="fig05">Fig. 5
+  <italic>B</italic>
+ </xref>), at a level that ensures the epidemic growth stalls (i.e., 
+ <inline-formula>
+  <math id="i15">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="normal">e</mi>
+     <mi mathvariant="normal">ff</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>1</mn>
+  </math>
+ </inline-formula>). To achieve herd immunity in minimal time, the rate of new infections must then remain at the maximum afforded by the healthcare capacity. This requires reducing social distancing (i.e., increasing contacts) at the exact rate to balance out reductions in transmission stemming from the decreasing susceptible population (
+ <xref ref-type="fig" rid="fig05">Fig. 5
+  <italic>B</italic>
+ </xref>)—too quickly and the epidemic grows above hospital capacity; too slowly and the epidemic with die out without reaching herd immunity. Over time, social distancing in 
+ <inline-formula>
+  <math id="i16">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60-y-olds drops to zero, after which there are no longer enough susceptible 
+ <inline-formula>
+  <math id="i17">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60-y-old individuals for the epidemic to be sustained. New infections continue but decline in frequency (meanwhile, further decreasing the effective reproductive number), before reaching zero.
+</p>

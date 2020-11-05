@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Fit of the extended SEIR model 
+   <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> to the epidemiological data for the outbreak of COVID-19 in Ireland. 
+   <inline-formula>
+    <math id="d1e31" display="inline" altimg="si86.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+     </mrow>
+    </math>
+   </inline-formula> is the 29th February 2020, the day of the first recorded case. Data source: Ref. 
+   <xref rid="b18" ref-type="bibr">[18]</xref>. Top: Cumulative recorded cases and recorded deaths. Bottom: New daily recorded cases and daily recorded deaths.
+  </p>
+ </caption>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B13">
+ <label>13</label>
+ <element-citation publication-type="webpage">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Read</surname>
+    <given-names>JM</given-names>
+   </name>
+   <name>
+    <surname>Bridgen</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Cummings</surname>
+    <given-names>DA</given-names>
+   </name>
+   <name>
+    <surname>Ho</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Jewell</surname>
+    <given-names>CP</given-names>
+   </name>
+  </person-group>
+  <source>Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions. 
+   <italic toggle="yes">medRxiv</italic>
+  </source>
+  <date-in-citation content-type="updated">Updated 2020</date-in-citation>
+  <date-in-citation content-type="access-date">Accessed May 9, 2020</date-in-citation>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf</ext-link>
+  </comment>
+ </element-citation>
+</ref>

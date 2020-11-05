@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Lan</surname>
+    <given-names>L</given-names>
+   </name>
+   <span xml:space="preserve" class="x" xmlns="http://www.w3.org/1999/xhtml">, </span>
+   <name name-style="western">
+    <surname>Xu</surname>
+    <given-names>D</given-names>
+   </name>
+   <span xml:space="preserve" class="x" xmlns="http://www.w3.org/1999/xhtml">, </span>
+   <name name-style="western">
+    <surname>Ye</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <etal/>
+  <article-title>Positive RT-PCR Test Results in Patients Recovered From COVID-19</article-title>. 
+  <source>JAMA</source>
+  <volume>323</volume>(
+  <issue>15</issue>), 
+  <fpage>1502</fpage>–
+  <lpage>1503</lpage> (
+  <year>2020</year>). 
+  <pub-id pub-id-type="pmid">32105304</pub-id>
+ </mixed-citation>
+ <note>
+  <p>•• Describes reverse transcriptase–polymerase chain reaction (RT-PCR) test results in four health professionals discharged from hospitalization or quarantine after two negative RT-PCR test results and resolution of clinical COVID-19 infection, which proposed that more attention should be paid to the follow-up of recovered patients.</p>
+ </note>
+</ref>

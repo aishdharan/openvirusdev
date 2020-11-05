@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e10454"> In this Appendix we provide the necessary background information to fit the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> to the epidemiological data in Ref. 
+ <xref rid="b18" ref-type="bibr">[18]</xref> for the outbreak of COVID-19 in Ireland. A nonlinear optimization is performed to minimize the penalty function 
+ <inline-formula>
+  <math id="d1e10464" display="inline" altimg="si365.svg">
+   <mrow>
+    <mi>Δ</mi>
+    <mfenced open="(">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">t</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">o</mi>
+        <mi mathvariant="bold-fraktur">f</mi>
+        <mi mathvariant="bold-fraktur">f</mi>
+        <mi mathvariant="bold-fraktur">s</mi>
+        <mi mathvariant="bold-fraktur">e</mi>
+        <mi mathvariant="bold-fraktur">t</mi>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>β</mi>
+       </mrow>
+       <mrow>
+        <mn>0</mn>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>β</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>β</mi>
+       </mrow>
+       <mrow>
+        <mn>2</mn>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">g</mi>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">E</mi>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+     </mrow>
+    </mfenced>
+    <mfenced close=")">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">D</mi>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">i</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">A</mi>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">i</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfenced>
+   </mrow>
+  </math>
+ </inline-formula> in Eq. 
+ <xref rid="fd6" ref-type="disp-formula">(6)</xref>. First, bounds on the range of acceptable parameter values are obtained in 
+ <xref rid="tblA.2" ref-type="table">Table A.2</xref>. The resulting optimal parameter values are provided in 
+ <xref rid="tblA.3" ref-type="table">Table A.3</xref>. In this table, we also present confidence intervals for these optimal parameter values – these have been obtained by bootstrapping – the model residuals are resampled with replacement 
+ <inline-formula>
+  <math id="d1e10592" display="inline" altimg="si366.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">n</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">b</mi>
+     <mi mathvariant="bold-fraktur">o</mi>
+     <mi mathvariant="bold-fraktur">o</mi>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mi mathvariant="bold-fraktur">s</mi>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mi mathvariant="bold-fraktur">r</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">p</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> times. These residuals are then used to compute 
+ <inline-formula>
+  <math id="d1e10617" display="inline" altimg="si366.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">n</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">b</mi>
+     <mi mathvariant="bold-fraktur">o</mi>
+     <mi mathvariant="bold-fraktur">o</mi>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mi mathvariant="bold-fraktur">s</mi>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mi mathvariant="bold-fraktur">r</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">p</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> synthetic data sets, and the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> is fitted to each data set in turn. This then gives a range of 
+ <inline-formula>
+  <math id="d1e10645" display="inline" altimg="si366.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">n</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">b</mi>
+     <mi mathvariant="bold-fraktur">o</mi>
+     <mi mathvariant="bold-fraktur">o</mi>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mi mathvariant="bold-fraktur">s</mi>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mi mathvariant="bold-fraktur">r</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">p</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> ‘optimal’ parameter values; a histogram based on this range of values is constructed and the 2.5 and 97.5 percentiles are computed to produce the reported confidence intervals. We use 
+ <inline-formula>
+  <math id="d1e10671" display="inline" altimg="si369.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">b</mi>
+      <mi mathvariant="bold-fraktur">o</mi>
+      <mi mathvariant="bold-fraktur">o</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mi mathvariant="bold-fraktur">r</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">p</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>100</mn>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e10701" display="inline" altimg="si371.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">b</mi>
+      <mi mathvariant="bold-fraktur">o</mi>
+      <mi mathvariant="bold-fraktur">o</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mi mathvariant="bold-fraktur">r</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">p</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1000</mn>
+   </mrow>
+  </math>
+ </inline-formula>, with little or no difference observed between these two choices.
+</p>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>Plot of 
+   <inline-formula>
+    <math id="d1e308" display="inline" altimg="si204.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">k</mi>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> under an optimal-control strategy in which the boundary is attained. Control parameters: 
+   <inline-formula>
+    <math id="d1e328" display="inline" altimg="si235.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>607</mn>
+     </mrow>
+    </math>
+   </inline-formula>, 
+   <inline-formula>
+    <math id="d1e347" display="inline" altimg="si236.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mn>2</mn>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>468</mn>
+     </mrow>
+    </math>
+   </inline-formula>, with switching time at 
+   <inline-formula>
+    <math id="d1e367" display="inline" altimg="si237.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">t</mi>
+       </mrow>
+       <mrow>
+        <mn>0</mn>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+      <mn>256</mn>
+      <mo>.</mo>
+      <mn>5</mn>
+      <mspace width="0.16667em"/>
+      <mtext>Days</mtext>
+     </mrow>
+    </math>
+   </inline-formula>.
+  </p>
+ </caption>
+ <graphic xlink:href="gr4_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,571 @@
+{
+  "id": [
+    "33102500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33102500"
+  ],
+  "pmcid": [
+    "PMC7546332"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7546332"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3389/fmed.2020.562875"
+  ],
+  "title": [
+    "An Asymptomatic SARS-CoV-2-Infected Infant With Persistent Fecal Viral RNA Shedding in a Family Cluster: A Rare Case Report."
+  ],
+  "authorString": [
+    "Chen S, Si J, Tang W, Zhang A, Pan L, An M, Zhang H, Xue S, Wu K, Chen S, Zhang W, Liu W, Fu B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Shen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Breast and Thyroid Surgery, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Si J"
+          ],
+          "firstName": [
+            "Jiafeng"
+          ],
+          "lastName": [
+            "Si"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Laboratory, Dong'e People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang W"
+          ],
+          "firstName": [
+            "Wenqiang"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Central Laboratory, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang A"
+          ],
+          "firstName": [
+            "Anqi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Central Laboratory, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Central Laboratory, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "An M"
+          ],
+          "firstName": [
+            "Meng"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Laboratory, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Huawei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Thoracic Breast and Thyroid Surgery, Liaocheng Infectious Disease Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xue S"
+          ],
+          "firstName": [
+            "Shoukun"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Breast and Thyroid Surgery, Shandong Maternal and Child Health Hospital, Jinan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu K"
+          ],
+          "firstName": [
+            "Kunpeng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of CT, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Shuangfeng"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Central Laboratory, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Breast and Thyroid Surgery, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Central Laboratory, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fu B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Central Laboratory, Liaocheng People's Hospital, Liaocheng, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2911891"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in medicine"
+          ],
+          "ISOAbbreviation": [
+            "Front Med (Lausanne)"
+          ],
+          "medlineAbbreviation": [
+            "Front Med (Lausanne)"
+          ],
+          "NLMid": [
+            "101648047"
+          ],
+          "ISSN": [
+            "2296-858X"
+          ],
+          "ESSN": [
+            "2296-858X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "562875"
+  ],
+  "abstractText": [
+    "An outbreak of coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become pandemic worldwide. A better understanding of asymptomatic infections is crucial to prevent and control this epidemic. Here, we report the epidemiological and clinical characteristics of a family cluster with SARS-CoV-2 infection. In the family cluster, a 32-year-old male (case 1) and a 53-year-old female (case 2, the mother-in-law of case 1) exhibited clinical symptoms of COVID-19, while case 1's 32-year-old wife (case 3) and their 11-month-old daughter (case 4) were both asymptomatic. Notably, case 4's nasopharyngeal swab samples was negative for nearly 80 days, and her immune system has been boosted for at least 57 days, but the fecal samples have tested positive for 100 days (May 13, 2020), suggesting SARS-CoV-2 may invade enterocytes and may exist in individuals with low antiviral immunity for a long term. This report highlights that asymptomatic infections should be managed with caution and vigilance. For SARS-CoV-2 testing of asymptomatic cases, besides the normally used nasopharyngeal swab, fecal sample testing is also needed."
+  ],
+  "affiliation": [
+    "Department of Breast and Thyroid Surgery, Liaocheng People's Hospital, Liaocheng, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Asymptomatic",
+        "Family Cluster",
+        "Covid-19",
+        "Sars-cov-2",
+        "Fecal Viral Rna Shedding"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmed.2020.562875"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7546332"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7546332?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-26"
+  ],
+  "firstIndexDate": [
+    "2020-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-24"
+  ],
+  "dateOfRevision": [
+    "2020-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-25"
+  ],
+  "firstPublicationDate": [
+    "2020-09-25"
+  ]
+}

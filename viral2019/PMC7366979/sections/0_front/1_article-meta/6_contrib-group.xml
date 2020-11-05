@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="aut0005">
+  <name>
+   <surname>Nie</surname>
+   <given-names>Qing</given-names>
+  </name>
+  <email>nieqing0454@163.com</email>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="cor0005" ref-type="corresp">*</xref>
+  <xref rid="fn0005" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0010">
+  <name>
+   <surname>Li</surname>
+   <given-names>Xingguang</given-names>
+  </name>
+  <email>xingguanglee@hotmail.com</email>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+  <xref rid="cor0005" ref-type="corresp">*</xref>
+  <xref rid="fn0005" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0015">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Wei</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0020">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Dehui</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0025">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Yingying</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0030">
+  <name>
+   <surname>Li</surname>
+   <given-names>Haitao</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0035">
+  <name>
+   <surname>Li</surname>
+   <given-names>Dongying</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0040">
+  <name>
+   <surname>Tian</surname>
+   <given-names>Mengmeng</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0045">
+  <name>
+   <surname>Tan</surname>
+   <given-names>Wei</given-names>
+  </name>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0050">
+  <name>
+   <surname>Zai</surname>
+   <given-names>Junjie</given-names>
+  </name>
+  <xref rid="aff0020" ref-type="aff">d</xref>
+ </contrib>
+ <aff id="aff0005">
+  <label>a</label>Department of Microbiology, Weifang Center for Disease Control and Prevention, Weifang, 261061, China
+ </aff>
+ <aff id="aff0010">
+  <label>b</label>Hubei Engineering Research Center of Viral Vector, Wuhan University of Bioengineering, Wuhan, 430415, China
+ </aff>
+ <aff id="aff0015">
+  <label>c</label>Department of Respiratory Medicine, Weifang People’s Hospital, Weifang, 261061, China
+ </aff>
+ <aff id="aff0020">
+  <label>d</label>Immunology Innovation Team, School of Medicine, Ningbo University, Ningbo, 315211, China
+ </aff>
+</contrib-group>

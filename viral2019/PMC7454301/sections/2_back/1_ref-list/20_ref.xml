@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref20">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Liu</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zheng</surname>
+    <given-names>X</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Tong</surname>
+    <given-names>Q</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Overlapping and discrete aspects of the pathology and pathogenesis of the emerging human pathogenic coronaviruses SARS-CoV, MERS-CoV, and 2019-nCoV</article-title>. 
+  <source>Med Virol</source>
+  <year>2020</year>;
+  <volume>92</volume>(
+  <issue>5</issue>):
+  <fpage>536</fpage>–
+  <lpage>44</lpage>. doi: 
+  <pub-id pub-id-type="doi">10.1002/jmv.25709</pub-id>.
+ </mixed-citation>
+</ref>

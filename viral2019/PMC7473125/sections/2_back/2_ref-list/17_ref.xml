@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0017">
+ <label>17</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Guo</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wei</surname>
+    <given-names>D</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zhang</surname>
+    <given-names>X</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Clinical features predicting mortality risk in patients with viral pneumonia: The MuLBSTA Score</article-title>. 
+  <source>Front Microbiol</source>. 
+  <year>2019</year>;
+  <volume>10</volume>:
+  <fpage>2752</fpage>. doi: 
+  <pub-id pub-id-type="doi">10.3389/fmicb.2019.02752</pub-id>
+  <pub-id pub-id-type="pmid">31849894</pub-id>
+ </mixed-citation>
+</ref>

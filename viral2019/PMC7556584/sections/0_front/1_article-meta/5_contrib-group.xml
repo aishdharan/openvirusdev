@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Luo</surname>
+   <given-names>Xi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Guan-Zhou</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Yan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Peng</surname>
+   <given-names>Li-Hua</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zou</surname>
+   <given-names>Li-Ping</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Yun-Sheng</given-names>
+  </name>
+  <address>
+   <email>sunnyddc@plagh.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.414252.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1761 8894</institution-id>
+   <institution>Department of Gastroenterology and Hepatology, </institution>
+   <institution>the First Medical Center, Chinese PLA General Hospital, </institution>
+  </institution-wrap>Beijing, 100853 China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.414252.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1761 8894</institution-id>
+   <institution>Department of Pediatrics, </institution>
+   <institution>the First Medical Center, Chinese PLA General Hospital, </institution>
+  </institution-wrap>Beijing, 100853 China 
+ </aff>
+</contrib-group>

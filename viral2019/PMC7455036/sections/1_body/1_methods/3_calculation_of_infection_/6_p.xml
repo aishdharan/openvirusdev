@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We assumed the number of effective daily contacts per infected person was 5 (i.e. 
+ <italic>λ</italic> = 5), according to the estimation by Kucharski [
+ <xref rid="pone.0238411.ref009" ref-type="bibr">9</xref>]. According to Chinese statistics, the average length of hospitalization was 20 days in Wuhan city and 9 days outside Hubei, so the average length of hospitalization was 
+ <inline-formula id="pone.0238411.e009">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e009.jpg" id="pone.0238411.e009g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M9">
+    <mo>⌊</mo>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mn>20</mn>
+       <mo>+</mo>
+       <mn>9</mn>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+     </mfrac>
+    </mrow>
+    <mo>⌋</mo>
+    <mo>=</mo>
+    <mn>14</mn>
+   </math>
+  </alternatives>
+ </inline-formula> days. 
+ <italic>μ</italic> (
+ <italic>Mu</italic>) is defined as recovery rate and thus, 
+ <italic>μ</italic> (
+ <italic>Mu</italic>) = 1/14. Because the first case was found on December 8, 2019, the value of “
+ <italic>t”</italic> was the difference between that date and the given date.
+</p>

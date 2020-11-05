@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Neogi</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Häggblom</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Singh</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Rogers</surname>
+    <given-names>LC</given-names>
+   </name>
+   <name>
+    <surname>Rao</surname>
+    <given-names>SD</given-names>
+   </name>
+   <name>
+    <surname>Amogne</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Factors influencing the efficacy of rilpivirine in HIV-1 subtype C in low- and middle-income countries</article-title>
+  <source>J Antimicrob Chemother</source>
+  <year>2016</year>
+  <volume>71</volume>
+  <issue>2</issue>
+  <fpage>367</fpage>
+  <lpage>371</lpage>
+  <pub-id pub-id-type="doi">10.1093/jac/dkv359</pub-id>
+  <?supplied-pmid 26518047?>
+  <pub-id pub-id-type="pmid">26518047</pub-id>
+ </element-citation>
+</ref>

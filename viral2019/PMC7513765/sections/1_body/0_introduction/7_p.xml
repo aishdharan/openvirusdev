@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0060">Here we present a simple mathematical model of epidemics that includes the effect of solar UV photons (“solar pump,” hereinafter) as an infra-day resonance mechanism that acts systematically every day with strength and on timescales (from minutes to hours) dictated only by astronomical parameters and explore its parameter space. We demonstrate that such a physically motivated model is able to naturally reproduce the seasonality of influenza-like epidemics as well as its distribution with latitude on the Earth, without forcing seasonal oscillations with ad-hoc mathematical prescriptions (e.g. 
+ <xref rid="bib9" ref-type="bibr">Dushoff et al., 2004</xref>; 
+ <xref rid="bib25" ref-type="bibr">Neher et al., 2020</xref>). Moreover, it matches reasonably well the Italian data of the recent SARS-CoV-2 epidemics (see Methods in 
+ <xref rid="appsec1" ref-type="fn">Supplementary Information</xref>), predicting different short-term future scenarios, depending on the efficiency of the solar pump.
+</p>

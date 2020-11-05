@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Chan</surname>
+   <given-names>EH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Brewer</surname>
+   <given-names>TF</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Madoff</surname>
+   <given-names>LC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pollack</surname>
+   <given-names>MP</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sonricker</surname>
+   <given-names>AL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Keller</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>Global capacity for emerging infectious disease detection.</article-title>
+  <source>Proc Natl Acad Sci U S A</source>. 
+  <year>2010</year>;
+  <volume>107</volume>:
+  <fpage>21701</fpage>–
+  <lpage>6</lpage>. 
+  <pub-id pub-id-type="doi">10.1073/pnas.1006219107</pub-id>
+  <?supplied-pmid 21115835?>
+  <pub-id pub-id-type="pmid">21115835</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn fn-type="supported-by">
+  <p>
+   <bold>Funding:</bold> This work was supported by Electronics and Telecommunications Research Institute (ETRI) grant funded by the Korean government (20ZD1100, Development of ICT Convergence Technology for Daegu-Gyeongbuk Regional Industry).
+  </p>
+ </fn>
+ <fn fn-type="COI-statement">
+  <p>
+   <bold>Disclosure:</bold> The authors have no potential conflicts of interest to disclose.
+  </p>
+ </fn>
+ <fn fn-type="con">
+  <p>
+   <bold>Author Contributions:</bold>
+   <list list-type="simple">
+    <list-item>
+     <p>
+      <bold>Conceptualization:</bold> Bae TW, Kwon KK.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Data curation:</bold> Bae TW.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Formal analysis:</bold> Bae TW.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Funding acquisition:</bold> Kwon KK.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Investigation:</bold> Bae TW, Kim KH.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Methodology:</bold> Bae TW.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Project administration:</bold> Kwon KK.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Resources:</bold> Bae TW.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Software:</bold> Bae TW.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Supervision:</bold> Kwon KK.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Validation:</bold> Bae TW, Kwon KK.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Visualization:</bold> Bae TW.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Writing - original draft:</bold> Bae TW.
+     </p>
+    </list-item>
+    <list-item>
+     <p>
+      <bold>Writing - review &amp; editing:</bold> Bae TW.
+     </p>
+    </list-item>
+   </list>
+  </p>
+ </fn>
+</fn-group>

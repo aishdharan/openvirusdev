@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We modeled virus transmission among livestock as a function of rainfall. We divided the human population into two groups. In the first group (named “farming” group), individuals were assumed to be in regular contact with animals, and RVF viral spillover was modeled by both direct contact and vector-mediated routes. In the other group, individuals could acquire infection only by the vector-mediated route (“nonfarming” group). In the base case, the farming and nonfarming groups represented 30% and 70% of the population, respectively (
+ <xref rid="r13" ref-type="bibr">13</xref>). We also explored the case assuming 10% farmers and 90% nonfarmers. Spillover by direct contact assumed a time-invariant transmission rate, and the vector-mediated transmission, defined as a function of rainfall, varied over the study period (
+ <xref ref-type="sec" rid="s8">
+  <italic>Materials and Methods</italic>
+ </xref>, 
+ <xref ref-type="fig" rid="fig02">Fig. 2</xref>, and 
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Tables S1 and S3
+ </ext-link>).
+</p>

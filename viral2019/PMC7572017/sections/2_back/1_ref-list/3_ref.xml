@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>[3]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tsai</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Wilson</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>COVID-19: a potential public health problem for homeless populations</article-title>. 
+  <source>Lancet Public Health</source>
+  <year>2020</year>;
+  <volume>5</volume>:
+  <fpage>e186</fpage>–
+  <lpage>7</lpage>.
+  <pub-id pub-id-type="pmid">32171054</pub-id>
+ </mixed-citation>
+</ref>

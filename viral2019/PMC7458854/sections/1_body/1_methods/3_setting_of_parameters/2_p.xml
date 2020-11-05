@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The infection-reproduction number, 
+ <italic>R</italic>
+ <sub>0</sub>, represents the average number of new infections spread by each infected person. The average number of secondary infections (reproduction function) at time 
+ <italic>t</italic> is expressed as 
+ <italic>R</italic>
+ <sub>0</sub>(
+ <italic>t</italic>). 
+ <italic>R</italic>
+ <sub>0</sub> should be carefully selected because it greatly affects the spread curve of the spread model.
+ <xref rid="B15" ref-type="bibr">15</xref>
+ <xref rid="B21" ref-type="bibr">21</xref>
+ <xref rid="B28" ref-type="bibr">28</xref>
+ <xref rid="B29" ref-type="bibr">29</xref> The number of secondary infections at time 
+ <italic>t</italic> is given as follows:
+</p>

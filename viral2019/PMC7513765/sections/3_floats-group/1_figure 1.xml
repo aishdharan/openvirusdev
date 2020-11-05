@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>The Solar Pump</p>
+  <p>Attenuation functions for the reproductive number R
+   <sub>t</sub>, due to the daily solar action. Each panel shows solar attenuation curves for 36 Earth's latitudes between −90 and −25° south (blue), −25 – +25° (orange), and 25–90° north (black) at the 15
+   <sup>th</sup> day of each of the first 6 months of the year, as labeled. The plotted function is 
+   <inline-formula>
+    <math id="M1" altimg="si1.gif">
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <mn>1</mn>
+        <mo linebreak="badbreak">−</mo>
+        <mi>ε</mi>
+        <mspace width="0.25em"/>
+        <mi>sin</mi>
+        <mrow>
+         <mo>(</mo>
+         <mi>α</mi>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula>, where α is the solar height angle (complement to the Zenith angle: i.e. α = 90° at local noon) that depends on the Earth's latitude ϕ, sun's declination δ, day of the year 
+   <italic>d</italic>, and time of the day 
+   <italic>h</italic>. Attenuation functions are defined only for α &gt; 0 (i.e. during daytime) and are shown for the reference solar-pump efficiency ε = 1.
+  </p>
+ </caption>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

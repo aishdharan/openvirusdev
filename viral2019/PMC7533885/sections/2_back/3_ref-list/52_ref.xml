@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r53">
+ <label>53.</label>
+ <mixed-citation publication-type="other">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Camacho</surname>
+    <given-names>A.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Funk</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>, fitR: Tool box for fitting dynamic infectious disease models to time series (R package, Version 0.1). 
+  <ext-link ext-link-type="uri" xlink:href="https://sbfnk.github.io/fitR/" xmlns:xlink="http://www.w3.org/1999/xlink">https://sbfnk.github.io/fitR/</ext-link>. Accessed 1 July 2020.
+ </mixed-citation>
+</ref>

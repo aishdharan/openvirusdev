@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bender</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>Introduction to the use of regression models in epidemiology</article-title>
+  <source>Methods Mol. Biol.</source>
+  <year>2009</year>
+  <volume>471</volume>
+  <fpage>179</fpage>
+  <lpage>195</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-1-59745-416-2_9</pub-id>
+  <?supplied-pmid 19109780?>
+  <pub-id pub-id-type="pmid">19109780</pub-id>
+ </element-citation>
+</ref>

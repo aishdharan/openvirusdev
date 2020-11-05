@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list list-type="simple">
+ <list-item>
+  <label>(1)</label>
+  <p>PM
+   <sub>2.5</sub> concentration was obtained from the National Real-time Urban Air Quality Release System of the China environmental monitoring general station [
+   <xref rid="B24-ijerph-17-07664" ref-type="bibr">24</xref>] (national air quality monitoring stations were in only 190 cities in 2014, and since then all cities have been covered). Data from 1670 stations were acquired until 2020. To present the spatiotemporal distribution of PM
+   <sub>2.5</sub>, a GIS-based spatial interpolation is applied to convert to 1 × 1 km grid.
+  </p>
+ </list-item>
+ <list-item>
+  <label>(2)</label>
+  <p>POI data, were derived from the National Bureau of Statistics [
+   <xref rid="B25-ijerph-17-07664" ref-type="bibr">25</xref>] and the local bureau of statistics, mainly including six factors that affect the distribution of PM
+   <sub>2.5</sub> concentration, including urban GDP, green space, road area, the number of urban taxis, the number of urban buses, and the number of urban factories. Urban GDP includes primary, secondary, and tertiary industry GDP, in units of 10,000 yuan. The urban green area contains public, residential, unit affiliated, protective, production, road green, and scenic forest areas, and the unit is hectares. The road area includes urban main roads, secondary, and branch roads, with a unit of 10,000 m
+   <sup>2</sup>. The number of urban taxis and buses is the total number of vehicles in operation at the end of each year. The number of urban factories contains capital-intensive industrial, labor-intensive, resource-intensive, and knowledge-technology-intensive factories. The time period of all POI data was from 2014 to 2017.
+  </p>
+ </list-item>
+ <list-item>
+  <label>(3)</label>
+  <p>LBS data came from Tencent location big data [
+   <xref rid="B26-ijerph-17-07664" ref-type="bibr">26</xref>], which use positioning technology to obtain a position in the whole scene. Relying on the full coverage and high accuracy of LBS data, to study the impact of the COVID-19 epidemic on population mobility, this study selected four main time nodes because of the limited permission to access the Tencent’s services, i.e., 25 December 2020, 11 January 2020, 7 March 2020, and 3 April 2020. On 25 December 2019 people in China were producing and living normally. The turning point of the COVID-19 outbreak was 11 January 2020. Since this period, the number of patients infected with COVID-19 has continued to increase. It is also the time node when the Spring Festival travel season began. The peak number of COVID-19 infections was on 7 March 2020. On 3 April 2020 the COVID-19 epidemic in China was basically under control, and the life of the people returned to normal. The temporal resolution of LBS data is the hour, and the data accumulatively obtained 297,535,280 positioning times of 4,194,304 positioning points. The study uses the grid mapping method of the geographic information system to map the positioning data to a 
+   <inline-formula>
+    <math id="mm1">
+     <mrow>
+      <mrow>
+       <mn>1</mn>
+       <mo>×</mo>
+       <mn>1</mn>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> km grid, and the number of positioning of all the positioning points in the same grid is summed to obtain the population of the grid.
+  </p>
+ </list-item>
+ <list-item>
+  <label>(4)</label>
+  <p>Auxiliary data contained 2017 national secondary industry output value data and 2019 national urban population data from the National Bureau of Statistics [
+   <xref rid="B25-ijerph-17-07664" ref-type="bibr">25</xref>], and DEM data were from the Resource and Environment Science and Data Center [
+   <xref rid="B27-ijerph-17-07664" ref-type="bibr">27</xref>].
+  </p>
+ </list-item>
+</list>

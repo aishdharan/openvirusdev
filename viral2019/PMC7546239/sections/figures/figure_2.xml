@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>The prediction accuracy for the situation in Hubei, China. The subplots show the prediction accuracy for a forecast horizon of (a) 1 day, (b) 2 days, (c) 3 days, (d) 4 days, (e) 5 days and (f) 6 days for the prediction algorithms from Section 
+   <xref rid="sec2" ref-type="sec">2</xref>.
+  </p>
+ </caption>
+ <graphic xlink:href="gr2_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

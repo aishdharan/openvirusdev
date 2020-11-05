@@ -1,0 +1,533 @@
+{
+  "id": [
+    "PMC7567661"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7567661"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7567661"
+      ]
+    }
+  ],
+  "title": [
+    "In-line treatments and clinical initiatives to fight against COVID-19 outbreak"
+  ],
+  "authorString": [
+    "Agrawal M, Saraf S, Saraf S, Murty U, Kurundkar S, Roy D, Joshi P, Sable D, Choudhary Y, Kesharwani P, Alexander A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Agrawal M"
+          ],
+          "firstName": [
+            "Mukta"
+          ],
+          "lastName": [
+            "Agrawal"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Rungta College of Pharmaceutical Sciences and Research, Kohka-Kurud Road, Bhilai, Chhattisgarh, 490024, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saraf S"
+          ],
+          "firstName": [
+            "Shailendra"
+          ],
+          "lastName": [
+            "Saraf"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b University Institute of Pharmacy, Pt. Ravishankar Shukla University, Raipur, Chhattisgarh, 492010, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saraf S"
+          ],
+          "firstName": [
+            "Swarnlata"
+          ],
+          "lastName": [
+            "Saraf"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b University Institute of Pharmacy, Pt. Ravishankar Shukla University, Raipur, Chhattisgarh, 492010, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Murty U"
+          ],
+          "firstName": [
+            "Upadhyayula Suryanarayana"
+          ],
+          "lastName": [
+            "Murty"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "c National Institute of Pharmaceutical Education and Research (NIPER-Guwahati), Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), Changsari, Kamrup, 781101, Guwahati, Assam, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kurundkar S"
+          ],
+          "firstName": [
+            "Sucheta Banerjee"
+          ],
+          "lastName": [
+            "Kurundkar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "d Clinical Development Services Agency (An Extramural Unit of Translational Health Science & Technology Institute, Dept of Biotechnology, Ministry of Science & Technology, Govt. of India) NCR Biotech Science Cluster, 3rd Milestone, Gurgaon- Faridabad Expressway, Faridabad, 121001, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roy D"
+          ],
+          "firstName": [
+            "Debjani"
+          ],
+          "lastName": [
+            "Roy"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "d Clinical Development Services Agency (An Extramural Unit of Translational Health Science & Technology Institute, Dept of Biotechnology, Ministry of Science & Technology, Govt. of India) NCR Biotech Science Cluster, 3rd Milestone, Gurgaon- Faridabad Expressway, Faridabad, 121001, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Joshi P"
+          ],
+          "firstName": [
+            "Pankaj"
+          ],
+          "lastName": [
+            "Joshi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "e Kulkarni EndoSurgery Institute and Reconstructive Urology Centre, Paud Raod, Pune, 411038, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sable D"
+          ],
+          "firstName": [
+            "Dhananjay"
+          ],
+          "lastName": [
+            "Sable"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "f Central Drug Standard Control Organization, Directorate General of Health Services, Ministry of Health & Family Welfare, Government of India, New Delhi, 110001, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choudhary Y"
+          ],
+          "firstName": [
+            "Yogendra Kumar"
+          ],
+          "lastName": [
+            "Choudhary"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "g Etica Clinpharm Pvt Ltd, CCRP-317, Ambuja City Centre, Vidhan Sabha Road, Mowa, Raipur, Chhattisgarh, 492001, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kesharwani P"
+          ],
+          "firstName": [
+            "Prashant"
+          ],
+          "lastName": [
+            "Kesharwani"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "h Department of Pharmaceutics, School of Pharmaceutical Education and Research, Jamia Hamdard, 110062, New Delhi, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alexander A"
+          ],
+          "firstName": [
+            "Amit"
+          ],
+          "lastName": [
+            "Alexander"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "c National Institute of Pharmaceutical Education and Research (NIPER-Guwahati), Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers, Govt. of India, Sila Katamur (Halugurisuk), Changsari, Kamrup, 781101, Guwahati, Assam, India"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3028686"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Respiratory medicine"
+          ],
+          "ISOAbbreviation": [
+            "Respir Med"
+          ],
+          "medlineAbbreviation": [
+            "Respir Med"
+          ],
+          "NLMid": [
+            "8908438"
+          ],
+          "ISSN": [
+            "0954-6111"
+          ],
+          "ESSN": [
+            "1532-3064"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "In December 2019, when the whole world is waiting for Christmas and New Year, the physicians of Wuhan, China, are astounded by clusters of patients suffering from pneumonia from unknown causes. The pathogen isolated from the respiratory epithelium of the patients is similar to previously known coronaviruses with some distinct features. The disease was initially called nCoV-2019 or SARS-nCoV-2 and later termed as COVID-19 by WHO. The infection is rapidly propagating from the day of emergence, spread throughout the globe and now became a pandemic which challenged the competencies of developed nations in terms of health care management. As per WHO report, 216 countries are affected with SARS-CoV-19 by August 5, 2020 with 18, 142, 718 confirmed cases and 691,013 deaths reports. Such huge mortality and morbidity rates are truly threatening and calls for some aggressive and effective measures to slow down the disease transmission. The scientists are constantly engaged in finding a potential solution to diagnose and treat the pandemic. Various FDA approved drugs with the previous history of antiviral potency are repurposed for COVID-19 treatment. Different drugs and vaccines are under clinical trials and some rapid and effective diagnostic tools are also under development. In this review, we have highlighted the current epidemiology through infographics, disease transmission and progression, clinical features and diagnosis and possible therapeutic approaches for COVID-19. The article mainly focused on the development and possible application of various FDA approved drugs, including chloroquine, remdesivir, favipiravir, nefamostate mesylate, penciclovir, nitazoxanide, ribavirin etc., vaccines under development and various registered clinical trials exploring different therapeutic measures for the treatment of COVID-19. This information will definitely help the researchers to understand the in-line scientific progress by various clinical agencies and regulatory bodies against COVID-19. Graphical abstract Image 1 Highlights • Aggressive and effective measures are essential to combat COVID-19.• A huge number of potential diagnostic tools are needed to examine one and all.• Chloroquine and hydroxychloroquine are not found effective as expected.• FDA announced EUA for remdesivir.• Vaccines with novel technologies are under clinical trials."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vaccine",
+        "Pandemic",
+        "Clinical Trials",
+        "Covid-19",
+        "Sars-cov-2",
+        "Repurposed Medicine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567661/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567661/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7567661"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7567661?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-21"
+  ],
+  "firstIndexDate": [
+    "2020-10-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-21"
+  ],
+  "dateOfRevision": [
+    "2020-11-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-17"
+  ],
+  "firstPublicationDate": [
+    "2020-10-17"
+  ]
+}

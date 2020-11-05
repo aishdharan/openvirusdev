@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="par0075">To investigate the global epidemic spread of SARS-CoV-2, we performed comprehensive evolutionary analyses of 112 genomes from “dataset_112”. Our likelihood-mapping analysis confirmed increasing tree-like phylogenetic signals over time as more genome sequences of SARS-CoV-2 strains were added to our study compared with previous results (
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>; 
+ <xref rid="bib0175" ref-type="bibr">Li et al., 2020e</xref>). This indicates more complex genetic divergence of SARS-CoV-2 in humans and greater adaptation to humans (
+ <xref rid="fig0005" ref-type="fig">Fig. 1</xref>A), consistent with our earlier studies (
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>; 
+ <xref rid="bib0175" ref-type="bibr">Li et al., 2020e</xref>). Split network analysis of SARS-CoV-2 based on “dataset_112” using the NeighborNet method was more resolved over time as more genome sequences were added to our study compared with our previous results (
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>). This indicates increasing tree-like evolution of SARS-CoV-2, consistent with our likelihood-mapping analysis (
+ <xref rid="fig0005" ref-type="fig">Fig. 1</xref>B). These results are also consistent with our ML phylogenetic analyses, which showed a more bifurcating tree topology from “dataset_112” compared to our previous results (
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>; 
+ <xref rid="bib0175" ref-type="bibr">Li et al., 2020e</xref>), (
+ <xref rid="fig0010" ref-type="fig">Fig. 2</xref>). Our dataset still had a minor positive temporal signal based on regression analysis using TempEst v1.5 (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>) and ML dating analysis using TreeTime package (
+ <xref rid="bib0210" ref-type="bibr">Sagulenko et al., 2018</xref>) compared to our previous results (
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>). Furthermore, the estimated TMRCA dates and evolutionary rates of SARS-CoV-2 for “dataset_112” were found to be nearly identical using both analyses (
+ <xref rid="fig0015" ref-type="fig">Fig. 3</xref> and Supplementary 
+ <xref rid="fig0005" ref-type="fig">Fig. 1</xref>), consistent with earlier results (
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>). The estimated TMRCA dates of SARS-CoV-2 based on “dataset_112” using TempEst v1.5 (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>) (19 October 2019) and ML dating analysis using TreeTime (
+ <xref rid="bib0210" ref-type="bibr">Sagulenko et al., 2018</xref>) (19 October 2019) were also identical to our previous results (
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>). However, the estimated evolutionary rates of SARS-CoV-2 for “dataset_112” using TempEst v1.5 (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>) (5.3504 × 10
+ <sup>−3</sup> substitutions per site per year) and ML dating analysis using TreeTime (
+ <xref rid="bib0210" ref-type="bibr">Sagulenko et al., 2018</xref>) (5.35 × 10
+ <sup>−3</sup> substitutions per site per year) were very distinct to our prior results (
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>) using TempEst v1.5 (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>) (3.3452 × 10
+ <sup>−4</sup> substitutions per site per year) and ML dating analysis using TreeTime (
+ <xref rid="bib0210" ref-type="bibr">Sagulenko et al., 2018</xref>) (3.34 × 10
+ <sup>−4</sup> substitutions per site per year). The estimated TMRCA dates and evolutionary rates of SARS-CoV-2 for “dataset_112” were very similar across different clocks using the tip-dating method, but very distinct across different coalescent tree priors (e.g., parametric coalescent and nonparametric coalescent models) (
+ <xref rid="tbl0005" ref-type="table">Table 1</xref>). Notably, the estimated TMRCA dates and evolutionary rates of SARS-CoV-2 were more similar between exponential growth population with growth rate parameterization and constant population size models than those determined using exponential growth population with growth rate parameterization and another exponential growth population with doubling time parameterization models. Bayesian analyses with the tip-dating method using an UCLN relaxed molecular clock as well as an exponential growth coalescent tree prior with doubling time parameterization model suggested that SARS-CoV-2 is evolving at a rate of 9.90 × 10
+ <sup>−4</sup> substitutions per site per year (
+ <xref rid="tbl0005" ref-type="table">Table 1</xref>). This in accordance with our prior studies (
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>; 
+ <xref rid="bib0175" ref-type="bibr">Li et al., 2020e</xref>), but very distinct to results based on regression analysis using TempEst v1.5 (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>) and ML dating analysis using TreeTime (
+ <xref rid="bib0210" ref-type="bibr">Sagulenko et al., 2018</xref>), which showed that SARS-CoV-2 is evolving at a rate of 5.3504 × 10
+ <sup>−3</sup> and 5.35 × 10
+ <sup>−3</sup> substitutions per site per year, respectively. These findings suggest that the virus originated on 12 November 2019, in agreement with our previous studies (
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>; 
+ <xref rid="bib0175" ref-type="bibr">Li et al., 2020e</xref>), but distinct from earlier regression analysis (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>) and ML dating analysis results (
+ <xref rid="bib0210" ref-type="bibr">Sagulenko et al., 2018</xref>), which both showed that the virus originated on 19 October 2019. In summary, the TMRCA date and evolutionary rate estimates of SARS-CoV-2 for “dataset_112” are still sensitive to the tree prior, and additional genomes should make these estimates more robust towards the tree prior choice. We found Bayesian approaches to be more powerful than regression analysis and ML dating analysis. We employed the BDSKY model (
+ <xref rid="bib0230" ref-type="bibr">Stadler et al., 2013</xref>) and found that the 
+ <italic>R
+  <sub>e</sub>
+ </italic> estimates of SARS-CoV-2 for “dataset_112” experienced a complex phylodynamic history (
+ <xref rid="fig0025" ref-type="fig">Fig. 5</xref>). However, the epidemic spread of SARS-CoV-2 had very low 
+ <italic>R
+  <sub>e</sub>
+ </italic> estimates during the recent sampling time period, suggesting that the introduction of effective prevention measures (e.g., joint defense and control strategies in China, particularly the extreme lockdown of Wuhan) limited viral spread within the sampled populations. If performed in real time, such analyses could provide actionable targets for prevention. The limitations of these evolutionary analyses are discussed in our previous studies (
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>; 
+ <xref rid="bib0175" ref-type="bibr">Li et al., 2020e</xref>), and can also be applied here. Both Bayesian coalescent and BDSKY models assume that the population is well-mixed. That is, they assume that there is no significant population structure and that the sequences are a random sample from the population. For the epidemiological analysis of SARS-CoV-2 from “dataset_112”, the non-random and non-well-mixing of the sampled population, and the non-constant sampling effort may be potential strong sources of bias in the estimates of SARS-CoV-2 epidemic parameters, which is an issue for all molecular evolutionary studies using real world data. It is important to note that there is currently not enough genomic data from the early COVID-19 outbreak period to interpret the early history of global transmissions of COVID-19 from few genomes in detail. Links of all paired genomic sequences that seem directly connected now from our phylogenetic trees in the present study are likely to be connected more closed with other genomic sequences from other countries not sampled and sometimes can be connected differently later with more genomic sequences becoming available. The phylogenetic relationships of genomic sequences of SARS-CoV-2 in the future will be much more complex than the early incomplete picture presented in this study. Therefore, our results and conclusions should be explained with caution due to the limited number of SARS-CoV-2 genomes presented in this study over a short time period. The 95 % BCI estimates for the evolutionary rates and TMRCA dates are averaged over many plausible phylogenetic reconstructions of the genome data; thus, as more patients with COVID-19 are sampled and more SARS-CoV-2 genomes become available, we expect these estimates will become narrower.
+</p>

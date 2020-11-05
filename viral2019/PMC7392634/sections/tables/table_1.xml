@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Key events in the COVID-19 pandemic, December 2019–May 2020</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Month</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Key events</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">December 2019</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Clusters of pneumonia of unknown origin in Wuhan, China.</p>
+      </list-item>
+      <list-item>
+       <p>Human infection probably began sometime between 9 October and 20 December 2019.
+        <xref rid="R69" ref-type="bibr">69</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>WHO alerted of a novel coronavirus on 31 December 2019.</p>
+      </list-item>
+      <list-item>
+       <p>Several cases in Hubei Province, China, and probably already spread to surrounding areas.</p>
+      </list-item>
+      <list-item>
+       <p>The virus may have already been spreading in France late December 2019.
+        <xref rid="R70" ref-type="bibr">70</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">January 2020</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>First case outside China reported in Thailand on 13 January 2020.</p>
+      </list-item>
+      <list-item>
+       <p>Cases reported in at least 24 countries, mostly in South and Southeast Asia; also in Europe, the USA, Canada and the United Arab Emirates.
+        <xref rid="R71" ref-type="bibr">71</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>The ‘new disease’ declared a ‘Public Health Emergency of International Concern’ on 30 January 2020.</p>
+      </list-item>
+      <list-item>
+       <p>Mostly ‘imported cases only’, mainly travellers from China. Soon ‘export’ of virus from other countries started.</p>
+      </list-item>
+      <list-item>
+       <p>The Wuhan lockdown,
+        <xref rid="R72" ref-type="bibr">72</xref> which later inspired a series of lockdowns across the world.
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">February 2020</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>The new disease named COVID-19 on 11 February 2020.</p>
+      </list-item>
+      <list-item>
+       <p>Cruise ship Princess Diamond quarantined near Japan, sparking media attention.</p>
+      </list-item>
+      <list-item>
+       <p>Epidemic in China peaked with ~80 000 cases and 2900 deaths (80% of cases restricted to the Hubei Province).
+        <xref rid="R73" ref-type="bibr">73</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Local epidemics of varying attack rates and case fatality rates in 58 countries with imported cases causing ‘local transmission’ reported from 20 countries.</p>
+      </list-item>
+      <list-item>
+       <p>South Korea, Italy and Iran emerged as new epicentres.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">March 2020</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Europe engulfed with local epidemics.</p>
+      </list-item>
+      <list-item>
+       <p>Over 170 countries were affected worldwide.</p>
+      </list-item>
+      <list-item>
+       <p>The epidemic in China seemed to have plateaued.</p>
+      </list-item>
+      <list-item>
+       <p>WHO declared the epidemic a pandemic.</p>
+      </list-item>
+      <list-item>
+       <p>China partially lifted lockdown while India instituted the world’s biggest complete lockdown affecting ~1.4 billion people.
+        <xref rid="R74" ref-type="bibr">74</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">April 2020</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>COVID-19 cases crossed 1 million with more than 50 000 deaths.</p>
+      </list-item>
+      <list-item>
+       <p>The US emerged as the most affected country with epicentre in New York.</p>
+      </list-item>
+      <list-item>
+       <p>Aerosols implicated in the transmission (prompting ‘mass masking’ of the general public).</p>
+      </list-item>
+      <list-item>
+       <p>WHO warned that Africa will be the future epicentre of COVID-19.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">May 2020</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>South America became the new epicentre of COVID-19.</p>
+      </list-item>
+      <list-item>
+       <p>More than 325 000 deaths globally with ~5 million cases in 216 countries/territories/areas.</p>
+      </list-item>
+      <list-item>
+       <p>At the time of writing (end of May 2020), no effective medication and/or vaccine exist.</p>
+      </list-item>
+      <list-item>
+       <p>The pandemic appeared to have slowed down in countries such as South Korea, Italy, Spain, France and the rest of Europe.</p>
+      </list-item>
+      <list-item>
+       <p>In Africa, the number of cases seemed to fall short of forecasts.</p>
+      </list-item>
+      <list-item>
+       <p>Tremendous socioeconomic fallouts after an estimated 4.5 billion persons (more than half of humanity) subjected to social distancing norms and/or lockdowns.
+        <xref rid="R75" ref-type="bibr">75</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

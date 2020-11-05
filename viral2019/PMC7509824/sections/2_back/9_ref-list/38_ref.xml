@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alidjinou</surname>
+    <given-names>EK</given-names>
+   </name>
+   <name>
+    <surname>Engelmann</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Bossu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Villenet</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Figeac</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Romond</surname>
+    <given-names>MB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Persistence of Coxsackievirus B4 in pancreatic ductal-like cells results in cellular and viral changes</article-title>
+  <source>Virulence</source>
+  <year>2017</year>
+  <volume>8</volume>
+  <issue>7</issue>
+  <fpage>1229</fpage>
+  <lpage>1244</lpage>
+  <pub-id pub-id-type="doi">10.1080/21505594.2017.1284735</pub-id>
+  <?supplied-pmid 28112573?>
+  <pub-id pub-id-type="pmid">28112573</pub-id>
+ </element-citation>
+</ref>

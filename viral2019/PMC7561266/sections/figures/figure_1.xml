@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pntd.0008679.g001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pntd.0008679.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <title>Schematic representation of the model.</title>
+  <p>S
+   <sub>v</sub>, E
+   <sub>v</sub>, and I
+   <sub>v</sub> represent the susceptible, exposed, and infectious compartments of the mosquito population. S
+   <sub>h</sub>, E
+   <sub>h</sub>, I
+   <sub>h</sub>, and R
+   <sub>h</sub> represent the susceptible, exposed, infectious, and recovered compartments of the human population, respectively. The outline arrows are the transition from one compartment to the next, and the black filled arrows are the direction of transmission.
+  </p>
+ </caption>
+ <graphic xlink:href="pntd.0008679.g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

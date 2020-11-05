@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Craig</surname>
+    <given-names>AT</given-names>
+   </name>
+   <name>
+    <surname>Heywood</surname>
+    <given-names>AE</given-names>
+   </name>
+   <name>
+    <surname>Worth</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Measles epidemic in Samoa and other Pacifc islands.</article-title>
+  <source>Lancet Infect Dis</source>. 
+  <year>2020</year>;
+  <volume>20</volume>:
+  <fpage>273</fpage>-
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30053-0</pub-id>
+  <?supplied-pmid 32112752?>
+  <pub-id pub-id-type="pmid">32112752</pub-id>
+ </mixed-citation>
+</ref>

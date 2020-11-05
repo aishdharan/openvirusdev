@@ -1,0 +1,541 @@
+{
+  "id": [
+    "32737861"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32737861"
+  ],
+  "pmcid": [
+    "PMC7393812"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7393812"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s13365-020-00868-7"
+  ],
+  "title": [
+    "Coronaviruses and the central nervous system."
+  ],
+  "authorString": [
+    "Morgello S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Morgello S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Morgello"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7729-245X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Neurology, Neuroscience, and Pathology, Icahn School of Medicine at Mount Sinai, Box 1137, New York, 10029, NY, USA. susan.morgello@mssm.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7729-245X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "2997338"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neurovirology"
+          ],
+          "ISOAbbreviation": [
+            "J. Neurovirol."
+          ],
+          "medlineAbbreviation": [
+            "J Neurovirol"
+          ],
+          "NLMid": [
+            "9508123"
+          ],
+          "ISSN": [
+            "1355-0284"
+          ],
+          "ESSN": [
+            "1538-2443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "459-473"
+  ],
+  "abstractText": [
+    "Seven coronavirus (CoV) species are known human pathogens: the epidemic viruses SARS-CoV, SARS-CoV-2, and MERS-CoV and those continuously circulating in human populations since initial isolation: HCoV-OC43, HCoV-229E, HCoV-HKU1, and HCoV-NL63. All have associations with human central nervous system (CNS) dysfunction. In infants and young children, the most common CNS phenomena are febrile seizures; in adults, non-focal abnormalities that may be either neurologic or constitutional. Neurotropism and neurovirulence are dependent in part on CNS expression of cell surface receptors mediating viral entry, and host immune response. In adults, CNS receptors for epidemic viruses are largely expressed on brain vasculature, whereas receptors for less pathogenic viruses are present in vasculature, brain parenchyma, and olfactory neuroepithelium, dependent upon viral species. Human coronaviruses can infect circulating mononuclear cells, but meningoencephalitis is rare. Well-documented human neuropathologies are infrequent and, for SARS, MERS, and COVID-19, can entail cerebrovascular accidents originating extrinsically to brain. There is evidence of neuronal infection in the absence of inflammatory infiltrates with SARS-CoV, and CSF studies of rare patients with seizures have demonstrated virus but no pleocytosis. In contrast to human disease, animal models of neuropathogenesis are well developed, and pathologies including demyelination, neuronal necrosis, and meningoencephalitis are seen with both native CoVs as well as human CoVs inoculated into nasal cavities or brain. This review covers basic CoV biology pertinent to CNS disease; the spectrum of clinical abnormalities encountered in infants, children, and adults; and the evidence for CoV infection of human brain, with reference to pertinent animal models of neuropathogenesis."
+  ],
+  "affiliation": [
+    "Departments of Neurology, Neuroscience, and Pathology, Icahn School of Medicine at Mount Sinai, Box 1137, New York, 10029, NY, USA. susan.morgello@mssm.edu."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R61DA048207"
+          ],
+          "agency": [
+            "National Institutes of Health (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RO1MH112391"
+          ],
+          "agency": [
+            "National Institutes of Health (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RO1NS108801"
+          ],
+          "agency": [
+            "National Institutes of Health (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RF1AG060961"
+          ],
+          "agency": [
+            "National Institutes of Health (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24MH100931"
+          ],
+          "agency": [
+            "National Institutes of Health (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 MH112391"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RF1 AG060961"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R61 DA048207"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronaviridae"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Meningitis, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronaviridae Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Central nervous system",
+        "Coronavirus",
+        "Neurologic Disease"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13365-020-00868-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7393812"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7393812?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-08-27"
+  ],
+  "dateOfCreation": [
+    "2020-08-02"
+  ],
+  "firstIndexDate": [
+    "2020-08-09"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-05"
+  ],
+  "dateOfRevision": [
+    "2020-09-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-07-31"
+  ],
+  "firstPublicationDate": [
+    "2020-07-31"
+  ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref16">
+ <label>16.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Yuan</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Cao</surname>
+    <given-names>D</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zhang</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Cryo-EM structures of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic receptor binding domains</article-title>. 
+  <source>Nat Commun</source>
+  <year>2017</year>;
+  <volume>8</volume>(
+  <issue>15092</issue>):
+  <fpage>1</fpage>–
+  <lpage>9</lpage>. doi: 
+  <pub-id pub-id-type="doi">10.1038/ncomms15092</pub-id>.
+  <pub-id pub-id-type="pmid">28232747</pub-id>
+ </mixed-citation>
+</ref>

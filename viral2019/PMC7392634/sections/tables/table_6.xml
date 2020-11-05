@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T6" orientation="portrait" position="float">
+ <label>Table 6</label>
+ <caption>
+  <p>Knowns, uncertainties and unknowns about severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), as of May 2020</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Factor</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Available information</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Origin of
+     <break/>SARS-CoV-2
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Most probably from bats via intermediate animal hosts to index case.
+        <xref rid="R47" ref-type="bibr">47 104</xref>
+       </p>
+      </list-item>
+     </list>
+     <list list-type="bullet">
+      <list-item>
+       <p>All subsequent cases resulted from human-to-human transmission.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Transmission</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Mainly through respiratory droplets from infected persons
+        <xref rid="R105" ref-type="bibr">105</xref>; by hands, after contamination at nose, mouth or eyes; also through air on exposure to sneezing or coughing from an infected person at close distance.
+       </p>
+      </list-item>
+      <list-item>
+       <p>Through aerosols, while singing/talking loudly in congregations, groups, parties, karaoke, and so on, especially in poorly ventilated spaces.
+        <xref rid="R18" ref-type="bibr">18 106</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Through fomites.
+        <xref rid="R107" ref-type="bibr">107</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Possibly via faecal–oral route
+        <xref rid="R108" ref-type="bibr">108 109</xref>; detection in sewage.
+        <xref rid="R110" ref-type="bibr">110–112</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Related to peak in upper respiratory tract viral load prior to symptom onset in presymptomatic (paucisymptomatic) persons.
+        <xref rid="R106" ref-type="bibr">106 113 114</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Transmission dynamics in asymptomatic persons not fully elucidated although viral shedding occurs.
+        <xref rid="R115" ref-type="bibr">115</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Influence of climate and/or air pollution on transmission</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Influence of climate on the capacity of the virus to survive outside human body (in air, in droplets, on surfaces, etc.) and to spread has been speculative.</p>
+      </list-item>
+      <list-item>
+       <p>May spread more readily in milder/colder climate
+        <xref rid="R116" ref-type="bibr">116 117</xref>; although variability of the reproductive number could not be explained by temperature or humidity.
+        <xref rid="R118" ref-type="bibr">118</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Existing levels of air pollution may play a role; air pollutants, such as particulate matter, nitrogen dioxide and carbon monoxide, are likely a factor facilitating longevity of virus particles.
+        <xref rid="R119" ref-type="bibr">119</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Elevated exposure to common particulate matter can alter host immunity to respiratory viral infections.
+        <xref rid="R119" ref-type="bibr">119</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Immunity—protective antibodies</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>IgM and IgA antibody response 5–10 days after onset of symptoms, does not depend on clinical severity, correlates with virus neutralisation; IgG is observed ~14 days after onset of symptoms,
+        <xref rid="R93" ref-type="bibr">93 120</xref> may or may not correspond to protective immunity. Whether antibody response is long lasting has remained unclear.
+       </p>
+      </list-item>
+      <list-item>
+       <p>Rechallenge in rhesus macaques showed immunity post primary infection.
+        <xref rid="R121" ref-type="bibr">121</xref> How protective immunity after first infection is against subsequent infection with an identical or mutated strain has been uncertain.
+       </p>
+      </list-item>
+      <list-item>
+       <p>Incidental reports showed recovered persons positive by real-time PCR,
+        <xref rid="R122" ref-type="bibr">122 123</xref> later attributed to testing errors.
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Seroprevalence to SARS-CoV-2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Reported estimates for seroprevalence range between 0.4% and 59.3%
+        <xref rid="R124" ref-type="bibr">124</xref>; differences in timing of the serosurvey, the use of assay kits with varying sensitivity/specificity, and different methods for detection may contribute to this large variation.
+        <xref rid="R125" ref-type="bibr">125</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Seemingly high seroprevalence may be due to cross-reactive epitopes between SARS-CoV-2 and other HCoVs.
+        <xref rid="R126" ref-type="bibr">126 127</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Whether seroprevalence implies immune protection is unclear, yet, some countries have considered use of ‘immunity passports’.
+        <xref rid="R128" ref-type="bibr">128</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>For herd immunity to be effectively achieved, an estimated seroprevalence of 60% of the population will be required.
+        <xref rid="R37" ref-type="bibr">37</xref> Other studies estimate between 5.66% and 85% seroprevalence in different countries.
+        <xref rid="R129" ref-type="bibr">129–131</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Rate of variability/mutation in SARS-CoV-2</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Mutation rate: ~10
+        <sup>−3</sup> substitutions per year per site
+        <xref rid="R132" ref-type="bibr">132 133</xref>; 13 mutation sites have been identified as of May 2020, suggesting selective mutations.
+        <xref rid="R134" ref-type="bibr">134</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>The low mutation rate suggests that a vaccine would be a single vaccine rather than a new vaccine every year like the influenza vaccine.
+        <xref rid="R135" ref-type="bibr">135</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Ten different circulating clades (
+        <ext-link ext-link-type="uri" xlink:href="https://nextstrain.org/" xmlns:xlink="http://www.w3.org/1999/xlink">nextstrain.org</ext-link>; 
+        <ext-link ext-link-type="uri" xlink:href="www.gisaid.org" xmlns:xlink="http://www.w3.org/1999/xlink">www.gisaid.org</ext-link>),
+        <xref rid="R136" ref-type="bibr">136</xref> as of May 2020.
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="T6_FN1">
+   <p>HCoV, human coronaviruses.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

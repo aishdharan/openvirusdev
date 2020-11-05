@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The National Center for Biotechnology Information (NCBI) at the National Institutes of Health (NIH) is one of the most important sources of nucleotide databases for many different genetic diseases. These databases are called 
+ <ext-link ext-link-type="gen" xlink:href="GenBank" xmlns:xlink="http://www.w3.org/1999/xlink">GenBank</ext-link> [
+ <xref rid="ref28" ref-type="bibr">28</xref>]. In this work, 76 complete genomes for each epidemic (COVID-19, SARS-CoV and MERS-CoV) are used. For each epidemic, each DNA sequence has a length of 30 000 nucleotides. RNA was extracted for whole genome sequencing of the viral isolate. Briefly, RNA was extracted from clarified cell culture supernatant and randomly amplified cDNA prepared by sequence-independent single-primer amplification (SISPA) [
+ <xref rid="ref29" ref-type="bibr">29</xref>, 
+ <xref rid="ref30" ref-type="bibr">30</xref>]. Sequencing was performed with a combination of Oxford Nanopore Technologies and Illumina short-read sequencing. Genomic assembly of the BetaCoV/Australia/VIC/01/2020 genome was confirmed by parallel de novo and reference-guided methods [
+ <xref rid="ref31" ref-type="bibr">31</xref>].
+</p>

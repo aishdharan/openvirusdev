@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Batlle</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Soler</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Ye</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <article-title>ACE2 and diabetes: ACE of ACEs?</article-title>
+  <source>Diabetes</source>
+  <year>2010</year>
+  <volume>59</volume>
+  <fpage>2994</fpage>
+  <lpage>2996</lpage>
+  <?supplied-pmid 21115782?>
+  <pub-id pub-id-type="pmid">21115782</pub-id>
+ </element-citation>
+</ref>

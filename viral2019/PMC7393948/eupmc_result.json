@@ -1,0 +1,587 @@
+{
+  "id": [
+    "32793651"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32793651"
+  ],
+  "pmcid": [
+    "PMC7393948"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7393948"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3389/fvets.2020.00435"
+  ],
+  "title": [
+    "Genetic Diversity of Porcine Epidemic Diarrhea Virus With a Naturally Occurring Truncated ORF3 Gene Found in Guangxi, China."
+  ],
+  "authorString": [
+    "Lu Y, Su X, Du C, Mo L, Ke P, Wang R, Zhong L, Yang C, Chen Y, Wei Z, Huang W, Liao Y, Ouyang K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lu Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Su X"
+          ],
+          "firstName": [
+            "Xueli"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Du C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mo L"
+          ],
+          "firstName": [
+            "Liyuan"
+          ],
+          "lastName": [
+            "Mo"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ke P"
+          ],
+          "firstName": [
+            "Purui"
+          ],
+          "lastName": [
+            "Ke"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang R"
+          ],
+          "firstName": [
+            "Ruomu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong L"
+          ],
+          "firstName": [
+            "Lian"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Cui"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Poultry, Guangxi Institute of Animal Science, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei Z"
+          ],
+          "firstName": [
+            "Zuzhang"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Weijian"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liao Y"
+          ],
+          "firstName": [
+            "Yuying"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Poultry, Guangxi Institute of Animal Science, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ouyang K"
+          ],
+          "firstName": [
+            "Kang"
+          ],
+          "lastName": [
+            "Ouyang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2911895"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in veterinary science"
+          ],
+          "ISOAbbreviation": [
+            "Front Vet Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Vet Sci"
+          ],
+          "NLMid": [
+            "101666658"
+          ],
+          "ISSN": [
+            "2297-1769"
+          ],
+          "ESSN": [
+            "2297-1769"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "435"
+  ],
+  "abstractText": [
+    "Porcine epidemic diarrhea virus (PEDV) is one of the major enteric pathogens, causing severe enteric disease, resulting in enormous economic losses. The ORF3 gene encodes an accessory protein which is related to the infectivity and virulence of PEDV. In this study, 33 PEDV positive field samples were collected from Guangxi, from 2017 to 2019, and the genetic diversity of ORF3 was investigated. Thirty-eight strains of ORF3 were obtained, and these were composed of five strains of ORF3 named Guangxi naturally truncated strains that were 293 bp in length, with continuous deletions from 172 to 554 bp. The Guangxi naturally truncated strains encoded a truncated protein of 89 amino acids, which had clustered into a new group referred to as Group 3, and these might be involved in the variations of virulence. Three genotypes (G1-1 subgroup, G1-3 subgroup, and Group 3) existed simultaneously in Guangxi based on the genetic and evolutionary analysis of the ORF3 gene. The sequence information in the current study will hopefully facilitate the establishment of a diagnostic method that can differentiate the PEDV field stains. Continued surveillance will be useful for monitoring PEDV transmission. Differentiation of the ORF3 genes in PEDV field strains can help us to choose an appropriate PEDV vaccine candidate in the future and prevent outbreaks of PED more effectively."
+  ],
+  "affiliation": [
+    "Laboratory of Animal Infectious Disease and Molecular Immunology, College of Animal Science and Technology, Guangxi University, Nanning, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetic diversity",
+        "Pigs",
+        "PEDV",
+        "Orf3",
+        "Naturally Truncated Gene"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fvets.2020.00435"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7393948"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7393948?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-08-15"
+  ],
+  "firstIndexDate": [
+    "2020-08-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-14"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-07-24"
+  ],
+  "firstPublicationDate": [
+    "2020-07-24"
+  ]
+}

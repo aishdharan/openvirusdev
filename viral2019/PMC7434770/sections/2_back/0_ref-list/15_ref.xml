@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib15">
+ <label>15</label>
+ <element-citation publication-type="journal" id="sref15">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhu</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>Y.</given-names>
+   </name>
+  </person-group>
+  <article-title>Community quarantine strategy against coronavirus disease 2019 in Anhui: an evaluation based on trauma center patients</article-title>
+  <source>Int J Infect Dis</source>
+  <volume>96</volume>
+  <year>2020</year>
+  <fpage>417</fpage>
+  <lpage>421</lpage>
+  <pub-id pub-id-type="pmid">32283282</pub-id>
+ </element-citation>
+</ref>

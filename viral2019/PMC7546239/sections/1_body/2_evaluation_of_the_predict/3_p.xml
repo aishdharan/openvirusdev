@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2994">Each prediction algorithm produces a forecast 
+ <inline-formula>
+  <math id="d1e2997" display="inline" altimg="si36.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mover accent="true">
+       <mrow>
+        <mi>y</mi>
+       </mrow>
+       <mrow>
+        <mo>ˆ</mo>
+       </mrow>
+      </mover>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> for the cumulative number of infected cases 
+ <inline-formula>
+  <math id="d1e3020" display="inline" altimg="si138.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> for every region 
+ <inline-formula>
+  <math id="d1e3038" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> at time 
+ <inline-formula>
+  <math id="d1e3044" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula>. To quantify the prediction error at time 
+ <inline-formula>
+  <math id="d1e3049" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula>, we use the Symmetric Mean Absolute Percentage Error (sMAPE) 
+ <disp-formula id="fd9">
+  <label>(9)</label>
+  <math id="d1e3060" display="block" altimg="si118.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>e</mi>
+     </mrow>
+     <mrow>
+      <mtext>sMAPE</mtext>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+    <munderover>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </munderover>
+    <mfrac>
+     <mrow>
+      <mrow>
+       <mo>|</mo>
+       <msub>
+        <mrow>
+         <mi>y</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo linebreak="badbreak">−</mo>
+       <msub>
+        <mrow>
+         <mover accent="true">
+          <mrow>
+           <mi>y</mi>
+          </mrow>
+          <mrow>
+           <mo>ˆ</mo>
+          </mrow>
+         </mover>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>|</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mrow>
+         <mi>y</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mrow>
+         <mover accent="true">
+          <mrow>
+           <mi>y</mi>
+          </mrow>
+          <mrow>
+           <mo>ˆ</mo>
+          </mrow>
+         </mover>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+      <mo>∕</mo>
+      <mn>2</mn>
+     </mrow>
+    </mfrac>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>which is commonly used in forecasting (
+ <xref rid="b18" ref-type="bibr">Hyndman &amp; Koehler, 2006</xref>). Furthermore, we quantify the Percentage Error (PE) 
+ <disp-formula id="fd10">
+  <label>(10)</label>
+  <math id="d1e3202" display="block" altimg="si119.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>e</mi>
+     </mrow>
+     <mrow>
+      <mtext>PE</mtext>
+      <mo>,</mo>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>y</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+      <mo linebreak="badbreak">−</mo>
+      <msub>
+       <mrow>
+        <mover accent="true">
+         <mrow>
+          <mi>y</mi>
+         </mrow>
+         <mrow>
+          <mo>ˆ</mo>
+         </mrow>
+        </mover>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>y</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+     </mrow>
+    </mfrac>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>for every region 
+ <inline-formula>
+  <math id="d1e3280" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> and time 
+ <inline-formula>
+  <math id="d1e3285" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula> to investigate over- and underestimations. We consider the spread of COVID-19 in two regions: The cities in Hubei, China and the provinces in the Netherlands. These regions cannot be regarded as full representatives of the spread of COVID-19, let alone general infectious diseases. Rather, these regions illustrate the strengths and weaknesses of our methods.
+</p>

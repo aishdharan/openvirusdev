@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b32">
+ <label>32</label>
+ <element-citation publication-type="book" id="sb32">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Creel</surname>
+    <given-names>Michael</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Unconstrained optimization with MINTOOLKIT for GNU octave</chapter-title>
+  <year>2004</year>
+ </element-citation>
+</ref>

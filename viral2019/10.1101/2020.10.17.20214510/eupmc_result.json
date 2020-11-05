@@ -1,0 +1,243 @@
+{
+  "id": [
+    "PPR227669"
+  ],
+  "source": [
+    "PPR"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PPR227669"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1101/2020.10.17.20214510"
+  ],
+  "title": [
+    "Association between live childhood vaccines and COVID-19 outcomes: a national-level analysis"
+  ],
+  "authorString": [
+    "Ogimi C, Qu P, Boeckh M, Bender Ignacio RA, Zangeneh SZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ogimi C"
+          ],
+          "firstName": [
+            "Chikara"
+          ],
+          "lastName": [
+            "Ogimi"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Qu P"
+          ],
+          "firstName": [
+            "Pingping"
+          ],
+          "lastName": [
+            "Qu"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Boeckh M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Boeckh"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Bender Ignacio RA"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Bender Ignacio"
+          ],
+          "initials": [
+            "RA"
+          ]
+        },
+        {
+          "fullName": [
+            "Zangeneh SZ"
+          ],
+          "firstName": [
+            "Sahar"
+          ],
+          "lastName": [
+            "Zangeneh"
+          ],
+          "initials": [
+            "SZ"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Abstract We investigated whether countries with higher coverage of childhood live vaccines [BCG or measles-containing-vaccine (MCV)] have reduced risk of COVID-19 related mortality, accounting for known systems differences between countries. In this ecological study of 140 countries using publicly available national-level data, higher vaccine coverage, representing estimated proportion of people vaccinated during the last 15 years, was associated with lower COVID-19 deaths. The associations attenuated for both vaccine variables, and MCV coverage became no longer significant once adjusted for a validated summary score accounting for life expectancy and healthcare quality indicators, the Healthcare access and quality index (HAQI). The magnitude of association between BCG coverage and COVID-19 death rate varied according to HAQI, and MCV coverage had little effect on the association between BCG and COVID-19 deaths. While there are associations between live vaccine coverage and COVID-19 outcomes, the vaccine coverage variables themselves were strongly correlated with COVID-19 testing rate, HAQI, and life expectancy. This suggests that the population-level associations may be further confounded by differences in structural health systems and policies. Cluster randomized studies of booster vaccines would be ideal to evaluate the efficacy of trained immunity in preventing COVID-19 infections and mortality in vaccinated individuals and on community transmission."
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Preprint"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "medRxiv"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1101/2020.10.17.20214510"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/article/PPR/PPR227669"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/api/fulltextRepo?pprId=PPR227669&type=FILE&fileName=EMS98736-pdf.pdf&mimeType=application/pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-21"
+  ],
+  "firstIndexDate": [
+    "2020-10-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-11-01"
+  ],
+  "firstPublicationDate": [
+    "2020-10-20"
+  ]
+}

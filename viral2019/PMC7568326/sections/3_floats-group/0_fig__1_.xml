@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig01" fig-type="featured" orientation="portrait" position="float">
+ <label>Fig. 1.</label>
+ <caption>
+  <p>Simulated examples of SARS-CoV-2 spread in the United Kingdom using an age-structured Susceptible Exposed Infectious Recovered (SEIR) model under different control scenarios. (
+   <italic>A</italic>) Daily new cases assuming no intervention measures enacted. (
+   <italic>B</italic>) Cumulative proportion of the population exposed to SARS-CoV-2 over the course of the epidemic. (
+   <italic>C</italic>) Cumulative fatalities assuming fixed age-specific case fatality rates (see 
+   <xref ref-type="sec" rid="s3">
+    <italic>Materials and Methods</italic>
+   </xref>). (
+   <italic>D</italic>–
+   <italic>F</italic>) Same as 
+   <italic>A</italic>–
+   <italic>C</italic>, but assuming that specific control measures are introduced when daily cases reached 10,000 (day 57): Older individuals social distance, and symptomatic individuals self-isolate (at 20% effectiveness). (
+   <italic>G</italic>–
+   <italic>I</italic>) Same as 
+   <italic>D</italic>–
+   <italic>F</italic> but, in addition, schools close on day 57. Reopening of schools after 100 d results in a resurgence.
+  </p>
+ </caption>
+ <graphic id="gra1" xlink:href="pnas.2008087117fig01" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

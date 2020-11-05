@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Despite the cascade-forward NN being similar to feed-forward NN, it contains a weighted link from the input layer to each layer and from each layer to the next layers; see 
+ <xref rid="f2" ref-type="fig">Figure 2</xref>. For a given three-layer network, there are connections from layer one to layer two, layer two to layer three and layer one to layer three. In addition to this, it includes connections from the input layer to all three layers [
+ <xref rid="ref51" ref-type="bibr">51</xref>]. The extra links might get better speed at which the network learns the desired relations [
+ <xref rid="ref52" ref-type="bibr">52</xref>].
+</p>

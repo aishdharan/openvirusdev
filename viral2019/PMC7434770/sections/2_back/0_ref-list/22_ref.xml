@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib22">
+ <label>22</label>
+ <element-citation publication-type="journal" id="sref22">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gunnell</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Appleby</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Arensman</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Hawton</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>John</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Kapur</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Suicide risk and prevention during the COVID-19 pandemic</article-title>
+  <source>Lancet Psychiatry</source>
+  <volume>7</volume>
+  <year>2020</year>
+  <fpage>468</fpage>
+  <lpage>471</lpage>
+  <pub-id pub-id-type="pmid">32330430</pub-id>
+ </element-citation>
+</ref>

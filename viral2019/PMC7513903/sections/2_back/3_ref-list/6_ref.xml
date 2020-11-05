@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wilcox</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Colwell</surname>
+    <given-names>RR</given-names>
+   </name>
+  </person-group>
+  <article-title>Emerging and reemerging infectious diseases: biocomplexity as an interdisciplinary paradigm</article-title>
+  <source>Ecohealth</source>
+  <year>2005</year>
+  <volume>2</volume>
+  <fpage>244</fpage>
+  <lpage>257</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10393-005-8961-3</pub-id>
+  <?supplied-pmid 7088082?>
+  <pub-id pub-id-type="pmid">7088082</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0004">
+ <label>4</label>
+ <element-citation publication-type="journal" id="sbref0004">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sakamoto</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Ishikane</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Ueda</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Seasonal influenza activity during the SARS-CoV-2 outbreak in Japan</article-title>
+  <source>JAMA</source>
+  <volume>323</volume>
+  <issue>19</issue>
+  <year>2020</year>
+  <fpage>1969</fpage>
+  <lpage>1971</lpage>
+  <pub-id pub-id-type="pmid">32275293</pub-id>
+ </element-citation>
+</ref>

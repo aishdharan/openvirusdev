@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b3">
+ <label>3</label>
+ <element-citation publication-type="journal" id="sb3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beigel</surname>
+    <given-names>John H.</given-names>
+   </name>
+   <name>
+    <surname>Tomashek</surname>
+    <given-names>Kay M.</given-names>
+   </name>
+   <name>
+    <surname>Dodd</surname>
+    <given-names>Lori E.</given-names>
+   </name>
+   <name>
+    <surname>Mehta</surname>
+    <given-names>Aneesh K.</given-names>
+   </name>
+   <name>
+    <surname>Zingman</surname>
+    <given-names>Barry S.</given-names>
+   </name>
+   <name>
+    <surname>Kalil</surname>
+    <given-names>Andre C.</given-names>
+   </name>
+   <name>
+    <surname>Hohmann</surname>
+    <given-names>Elizabeth</given-names>
+   </name>
+   <name>
+    <surname>Chu</surname>
+    <given-names>Helen Y.</given-names>
+   </name>
+   <name>
+    <surname>Luetkemeyer</surname>
+    <given-names>Annie</given-names>
+   </name>
+   <name>
+    <surname>Kline</surname>
+    <given-names>Susan</given-names>
+   </name>
+  </person-group>
+  <article-title>Remdesivir for the treatment of Covid-19—preliminary report</article-title>
+  <source>New Engl. J. Med.</source>
+  <year>2020</year>
+ </element-citation>
+</ref>

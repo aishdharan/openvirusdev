@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3387-3081</contrib-id>
+  <name>
+   <surname>Sun</surname>
+   <given-names>Mei</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guo</surname>
+   <given-names>Dong</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Jing</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Jian</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Teng</surname>
+   <given-names>Hai-Feng</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xia</surname>
+   <given-names>Jun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF4">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Peng</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ge</surname>
+   <given-names>Quan-Xu</given-names>
+  </name>
+  <xref ref-type="aff" rid="AFF5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Ming-Yi</given-names>
+  </name>
+  <xref ref-type="corresp" rid="COR1">*</xref>
+  <xref ref-type="aff" rid="AFF1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <aff id="AFF1">
+  <sup>1</sup>Department of Central Lab, Weihai Municipal Hospital, Cheeloo College of Medicine, Shandong University, Weihai, Shandong 264200, PR China
+ </aff>
+ <aff id="AFF2">
+  <sup>2</sup>Department of Infectious Diseases, Weihai Municipal Hospital, Cheeloo College of Medicine, Shandong University, Weihai, Shandong 264200, PR China
+ </aff>
+ <aff id="AFF3">
+  <sup>3</sup>Department of Intensive Care Unit, Weihai Municipal Hospital, Cheeloo College of Medicine, Shandong University, Weihai, Shandong 264200, PR China
+ </aff>
+ <aff id="AFF4">
+  <sup>4</sup>Department of Infectious Diseases, Weihai Chest Hospital. Weihai, Shandong 264200, PR China
+ </aff>
+ <aff id="AFF5">
+  <sup>5</sup>Department of Radiology, Weihai Municipal Hospital, Cheeloo College of Medicine, Shandong University, Weihai, Shandong 264200, PR China
+ </aff>
+</contrib-group>

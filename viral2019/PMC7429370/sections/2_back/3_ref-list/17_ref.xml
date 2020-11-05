@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gross</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>D’Lima</surname>
+    <given-names>CJD</given-names>
+   </name>
+   <name>
+    <surname>Blasius</surname>
+    <given-names>B</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemic dynamics on an adaptive network</article-title>
+  <source>Phys Rev Lett</source>
+  <year>2006</year>
+  <volume>96</volume>
+  <issue>20</issue>
+  <fpage>208701</fpage>
+  <pub-id pub-id-type="pmid">16803215</pub-id>
+ </element-citation>
+</ref>

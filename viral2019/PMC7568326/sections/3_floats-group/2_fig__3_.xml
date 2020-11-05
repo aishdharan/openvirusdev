@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig03" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 3.</label>
+ <caption>
+  <p>Outcomes of disease mitigation attempts, simulated using the age-structured SEIR model. As in 
+   <xref ref-type="fig" rid="fig02">Fig. 2</xref>, control measures are implemented when there are 10,000 cases in the population. (
+   <italic>A</italic>) The final fraction of 60+-y-old individuals exposed to COVID-19 for each of the control strategies simulated, assuming that social distancing measures can be maintained at the same strength indefinitely (“without fatigue”). (
+   <italic>B</italic>) Size and (
+   <italic>C</italic>) timing of the peak in daily new cases among 60+-y-old individuals. (
+   <italic>D</italic>) Peak hospital burden, assuming age-specific hospitalization rates (see 
+   <xref ref-type="sec" rid="s3">
+    <italic>Materials and Methods</italic>
+   </xref>) and a mean hospital stay of 7 d (
+   <xref rid="r24" ref-type="bibr">24</xref>). (
+   <italic>E</italic>–
+   <italic>H</italic>) Simulation results using the same control strategies as in 
+   <italic>A</italic>–
+   <italic>D</italic>, but assuming that, due to fatigue, schools and workplaces closures last 100 d.
+  </p>
+ </caption>
+ <graphic id="gra3" xlink:href="pnas.2008087117fig03" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

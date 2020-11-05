@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T9" orientation="portrait" position="float">
+ <label>Table 9</label>
+ <caption>
+  <p>Some critical unknowns in SARS-CoV-2 transmission</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Critical unknowns</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Considerations</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Which transmission patterns will occur and will human-to-human transmission continue permanently?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Seasonal transmission in temperate climate?</p>
+      </list-item>
+      <list-item>
+       <p>Continuous tides, with ups and downs?</p>
+      </list-item>
+      <list-item>
+       <p>The experience from China and some other countries showed that ‘local elimination’ is possible but risk of reintroduction remains.</p>
+      </list-item>
+      <list-item>
+       <p>Increasingly unlikely that elimination everywhere is possible.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="2">This will strongly depend on:</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">How strong will the acquired immunity after a first infection with SARS-CoV-2 be and how long will it last?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Evidence of acquired immunity against subsequent infections has been limited.</p>
+      </list-item>
+      <list-item>
+       <p>Measurable antibodies have been observed in most persons who have recovered from COVID-19,
+        <xref rid="R131" ref-type="bibr">131</xref> and research in animal models has suggested limited possibility of reinfection.
+        <xref rid="R121" ref-type="bibr">121</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>It is still unclear as to how robust the immunity is and how long it will last.</p>
+      </list-item>
+      <list-item>
+       <p>Debate on use, practicality and ethics of ‘immunity passports’ for those recovered from COVID-19 has been ongoing.
+        <xref rid="R128" ref-type="bibr">128 137</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">How stable is the virus (mutation) and do the different clades seen worldwide have any effect on the transmission potential/severity of the disease?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>If the virus mutates quickly and different strains develop, then antibody-dependent enhancement might be an important risk, as in dengue with its four different strains. If so, then in subsequent waves progressively more severe cases could occur.</p>
+      </list-item>
+      <list-item>
+       <p>This has been reported for the Spanish influenza, where the second and third waves were characterised by a more severe disease pattern.
+        <xref rid="R36" ref-type="bibr">36 84</xref>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">What is the role of children in transmission?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Children have quasi-universally presented less severe disease. However, their susceptibility to infection remains unclear, with large heterogeneity reported between studies.
+        <xref rid="R138" ref-type="bibr">138 139</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Their role in transmission has remained unclear, but evidence points to a more modest role in transmission than adults.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">How significant are asymptomatic carriers in transmission?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>There have been several reports of asymptomatic transmission
+        <xref rid="R140" ref-type="bibr">140 141</xref> and estimates based on modelling.
+        <xref rid="R114" ref-type="bibr">114</xref>
+       </p>
+      </list-item>
+      <list-item>
+       <p>Increasing consensus that asymptomatic carriers play an important role in transmission.</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

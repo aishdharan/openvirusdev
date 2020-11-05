@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3474-4433</contrib-id>
+  <name>
+   <surname>Sharma</surname>
+   <given-names>Rajani</given-names>
+  </name>
+  <address>
+   <email>rsharma@rnc.amity.edu</email>
+   <email>rajani.bharatiya@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Akhoury</surname>
+   <given-names>Gargi</given-names>
+  </name>
+  <address>
+   <email>gakhoury@rnc.amity.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.444644.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1805 0217</institution-id>
+   <institution>Amity Institute of Biotechnology, Amity University Jharkhand, </institution>
+  </institution-wrap>Niwaranpur, Ranchi, 834002 India 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.444644.2</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1805 0217</institution-id>
+   <institution>Amity School of Engineering and Technology, </institution>
+   <institution>Amity University Jharkhand, </institution>
+  </institution-wrap>Niwaranpur, Ranchi, 834002 India 
+ </aff>
+</contrib-group>

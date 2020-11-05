@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chow</surname>
+    <given-names>WZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Impact of HIV-1 subtype on the time to CD4+ T-cell recovery in combination antiretroviral therapy (cART)-experienced patients</article-title>
+  <source>PLoS ONE</source>
+  <year>2015</year>
+  <volume>10</volume>
+  <fpage>e0137281</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0137281</pub-id>
+  <?supplied-pmid 26335136?>
+  <pub-id pub-id-type="pmid">26335136</pub-id>
+ </element-citation>
+</ref>

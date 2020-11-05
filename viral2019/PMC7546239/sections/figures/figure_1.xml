@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>The left figure shows the geographical map of Hubei. The darker the city, the more infections per 100,000 inhabitants on February 14. The three cities with the most infections on February 14 are displayed on the right.</p>
+ </caption>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

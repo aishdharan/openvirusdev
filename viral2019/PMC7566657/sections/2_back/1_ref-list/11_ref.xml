@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R11">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Marukutira</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Gray</surname>
+    <given-names>RT</given-names>
+   </name>
+   <name>
+    <surname>Douglass</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>El-Hayek</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Moreira</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Asselin</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gaps in the HIV diagnosis and care cascade for migrants in Australia, 2013–2017: A cross-sectional study.</article-title>
+  <source>PLoS Med</source>. 
+  <year>2020</year>;
+  <volume>17</volume>:
+  <elocation-id>e1003044</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pmed.1003044</pub-id>
+  <?supplied-pmid 32155145?>
+  <pub-id pub-id-type="pmid">32155145</pub-id>
+ </mixed-citation>
+</ref>

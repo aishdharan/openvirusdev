@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Model sensitivity was characterized using 500 simulations runs for dengue parameter ranges as given in 
+ <xref rid="pntd.0008679.t002" ref-type="table">Table 2</xref>. All parameters were uniformly distributed for the LHS sampling. The conditions here were permissive for epidemics, with (
+ <italic>I</italic>
+ <sub>
+  <italic>h</italic>
+ </sub> &gt; 2) in 256 of the 500 simulated parameter sets. The epidemic progression in these parameter sets was consistent with the general model behavior seen in 
+ <xref ref-type="fig" rid="pntd.0008679.g002">Fig 2A and 2C</xref> (i.e. a combination of unimodal and bimodal responses). The distribution of the QOI had a wider range of values (i.e. 
+ <italic>MaxI</italic>
+ <sub>
+  <italic>h</italic>
+ </sub> = 3 to 7595 humans infected; 
+ <italic>tmaxI</italic>
+ <sub>
+  <italic>h</italic>
+ </sub> = 31 to 512 days from 
+ <italic>t</italic>
+ <sub>
+  <italic>crit</italic>
+ </sub>; 
+ <italic>cumI</italic>
+ <sub>
+  <italic>h</italic>
+ </sub> = 0.01% to 100% of the population infected), thus providing adequate variation for the sensitivity analysis.
+</p>

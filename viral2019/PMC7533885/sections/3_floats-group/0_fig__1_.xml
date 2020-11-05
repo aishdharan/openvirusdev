@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="featured" id="fig01" orientation="portrait" position="float">
+ <label>Fig. 1.</label>
+ <caption>
+  <p>(
+   <italic>A</italic> and 
+   <italic>F</italic>) RVF epidemic data in humans and livestock, and model fit (base case). (
+   <italic>A</italic>) Weekly number of reported human cases and average daily rainfall pattern (solid blue line). Human cases reporting a direct contact with animals or their products are presented in red (86 cases), those reporting no prior contact with animals or their products are in green (41 cases), and lost to follow-up are in gray (16 cases). (
+   <italic>B</italic>) Predicted median (red solid line) and 95% CrI (red envelope) of the number of weekly reported human cases in the farming group, and weekly incident observed cases (red dots). (
+   <italic>C</italic>) Predicted median (green solid line) and 95% CrI (green envelope) of the number of weekly reported human cases in the nonfarming group, and weekly incident observed cases with no prior contact with animals (green dots). (
+   <italic>D</italic>) Quarterly age-stratified RVF IgG seroprevalence in livestock for the trimesters July to September 2018 (
+   <italic>n</italic> = 173), (
+   <italic>E</italic>) January to March 2019 (
+   <italic>n</italic> = 252), and (
+   <italic>F</italic>) April to June 2019 (
+   <italic>n</italic> = 67). In 
+   <italic>D–F,</italic> the black dots and vertical black lines represent the observed age-stratified average IgG seroprevalence and their 95% CI. The model predicted values are showed by the median (solid blue line) and 95% CrI (blue envelopes).
+  </p>
+ </caption>
+ <graphic id="gra1" xlink:href="pnas.2004468117fig01" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kaspar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Newton</surname>
+    <given-names>O</given-names>
+   </name>
+   <name>
+    <surname>Kei</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Driscoll</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Swanepoel</surname>
+    <given-names>DW</given-names>
+   </name>
+   <name>
+    <surname>Goulios</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>A public health approach to pediatric hearing impairment in the Pacific Islands.</article-title>
+  <source>J Glob Health</source>. 
+  <year>2018</year>;
+  <volume>8</volume>:
+  <elocation-id>010302</elocation-id>. 
+  <pub-id pub-id-type="doi">10.7189/jogh.08.010302</pub-id>
+  <?supplied-pmid 29391945?>
+  <pub-id pub-id-type="pmid">29391945</pub-id>
+ </mixed-citation>
+</ref>

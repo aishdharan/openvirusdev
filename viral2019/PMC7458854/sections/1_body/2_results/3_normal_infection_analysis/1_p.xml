@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="F2">Fig. 2</xref> shows the actual data and the modeling results by SEIRD model for Seoul and Gyeonggi. Unlike the short-term explosive mass infections in the Daegu-Gyeongbuk regions, the number of infected people in the Seoul-Gyeonggi regions increased and decreased sporadically on a small scale via general spread. As shown in the fitted infection trend curve, the spread of infection increased slowly and there were three to four small spreads in both regions shown in 
+ <xref ref-type="fig" rid="F1">Fig. 1</xref>. Although the 
+ <italic>t
+  <sub>d</sub>
+ </italic> was established considering the duration of a small-scale infection outbreak, it can be seen that the actual (fitted) and estimated (modeled) infection trends in our model are somewhat different compared to those for mass infection. λ
+ <sub>I</sub>(= −0.1 days for Seoul and 0.1 days for Gyeonggi) is calculated as the difference between the actual epidemic peak 
+ <italic>d</italic>
+ <sub>I.a</sub>(= 53 days for Seoul and 50 days for Gyeonggi) and the modeled epidemic peak 
+ <italic>d</italic>
+ <sub>I.m</sub>(= 53.1 days for Seoul and 49.9 days for Gyeonggi). Unlike Daegu-Gyeongbuk, in Seoul-Gyeonggi, the modeled infection trend is similar to the actual infection trend with a small λ
+ <sub>I</sub>. 
+ <italic>hd</italic>
+ <sub>R.C</sub>(= −38.5 persons for Seoul and −32.9 persons for Gyeonggi) is determined by the difference in dates in the actual (
+ <inline-formula>
+  <alternatives>
+   <math id="m19">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">a</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i008.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> = 496.0 persons for Seoul and 520.0 persons for Gyeonggi) and modeled (
+ <inline-formula>
+  <alternatives>
+   <math id="m20">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">m</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i009.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> = 534.5 persons for Seoul and 552.9 persons for Gyeonggi) recovery trends. In addition, normal infection in Seoul-Gyeonggi made a small difference between the averages of actual and modeled recovery numbers after 
+ <italic>d</italic>
+ <sub>R.C</sub>, unlike the mass infection in Daegu-Gyeongbuk. The recovery period of COVID-19, regardless of whether it was a mass infection or a normal infection, was quite long in Korea as described in 
+ <xref rid="T2" ref-type="table">Table 2</xref>, resulting in a delay in the actual recovery trend. While Gyeonggi had a high mortality rate compared to the number of confirmed patients, Seoul's mortality rate was significantly lower than in other regions.
+</p>

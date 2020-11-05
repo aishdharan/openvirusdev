@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6460-6787</contrib-id>
+  <name>
+   <surname>Liu</surname>
+   <given-names>Xu-hui</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+  <xref ref-type="aff" rid="AF2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>Shui-hua</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+  <xref ref-type="aff" rid="AF3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Jun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xia</surname>
+   <given-names>Lu</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Zong-guo</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Charles</surname>
+   <given-names>Stratton</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Yang</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lin</surname>
+   <given-names>Yun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lu</surname>
+   <given-names>Hong-zhou</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+  <xref ref-type="corresp" rid="cor1"/>
+ </contrib>
+ <aff id="AF1">
+  <label>a</label>
+  <institution>Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF2">
+  <label>b</label>
+  <institution>Shanghai Zhongshan Hospital, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF3">
+  <label>c</label>
+  <institution>TB Center, Shanghai Emerging and Re-emerging Institute</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF4">
+  <label>d</label>
+  <institution>Vanderbilt University School of Medicine</institution>, 
+  <city>Nashville</city>, 
+  <country>Tennessee</country>
+ </aff>
+</contrib-group>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name>
+    <surname>Diehl</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Franklin</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Hasenclever</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>BEACOPP, a new dose-escalated and accelerated regimen, is at least as effective as COPP/ABVD in patients with advanced-stage Hodgkin’s lymphoma: interim report from a trial of the German Hodgkin’s lymphoma study group</article-title>. 
+  <source>
+   <italic toggle="yes">J Clin Oncol</italic>
+  </source>. 
+  <year>1998</year>;
+  <volume>16</volume>:
+  <fpage>3810</fpage>–
+  <lpage>3821</lpage>.
+  <pub-id pub-id-type="pmid">9850026</pub-id>
+ </mixed-citation>
+</ref>

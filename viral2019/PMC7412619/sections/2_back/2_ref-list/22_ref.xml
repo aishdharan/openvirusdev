@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R22">
+ <label>22</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Vickerman</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Watts</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Peeling</surname>
+    <given-names>RW</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Modelling the cost effectiveness of rapid point of care diagnostic tests for the control of HIV and other sexually transmitted infections among female sex workers</article-title>. 
+  <source>Sex Transm Infect</source>
+  <year>2006</year>;
+  <volume>82</volume>:
+  <fpage>403</fpage>–
+  <lpage>12</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/sti.2006.020107</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/17012515?>
+  <pub-id pub-id-type="pmid">17012515</pub-id>
+ </mixed-citation>
+</ref>

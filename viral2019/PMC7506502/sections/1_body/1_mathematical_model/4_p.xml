@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0013">On the other hand, the rate of change of infected individuals decreases in a proportion equal to 
+ <inline-formula>
+  <math id="M3" altimg="si10.svg">
+   <mrow>
+    <mi>r</mi>
+    <mo linebreak="goodbreak">+</mo>
+    <mi>μ</mi>
+    <mo linebreak="goodbreak">+</mo>
+    <msub>
+     <mi>d</mi>
+     <mn>1</mn>
+    </msub>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> where 
+ <italic>r</italic> is the recovery rate of exposed individuals due to immunity and 
+ <italic>d</italic>
+ <sub>1</sub> represents the death rate of infected individuals due to COVID-19. Also, an increase in the speed of the amount of infected individuals is considered in view that a proportion 
+ <italic>α</italic> of exposed individuals become infected. Meanwhile, the speed at which people are quarantined is increase by a fraction 
+ <italic>q</italic>
+ <sub>1</sub> of exposed individuals, and decreases at a a rate equal to 
+ <inline-formula>
+  <math id="M4" altimg="si11.svg">
+   <mrow>
+    <mo>(</mo>
+    <mi>q</mi>
+    <mo linebreak="goodbreak">+</mo>
+    <mi>μ</mi>
+    <mo linebreak="goodbreak">+</mo>
+    <msub>
+     <mi>d</mi>
+     <mn>2</mn>
+    </msub>
+    <mo>)</mo>
+    <mi>Q</mi>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> where 
+ <italic>q</italic> is the rate of recovery from quarantine to recovered and 
+ <italic>d</italic>
+ <sub>2</sub> is the death rate of quarantined individuals due to COVID-19. Finally, the rate of change of the recovered individuals increases with the amounts of exposed, infected and quarantined who recover, and decreases with the portion of recovered members of the population who die due to natural causes. For convenience, 
+ <xref rid="tbl0001" ref-type="table">Table 1</xref> provides the set of model parameters employed and their physical relevance (
+ <xref rid="fig0001" ref-type="fig">Fig. 1</xref> ).
+</p>

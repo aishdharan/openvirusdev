@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e737">
+ <statement id="dfn1">
+  <label>Definition 1</label>
+  <title>SIR Epidemic Model (
+   <xref rid="b21" ref-type="bibr">Kermack and McKendrick, 1927</xref>, 
+   <xref rid="b33" ref-type="bibr">Prasse and Van Mieghem, 2020a</xref>, 
+   <xref rid="b44" ref-type="bibr">Youssef and Scoglio, 2011</xref>)
+  </title>
+  <p id="d1e749">The viral state 
+   <inline-formula>
+    <math id="d1e752" display="inline" altimg="si19.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>v</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <msup>
+       <mrow>
+        <mrow>
+         <mo>(</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="script">S</mi>
+          </mrow>
+          <mrow>
+           <mi>i</mi>
+          </mrow>
+         </msub>
+         <mrow>
+          <mo>[</mo>
+          <mi>k</mi>
+          <mo>]</mo>
+         </mrow>
+         <mo>,</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="script">I</mi>
+          </mrow>
+          <mrow>
+           <mi>i</mi>
+          </mrow>
+         </msub>
+         <mrow>
+          <mo>[</mo>
+          <mi>k</mi>
+          <mo>]</mo>
+         </mrow>
+         <mo>,</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="script">R</mi>
+          </mrow>
+          <mrow>
+           <mi>i</mi>
+          </mrow>
+         </msub>
+         <mrow>
+          <mo>[</mo>
+          <mi>k</mi>
+          <mo>]</mo>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mrow>
+        <mi>T</mi>
+       </mrow>
+      </msup>
+     </mrow>
+    </math>
+   </inline-formula> of every region 
+   <inline-formula>
+    <math id="d1e828" display="inline" altimg="si137.svg">
+     <mi>i</mi>
+    </math>
+   </inline-formula> evolves in discrete time 
+   <inline-formula>
+    <math id="d1e833" display="inline" altimg="si21.svg">
+     <mrow>
+      <mi>k</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>1</mn>
+      <mo>,</mo>
+      <mn>2</mn>
+      <mo>,</mo>
+      <mo>…</mo>
+      <mo>,</mo>
+      <mi>n</mi>
+     </mrow>
+    </math>
+   </inline-formula> according to 
+   <disp-formula-group id="d1e859">
+    <disp-formula id="fd1">
+     <label>(1)</label>
+     <math id="d1e863" display="block" altimg="si22.svg">
+      <mrow>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">I</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo>]</mo>
+       </mrow>
+       <mo id="mmlalignd1e879" linebreak="goodbreak">=</mo>
+       <mrow>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>−</mo>
+        <msub>
+         <mrow>
+          <mi>δ</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+        </msub>
+        <mo>)</mo>
+       </mrow>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">I</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mspace width="1em" id="mmlalignd1e913"/>
+       <mo linebreak="goodbreak">+</mo>
+       <mrow>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>−</mo>
+        <msub>
+         <mrow>
+          <mi mathvariant="script">I</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>[</mo>
+         <mi>k</mi>
+         <mo>]</mo>
+        </mrow>
+        <mo>−</mo>
+        <msub>
+         <mrow>
+          <mi mathvariant="script">R</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>[</mo>
+         <mi>k</mi>
+         <mo>]</mo>
+        </mrow>
+        <mo>)</mo>
+       </mrow>
+       <munderover>
+        <mrow>
+         <mo linebreak="badbreak">∑</mo>
+        </mrow>
+        <mrow>
+         <mi>j</mi>
+         <mo linebreak="badbreak">=</mo>
+         <mn>1</mn>
+        </mrow>
+        <mrow>
+         <mi>N</mi>
+        </mrow>
+       </munderover>
+       <msub>
+        <mrow>
+         <mi>β</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+         <mi>j</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">I</mi>
+        </mrow>
+        <mrow>
+         <mi>j</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+      </mrow>
+     </math>
+    </disp-formula>
+    <disp-formula id="fd2">
+     <label>(2)</label>
+     <math id="d1e1008" display="block" altimg="si23.svg">
+      <mrow>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">R</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo>]</mo>
+       </mrow>
+       <mo id="mmlalignd1e1024" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e879">=</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">R</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo linebreak="goodbreak">+</mo>
+       <msub>
+        <mrow>
+         <mi>δ</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">I</mi>
+        </mrow>
+        <mrow>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>,</mo>
+      </mrow>
+     </math>
+    </disp-formula>
+   </disp-formula-group> and the fraction of susceptible individuals follows as 
+   <disp-formula id="fd3">
+    <label>(3)</label>
+    <math id="d1e1078" display="block" altimg="si24.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="script">S</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>1</mn>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="script">I</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="script">R</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>Here, 
+   <inline-formula>
+    <math id="d1e1134" display="inline" altimg="si25.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>β</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+        <mi>j</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>[</mo>
+       <mi>k</mi>
+       <mo>]</mo>
+      </mrow>
+      <mo linebreak="goodbreak" linebreakstyle="after">≥</mo>
+      <mn>0</mn>
+     </mrow>
+    </math>
+   </inline-formula> denotes the 
+   <italic>infection probability</italic> from region 
+   <inline-formula>
+    <math id="d1e1162" display="inline" altimg="si6.svg">
+     <mi>j</mi>
+    </math>
+   </inline-formula> to region 
+   <inline-formula>
+    <math id="d1e1167" display="inline" altimg="si137.svg">
+     <mi>i</mi>
+    </math>
+   </inline-formula> at time 
+   <inline-formula>
+    <math id="d1e1172" display="inline" altimg="si140.svg">
+     <mi>k</mi>
+    </math>
+   </inline-formula>, and 
+   <inline-formula>
+    <math id="d1e1177" display="inline" altimg="si29.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>δ</mi>
+       </mrow>
+       <mrow>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+      <mn>0</mn>
+     </mrow>
+    </math>
+   </inline-formula> denotes the 
+   <italic>curing probability</italic> of region 
+   <inline-formula>
+    <math id="d1e1196" display="inline" altimg="si137.svg">
+     <mi>i</mi>
+    </math>
+   </inline-formula>.
+  </p>
+ </statement>
+</p>

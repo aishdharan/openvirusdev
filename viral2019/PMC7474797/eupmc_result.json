@@ -1,0 +1,396 @@
+{
+  "id": [
+    "32892248"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32892248"
+  ],
+  "pmcid": [
+    "PMC7474797"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7474797"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s00705-020-04796-z"
+  ],
+  "title": [
+    "Prevalence and phylogenetic analysis of porcine deltacoronavirus in Sichuan province, China."
+  ],
+  "authorString": [
+    "Feng Y, Xu Z, Zhu L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Feng Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, Sichuan Agricultural University, No. 211 Huiming Road, Chengdu, 611130, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zhiwen"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9508-6593",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, Sichuan Agricultural University, No. 211 Huiming Road, Chengdu, 611130, China. abtcxzw@126.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Animal Biology Technology Center, Sichuan Agricultural University, Chengdu, China. abtcxzw@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, Sichuan Agricultural University, No. 211 Huiming Road, Chengdu, 611130, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Animal Biology Technology Center, Sichuan Agricultural University, Chengdu, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9508-6593",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "165"
+      ],
+      "journalIssueId": [
+        "3043561"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Archives of virology"
+          ],
+          "ISOAbbreviation": [
+            "Arch Virol"
+          ],
+          "medlineAbbreviation": [
+            "Arch Virol"
+          ],
+          "NLMid": [
+            "7506870"
+          ],
+          "ISSN": [
+            "1432-8798"
+          ],
+          "ESSN": [
+            "1432-8798"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2883-2889"
+  ],
+  "abstractText": [
+    "In order to understand the prevalence and genetic diversity of porcine deltacoronavirus (PDCoV) in diarrhoeal pigs in Sichuan province, 634 clinical samples were collected from individual pigs with diarrhoea in 13 regions of Sichuan province, China, from January 2017 and June 2019. The detection results showed that the infection rate of PDCoV was relatively low in diarrhoeal pigs, 13.25% (84/634), but the infection rate of PEDV (porcine epidemic diarrhea virus) was high, 32.18% (204/634). Coinfection with PEDV was common (55.95%, 47/84) in PDCoV-infected diarrhoeal pigs. Additionally, the chance of PDCoV infection was 2.77 times higher in suckling piglets than in sows, and about 3.30 times higher in spring and winter than in summer. PDCoV/PEDV coinfection was 75% less likely in sows than in suckling piglets. The complete genomes of four Sichuan PDCoV strains were sequenced and analysed. There were some insertion-deletion signatures in the whole genome sequences of four strains, including a 6-nt deletion in the non-structural gene 2 region, a 9-nt insertion in the non-structural gene 3 region, a 3-nt deletion in the S gene region, and a distinguishing 11-nt deletion in the 3'UTR region. Phylogenetic analysis based on complete genome sequences revealed that the PDCoV Sichuan strains were closely related to other Chinese PDCoV reference strains; however, phylogenetic analysis based on S gene sequences showed that the CH/SC/2019 strain clustered in a large clade with strains from the USA, Japan, and Korea. These data advance our understanding of the genetic diversity and evolutionary characteristics of PDCoV in China and may contribute to vaccine development."
+  ],
+  "affiliation": [
+    "College of Veterinary Medicine, Sichuan Agricultural University, No. 211 Huiming Road, Chengdu, 611130, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017NZ0038"
+          ],
+          "agency": [
+            "Science and Technology Program of Sichuan Province: Development of Bivalent Live Vaccine for Porcine Epidemic Diarrhea and Porcine Pseudorabies"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018YFD051102"
+          ],
+          "agency": [
+            "National Key Research Program during the 13st Five-year Plan Period of China: Integrated Prevention and Control Technology for Major Diseases of Commercial Pigs and Integration of Safe Drug Use Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00705-020-04796-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7474797"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7474797?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-06"
+  ],
+  "firstIndexDate": [
+    "2020-09-07"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-10"
+  ],
+  "dateOfRevision": [
+    "2020-10-27"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-06"
+  ],
+  "firstPublicationDate": [
+    "2020-09-06"
+  ]
+}

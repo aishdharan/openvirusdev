@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0025">
+ <label>25</label>
+ <element-citation publication-type="journal" id="sbref0022">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Korkmaz</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Rafiq</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Baleanu</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Alshomrani</surname>
+    <given-names>A.S.</given-names>
+   </name>
+   <name>
+    <surname>Rehman</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Iqbal</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>A novel time efficient structure-preserving splitting method for the solution of two-dimensional reaction-diffusion systems</article-title>
+  <source>Adv. Differ. Equ.</source>
+  <volume>2020</volume>
+  <issue>1</issue>
+  <year>2020</year>
+  <fpage>1</fpage>
+  <lpage>26</lpage>
+  <pub-id pub-id-type="pmid">32226454</pub-id>
+ </element-citation>
+</ref>

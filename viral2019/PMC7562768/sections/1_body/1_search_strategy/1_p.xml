@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par7">This systematic review is based on the all authentic data and findings from WHO and associated research. Based on the current issue of corona infection the published data is analyzed with respect to the reproduction number of corona, symptoms shown by the patients admitted in the hospitals, diagnostic procedure and available clinical trial in vitro study. Reproductive number (R
+ <sub>o</sub>) was calculated by using the formula 
+ <inline-formula id="IEq1">
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$ R_{o} = - \frac{{\log \left( {\frac{1 - AR}{So}} \right)}}{{AR - \left( {1 - So} \right)}} $$\end{document}</tex-math>
+   <math id="M2">
+    <mrow>
+     <msub>
+      <mi>R</mi>
+      <mi>o</mi>
+     </msub>
+     <mo>=</mo>
+     <mo>-</mo>
+     <mfrac>
+      <mrow>
+       <mo>log</mo>
+       <mfenced close=")" open="(">
+        <mfrac>
+         <mrow>
+          <mn>1</mn>
+          <mo>-</mo>
+          <mi>A</mi>
+          <mi>R</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="italic">So</mi>
+         </mrow>
+        </mfrac>
+       </mfenced>
+      </mrow>
+      <mrow>
+       <mi>A</mi>
+       <mi>R</mi>
+       <mo>-</mo>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>1</mn>
+         <mo>-</mo>
+         <mi>S</mi>
+         <mi>o</mi>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="13337_2020_633_Article_IEq1.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. The formula uses the attack rate (AR) i.e. the fraction of population ultimately infected. In the traditional SIR (Susceptible, Infected and Recovered) model of disease spread, the attack rate is associated to the basic reproduction number. The initial percentage of susceptible population is taken as S
+ <sub>o</sub>. The data used in the analysis are those countries which have more than 10,000 (2019-nCoV) as available in 
+ <ext-link ext-link-type="uri" xlink:href="https://www.worldometers.info/coronavirus/#countries" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.worldometers.info/coronavirus/#countries</ext-link>. This will help to get a clear picture of the R
+ <sub>o</sub>, (1 − 1/R
+ <sub>o</sub>) and 1/R
+ <sub>o</sub> values in further modelling process of the data.
+</p>

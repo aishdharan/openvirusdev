@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR45">
+ <label>45.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tsai</surname>
+    <given-names>K-Y</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>F-S</given-names>
+   </name>
+  </person-group>
+  <article-title>Evolutionary optimization with data collocation for reverse engineering of biological networks</article-title>
+  <source>Bioinformatics</source>
+  <year>2005</year>
+  <volume>21</volume>
+  <issue>7</issue>
+  <fpage>1180</fpage>
+  <lpage>1188</lpage>
+  <pub-id pub-id-type="pmid">15513993</pub-id>
+ </element-citation>
+</ref>

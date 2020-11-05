@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig0001">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Potential changes in HIV incidence (A) and deaths (B) following a hypothetical three-month disruption of HIV services. Orange shading indicates the period during which the three-month disruptions occur. Baseline (no COVID-19 epidemic occurs) = dark blue line; Reduced contact rates = orange line; No new VMMCs = yellow line; Viral suppression decreases by 10% = purple line; No new ART initiations = green line; Condom use reduced by 50% = light blue line; Interruption in ART for 40% of individuals = dark red line. Panel insets in (A) show a magnified view of HIV incidence patterns from 2020.5 to 2021.</p>
+ </caption>
+ <alt-text id="alt0001">Fig 1</alt-text>
+ <graphic xlink:href="gr1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

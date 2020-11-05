@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>HIV transmission Markov model. For each underlying population, a Markov chain is considered with the state space, consisting of the six states: (1) HIV-; (2) HIV+ undiagnosed; (3) HIV+ diagnosed pre-ART; (4) HIV+ diagnosed on ART with viral suppression; (5) HIV+ diagnosed on ART with virological failure; and (6) death. State (5) represents a setting where viral suppression is not achieved under the current ART regimen, or where individuals discontinued ART for the duration of the 3-month cycle. ART, antiretroviral therapy; ‘+’, positive; ‘-’, negative.</p>
+ </caption>
+ <graphic xlink:href="bmjgh-2020-002300f01" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B9">
+ <label>9</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Severance</surname>
+    <given-names>E. G.</given-names>
+   </name>
+   <name>
+    <surname>Bossis</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Dickerson</surname>
+    <given-names>F. B.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Development of a nucleocapsid-based human coronavirus immunoassay and estimates of individuals exposed to coronavirus in a U.S. metropolitan population</article-title>
+  <source>
+   <italic toggle="yes">Clinical and Vaccine Immunology</italic>
+  </source>
+  <year>2008</year>
+  <volume>15</volume>
+  <issue>12</issue>
+  <fpage>1805</fpage>
+  <lpage>1810</lpage>
+  <pub-id pub-id-type="doi">10.1128/CVI.00124-08</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-57349168538</pub-id>
+  <?supplied-pmid 18945884?>
+  <pub-id pub-id-type="pmid">18945884</pub-id>
+ </element-citation>
+</ref>

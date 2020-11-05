@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhao</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Zhong</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>XZ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Relation Between Chest CT Findings and Clinical Conditions of Coronavirus Disease (COVID-19) Pneumonia: A Multicenter Study</article-title>
+  <source>AJR Am J Roentgenol</source>
+  <year>2020</year>
+  <volume>214</volume>
+  <issue>5</issue>
+  <fpage>1072</fpage>
+  <lpage>1077</lpage>
+  <pub-id pub-id-type="doi">10.2214/AJR.20.22976</pub-id>
+  <pub-id pub-id-type="pmid">32125873</pub-id>
+ </element-citation>
+</ref>

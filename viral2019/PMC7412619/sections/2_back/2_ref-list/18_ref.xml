@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Maheu-Giroux</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Vesga</surname>
+    <given-names>JF</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Diabaté</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Changing dynamics of HIV transmission in Côte d'Ivoire: modeling who acquired and transmitted infections and estimating the impact of past HIV interventions (1976-2015)</article-title>. 
+  <source>J Acquir Immune Defic Syndr</source>
+  <year>2017</year>;
+  <volume>75</volume>:
+  <fpage>517</fpage>–
+  <lpage>27</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/QAI.0000000000001434</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/28471837?>
+  <pub-id pub-id-type="pmid">28471837</pub-id>
+ </mixed-citation>
+</ref>

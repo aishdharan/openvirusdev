@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR92">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yamamoto</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Jaiswal</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Charng</surname>
+    <given-names>WL</given-names>
+   </name>
+   <name>
+    <surname>Gambin</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Karaca</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Mirzaa</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Wiszniewski</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Sandoval</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Haelterman</surname>
+    <given-names>NA</given-names>
+   </name>
+   <name>
+    <surname>Xiong</surname>
+    <given-names>B</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A 
+   <italic>Drosophila</italic> genetic resource of mutants to study mechanisms underlying human genetic diseases
+  </article-title>
+  <source>Cell</source>
+  <year>2014</year>
+  <volume>159</volume>
+  <fpage>200</fpage>
+  <lpage>214</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.cell.2014.09.002</pub-id>
+  <?supplied-pmid 25259927?>
+  <pub-id pub-id-type="pmid">25259927</pub-id>
+ </element-citation>
+</ref>

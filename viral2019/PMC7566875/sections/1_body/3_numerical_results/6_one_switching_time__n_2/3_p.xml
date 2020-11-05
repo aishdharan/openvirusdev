@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e8984">In the case with one switching time (i.e. 
+ <inline-formula>
+  <math id="d1e8987" display="inline" altimg="si200.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>2</mn>
+   </mrow>
+  </math>
+ </inline-formula>), the optimization problem 
+ <xref rid="fd16" ref-type="disp-formula">(16)</xref> contains only three parameters, and the optimal control strategies found in 
+ <xref rid="fig3" ref-type="fig">Fig. 3</xref>, 
+ <xref rid="fig4" ref-type="fig">Fig. 4</xref> can be investigated separately via a ‘brute-force approach’. This is desirable because it helps with our understanding and also, because it gives further confidence in the correctness of the simulated-annealing approach in isolating the global minimum. As such, we have evaluated 
+ <disp-formula id="fd20">
+  <label>(20)</label>
+  <math id="d1e9012" display="block" altimg="si281.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">J</mi>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">+</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">T</mi>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>for a wide range of values, by direct computation. By fixing 
+ <inline-formula>
+  <math id="d1e9109" display="inline" altimg="si246.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">s</mi>
+     <mn>1</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, a two-dimensional plot can be made, and a value 
+ <inline-formula>
+  <math id="d1e9121" display="inline" altimg="si283.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">j</mi>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mo class="qopname">min</mo>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mn>2</mn>
+       </mrow>
+      </msub>
+     </mrow>
+    </msub>
+    <mfenced open="[" close="]">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">s</mi>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mo>−</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mn>0</mn>
+        </mrow>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mn>2</mn>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">T</mi>
+       <mo>−</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">s</mi>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </mfenced>
+   </mrow>
+  </math>
+ </inline-formula> (subject to the state constraints) can be obtained graphically. By repeating this procedure over all values of 
+ <inline-formula>
+  <math id="d1e9223" display="inline" altimg="si246.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">s</mi>
+     <mn>1</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, the optimal control strategies reported in 
+ <xref rid="fig3" ref-type="fig">Fig. 3</xref>, 
+ <xref rid="fig4" ref-type="fig">Fig. 4</xref> are recovered. Sample two-dimensional plots along these lines are shown in 
+ <xref rid="fig7" ref-type="fig">Fig. 7</xref>. The minimum marked in panel (a) corresponds to the global minimum with the imposed constraint 
+ <inline-formula>
+  <math id="d1e9244" display="inline" altimg="si241.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+   </mrow>
+  </math>
+ </inline-formula> on the control. This corresponds to a bang–bang control with 
+ <inline-formula>
+  <math id="d1e9267" display="inline" altimg="si286.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> with one switching time at 
+ <inline-formula>
+  <math id="d1e9287" display="inline" altimg="si287.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>198</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>365</mn>
+    <mspace width="0.16667em"/>
+    <mtext>Days</mtext>
+   </mrow>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="d1e9324" display="inline" altimg="si173.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> thereafter. It can be asked if the minimum 
+ <inline-formula>
+  <math id="d1e9334" display="inline" altimg="si289.svg">
+   <mrow>
+    <mo>(</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>198</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>365</mn>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> is a true bang–bang control or is instead a boundary control, as this optimal control appears to occur along the curve 
+ <inline-formula>
+  <math id="d1e9403" display="inline" altimg="si250.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <msub>
+     <mrow>
+      <mo class="qopname">max</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo>∈</mo>
+      <mrow>
+       <mo>[</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mn>0</mn>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">T</mi>
+       <mo>]</mo>
+      </mrow>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">B</mi>
+   </mrow>
+  </math>
+ </inline-formula> in 
+ <xref rid="fig7" ref-type="fig">Fig. 7</xref>(a). The answer is that the surface 
+ <inline-formula>
+  <math id="d1e9457" display="inline" altimg="si291.svg">
+   <mrow>
+    <mi>Φ</mi>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <msub>
+     <mrow>
+      <mo class="qopname">max</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo>∈</mo>
+      <mrow>
+       <mo>[</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mn>0</mn>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">T</mi>
+       <mo>]</mo>
+      </mrow>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <mi mathvariant="bold-fraktur">B</mi>
+   </mrow>
+  </math>
+ </inline-formula> possesses a jump discontinuity, which arises as a result of the extra condition 
+ <xref rid="fd17" ref-type="disp-formula">(17)</xref>–
+ <xref rid="fd18" ref-type="disp-formula">(18)</xref> in the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref>. Therefore, the optimal control 
+ <inline-formula>
+  <math id="d1e9544" display="inline" altimg="si292.svg">
+   <mrow>
+    <mo>(</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>198</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>365</mn>
+    <mspace width="0.16667em"/>
+    <mtext>Days</mtext>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> occurs on one side of a jump discontinuity and thus produces a solution that never attains the boundary value 
+ <inline-formula>
+  <math id="d1e9617" display="inline" altimg="si250.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <msub>
+     <mrow>
+      <mo class="qopname">max</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo>∈</mo>
+      <mrow>
+       <mo>[</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mn>0</mn>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">T</mi>
+       <mo>]</mo>
+      </mrow>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">B</mi>
+   </mrow>
+  </math>
+ </inline-formula>. This explanation can be verified by removing the condition 
+ <xref rid="fd17" ref-type="disp-formula">(17)</xref>–
+ <xref rid="fd18" ref-type="disp-formula">(18)</xref> from the model; in that case, the discontinuity goes away, and the optimal control 
+ <inline-formula>
+  <math id="d1e9675" display="inline" altimg="si292.svg">
+   <mrow>
+    <mo>(</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>198</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>365</mn>
+    <mspace width="0.16667em"/>
+    <mtext>Days</mtext>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> shifts elsewhere. However, we rule out further study of this special case as the condition 
+ <xref rid="fd17" ref-type="disp-formula">(17)</xref>–
+ <xref rid="fd18" ref-type="disp-formula">(18)</xref> is deemed necessary for model realism.
+</p>

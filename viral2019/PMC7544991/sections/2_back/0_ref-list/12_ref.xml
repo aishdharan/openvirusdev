@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B12">
+ <label>12.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Heaton</surname>
+    <given-names>PM</given-names>
+   </name>
+  </person-group>. 
+  <article-title>The Covid-19 vaccine-development multiverse</article-title>. 
+  <source>N Engl J Med</source>. (
+  <year>2020</year>). 
+  <pub-id pub-id-type="doi">10.1056/NEJMe2025111</pub-id>
+  <?supplied-pmid 32663910?>
+  <pub-id pub-id-type="pmid">32663910</pub-id>
+ </mixed-citation>
+</ref>

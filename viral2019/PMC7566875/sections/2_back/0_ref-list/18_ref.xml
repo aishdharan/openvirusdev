@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b18">
+ <label>18</label>
+ <element-citation publication-type="book" id="sb18">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ordnance Survey Ireland</surname>
+   </name>
+  </person-group>
+  <chapter-title>CovidStatisticsProfileHPSCIrelandOpenData</chapter-title>
+  <year>2020</year>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://data.gov.ie/dataset/covidstatisticsprofilehpscirelandopendata" id="interref3" xmlns:xlink="http://www.w3.org/1999/xlink">https://data.gov.ie/dataset/covidstatisticsprofilehpscirelandopendata</ext-link>. Visited: 15th June 2020
+  </comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e702">The spread of COVID-19 can be measured in terms of the daily number of reported cases. We model the course of the epidemic by an SIR compartmental model, where each individual is either Susceptible (healthy), Infected (can infected the susceptible) or Removed (recovered or died). We denote the (discrete) time by 
+ <inline-formula>
+  <math id="d1e705" display="inline" altimg="si16.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi>n</mi>
+   </mrow>
+  </math>
+ </inline-formula> where 
+ <inline-formula>
+  <math id="d1e723" display="inline" altimg="si17.svg">
+   <mi>n</mi>
+  </math>
+ </inline-formula> is the total number of observation days. The first COVID-19 case was reported on day 
+ <inline-formula>
+  <math id="d1e728" display="inline" altimg="si18.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula>. Given that nearly all governments report their epidemic data once a day, we take a time step of 1 day as a natural choice and investigate the effect of the time step on the prediction accuracy in Appendix G. The Susceptible-Infected-Removed (SIR) epidemic model with time-varying spreading parameters is given by:
+</p>

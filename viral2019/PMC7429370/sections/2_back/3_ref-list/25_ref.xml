@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR25">
+ <label>25.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>X-F</given-names>
+   </name>
+   <name>
+    <surname>Zhan</surname>
+    <given-names>Z-H</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Kwong</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Coevolutionary particle swarm optimization with bottleneck objective learning strategy for many-objective optimization</article-title>
+  <source>IEEE Trans Evolut Comput</source>
+  <year>2018</year>
+  <volume>23</volume>
+  <issue>4</issue>
+  <fpage>587</fpage>
+  <lpage>602</lpage>
+ </element-citation>
+</ref>

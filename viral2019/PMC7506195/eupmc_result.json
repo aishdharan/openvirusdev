@@ -1,0 +1,262 @@
+{
+  "id": [
+    "33110501"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33110501"
+  ],
+  "pmcid": [
+    "PMC7506195"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7506195"
+      ]
+    }
+  ],
+  "doi": [
+    "10.7189/jogh.10.020102"
+  ],
+  "title": [
+    "Answering 20 more questions on COVID-19 (March-April 2020)."
+  ],
+  "authorString": [
+    "Rudan I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rudan I"
+          ],
+          "firstName": [
+            "Igor"
+          ],
+          "lastName": [
+            "Rudan"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for Global Health, Usher Institute for Population Health Sciences and Informatics, The University of Edinburgh, Scotland, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "3043976"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of global health"
+          ],
+          "ISOAbbreviation": [
+            "J Glob Health"
+          ],
+          "medlineAbbreviation": [
+            "J Glob Health"
+          ],
+          "NLMid": [
+            "101578780"
+          ],
+          "ISSN": [
+            "2047-2978"
+          ],
+          "ESSN": [
+            "2047-2986"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "020102"
+  ],
+  "affiliation": [
+    "Centre for Global Health, Usher Institute for Population Health Sciences and Informatics, The University of Edinburgh, Scotland, UK."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7189/jogh.10.020102"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7506195"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-28"
+  ],
+  "firstIndexDate": [
+    "2020-10-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-29"
+  ],
+  "firstPublicationDate": [
+    "2020-12-01"
+  ]
+}

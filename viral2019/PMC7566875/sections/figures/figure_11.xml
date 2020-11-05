@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig11">
+ <label>Fig. 11</label>
+ <caption>
+  <p>Plot of 
+   <inline-formula>
+    <math id="d1e1050" display="inline" altimg="si198.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">J</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">m</mi>
+       <mi mathvariant="bold-fraktur">i</mi>
+       <mi mathvariant="bold-fraktur">n</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> as a function of 
+   <inline-formula>
+    <math id="d1e1064" display="inline" altimg="si199.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">m</mi>
+       <mi mathvariant="bold-fraktur">a</mi>
+       <mi mathvariant="bold-fraktur">x</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>, with 
+   <inline-formula>
+    <math id="d1e1078" display="inline" altimg="si299.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">≥</mo>
+      <mn>2</mn>
+     </mrow>
+    </math>
+   </inline-formula>, quadratic cost function (Eq. 
+   <xref rid="fd21" ref-type="disp-formula">(21)</xref>).
+  </p>
+ </caption>
+ <graphic xlink:href="gr11_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

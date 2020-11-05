@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>Pedigree of the clustered SARS-Cov-2 infection cases. Arrow indicates the proband (case 1). Case 2, 3, and 4 are close contacts of case 1. Full black fills indicate the individuals with COVID-19 symptoms (case 1 and 2), while partial black fills indicate asymptomatic carriers of SARS-CoV-2 (case 3 and 4).</p>
+ </caption>
+ <graphic xlink:href="fmed-07-562875-g0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

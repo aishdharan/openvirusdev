@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Calba</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Goutard</surname>
+   <given-names>FL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hoinville</surname>
+   <given-names>L</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hendrikx</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lindberg</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Saegerman</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>Surveillance systems evaluation: a systematic review of the existing approaches.</article-title>
+  <source>BMC Public Health</source>. 
+  <year>2015</year>;
+  <volume>15</volume>:
+  <fpage>448</fpage>. 
+  <pub-id pub-id-type="doi">10.1186/s12889-015-1791-5</pub-id>
+  <?supplied-pmid 25928645?>
+  <pub-id pub-id-type="pmid">25928645</pub-id>
+ </mixed-citation>
+</ref>

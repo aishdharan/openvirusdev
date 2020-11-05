@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b44">
+ <element-citation publication-type="journal" id="sb44">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Youssef</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Scoglio</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>An individual-based approach to SIR epidemics in contact networks</article-title>
+  <source>Journal of Theoretical Biology</source>
+  <volume>283</volume>
+  <issue>1</issue>
+  <year>2011</year>
+  <fpage>136</fpage>
+  <lpage>144</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jtbi.2011.05.029</pub-id>
+  <comment>URL 
+   <ext-link ext-link-type="uri" xlink:href="http://www.sciencedirect.com/science/article/pii/S0022519311002815" id="interref33" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.sciencedirect.com/science/article/pii/S0022519311002815</ext-link>
+  </comment>
+  <pub-id pub-id-type="pmid">21663750</pub-id>
+ </element-citation>
+</ref>

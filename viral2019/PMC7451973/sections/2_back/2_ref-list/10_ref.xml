@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Nyamathi</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Shoptaw</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Cohen</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <etal/>
+  <article-title>Effect of motivational interviewing on reduction of alcohol use.</article-title>
+  <source>Drug Alcohol Depend</source>
+  <year>2010</year>;
+  <volume>107</volume>:
+  <fpage>23</fpage>–
+  <lpage>30</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.drugalcdep.2009.08.021</pub-id>
+  <?supplied-pmid 19836904?>
+  <pub-id pub-id-type="pmid">19836904</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par34">Purified products were quantified using the Qubit
+ <sup>®</sup> DNA HS Assay Kit (Thermo Fisher Scientific), then genomic libraries were prepared using Nextera DNA Flex kit (Illumina, San Diego, CA). Sequencing was performed using an Illumina MiniSeq
+ <sup>®</sup> platform (Illumina) generating 2x150 bp paired-end reads. Raw data were checked for quality using FastQC (
+ <ext-link ext-link-type="uri" xlink:href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>) and for bacterial, archaeal, and viral genomes correspondence using Kraken2 with MiniKraken2 Database [
+ <xref ref-type="bibr" rid="CR15">15</xref>], then were trimmed with Trimmomatic ver. 0.38 for quality (Q score &gt; 25) and length (&gt; 36 bp) by (i) removal of any adaptor sequences; (ii) removal of leading bases with PHRED &lt; 25 and of trailing bases with PHRED &lt; 25; (iii) clipping of the remainder of the read when a sliding window of 20 bases has average PHRED &lt; 25; (iv) removal of reads with length &lt; 36 bases [
+ <xref ref-type="bibr" rid="CR16">16</xref>]. Paired-end trimmed reads were analyzed with Geneious
+ <sup>®</sup> software (version 11.1.5) (Biomatters Ltd, New Zealand). Consensus sequence was reconstructed and mapped to the SARS-CoV-2 reference sequence NC_045512.2 using Bowtie2 in sensitive-local mode with consensus threshold at 65% [
+ <xref ref-type="bibr" rid="CR17">17</xref>].
+</p>

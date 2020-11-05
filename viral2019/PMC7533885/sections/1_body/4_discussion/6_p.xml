@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A limitation of the model was that the reporting rate in humans was unknown, and defined based on data from the 2007–2008 epidemic (
+ <xref rid="r37" ref-type="bibr">37</xref>). This relied on the assumption that both the 2007–2008 and 2018–2019 epidemics affected the same number of people. While there are no data available on human infection patterns to support this assumption, our previous work estimated a postepidemic livestock seroprevalence (
+ <xref rid="r9" ref-type="bibr">9</xref>) that was similar to our current estimates, supporting the assumption that both epidemic sizes may be comparable. Further data collection estimating human postepidemic seroprevalence would be necessary to allow an accurate estimation of this reporting rate. In addition, the livestock model was built with similar assumptions to our previous paper (
+ <xref rid="r9" ref-type="bibr">9</xref>). This included a latent (E) and an infectious (I) period of 7 d in livestock, accounting for the extrinsic incubation period in the vector (3 to 7 d), and the latent (1 to 6 d) and infectious stages (3 to 6 d) in livestock (
+ <xref rid="r38" ref-type="bibr">38</xref>
+ <xref rid="r39" ref-type="bibr"/>
+ <xref rid="r40" ref-type="bibr"/>–
+ <xref rid="r41" ref-type="bibr">41</xref>), without explicitly modeling these processes. Although this may have slightly impacted on the predicted timing of the epidemic peak in humans, our model predictions were in agreement with the observations. In addition, this did not impact on the fitting to the livestock data, as we fitted on the (R) compartment, aggregating data over 3-mo periods. We further assumed that livestock and humans in the (R) compartment represented the immune population, with immune livestock represented by IgG seropositivity. These assumptions were made on the basis that immunity is conferred by lifelong neutralizing antibodies following RVF infection, and that the production of these antibodies are accompanied by the production of IgG (
+ <xref rid="r42" ref-type="bibr">42</xref>, 
+ <xref rid="r43" ref-type="bibr">43</xref>). We also assumed homogeneous mixing. Mayotte is a small island (374 km
+ <sup>2</sup>), ecological conditions show limited spatial heterogeneity (
+ <xref rid="r19" ref-type="bibr">19</xref>), and livestock production systems are extensive with animals raised outdoor year round (
+ <xref rid="r9" ref-type="bibr">9</xref>), compatible with the assumption that the livestock population, from all age groups, was equally exposed to RVF mosquito vectors. Accounting for spatial heterogeneity and testing for finer vaccination protocols would have required the use of epidemic data at a smaller spatiotemporal resolution. Our model can, however, be expanded into a metapopulation structure, and parameters further refined, in ecosystems with epidemiological data (in both animals and humans) and entomological data (vector population dynamics) available at finer spatial and temporal scales.
+</p>

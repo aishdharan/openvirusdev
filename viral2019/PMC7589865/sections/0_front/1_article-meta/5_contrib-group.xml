@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>He</surname>
+   <given-names>Hongbin</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-17-07664">1</xref>
+  <xref ref-type="aff" rid="af2-ijerph-17-07664">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shen</surname>
+   <given-names>Yonglin</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-17-07664">1</xref>
+  <xref ref-type="aff" rid="af3-ijerph-17-07664">3</xref>
+  <xref rid="c1-ijerph-17-07664" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jiang</surname>
+   <given-names>Changmin</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-17-07664">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Tianqi</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-17-07664">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guo</surname>
+   <given-names>Mingqiang</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-ijerph-17-07664">1</xref>
+  <xref rid="c1-ijerph-17-07664" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6120-5806</contrib-id>
+  <name>
+   <surname>Yao</surname>
+   <given-names>Ling</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-ijerph-17-07664">3</xref>
+ </contrib>
+</contrib-group>

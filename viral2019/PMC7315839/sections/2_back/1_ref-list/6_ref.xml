@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib6">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group>
+   <name>
+    <surname>Qin</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Yen</surname>
+    <given-names>TC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>
+   <sup>18</sup>F-FDG PET/CT findings of COVID-19: a series of four highly suspected cases
+  </article-title>. 
+  <source>
+   <italic toggle="yes">Eur J Nucl Med Mol Imaging</italic>
+  </source>. 
+  <year>2020</year>;
+  <volume>47</volume>:
+  <fpage>1281</fpage>–
+  <lpage>1286</lpage>.
+  <pub-id pub-id-type="pmid">32088847</pub-id>
+ </mixed-citation>
+</ref>

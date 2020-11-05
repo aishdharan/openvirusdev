@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r29">
+ <label>29</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Kissler</surname>
+    <given-names>S. M.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Tedijanto</surname>
+    <given-names>C.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Goldstein</surname>
+    <given-names>E.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Grad</surname>
+    <given-names>Y. H.</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lipsitch</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>, 
+  <article-title>Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period</article-title>. 
+  <source>Science</source>
+  <volume>368</volume>, 
+  <fpage>860</fpage>–
+  <lpage>868</lpage> (
+  <year>2020</year>).
+  <pub-id pub-id-type="pmid">32291278</pub-id>
+ </mixed-citation>
+</ref>

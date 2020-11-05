@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B25">
+ <label>25</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baggaley</surname>
+    <given-names>RF</given-names>
+   </name>
+   <name>
+    <surname>Irvine</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Leber</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Cambiano</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Figueroa</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>McMullen</surname>
+    <given-names>H</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Cost-effectiveness of screening for HIV in primary care: a health economics modelling analysis</article-title>
+  <source>Lancet HIV</source>
+  <year>2017</year>
+  <date-in-citation content-type="access-date">Aug 20, 2019</date-in-citation>
+  <volume>4</volume>
+  <issue>10</issue>
+  <fpage>e465</fpage>
+  <lpage>ee74</lpage>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1016/S2352-3018(17)30123-6</pub-id>
+  <pub-id pub-id-type="pmid">28768604</pub-id>
+ </element-citation>
+</ref>

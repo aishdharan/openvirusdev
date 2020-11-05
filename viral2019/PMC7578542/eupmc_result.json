@@ -1,0 +1,332 @@
+{
+  "id": [
+    "33101672"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33101672"
+  ],
+  "pmcid": [
+    "PMC7578542"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7578542"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.amsu.2020.10.021"
+  ],
+  "title": [
+    "The intersection of viral illnesses: A seasonal influenza epidemic amidst the COVID-19 pandemic."
+  ],
+  "authorString": [
+    "Ehrlich H, Boneva D, Elkbuli A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ehrlich H"
+          ],
+          "firstName": [
+            "Haley"
+          ],
+          "lastName": [
+            "Ehrlich"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Division of Trauma and Surgical Critical Care, Kendall Regional Medical Center, Miami, FL, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Boneva D"
+          ],
+          "firstName": [
+            "Dessy"
+          ],
+          "lastName": [
+            "Boneva"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Division of Trauma and Surgical Critical Care, Kendall Regional Medical Center, Miami, FL, USA."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Surgery, University of South FL, Tampa, FL, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elkbuli A"
+          ],
+          "firstName": [
+            "Adel"
+          ],
+          "lastName": [
+            "Elkbuli"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Surgery, Division of Trauma and Surgical Critical Care, Kendall Regional Medical Center, Miami, FL, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "60"
+      ],
+      "journalIssueId": [
+        "3040696"
+      ],
+      "dateOfPublication": [
+        "2020 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of medicine and surgery (2012)"
+          ],
+          "ISOAbbreviation": [
+            "Ann Med Surg (Lond)"
+          ],
+          "medlineAbbreviation": [
+            "Ann Med Surg (Lond)"
+          ],
+          "NLMid": [
+            "101616869"
+          ],
+          "ISSN": [
+            "2049-0801"
+          ],
+          "ESSN": [
+            "2049-0801"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "41-43"
+  ],
+  "abstractText": [
+    "As seasons come and go throughout the year, so does the rise and fall of influenza-like illnesses. The next wave of influenza will occur as the novel coronavirus 19 (COVID-19), caused by the SARS CoV-2 virus, continues to afflict the US. Both viruses, while from different families, have similar risk factors and symptoms such as fever, cough, headache, muscle aches, and fatigue. Since both viruses carry similar patient presentations and target similar patient populations, the ability of physicians to make a clinical diagnosis of influenza without testing is impaired. Obtaining the correct diagnosis for a patient presenting with a viral illness is paramount for determining the best course of treatment, particularly since the treatment for influenza has not been shown to be effective in treating COVID-19 patients. Another diagnosis that must be kept in mind is the possibility of co-infection with both influenza and COVID-19. With COVID-19 already placing patients in the Intensive Care Unit, additional pathogens causing similar severe manifestations can worsen patient outcomes. The compounding cumbersome additions of Influenza-Like-Illnesses can further burden the already stressed healthcare system, highlights the importance of proactive measures. Increasing influenza vaccination rates is a supported proactive measure that can be promoted through social media platforms, infomercials, and short informational videos physicians can play prior to the start of a telemedicine visit. Through the implementation of education and support for vaccination, this imminent danger may be avoided, allowing healthcare providers to effectively navigate the crossroads built by incoming patients presenting with viral illnesses."
+  ],
+  "affiliation": [
+    "Department of Surgery, Division of Trauma and Surgical Critical Care, Kendall Regional Medical Center, Miami, FL, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vaccination",
+        "Patient Safety",
+        "Public Health Policy",
+        "Influenza Season",
+        "Covid-19 Pandemic"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.amsu.2020.10.021"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7578542"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7578542?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-26"
+  ],
+  "firstIndexDate": [
+    "2020-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-25"
+  ],
+  "dateOfRevision": [
+    "2020-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-17"
+  ],
+  "firstPublicationDate": [
+    "2020-10-17"
+  ]
+}

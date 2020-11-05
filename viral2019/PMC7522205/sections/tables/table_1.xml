@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics of study participants.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="3">Variable</th>
+    <th align="left" rowspan="2">Total</th>
+    <th align="left" colspan="4">HIV-1 genotype</th>
+    <th align="left" rowspan="3">P</th>
+   </tr>
+   <tr>
+    <th align="left">CRF01_AE</th>
+    <th align="left">CRF07_BC</th>
+    <th align="left">CRF08_BC</th>
+    <th align="left">Others
+     <sup>#</sup>
+    </th>
+   </tr>
+   <tr>
+    <th align="left">N (%)</th>
+    <th align="left">N (%)</th>
+    <th align="left">N (%)</th>
+    <th align="left">N (%)</th>
+    <th align="left">N (%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Total</td>
+    <td align="left">2845 (100.0)</td>
+    <td align="left">1687 (59.3)</td>
+    <td align="left">254 (8.9)</td>
+    <td align="left">728 (25.6)</td>
+    <td align="left">176 (6.2)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="7">
+     <bold>Age at diagnosis, years</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">18–29</td>
+    <td align="left">279 (9.8)</td>
+    <td align="left">143 (8.5)</td>
+    <td align="left">49 (19.3)</td>
+    <td align="left">57 (7.8)</td>
+    <td align="left">30 (17.0)</td>
+    <td char="." align="char"> &lt; 0.001</td>
+   </tr>
+   <tr>
+    <td align="left">30–49</td>
+    <td align="left">1054 (37.1)</td>
+    <td align="left">593 (35.1)</td>
+    <td align="left">62 (24.4)</td>
+    <td align="left">318 (43.7)</td>
+    <td align="left">81 (46.1)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> ≥ 50</td>
+    <td align="left">1512 (53.1)</td>
+    <td align="left">951 (56.4)</td>
+    <td align="left">143 (56.3)</td>
+    <td align="left">353 (48.5)</td>
+    <td align="left">65 (36.9)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <bold>Sex</bold>
+    </td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td char="." align="char">0.001</td>
+   </tr>
+   <tr>
+    <td align="left">Male</td>
+    <td align="left">2112 (74.2)</td>
+    <td align="left">1257 (74.5)</td>
+    <td align="left">200 (78.7)</td>
+    <td align="left">510 (70.1)</td>
+    <td align="left">145 (82.4)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Female</td>
+    <td align="left">733 (25.8)</td>
+    <td align="left">430 (25.5)</td>
+    <td align="left">54 (21.3)</td>
+    <td align="left">218 (29.9)</td>
+    <td align="left">31 (17.6)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <bold>Marital status</bold>
+    </td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td char="." align="char"> &lt; 0.001</td>
+   </tr>
+   <tr>
+    <td align="left">Married or cohabiting</td>
+    <td align="left">1722 (60.5)</td>
+    <td align="left">1038 (61.5)</td>
+    <td align="left">144 (56.7)</td>
+    <td align="left">447 (61.4)</td>
+    <td align="left">93 (52.8)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Single</td>
+    <td align="left">576 (20.2)</td>
+    <td align="left">319 (18.9)</td>
+    <td align="left">67 (26.4)</td>
+    <td align="left">132 (18.1)</td>
+    <td align="left">58 (33.0)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Divorced or widowed</td>
+    <td align="left">547 (19.2)</td>
+    <td align="left">330 (19.6)</td>
+    <td align="left">43 (16.9)</td>
+    <td align="left">149 (20.5)</td>
+    <td align="left">25 (14.2)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <bold>Ethnicity</bold>
+    </td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td char="." align="char"> &lt; 0.001</td>
+   </tr>
+   <tr>
+    <td align="left">Han</td>
+    <td align="left">2320 (81.5)</td>
+    <td align="left">1360 (80.6)</td>
+    <td align="left">208 (81.8)</td>
+    <td align="left">626 (86.0)</td>
+    <td align="left">126 (71.6)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Zhuang</td>
+    <td align="left">250 (8.8)</td>
+    <td align="left">172 (10.2)</td>
+    <td align="left">23 (9.1)</td>
+    <td align="left">39 (5.4)</td>
+    <td align="left">16 (9.1)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Other</td>
+    <td align="left">275 (9.7)</td>
+    <td align="left">155 (9.2)</td>
+    <td align="left">23 (9.1)</td>
+    <td align="left">63 (8.6)</td>
+    <td align="left">34 (19.3)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <bold>Education level</bold>
+    </td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td char="." align="char">0.003</td>
+   </tr>
+   <tr>
+    <td align="left">Primary school or less</td>
+    <td align="left">1572 (55.3)</td>
+    <td align="left">949 (56.3)</td>
+    <td align="left">123 (48.4)</td>
+    <td align="left">420 (57.7)</td>
+    <td align="left">80 (45.5)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Junior middle school or more</td>
+    <td align="left">1273 (44.7)</td>
+    <td align="left">738 (43.7)</td>
+    <td align="left">131 (51.6)</td>
+    <td align="left">308 (42.3)</td>
+    <td align="left">96 (54.5)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <bold>Occupation</bold>
+    </td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td char="." align="char"> &lt; 0.001</td>
+   </tr>
+   <tr>
+    <td align="left">Farm</td>
+    <td align="left">2243 (78.8)</td>
+    <td align="left">1336 (79.2)</td>
+    <td align="left">163 (64.2)</td>
+    <td align="left">614 (84.3)</td>
+    <td align="left">130 (73.9)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">None-farm</td>
+    <td align="left">602 (21.2)</td>
+    <td align="left">351 (20.8)</td>
+    <td align="left">91 (35.8)</td>
+    <td align="left">114 (15.7)</td>
+    <td align="left">46 (26.1)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <bold>Transmission route</bold>
+    </td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td char="." align="char"> &lt; 0.001</td>
+   </tr>
+   <tr>
+    <td align="left">Heterosexual contact</td>
+    <td align="left">2680 (94.2)</td>
+    <td align="left">1630 (96.6)</td>
+    <td align="left">221 (87.0)</td>
+    <td align="left">679 (93.3)</td>
+    <td align="left">150 (85.2)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Male-to-male sexual contact</td>
+    <td align="left">64 (2.2)</td>
+    <td align="left">21 (1.2)</td>
+    <td align="left">28 (11.0)</td>
+    <td align="left">0 (0.0)</td>
+    <td align="left">15 (8.5)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Injecting drug use</td>
+    <td align="left">101 (3.6)</td>
+    <td align="left">36 (2.1)</td>
+    <td align="left">5 (2.0)</td>
+    <td align="left">49 (6.7)</td>
+    <td align="left">11 (6.3)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">
+     <bold>Year of HIV infection diagnosis</bold>
+    </td>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td align="left"/>
+    <td char="." align="char"> &lt; 0.001</td>
+   </tr>
+   <tr>
+    <td align="left">2014–2015</td>
+    <td align="left">853 (30.0)</td>
+    <td align="left">571 (33.8)</td>
+    <td align="left">58 (22.8)</td>
+    <td align="left">193 (26.5)</td>
+    <td align="left">31 (17.6)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">2016–2017</td>
+    <td align="left">1208 (42.5)</td>
+    <td align="left">716 (42.4)</td>
+    <td align="left">120 (47.2)</td>
+    <td align="left">298 (40.9)</td>
+    <td align="left">74 (42.0)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">2018–2019</td>
+    <td align="left">784 (27.5)</td>
+    <td align="left">400 (23.7)</td>
+    <td align="left">76 (29.9)</td>
+    <td align="left">237 (32.6)</td>
+    <td align="left">71 (40.3)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">Time from HIV diagnosis to baseline CD4+ cell count measurements, days</td>
+    <td align="left">7 (2–23)</td>
+    <td align="left">8 (2–25)</td>
+    <td align="left">6 (2–18)</td>
+    <td align="left">6 (2–19)</td>
+    <td align="left">8 (3–23)</td>
+    <td char="." align="char"> &lt; 0.001</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Data are presented as No. (%) or median (interquartile range). χ
+   <sup>2</sup> test for categorical data and non-parametric Wilcoxon test for continuous data.
+  </p>
+  <p>
+   <sup>#</sup>HIV-1 B/B’, CRF55_01B, CRFs and URFs.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

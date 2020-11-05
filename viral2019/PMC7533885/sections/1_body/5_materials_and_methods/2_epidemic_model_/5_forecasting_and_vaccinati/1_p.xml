@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We did probabilistic projections for eight scenarios (
+ <xref rid="t01" ref-type="table">Table 1</xref>), using the base case parameters (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Table S3
+ </ext-link>). For all scenarios, we simulated 2,500 stochastic trajectories by sampling parameter values randomly from the joint posterior distributions. Scenario 1 aimed at estimating the likelihood of virus reemergence, without disease control intervention, in the following rainy season (in 2019–2020), in a closed ecosystem, using the same rainfall data as during the 2018–2019 rainy season. Scenarios 2–6 aimed at assessing the impact that different livestock vaccination strategies could have had on the number of human and livestock cases during the 2018–2019 epidemic. We assumed the use of a single-dose highly immunogenic vaccine (90% vaccine efficacy) (
+ <xref rid="r44" ref-type="bibr">44</xref>, 
+ <xref rid="r45" ref-type="bibr">45</xref>), and a 14-d lag between vaccination and buildup of immunity. Figures of vaccination campaigns in Mayotte in 2017 (against blackleg, a livestock disease), showed that about 3,000 vaccine doses are routinely administered to livestock over a year by local veterinarians. Scenario 2 tested the impact of administrating 3,000 doses in one month, in December 2018, immediately after the report of the first human case (joint animal–human alert date for response), corresponding to the current vaccinating capacity in Mayotte in an emergency setting. Scenario 3 assumed an extravaccine supply and an emergency mass vaccination, allowing 6,000 doses to be administered in December 2018. We also assessed the impact of vaccinating livestock in January 2019, 1 mo following the report of the first human case, allowing extra time for organizing the vaccination campaign: 3,000 doses (scenario 4), 6,000 doses (scenario 5), and 9,000 doses (scenario 6). Finally, to assess the impact of a reactive and mass vaccination only in humans, we simulated a 80% vaccination coverage of the farming population in December 2018 (i.e., 61,560 doses) (scenario 7), and a 50% vaccination coverage of the two groups (i.e., 128,250 doses) (scenario 8). Vaccination equations and diagram are presented in 
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, 
+  <italic>Methods</italic> and Fig. S1
+ </ext-link>.
+</p>

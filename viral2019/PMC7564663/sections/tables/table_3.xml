@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="vaccines-08-00531-t003" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">vaccines-08-00531-t003_Table 3</object-id>
+ <label>Table 3</label>
+ <caption>
+  <p>Overview of ASF gene-deleted vaccine research (2015–2020).</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Source Strain</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Genotype</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Deletion Protein (Gene)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cell</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Virulence Changes</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Protection</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Benin 97/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">I</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DP148R, CD2v (EP402R), EP153R</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PBMs, WSL-R 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B78-vaccines-08-00531" ref-type="bibr">78</xref>] (2020)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">OURT88/3 (attenuated)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">I</td>
+    <td rowspan="2" align="center" valign="middle" colspan="1">I329L</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PBMs</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Reduced</td>
+    <td rowspan="2" align="center" valign="middle" colspan="1">[
+     <xref rid="B50-vaccines-08-00531" ref-type="bibr">50</xref>] (2020)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia/2007</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PBMs</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">China HLJ/18</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MGF360/505 
+     <sup>3</sup>, CD2v (EP402R)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PBMs</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous</td>
+    <td rowspan="3" align="center" valign="middle" colspan="1">[
+     <xref rid="B41-vaccines-08-00531" ref-type="bibr">41</xref>] (2020)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">China HLJ/18</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9GL, UK</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PBMs</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">China HLJ/18</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MGF360/505 
+     <sup>3</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PBMs</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia/2010</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">CD2v(EP402R)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Primary macrophages</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B81-vaccines-08-00531" ref-type="bibr">81</xref>] (2020)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia/2007</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9GL (B119L), UK (DP96R), NL (DP71L)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Primary macrophages</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B82-vaccines-08-00531" ref-type="bibr">82</xref>] (2019)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">NH/P68 (attenuated)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">I</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">A238L</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">COS-7 
+     <sup>2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Highly attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous (I L60) 
+     <break/>No heterologous (II Arm07)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B79-vaccines-08-00531" ref-type="bibr">79</xref>] (2018)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Benin 97/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">I</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MGF360/530/505</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PAMs</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B55-vaccines-08-00531" ref-type="bibr">55</xref>] (2016), [
+     <xref rid="B83-vaccines-08-00531" ref-type="bibr">83</xref>] (2018)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Benin 97/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">I</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DP148R</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">PAMs</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B77-vaccines-08-00531" ref-type="bibr">77</xref>] (2017)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">BA71</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">I</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">CD2v (EP402R)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">COS-1 
+     <sup>2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Highly attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous and heterologous (I E75, II Georgia 2007/1)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B80-vaccines-08-00531" ref-type="bibr">80</xref>] (2017)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia/2007</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9GL, UK</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Primary macrophages</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Fully attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B71-vaccines-08-00531" ref-type="bibr">71</xref>] (2017)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ASFVG/VP30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">TK</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Primary macrophages, Vero</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B76-vaccines-08-00531" ref-type="bibr">76</xref>] (2016)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Pr4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9GL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Macrophages</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Fully attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B84-vaccines-08-00531" ref-type="bibr">84</xref>] (2016)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia/2007</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">9GL, MGF360/505 
+     <sup>3</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Primary macrophages</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Highly attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B56-vaccines-08-00531" ref-type="bibr">56</xref>] (2016)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia/2007</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MGF360/505 
+     <sup>3</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Primary macrophages</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Fully attenuated</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B57-vaccines-08-00531" ref-type="bibr">57</xref>] (2015)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Georgia/2007</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">II</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9GL</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Primary macrophages</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Attenuated</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Homologous</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B74-vaccines-08-00531" ref-type="bibr">74</xref>] (2015)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <sup>1</sup> WSL-R: Spontaneously immortalized wild boar cell line; 
+    <sup>2</sup> COS-7 /COS-1: a monkey cell line transformed with the large antigen of SV40; 
+    <sup>3</sup> MGF360/505: Including MGF505-1R, MGF360-12L, MGF360-13L, MGF360-14L, MGF505-2R, MGF505-3R.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

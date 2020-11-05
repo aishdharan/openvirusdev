@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Purpose</title>
+  <p id="Par1">The identification of patients infected by SARS-CoV-2 is highly important to control the disease; however, the clinical presentation is often unspecific and a large portion of the patients develop mild or no symptoms at all. For this reason, there is an emphasis on evaluating diagnostic tools for screening. Chest CT scans are emerging as a useful tool in the diagnostic process of viral pneumonia cases associated with COVID-19. This review examines the sensitivity, specificity, and feasibility of chest CT in detecting COVID-19 compared with real-time polymerase chain reaction (RT-PCR).</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">Sensitivity and specificity of chest CT in detecting COVID-19 in its various phases was compared using RT-PCR as a gold standard. A “reverse calculation approach” was applied and treated chest CT as a hypothetical gold standard and compared RT-PCR to it point out the flaw of the standard approach.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">High sensitivity (67–100%) and relatively low specificity (25–80%) was reported for the CT scans. However, the sensitivity of RT-PCR was reported to be modest (53–88%), hence cannot serve as an appropriate ground truth. The “reverse calculation approach” showed that CT could have a higher specificity (83–100%) if we consider the modest sensitivity of the RT-PCR.</p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p id="Par4">The sensitivity and specificity of the chest CT in diagnosing COVID-19 and the radiation exposure have to be judged together. Arguments are presented that chest CT scans have added value in diagnosing COVID-19 especially in patients, who exhibit typical clinical symptoms and have negative RT-PCR results in highly infected regions.</p>
+ </sec>
+ <sec>
+  <title>Key Points</title>
+  <p id="Par5">
+   <italic>• CT scans have higher specificity if we take into account the low sensitivity of the RT-PCR.</italic>
+  </p>
+  <p id="Par6">
+   <italic>• Avoid chest CT as a sole diagnostic approach for COVID-19 infection.</italic>
+  </p>
+  <p id="Par7">
+   <italic>• Patients who had negative RT-PCR result with typical clinical symptoms in highly infected regions or with close contact of COVID-19-infected patients; the use of chest CT is warranted.</italic>
+  </p>
+ </sec>
+</abstract>

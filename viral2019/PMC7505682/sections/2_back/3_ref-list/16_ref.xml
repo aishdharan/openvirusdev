@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yan</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Chughtai</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Macintyre</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Utility and potential of rapid epidemic intelligence from internet-based sources</article-title>
+  <source>Int J Infect Dis</source>
+  <year>2017</year>
+  <month>10</month>
+  <volume>63</volume>
+  <fpage>77</fpage>
+  <lpage>87</lpage>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S1201-9712(17)30199-6" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </comment>
+  <pub-id pub-id-type="doi">10.1016/j.ijid.2017.07.020</pub-id>
+  <pub-id pub-id-type="medline">28765076</pub-id>
+  <!--<pub-id pub-id-type="pii">S1201-9712(17)30199-6</pub-id>-->
+  <pub-id pub-id-type="pmid">28765076</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e6640">We discuss the optimal control problem 
+ <xref rid="fd14" ref-type="disp-formula">(14)</xref> in a more general context. We use the notation 
+ <inline-formula>
+  <math id="d1e6647" display="inline" altimg="si161.svg">
+   <mrow>
+    <mi mathvariant="bold-italic">x</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">S</mi>
+     <mo>,</mo>
+     <mi mathvariant="bold-fraktur">E</mi>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">P</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">A</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mi mathvariant="bold-fraktur">R</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. We look at the optimal control problem 
+ <disp-formula id="fd15">
+  <label>(15)</label>
+  <math id="d1e6704" display="block" altimg="si162.svg">
+   <mfenced open="{">
+    <mrow>
+     <mtable align="axis" equalrows="false" columnlines="none" equalcolumns="false" class="array">
+      <mtr>
+       <mtd class="array" columnalign="left">
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mtext>Minimize </mtext>
+        <mspace width="1em"/>
+       </mtd>
+       <mtd class="array" columnalign="left">
+        <mi mathvariant="bold-fraktur">J</mi>
+        <mrow>
+         <mo>(</mo>
+         <mi mathvariant="bold-italic">x</mi>
+         <mo>,</mo>
+         <mi mathvariant="bold-fraktur">u</mi>
+         <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <msubsup>
+         <mrow>
+          <mo linebreak="badbreak">∫</mo>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">T</mi>
+         </mrow>
+        </msubsup>
+        <mi mathvariant="bold-fraktur">u</mi>
+        <mrow>
+         <mo>(</mo>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>)</mo>
+        </mrow>
+        <mi mathvariant="normal">d</mi>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>,</mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd class="array" columnalign="left">
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mtext>Subject to</mtext>
+        <mspace width="1em"/>
+       </mtd>
+       <mtd class="array" columnalign="left">
+        <mi mathvariant="normal">d</mi>
+        <mi mathvariant="bold-italic">x</mi>
+        <mo>∕</mo>
+        <mi mathvariant="normal">d</mi>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mtext> satisfies Eq. (1j)</mtext>
+        <mo>,</mo>
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mn>0</mn>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">T</mi>
+        <mo>,</mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd class="array" columnalign="left">
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mspace width="1em"/>
+       </mtd>
+       <mtd class="array" columnalign="left">
+        <mi mathvariant="bold-italic">x</mi>
+        <mrow>
+         <mo>(</mo>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>=</mo>
+         <mn>0</mn>
+         <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-italic">x</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-italic">x</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+        <mo>=</mo>
+        <mtext>initial conditions implied by Eq. (4)</mtext>
+        <mo>,</mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd class="array" columnalign="left">
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mspace width="1em"/>
+       </mtd>
+       <mtd class="array" columnalign="left">
+        <mn>0</mn>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">u</mi>
+        <mrow>
+         <mo>(</mo>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>)</mo>
+        </mrow>
+        <mo>≤</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mspace width="2em"/>
+        <mn>0</mn>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">T</mi>
+        <mo>,</mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd class="array" columnalign="left">
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mspace width="1em"/>
+       </mtd>
+       <mtd class="array" columnalign="left">
+        <mi mathvariant="bold-fraktur">k</mi>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">S</mi>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>(</mo>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>)</mo>
+        </mrow>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">B</mi>
+        <mo>,</mo>
+        <mspace width="2em"/>
+        <mn>0</mn>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>≤</mo>
+        <mi mathvariant="bold-fraktur">T</mi>
+        <mo>,</mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd class="array" columnalign="left">
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mspace width="1em"/>
+       </mtd>
+       <mtd class="array" columnalign="left">
+        <msubsup>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+          <mi mathvariant="bold-fraktur">P</mi>
+         </mrow>
+         <mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mn>1</mn>
+         </mrow>
+        </msubsup>
+        <mrow>
+         <mo>(</mo>
+         <mn>1</mn>
+         <mo>−</mo>
+         <mi mathvariant="bold-fraktur">f</mi>
+         <mo>)</mo>
+        </mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">P</mi>
+         </mrow>
+        </msub>
+        <mo>−</mo>
+        <msubsup>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+         </mrow>
+         <mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mn>1</mn>
+         </mrow>
+        </msubsup>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">S</mi>
+         </mrow>
+        </msub>
+        <mo>≤</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mspace width="0.16667em"/>
+        <mspace width="0.16667em"/>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>=</mo>
+        <mi mathvariant="bold-fraktur">T</mi>
+        <mo>.</mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </mfenced>
+  </math>
+ </disp-formula>The control is activated at 
+ <inline-formula>
+  <math id="d1e6998" display="inline" altimg="si86.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>; between 
+ <inline-formula>
+  <math id="d1e7008" display="inline" altimg="si67.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">o</mi>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mi mathvariant="bold-fraktur">e</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e7035" display="inline" altimg="si86.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>, the evolution of 
+ <inline-formula>
+  <math id="d1e7045" display="inline" altimg="si172.svg">
+   <mrow>
+    <mi mathvariant="normal">d</mi>
+    <mi mathvariant="bold-italic">x</mi>
+    <mo>∕</mo>
+    <mi mathvariant="normal">d</mi>
+    <mi mathvariant="bold-fraktur">t</mi>
+   </mrow>
+  </math>
+ </inline-formula> is given by Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> with 
+ <inline-formula>
+  <math id="d1e7065" display="inline" altimg="si173.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>. This particular optimal control problem can be put into the framework of Theorem 23.11 in Ref. 
+ <xref rid="b22" ref-type="bibr">[22]</xref> – this framework provides the conditions such that, if there is at least one admissible process 
+ <inline-formula>
+  <math id="d1e7079" display="inline" altimg="si174.svg">
+   <mrow>
+    <mo>(</mo>
+    <mi mathvariant="bold-italic">x</mi>
+    <mo>,</mo>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> for which 
+ <inline-formula>
+  <math id="d1e7094" display="inline" altimg="si247.svg">
+   <mi mathvariant="bold-fraktur">J</mi>
+  </math>
+ </inline-formula> is finite, the optimal control problem admits a solution. The structure of the problem 
+ <xref rid="fd15" ref-type="disp-formula">(15)</xref> is relatively simple, and to show that the conditions of Theorem 23.11 in Ref. 
+ <xref rid="b22" ref-type="bibr">[22]</xref> apply here, it suffices to show that solutions 
+ <inline-formula>
+  <math id="d1e7107" display="inline" altimg="si176.svg">
+   <mrow>
+    <mi mathvariant="bold-italic">x</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> of the ordinary differential equation 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> remain in a bounded hypercube in 
+ <inline-formula>
+  <math id="d1e7125" display="inline" altimg="si177.svg">
+   <msup>
+    <mrow>
+     <mi mathvariant="double-struck">R</mi>
+    </mrow>
+    <mrow>
+     <mn>6</mn>
+    </mrow>
+   </msup>
+  </math>
+ </inline-formula>; this is done in 
+ <xref rid="appC" ref-type="sec">Appendix C</xref>. Furthermore, if the number of infectious individuals is sufficiently small at 
+ <inline-formula>
+  <math id="d1e7139" display="inline" altimg="si86.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>, then by making 
+ <inline-formula>
+  <math id="d1e7150" display="inline" altimg="si179.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mtext>Const.</mtext>
+   </mrow>
+  </math>
+ </inline-formula> sufficiently large, the solution 
+ <inline-formula>
+  <math id="d1e7167" display="inline" altimg="si176.svg">
+   <mrow>
+    <mi mathvariant="bold-italic">x</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> will follow a standard epidemic curve with 
+ <inline-formula>
+  <math id="d1e7180" display="inline" altimg="si253.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">≤</mo>
+    <mi mathvariant="bold-fraktur">B</mi>
+   </mrow>
+  </math>
+ </inline-formula> – this gives the required admissible process.
+</p>

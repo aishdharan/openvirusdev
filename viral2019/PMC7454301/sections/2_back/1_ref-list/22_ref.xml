@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref22">
+ <label>22.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Barstugan</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ozkaya</surname>
+    <given-names>U</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ozturk</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Coronavirus (COVID-19) classification using CT images by machine learning methods</article-title>. 
+  <source>arXiv</source>:2020:2003:09424, 
+  <comment>preprint</comment>.
+ </mixed-citation>
+</ref>

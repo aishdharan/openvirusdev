@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0015">Notice that the reproductive number 
+ <italic>R</italic>
+ <sub>0</sub> is the spectral radius of 
+ <inline-formula>
+  <math id="M12" altimg="si19.svg">
+   <mrow>
+    <mi>F</mi>
+    <msup>
+     <mi>V</mi>
+     <mrow>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msup>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> where
+ <disp-formula id="eq0005">
+  <label>(2.5)</label>
+  <math id="M13" altimg="si20.svg">
+   <mrow>
+    <mi>F</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <mrow>
+     <mo stretchy="true">(</mo>
+     <mtable>
+      <mtr>
+       <mtd>
+        <mfrac>
+         <mrow>
+          <msub>
+           <mi>β</mi>
+           <mn>2</mn>
+          </msub>
+          <mi>λ</mi>
+         </mrow>
+         <mi>μ</mi>
+        </mfrac>
+       </mtd>
+       <mtd>
+        <mfrac>
+         <mrow>
+          <msub>
+           <mi>β</mi>
+           <mn>1</mn>
+          </msub>
+          <mi>λ</mi>
+         </mrow>
+         <mi>μ</mi>
+        </mfrac>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+     </mtable>
+     <mo stretchy="true">)</mo>
+    </mrow>
+    <mspace width="1em"/>
+    <mtext>and</mtext>
+    <mspace width="1em"/>
+    <mi>V</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <mrow>
+     <mo stretchy="true">(</mo>
+     <mtable>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mi>κ</mi>
+         <mo linebreak="badbreak">+</mo>
+         <mi>α</mi>
+         <mo linebreak="badbreak">+</mo>
+         <mi>μ</mi>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mi>q</mi>
+          <mn>1</mn>
+         </msub>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <mi>α</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mi>r</mi>
+         <mo linebreak="badbreak">+</mo>
+         <mi>μ</mi>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mi>d</mi>
+          <mn>1</mn>
+         </msub>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <msub>
+          <mi>q</mi>
+          <mn>1</mn>
+         </msub>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mi>q</mi>
+         <mo linebreak="badbreak">+</mo>
+         <mi>μ</mi>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mi>d</mi>
+          <mn>2</mn>
+         </msub>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <mi>κ</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <mi>r</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <mi>q</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mi>μ</mi>
+       </mtd>
+      </mtr>
+     </mtable>
+     <mo stretchy="true">)</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>More precisely, notice that
+ <disp-formula id="eq0006">
+  <label>(2.6)</label>
+  <math id="M14" altimg="si21.svg">
+   <mrow>
+    <msub>
+     <mi>R</mi>
+     <mn>0</mn>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mfrac>
+     <mrow>
+      <mi>λ</mi>
+      <mo>[</mo>
+      <msub>
+       <mi>β</mi>
+       <mn>2</mn>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi>r</mi>
+       <mo>+</mo>
+       <mi>μ</mi>
+       <mo>+</mo>
+       <msub>
+        <mi>d</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo>+</mo>
+      <msub>
+       <mi>β</mi>
+       <mn>1</mn>
+      </msub>
+      <mi>α</mi>
+      <mo>]</mo>
+     </mrow>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <mi>κ</mi>
+       <mo>+</mo>
+       <mi>α</mi>
+       <mo>+</mo>
+       <mi>μ</mi>
+       <mo>+</mo>
+       <msub>
+        <mi>q</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <mi>r</mi>
+       <mo>+</mo>
+       <mi>μ</mi>
+       <mo>+</mo>
+       <msub>
+        <mi>d</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </mfrac>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>Using the possible values of the reproductive number, we will devote our next efforts to establish conditions that guarantee the local asymptotic stability of the equilibrium points obtained above. Beforehand, notice that the Jacobian matrix associated to 
+ <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref> is given by
+ <disp-formula id="eq0007">
+  <label>(2.7)</label>
+  <math id="M15" altimg="si22.svg">
+   <mrow>
+    <mi>J</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi>S</mi>
+     <mo>,</mo>
+     <mi>E</mi>
+     <mo>,</mo>
+     <mi>I</mi>
+     <mo>,</mo>
+     <mi>Q</mi>
+     <mo>,</mo>
+     <mi>R</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mrow>
+     <mo stretchy="true">(</mo>
+     <mtable>
+      <mtr>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <msub>
+          <mi>β</mi>
+          <mn>1</mn>
+         </msub>
+         <mi>I</mi>
+         <mo linebreak="badbreak">−</mo>
+         <msub>
+          <mi>β</mi>
+          <mn>2</mn>
+         </msub>
+         <mi>E</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <msub>
+          <mi>β</mi>
+          <mn>2</mn>
+         </msub>
+         <mi>S</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <msub>
+          <mi>β</mi>
+          <mn>1</mn>
+         </msub>
+         <mi>S</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd/>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mrow>
+         <msub>
+          <mi>β</mi>
+          <mn>1</mn>
+         </msub>
+         <mi>I</mi>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mi>β</mi>
+          <mn>2</mn>
+         </msub>
+         <mi>E</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mrow>
+         <msub>
+          <mi>β</mi>
+          <mn>2</mn>
+         </msub>
+         <mi>S</mi>
+         <mo linebreak="badbreak">−</mo>
+         <mrow>
+          <mo>(</mo>
+          <mi>κ</mi>
+          <mo linebreak="badbreak">+</mo>
+          <mi>α</mi>
+          <mo linebreak="badbreak">+</mo>
+          <mi>μ</mi>
+          <mo linebreak="badbreak">+</mo>
+          <msub>
+           <mi>q</mi>
+           <mn>1</mn>
+          </msub>
+          <mo>)</mo>
+         </mrow>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mrow>
+         <msub>
+          <mi>β</mi>
+          <mn>1</mn>
+         </msub>
+         <mi>S</mi>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd/>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mi>α</mi>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <mo>(</mo>
+         <mi>r</mi>
+         <mo linebreak="badbreak">+</mo>
+         <mi>μ</mi>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mi>d</mi>
+          <mn>1</mn>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd/>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <msub>
+         <mi>q</mi>
+         <mn>1</mn>
+        </msub>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <mo>(</mo>
+         <mi>q</mi>
+         <mo linebreak="badbreak">+</mo>
+         <mi>μ</mi>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mi>d</mi>
+          <mn>2</mn>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mtd>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd/>
+      </mtr>
+      <mtr>
+       <mtd>
+        <mn>0</mn>
+       </mtd>
+       <mtd>
+        <mi>κ</mi>
+       </mtd>
+       <mtd>
+        <mi>r</mi>
+       </mtd>
+       <mtd>
+        <mi>q</mi>
+       </mtd>
+       <mtd>
+        <mrow>
+         <mo>−</mo>
+         <mi>μ</mi>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+     <mo stretchy="true">)</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>For the remainder, the symbol Ω will represent the set of all 
+ <inline-formula>
+  <math id="M16" altimg="si23.svg">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mi>S</mi>
+     <mo>,</mo>
+     <mi>E</mi>
+     <mo>,</mo>
+     <mi>I</mi>
+     <mo>,</mo>
+     <mi>Q</mi>
+     <mo>,</mo>
+     <mi>R</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo>∈</mo>
+    <msup>
+     <mi mathvariant="double-struck">R</mi>
+     <mn>5</mn>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula> such that 
+ <inline-formula>
+  <math id="M17" altimg="si24.svg">
+   <mrow>
+    <mi>S</mi>
+    <mo>,</mo>
+    <mi>E</mi>
+    <mo>,</mo>
+    <mi>I</mi>
+    <mo>,</mo>
+    <mi>Q</mi>
+    <mo>,</mo>
+    <mi>R</mi>
+    <mo>∈</mo>
+    <msup>
+     <mi mathvariant="double-struck">R</mi>
+     <mo>+</mo>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula>.
+ <statement id="enun0001">
+  <label>Theorem 1</label>
+  <p id="p0016">
+   <italic>The equilibrium point C</italic>
+   <sub>1</sub>
+   <italic>is locally asymptotically stable if and only if R</italic>
+   <sub>0</sub> &lt; 1
+   <italic>.</italic>
+  </p>
+ </statement>
+ <statement id="uenun0001">
+  <label>Proof</label>
+  <p id="p0017">Using the Jacobian matrix 
+   <xref rid="eq0007" ref-type="disp-formula">(2.7)</xref> and an easy substitution, we can readily obtain that
+   <disp-formula id="eq0008">
+    <label>(2.8)</label>
+    <math id="M18" altimg="si25.svg">
+     <mrow>
+      <mi>J</mi>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>C</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">=</mo>
+      <mrow>
+       <mo stretchy="true">(</mo>
+       <mtable>
+        <mtr>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mi>μ</mi>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mfrac>
+            <mrow>
+             <msub>
+              <mi>β</mi>
+              <mn>2</mn>
+             </msub>
+             <mi>λ</mi>
+            </mrow>
+            <mi>μ</mi>
+           </mfrac>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mfrac>
+            <mrow>
+             <msub>
+              <mi>β</mi>
+              <mn>1</mn>
+             </msub>
+             <mi>λ</mi>
+            </mrow>
+            <mi>μ</mi>
+           </mfrac>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mfrac>
+            <mrow>
+             <msub>
+              <mi>β</mi>
+              <mn>2</mn>
+             </msub>
+             <mi>λ</mi>
+            </mrow>
+            <mi>μ</mi>
+           </mfrac>
+           <mo linebreak="badbreak">−</mo>
+           <mrow>
+            <mo>(</mo>
+            <mi>κ</mi>
+            <mo linebreak="badbreak">+</mo>
+            <mi>α</mi>
+            <mo linebreak="badbreak">+</mo>
+            <mi>μ</mi>
+            <mo linebreak="badbreak">+</mo>
+            <msub>
+             <mi>q</mi>
+             <mn>1</mn>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <msub>
+             <mi>β</mi>
+             <mn>1</mn>
+            </msub>
+            <mi>λ</mi>
+           </mrow>
+           <mi>μ</mi>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mi>α</mi>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mo>(</mo>
+           <mi>r</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>d</mi>
+            <mn>1</mn>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <msub>
+           <mi>q</mi>
+           <mn>1</mn>
+          </msub>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mo>(</mo>
+           <mi>q</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>d</mi>
+            <mn>2</mn>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mi>κ</mi>
+         </mtd>
+         <mtd>
+          <mi>r</mi>
+         </mtd>
+         <mtd>
+          <mi>q</mi>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mi>μ</mi>
+          </mrow>
+         </mtd>
+        </mtr>
+       </mtable>
+       <mo stretchy="true">)</mo>
+      </mrow>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>Notice the that the characteristic polynomial is given by
+   <disp-formula id="eq0009">
+    <label>(2.9)</label>
+    <math id="M19" altimg="si26.svg">
+     <mrow>
+      <mi>p</mi>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">=</mo>
+      <msup>
+       <mrow>
+        <mo>(</mo>
+        <mi>λ</mi>
+        <mo>+</mo>
+        <mi>μ</mi>
+        <mo>)</mo>
+       </mrow>
+       <mn>2</mn>
+      </msup>
+      <mrow>
+       <mo stretchy="true">[</mo>
+       <msup>
+        <mi>λ</mi>
+        <mn>2</mn>
+       </msup>
+       <mo linebreak="badbreak">+</mo>
+       <mrow>
+        <mo>(</mo>
+        <mo>−</mo>
+        <msub>
+         <mi>β</mi>
+         <mn>2</mn>
+        </msub>
+        <msub>
+         <mi>a</mi>
+         <mn>1</mn>
+        </msub>
+        <mo linebreak="badbreak">+</mo>
+        <msub>
+         <mi>a</mi>
+         <mn>2</mn>
+        </msub>
+        <mo linebreak="badbreak">+</mo>
+        <msub>
+         <mi>a</mi>
+         <mn>3</mn>
+        </msub>
+        <mo>)</mo>
+       </mrow>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mrow>
+        <mo>(</mo>
+        <msub>
+         <mi>a</mi>
+         <mn>3</mn>
+        </msub>
+        <msub>
+         <mi>a</mi>
+         <mn>2</mn>
+        </msub>
+        <mo linebreak="badbreak">−</mo>
+        <msub>
+         <mi>β</mi>
+         <mn>2</mn>
+        </msub>
+        <msub>
+         <mi>a</mi>
+         <mn>3</mn>
+        </msub>
+        <msub>
+         <mi>a</mi>
+         <mn>1</mn>
+        </msub>
+        <mo linebreak="badbreak">+</mo>
+        <msub>
+         <mi>β</mi>
+         <mn>1</mn>
+        </msub>
+        <mi>α</mi>
+        <msub>
+         <mi>a</mi>
+         <mn>1</mn>
+        </msub>
+        <mo>)</mo>
+       </mrow>
+       <mo stretchy="true">]</mo>
+      </mrow>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>where 
+   <inline-formula>
+    <math id="M20" altimg="si27.svg">
+     <mrow>
+      <msub>
+       <mi>a</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mi>λ</mi>
+      <mo linebreak="goodbreak">/</mo>
+      <mi>μ</mi>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </inline-formula>
+   <inline-formula>
+    <math id="M21" altimg="si28.svg">
+     <mrow>
+      <msub>
+       <mi>a</mi>
+       <mn>2</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mi>κ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>α</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>q</mi>
+       <mn>1</mn>
+      </msub>
+     </mrow>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="M22" altimg="si29.svg">
+     <mrow>
+      <msub>
+       <mi>a</mi>
+       <mn>3</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mi>r</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>d</mi>
+       <mn>1</mn>
+      </msub>
+     </mrow>
+    </math>
+   </inline-formula>. The stability when 
+   <italic>R</italic>
+   <sub>0</sub> &lt; 1 follows now from the Routh–Hurwitz criterion for second-order polynomials, noticing that 
+   <inline-formula>
+    <math id="M23" altimg="si30.svg">
+     <mrow>
+      <msub>
+       <mi>a</mi>
+       <mn>3</mn>
+      </msub>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>a</mi>
+       <mn>2</mn>
+      </msub>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>β</mi>
+       <mn>2</mn>
+      </msub>
+      <msub>
+       <mi>a</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">&gt;</mo>
+      <mn>0</mn>
+     </mrow>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="M24" altimg="si31.svg">
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <mi>κ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>α</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>μ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>q</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">+</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi>r</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>μ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>d</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">−</mo>
+      <mfrac>
+       <mrow>
+        <msub>
+         <mi>β</mi>
+         <mn>2</mn>
+        </msub>
+        <mi>λ</mi>
+       </mrow>
+       <mi>μ</mi>
+      </mfrac>
+      <mo linebreak="goodbreak">&gt;</mo>
+      <mn>0</mn>
+     </mrow>
+    </math>
+   </inline-formula> and, thus, all the eigenvalues are negative numbers. □
+  </p>
+ </statement>
+ <statement id="enun0002">
+  <label>Theorem 2</label>
+  <p id="p0018">
+   <italic>The equilibrium point C</italic>
+   <sub>2</sub>
+   <italic>is locally asymptotically stable if and only if R</italic>
+   <sub>0</sub> &gt; 1
+   <italic>.</italic>
+  </p>
+ </statement>
+ <statement id="uenun0002">
+  <label>Proof</label>
+  <p id="p0019">Beforehand, let
+   <disp-formula id="eq0010">
+    <label>(2.10)</label>
+    <math id="M25" altimg="si32.svg">
+     <mrow>
+      <msub>
+       <mi>b</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>β</mi>
+       <mn>1</mn>
+      </msub>
+      <msubsup>
+       <mi>I</mi>
+       <mo>*</mo>
+       <mn>1</mn>
+      </msubsup>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>β</mi>
+       <mn>2</mn>
+      </msub>
+      <msubsup>
+       <mi>E</mi>
+       <mo>*</mo>
+       <mn>1</mn>
+      </msubsup>
+      <mo>,</mo>
+      <mspace width="2.em"/>
+      <msub>
+       <mi>b</mi>
+       <mn>2</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>β</mi>
+       <mn>2</mn>
+      </msub>
+      <msubsup>
+       <mi>S</mi>
+       <mo>*</mo>
+       <mn>1</mn>
+      </msubsup>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0011">
+    <label>(2.11)</label>
+    <math id="M26" altimg="si33.svg">
+     <mrow>
+      <msub>
+       <mi>b</mi>
+       <mn>3</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mi>κ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>α</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>q</mi>
+       <mn>1</mn>
+      </msub>
+      <mo>,</mo>
+      <mspace width="2.em"/>
+      <msub>
+       <mi>b</mi>
+       <mn>4</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>β</mi>
+       <mn>1</mn>
+      </msub>
+      <msubsup>
+       <mi>S</mi>
+       <mo>*</mo>
+       <mn>1</mn>
+      </msubsup>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0012">
+    <label>(2.12)</label>
+    <math id="M27" altimg="si34.svg">
+     <mrow>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mi>r</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>d</mi>
+       <mn>1</mn>
+      </msub>
+      <mo>,</mo>
+      <mspace width="2.em"/>
+      <msub>
+       <mi>b</mi>
+       <mn>6</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mi>q</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>d</mi>
+       <mn>2</mn>
+      </msub>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>Proceeding as in the proof of 
+   <xref rid="enun0001" ref-type="statement">Theorem 1</xref>, it is easy to check that the characteristic polynomial is given by
+   <disp-formula id="eq0013">
+    <label>(2.13)</label>
+    <math id="M28" altimg="si35.svg">
+     <mrow>
+      <mi>p</mi>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">=</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>μ</mi>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mrow>
+        <mo>(</mo>
+        <mi>q</mi>
+        <mo linebreak="badbreak">+</mo>
+        <mi>μ</mi>
+        <mo linebreak="badbreak">+</mo>
+        <msub>
+         <mi>d</mi>
+         <mn>2</mn>
+        </msub>
+        <mo>)</mo>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <msup>
+        <mi>λ</mi>
+        <mn>3</mn>
+       </msup>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>c</mi>
+        <mn>1</mn>
+       </msub>
+       <msup>
+        <mi>λ</mi>
+        <mn>2</mn>
+       </msup>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>c</mi>
+        <mn>2</mn>
+       </msub>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>c</mi>
+        <mn>3</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>where
+   <disp-formula id="eq0014">
+    <label>(2.14)</label>
+    <math id="M29" altimg="si36.svg">
+     <mrow>
+      <msub>
+       <mi>c</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>2</mn>
+      </msub>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>3</mn>
+      </msub>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0015">
+    <label>(2.15)</label>
+    <math id="M30" altimg="si37.svg">
+     <mrow>
+      <msub>
+       <mi>c</mi>
+       <mn>2</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>1</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>3</mn>
+      </msub>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>1</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>2</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>3</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>2</mn>
+      </msub>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>3</mn>
+      </msub>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>4</mn>
+      </msub>
+      <mi>α</mi>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0016">
+    <label>(2.16)</label>
+    <math id="M31" altimg="si38.svg">
+     <mrow>
+      <msub>
+       <mi>c</mi>
+       <mn>3</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>1</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>3</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>2</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>3</mn>
+      </msub>
+      <msub>
+       <mi>b</mi>
+       <mn>5</mn>
+      </msub>
+      <mi>μ</mi>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>b</mi>
+       <mn>4</mn>
+      </msub>
+      <mi>α</mi>
+      <mi>μ</mi>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>Assuming that 
+   <italic>R</italic>
+   <sub>0</sub> &gt; 1 then the inequalities 
+   <italic>c</italic>
+   <sub>1</sub> &gt; 0, 
+   <italic>c</italic>
+   <sub>3</sub> &gt; 0 and 
+   <italic>c</italic>
+   <sub>1</sub>
+   <italic>c</italic>
+   <sub>2</sub> &gt; 
+   <italic>c</italic>
+   <sub>3</sub> are all satisfied. It follows that all the eigenvalues of the problem 
+   <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref> are negative. The conclusion of this theorem readily follows now using the Routh–Hurwitz criterion for third-order polynomials. □
+  </p>
+ </statement>
+</p>

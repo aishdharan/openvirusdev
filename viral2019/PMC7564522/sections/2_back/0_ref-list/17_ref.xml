@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0017">
+ <label>17</label>
+ <element-citation publication-type="journal" id="sbref0017">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Verity</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Okell</surname>
+    <given-names>L.C.</given-names>
+   </name>
+   <name>
+    <surname>Dorigatti</surname>
+    <given-names>I.</given-names>
+   </name>
+  </person-group>
+  <article-title>Estimates of the severity of coronavirus disease 2019: a model-based analysis</article-title>
+  <source>Lancet Infect Dis</source>
+  <volume>20</volume>
+  <issue>6</issue>
+  <year>2020</year>
+  <fpage>669</fpage>
+  <lpage>677</lpage>
+  <pub-id pub-id-type="pmid">32240634</pub-id>
+ </element-citation>
+</ref>

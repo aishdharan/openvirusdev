@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>The coronavirus disease 2019 (COVID-19) first identified at the end of 2019, significantly impacts the regional environment and human health. This study assesses PM
+  <sub>2.5</sub> exposure and health risk during COVID-19, and its driving factors have been analyzed using spatiotemporal big data, including Tencent location-based services (LBS) data, place of interest (POI), and PM
+  <sub>2.5</sub> site monitoring data. Specifically, the empirical orthogonal function (EOF) is utilized to analyze the spatiotemporal variation of PM
+  <sub>2.5</sub> concentration firstly. Then, population exposure and health risks of PM
+  <sub>2.5</sub> during the COVID-19 epidemic have been assessed based on LBS data. To further understand the driving factors of PM
+  <sub>2.5</sub> pollution, the relationship between PM
+  <sub>2.5</sub> concentration and POI data has been quantitatively analyzed using geographically weighted regression (GWR). The results show the time series coefficients of monthly PM
+  <sub>2.5</sub> concentrations distributed with a U-shape, i.e., with a decrease followed by an increase from January to December. In terms of spatial distribution, the PM
+  <sub>2.5</sub> concentration shows a noteworthy decline over the Central and North China. The LBS-based population density distribution indicates that the health risk of PM
+  <sub>2.5</sub> in the west is significantly lower than that in the Middle East. Urban gross domestic product (GDP) and urban green area are negatively correlated with PM
+  <sub>2.5</sub>; while, road area, urban taxis, urban buses, and urban factories are positive. Among them, the number of urban factories contributes the most to PM
+  <sub>2.5</sub> pollution. In terms of reducing the health risks and PM
+  <sub>2.5</sub> pollution, several pointed suggestions to improve the status has been proposed.
+ </p>
+</abstract>

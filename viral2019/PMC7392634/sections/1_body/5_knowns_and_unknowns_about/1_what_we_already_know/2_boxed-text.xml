@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="B3" position="float" orientation="portrait">
+ <label>Box 3</label>
+ <caption>
+  <title>Relationship between the dose of the initial infectious inoculum, transmission dynamics and severity of the COVID-19 disease</title>
+ </caption>
+ <p>
+  <bold>Hypothesis:</bold>
+ </p>
+ <p>The dose of the virus in the initial inoculum may be a missing link between the variation observed in the transmission dynamics and the spectrum of the COVID-19 disease. It is plausible that:</p>
+ <list list-type="bullet">
+  <list-item>
+   <p>Viral dose in inoculum is related to severity of disease.</p>
+  </list-item>
+  <list-item>
+   <p>Severity of disease is related to viral shedding and transmission potential.</p>
+  </list-item>
+ </list>
+ <p>This hypothesis plays out potentially at three levels:</p>
+ <list list-type="bullet">
+  <list-item>
+   <p>At individual level: a person infected with a small dose of viral inoculum will on average develop milder disease than a person infected with a high viral inoculum and vice versa.</p>
+  </list-item>
+  <list-item>
+   <p>At cluster level: a person with asymptomatic infection or mild disease will on average spread lower doses of virus in droplets and aerosols and is less likely to transmit disease; when the person transmits, the newly infected person is more likely to have milder disease than if infected by a severely ill person, who spreads on an average higher doses of virus. This causes clusters and chains of milder cases or of more severe cases.</p>
+  </list-item>
+  <list-item>
+   <p>At community level: in certain contexts, such as dense urban centres in moderate climates during the season when people live mostly indoors, the potential for intensive transmission and explosive outbreaks is high, especially during indoor superspreading events. In other contexts, such as in rural areas or in regions with hot and humid climate where people live mostly outdoors, intensive transmission and explosive outbreaks are less likely.</p>
+  </list-item>
+ </list>
+</boxed-text>

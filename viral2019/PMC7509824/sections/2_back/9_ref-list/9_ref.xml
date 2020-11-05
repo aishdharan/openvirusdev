@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guo</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Ye</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Pan</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Xing</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Yan</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>New insights of emerging SARS-CoV-2: epidemiology, etiology, clinical features, clinical treatment, and prevention</article-title>
+  <source>Front Cell Dev Biol</source>
+  <year>2020</year>
+  <volume>8</volume>
+  <fpage>410</fpage>
+  <pub-id pub-id-type="doi">10.3389/fcell.2020.00410</pub-id>
+  <?supplied-pmid 32574318?>
+  <pub-id pub-id-type="pmid">32574318</pub-id>
+ </element-citation>
+</ref>

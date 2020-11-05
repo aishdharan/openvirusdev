@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" fig-type="figure" orientation="portrait" position="float">
+ <?Figure Large?>
+ <label>Fig. 1</label>
+ <caption>
+  <title>Influenza-like illness rate during 2016-2020 seasons and number of cases of COVID-19 as of 18 Apr 2020, Korea.
+   <xref rid="B7" ref-type="bibr">7</xref>
+   <xref rid="B8" ref-type="bibr">8</xref> ILI rate of the week 53, 2016 (63.5) was not shown in the figure.
+  </title>
+  <p>COVID-19 = coronavirus disease 2019, ILI = influenza-like illness.</p>
+ </caption>
+ <graphic xlink:href="jkms-35-e182-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

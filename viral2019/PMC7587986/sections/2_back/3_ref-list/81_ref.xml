@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B81">
+ <label>81</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bolles</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Deming</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Long</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Agnihothram</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Whitmore</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ferris</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A Double-Inactivated Severe Acute Respiratory Syndrome Coronavirus Vaccine Provides Incomplete Protection in Mice and Induces Increased Eosinophilic Proinflammatory Pulmonary Response upon Challenge</article-title>
+  <source> Journal of Virology</source>
+  <year>2011</year>
+  <volume>85</volume>
+  <issue>23</issue>
+  <fpage>12201</fpage>
+  <lpage>15</lpage>
+  <pub-id pub-id-type="pmid">21937658</pub-id>
+ </element-citation>
+</ref>

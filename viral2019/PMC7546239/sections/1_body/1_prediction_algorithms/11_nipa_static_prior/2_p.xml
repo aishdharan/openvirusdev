@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2312">The formulation of NIPA can be extended to include knowledge on the underlying contact network. We use a time-independent traffic network (with the corresponding traffic intensity matrix 
+ <inline-formula>
+  <math id="d1e2315" display="inline" altimg="si80.svg">
+   <mi>M</mi>
+  </math>
+ </inline-formula>) to obtain a prior for the infection probability matrix 
+ <inline-formula>
+  <math id="d1e2320" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula> as 
+ <disp-formula id="fd6">
+  <label>(6)</label>
+  <math id="d1e2331" display="block" altimg="si82.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>B</mi>
+     </mrow>
+     <mrow>
+      <mtext>prior</mtext>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mo class="qopname">diag</mo>
+    <mfenced open="(" close=")">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>c</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <mo>…</mo>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>c</mi>
+       </mrow>
+       <mrow>
+        <mi>N</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfenced>
+    <mi>M</mi>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>We explain our motivation for the prior infection matrix 
+ <inline-formula>
+  <math id="d1e2373" display="inline" altimg="si83.svg">
+   <msub>
+    <mrow>
+     <mi>B</mi>
+    </mrow>
+    <mrow>
+     <mtext>prior</mtext>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> in Appendix B. The positive scalars 
+ <inline-formula>
+  <math id="d1e2383" display="inline" altimg="si84.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>c</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi>c</mi>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> are unknown and are set by cross-validation. We assume that the true infection matrix 
+ <inline-formula>
+  <math id="d1e2407" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula> is normally distributed around the prior infection matrix 
+ <inline-formula>
+  <math id="d1e2412" display="inline" altimg="si83.svg">
+   <msub>
+    <mrow>
+     <mi>B</mi>
+    </mrow>
+    <mrow>
+     <mtext>prior</mtext>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. Based on the prior infection matrix 
+ <inline-formula>
+  <math id="d1e2423" display="inline" altimg="si83.svg">
+   <msub>
+    <mrow>
+     <mi>B</mi>
+    </mrow>
+    <mrow>
+     <mtext>prior</mtext>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> and the observations of the COVID-19 spread, we obtain the Bayesian estimate 
+ <inline-formula>
+  <math id="d1e2433" display="inline" altimg="si88.svg">
+   <msub>
+    <mrow>
+     <mi>B</mi>
+    </mrow>
+    <mrow>
+     <mtext>posterior</mtext>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> by solving the optimisation problem 
+ <disp-formula-group id="d1e2446">
+  <disp-formula id="fd7">
+   <label>(7)</label>
+   <math id="d1e2450" display="block" altimg="si89.svg">
+    <mrow>
+     <msub>
+      <mrow>
+       <mi>B</mi>
+      </mrow>
+      <mrow>
+       <mtext>posterior</mtext>
+      </mrow>
+     </msub>
+     <mo linebreak="goodbreak">=</mo>
+     <munder class="underset">
+      <mrow>
+       <mo class="qopname">argmax</mo>
+      </mrow>
+      <mrow>
+       <mi>B</mi>
+      </mrow>
+     </munder>
+     <mspace width="1em" class="nbsp"/>
+     <mo class="qopname" id="mmlalignd1e2450">Pr</mo>
+     <mfenced open="[" close="]">
+      <mrow>
+       <mi>B</mi>
+       <mo class="big">|</mo>
+       <msub>
+        <mrow>
+         <mi>y</mi>
+        </mrow>
+        <mrow/>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mn>1</mn>
+        <mo>]</mo>
+       </mrow>
+       <mo>,</mo>
+       <mo>…</mo>
+       <mo>,</mo>
+       <msub>
+        <mrow>
+         <mi>y</mi>
+        </mrow>
+        <mrow/>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>n</mi>
+        <mo>]</mo>
+       </mrow>
+      </mrow>
+     </mfenced>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="d1e2509">
+   <math id="d1e2510" display="block" altimg="si90.svg">
+    <mrow>
+     <mtext>s.t.</mtext>
+     <mspace width="1em" class="nbsp"/>
+     <munderover id="mmlalignd1e2494">
+      <mrow>
+       <mo linebreak="badbreak">∑</mo>
+      </mrow>
+      <mrow>
+       <mi>j</mi>
+       <mo linebreak="badbreak">=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <mi>N</mi>
+      </mrow>
+     </munderover>
+     <msub>
+      <mrow>
+       <mi>β</mi>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+       <mi>j</mi>
+      </mrow>
+     </msub>
+     <mo linebreak="goodbreak">≤</mo>
+     <mn>1</mn>
+     <mo>,</mo>
+     <mspace width="1em"/>
+     <mi>i</mi>
+     <mo linebreak="goodbreak">=</mo>
+     <mn>1</mn>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+     <mi>N</mi>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+ </disp-formula-group> where 
+ <inline-formula>
+  <math id="d1e2565" display="inline" altimg="si91.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow/>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the observed 
+ <inline-formula>
+  <math id="d1e2582" display="inline" altimg="si47.svg">
+   <mrow>
+    <mi>N</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula> infection vector 
+ <inline-formula>
+  <math id="d1e2592" display="inline" altimg="si93.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow/>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msup>
+     <mrow>
+      <mfenced open="(" close=")">
+       <mrow>
+        <msub>
+         <mrow>
+          <mi>y</mi>
+         </mrow>
+         <mrow>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>[</mo>
+         <mi>k</mi>
+         <mo>]</mo>
+        </mrow>
+        <mo>,</mo>
+        <mo>…</mo>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>y</mi>
+         </mrow>
+         <mrow>
+          <mi>N</mi>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>[</mo>
+         <mi>k</mi>
+         <mo>]</mo>
+        </mrow>
+       </mrow>
+      </mfenced>
+     </mrow>
+     <mrow>
+      <mi>T</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula> at all times 
+ <inline-formula>
+  <math id="d1e2651" display="inline" altimg="si16.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi>n</mi>
+   </mrow>
+  </math>
+ </inline-formula>. Using the estimated infection matrix 
+ <inline-formula>
+  <math id="d1e2669" display="inline" altimg="si88.svg">
+   <msub>
+    <mrow>
+     <mi>B</mi>
+    </mrow>
+    <mrow>
+     <mtext>posterior</mtext>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> and the estimated curing rates 
+ <inline-formula>
+  <math id="d1e2680" display="inline" altimg="si76.svg">
+   <msub>
+    <mrow>
+     <mi>δ</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> for every region 
+ <inline-formula>
+  <math id="d1e2690" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula>, we forecast the outbreak by iterating the SIR model. For details on NIPA static prior, we refer to Appendix C (see 
+ <xref rid="tbl1" ref-type="table">Table 1</xref>).
+</p>

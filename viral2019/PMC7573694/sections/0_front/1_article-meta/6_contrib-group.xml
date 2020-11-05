@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Xinhan</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="fn1" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Mengling</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="fn1" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Guo</surname>
+   <given-names>Fanjia</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au4">
+  <name>
+   <surname>Wei</surname>
+   <given-names>Fang</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au5">
+  <name>
+   <surname>Yu</surname>
+   <given-names>Zhebin</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au6">
+  <name>
+   <surname>Gao</surname>
+   <given-names>Kai</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au7">
+  <name>
+   <surname>Jin</surname>
+   <given-names>Mingjuan</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au8">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Jianbing</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au9">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Kun</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Epidemiology and Biostatistics, Zhejiang University School of Public Health, Hangzhou, 310058, China
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Department of Epidemiology and Biostatistics, And Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Epidemiology and Biostatistics, And National Clinical Research Center for Child Health of the Children’s Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China
+ </aff>
+</contrib-group>

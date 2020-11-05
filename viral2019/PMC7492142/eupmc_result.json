@@ -1,0 +1,521 @@
+{
+  "id": [
+    "32946986"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32946986"
+  ],
+  "pmcid": [
+    "PMC7492142"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7492142"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.resuscitation.2020.08.133"
+  ],
+  "title": [
+    "COVID-19 and out-of-hospital cardiac arrest: A systematic review and meta-analysis."
+  ],
+  "authorString": [
+    "Singh S, Fong HK, Mercedes BR, Serwat A, Malik FA, Desai R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Singh S"
+          ],
+          "firstName": [
+            "Sandeep"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Epidemiology, Biostatistics and Bioinformatics, Amsterdam University Medical Center, AMC, Netherlands. Electronic address: sandeepkcsingh@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fong HK"
+          ],
+          "firstName": [
+            "Hee Kong"
+          ],
+          "lastName": [
+            "Fong"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Cardiology, UC Davis Medical Center, Sacramento, CA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mercedes BR"
+          ],
+          "firstName": [
+            "Brisandi Ruiz"
+          ],
+          "lastName": [
+            "Mercedes"
+          ],
+          "initials": [
+            "BR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Hospital Aristides Fiallo Cabral, Dominican Republic."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Serwat A"
+          ],
+          "firstName": [
+            "Ayna"
+          ],
+          "lastName": [
+            "Serwat"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Liaquat National Medical College, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Malik FA"
+          ],
+          "firstName": [
+            "Faizan Ahmad"
+          ],
+          "lastName": [
+            "Malik"
+          ],
+          "initials": [
+            "FA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Internal Medicine, Texas Tech University Health Sciences Center at Permian Basin, Odessa, TX, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Desai R"
+          ],
+          "firstName": [
+            "Rupak"
+          ],
+          "lastName": [
+            "Desai"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Cardiology, Atlanta VA Medical Center, Decatur, GA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "156"
+      ],
+      "journalIssueId": [
+        "3043221"
+      ],
+      "dateOfPublication": [
+        "2020 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Resuscitation"
+          ],
+          "ISOAbbreviation": [
+            "Resuscitation"
+          ],
+          "medlineAbbreviation": [
+            "Resuscitation"
+          ],
+          "NLMid": [
+            "0332173"
+          ],
+          "ISSN": [
+            "0300-9572"
+          ],
+          "ESSN": [
+            "1873-1570"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "164-166"
+  ],
+  "affiliation": [
+    "Department of Clinical Epidemiology, Biostatistics and Bioinformatics, Amsterdam University Medical Center, AMC, Netherlands. Electronic address: sandeepkcsingh@gmail.com."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter",
+        "Comment"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cardiopulmonary Resuscitation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Paris"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "France"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Out-of-Hospital Cardiac Arrest"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.resuscitation.2020.08.133"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492142"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492142?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "32473113"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Lancet Public Health. 2020 Aug;5(8):e437-e443"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-29"
+  ],
+  "dateOfCreation": [
+    "2020-09-18"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-11-02"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-09-16"
+  ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Liew</surname>
+   <given-names>Yixin</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Winnie Hui Ling</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0003">
+  <name>
+   <surname>Tan</surname>
+   <given-names>Lunyi</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0004">
+  <name>
+   <surname>Kwa</surname>
+   <given-names>Andrea Lay Hoon</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Thien</surname>
+   <given-names>Siew Yee</given-names>
+  </name>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0006">
+  <name>
+   <surname>Cherng</surname>
+   <given-names>Benjamin Pei Zhi</given-names>
+  </name>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0007">
+  <name>
+   <surname>Chung</surname>
+   <given-names>Shimin Jasmine</given-names>
+  </name>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+ </contrib>
+ <aff id="aff0001">
+  <label>a</label>Department of Pharmacy, Singapore General Hospital, Singapore
+ </aff>
+ <aff id="aff0002">
+  <label>b</label>Department of Clinical Quality and Performance Management, Singapore General Hospital, Singapore
+ </aff>
+ <aff id="aff0003">
+  <label>c</label>Department of Infectious Diseases, Singapore General Hospital, Singapore
+ </aff>
+</contrib-group>

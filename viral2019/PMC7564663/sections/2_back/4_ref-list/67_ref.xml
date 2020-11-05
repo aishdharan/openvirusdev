@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B67-vaccines-08-00531">
+ <label>67.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mima</surname>
+    <given-names>K.A.</given-names>
+   </name>
+   <name>
+    <surname>Katorkina</surname>
+    <given-names>E.I.</given-names>
+   </name>
+   <name>
+    <surname>Katorkin</surname>
+    <given-names>S.A.</given-names>
+   </name>
+   <name>
+    <surname>Tsybanov</surname>
+    <given-names>S.Z.</given-names>
+   </name>
+   <name>
+    <surname>Malogolovkin</surname>
+    <given-names>A.S.</given-names>
+   </name>
+  </person-group>
+  <article-title>In silico prediction of B- and T-cell epitopes in the CD2v protein of african swine fever virus (African swine fever virus, Asfivirus, Asfarviridae)</article-title>
+  <source>Vopr. Virusol.</source>
+  <year>2020</year>
+  <volume>65</volume>
+  <fpage>103</fpage>
+  <lpage>112</lpage>
+  <pub-id pub-id-type="doi">10.36233/0507-4088-2020-65-2-103-112</pub-id>
+  <pub-id pub-id-type="pmid">32515566</pub-id>
+ </element-citation>
+</ref>

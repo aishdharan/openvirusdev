@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig0010">
+ <label>Fig. 2</label>
+ <caption>
+  <p>
+   <bold>Estimated maximum-likelihood phylogenetic tree of SARS-CoV-2</bold>.
+  </p>
+  <p>Maximum-likelihood phylogenetic tree of SARS-CoV-2 for “dataset_112” is shown. Tree is midpoint rooted. Colors indicate different sampling locations. Scale bar at bottom indicates 0.
+   <italic>0003</italic> nucleotide substitutions per site.
+  </p>
+ </caption>
+ <alt-text id="at0010">Fig. 2</alt-text>
+ <graphic xlink:href="gr2_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,554 @@
+{
+  "id": [
+    "32928812"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32928812"
+  ],
+  "pmcid": [
+    "PMC7490917"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7490917"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1136/bcr-2020-237720"
+  ],
+  "title": [
+    "Prolonged RNA shedding of the 2019 novel coronavirus in an asymptomatic patient with a VP shunt."
+  ],
+  "authorString": [
+    "El-Baba F, Gabe D, Frank A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "El-Baba F"
+          ],
+          "firstName": [
+            "Firas"
+          ],
+          "lastName": [
+            "El-Baba"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1750-0557",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Internal Medicine and Pediatrics, Wayne State University School of Medicine, Detroit, Michigan, USA felbaba@med.wayne.edu."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Internal Medicine, Detroit Medical Center, Detroit, Michigan, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gabe D"
+          ],
+          "firstName": [
+            "Danielle"
+          ],
+          "lastName": [
+            "Gabe"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Internal Medicine, Wayne State University School of Medicine, Detroit, Michigan, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Frank A"
+          ],
+          "firstName": [
+            "Allan"
+          ],
+          "lastName": [
+            "Frank"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Internal Medicine, Detroit Medical Center, Detroit, Michigan, USA."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Internal Medicine, Wayne State University School of Medicine, Detroit, Michigan, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1750-0557",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "3005470"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ case reports"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Case Rep"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Case Rep"
+          ],
+          "NLMid": [
+            "101526291"
+          ],
+          "ISSN": [
+            "1757-790X"
+          ],
+          "ESSN": [
+            "1757-790X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "A 33-year-old man with paranoid schizophrenia and a ventriculoperitoneal (VP) shunt was sent to our institution from an inpatient psychiatric facility due to concerns for the 2019 novel coronavirus (COVID-19). Per the facility, the patient had a fever and non-productive cough. On admission, the patient was afebrile and lacked subjective symptoms. A RNA reverse transcriptase PCR (RNA RT-PCR) test for COVID-19 was positive. A chest X-ray contained a small patchy opacity in the right middle lobe and another in the retrocardiac region concerning for pneumonia. Inflammatory markers were mildly elevated. He remained COVID-19 positive and asymptomatic for 36 days. This case details one asymptomatic carrier's course with persistently positive COVID-19 nasopharyngeal swabs. It demonstrates that a VP shunt could be a possible predisposition for prolonged viral shedding."
+  ],
+  "affiliation": [
+    "Internal Medicine and Pediatrics, Wayne State University School of Medicine, Detroit, Michigan, USA felbaba@med.wayne.edu."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ventriculoperitoneal Shunt"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virus Shedding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Asymptomatic Infections"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Infectious diseases",
+        "Respiratory Medicine"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bcr-2020-237720"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7490917"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7490917?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-09-24"
+  ],
+  "dateOfCreation": [
+    "2020-09-15"
+  ],
+  "firstIndexDate": [
+    "2020-09-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-10-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-14"
+  ],
+  "firstPublicationDate": [
+    "2020-09-14"
+  ]
+}

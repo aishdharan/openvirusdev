@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lee</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <person-group person-group-type="editor">
+   <name>
+    <surname>Zakaryan</surname>
+    <given-names>H</given-names>
+   </name>
+  </person-group>
+  <article-title>Porcine epidemic diarrhoea virus</article-title>
+  <source>Porcine viruses: from pathogenesis to strategies for control</source>
+  <year>2019</year>
+  <publisher-loc>Norfolk, UK</publisher-loc>
+  <publisher-name>Caister Academic Press</publisher-name>
+  <fpage>107</fpage>
+  <lpage>134</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,655 @@
+{
+  "id": [
+    "32942741"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32942741"
+  ],
+  "pmcid": [
+    "PMC7564663"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7564663"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/vaccines8030531"
+  ],
+  "title": [
+    "Current State of Global African Swine Fever Vaccine Development under the Prevalence and Transmission of ASF in China."
+  ],
+  "authorString": [
+    "Wu K, Liu J, Wang L, Fan S, Li Z, Li Y, Yi L, Ding H, Zhao M, Chen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu K"
+          ],
+          "firstName": [
+            "Keke"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jiameng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lianxiang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Hog Production Division, Guangdong Wen2019s Foodstuffs Group Co, Ltd., Xinxing 527439, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fan S"
+          ],
+          "firstName": [
+            "Shuangqi"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhaoyao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yuwan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yi L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ding H"
+          ],
+          "firstName": [
+            "Hongxing"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao M"
+          ],
+          "firstName": [
+            "Mingqiu"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jinding"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Laboratory for Lingnan Modern Agriculture, Guangzhou 510642, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "3006442"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Vaccines"
+          ],
+          "ISOAbbreviation": [
+            "Vaccines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Vaccines (Basel)"
+          ],
+          "NLMid": [
+            "101629355"
+          ],
+          "ISSN": [
+            "2076-393X"
+          ],
+          "ESSN": [
+            "2076-393X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "African swine fever (ASF) is a highly lethal contagious disease of swine caused by African swine fever virus (ASFV). At present, it is listed as a notifiable disease reported to the World Organization for Animal Health (OIE) and a class one animal disease ruled by Chinese government. ASF has brought significant economic losses to the pig industry since its outbreak in China in August 2018. In this review, we recapitulated the epidemic situation of ASF in China as of July 2020 and analyzed the influencing factors during its transmission. Since the situation facing the prevention, control, and eradication of ASF in China is not optimistic, safe and effective vaccines are urgently needed. In light of the continuous development of ASF vaccines in the world, the current scenarios and evolving trends of ASF vaccines are emphatically analyzed in the latter part of the review. The latest research outcomes showed that attempts on ASF gene-deleted vaccines and virus-vectored vaccines have proven to provide complete homologous protection with promising efficacy. Moreover, gaps and future research directions of ASF vaccine are also discussed."
+  ],
+  "affiliation": [
+    "College of Veterinary Medicine, South China Agricultural University, Guangzhou 510642, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31672590"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017YFD0500600"
+          ],
+          "agency": [
+            "the National Key Research and Development Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "201803020005"
+          ],
+          "agency": [
+            "Science and Technology Program of Guangzhou, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016YFD0500700"
+          ],
+          "agency": [
+            "the National Key Research and Development Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "D20008"
+          ],
+          "agency": [
+            "111 Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31472200"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2019B020211003"
+          ],
+          "agency": [
+            "the Science and Technology Program of Guangdong, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2019KZDXM026"
+          ],
+          "agency": [
+            "The Key Research Projects of Universities in Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U1405216"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "China",
+        "Vaccines",
+        "Progress",
+        "Asfv",
+        "African Swine Fever",
+        "Epidemic Situation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/vaccines8030531"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7564663"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7564663?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-18"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-31"
+  ],
+  "dateOfRevision": [
+    "2020-10-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-15"
+  ],
+  "firstPublicationDate": [
+    "2020-09-15"
+  ]
+}

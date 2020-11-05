@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R15">
+ <label>15</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Danis</surname>
+    <given-names>K</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Epaulard</surname>
+    <given-names>O</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Bénet</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Cluster of coronavirus disease 2019 (Covid-19) in the French Alps, 2020</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2020</year>:
+  <elocation-id>ciaa424</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1093/cid/ciaa424</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32277759?>
+ </mixed-citation>
+</ref>

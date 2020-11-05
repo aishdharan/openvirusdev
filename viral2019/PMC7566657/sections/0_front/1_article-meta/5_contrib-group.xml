@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ahmed</surname>
+   <given-names>Ali</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dujaili</surname>
+   <given-names>Juman</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sandhu</surname>
+   <given-names>Anisha Kaur</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hashmi</surname>
+   <given-names>Furqan Khurshid</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <label>1</label>School of Pharmacy, Monash University, Bandar Sunway, Malaysia
+ </aff>
+ <aff id="aff2">
+  <label>2</label>University College of Pharmacy, University of the Punjab, Lahore, Pakistan
+ </aff>
+</contrib-group>

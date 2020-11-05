@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3467"> For NIPA static prior, we require a traffic network as an approximation for the interaction between the provinces. Statistics Netherlands (Centraal Bureau voor de Statistiek) reports the number of people 
+ <inline-formula>
+  <math id="d1e3472" display="inline" altimg="si128.svg">
+   <msub>
+    <mrow>
+     <mi>m</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> working in province 
+ <inline-formula>
+  <math id="d1e3484" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> and living in province 
+ <inline-formula>
+  <math id="d1e3489" display="inline" altimg="si6.svg">
+   <mi>j</mi>
+  </math>
+ </inline-formula>, averaged over one year (
+ <xref rid="b4" ref-type="bibr">CBS, 2018</xref>). We use the Google Mobility Data “Workplaces” to estimate the time-varying traffic network for each province in the Netherlands (
+ <xref rid="b24" ref-type="bibr">LLC, 2020</xref>). Google reports the percentage decrease of traffic 
+ <inline-formula>
+  <math id="d1e3505" display="inline" altimg="si131.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>p</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> on day 
+ <inline-formula>
+  <math id="d1e3523" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula> in province 
+ <inline-formula>
+  <math id="d1e3529" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> compared to an ordinary day between January 3 and February 6, 2020. During the lockdown, we expect 
+ <inline-formula>
+  <math id="d1e3534" display="inline" altimg="si134.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>p</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">&lt;</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula> because of the lockdown measures. Then we construct the time-dependent traffic matrix as follows: 
+ <inline-formula>
+  <math id="d1e3556" display="inline" altimg="si135.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>m</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi>m</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+    </msub>
+    <mi>⋅</mi>
+    <msub>
+     <mrow>
+      <mi>p</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>.
+</p>

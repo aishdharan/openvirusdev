@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yang</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Xia</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Kusagawa</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ben</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Takebe</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>On-going generation of multiple forms of HIV-1 intersubtype recombinants in the Yunnan Province of China</article-title>
+  <source>AIDS</source>
+  <year>2002</year>
+  <volume>16</volume>
+  <issue>10</issue>
+  <fpage>1401</fpage>
+  <lpage>1407</lpage>
+  <pub-id pub-id-type="doi">10.1097/00002030-200207050-00012</pub-id>
+  <pub-id pub-id-type="pmid">12131217</pub-id>
+ </element-citation>
+</ref>

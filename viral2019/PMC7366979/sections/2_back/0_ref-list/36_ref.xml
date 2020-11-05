@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0180">
+ <element-citation publication-type="journal" id="sbref0180">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Martin</surname>
+    <given-names>D.P.</given-names>
+   </name>
+   <name>
+    <surname>Murrell</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Golden</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Khoosal</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Muhire</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>RDP4: detection and analysis of recombination patterns in virus genomes</article-title>
+  <source>Virus Evol.</source>
+  <volume>1</volume>
+  <year>2015</year>
+  <pub-id pub-id-type="doi">10.1093/ve/vev003</pub-id>
+  <comment>vev003</comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our model did not explicitly address the scenario of multiple serotypes of dengue co-circulating in the population, and the possibility of prior exposure leading to immune interactions and increased risk of severe disease (a possibility for Funchal, given the circulating serotype for the 2012 outbreak was DENV I). However, we made the following assumption when setting the constants for the human components of the transmission cycle. We consider that infection by a serotype produces permanent immunity to it, and temporal immunity to other serotypes [
+ <xref rid="pntd.0008679.ref042" ref-type="bibr">42</xref>, 
+ <xref rid="pntd.0008679.ref061" ref-type="bibr">61</xref>, 
+ <xref rid="pntd.0008679.ref062" ref-type="bibr">62</xref>]. Thus, we assumed that individuals infected from the 2012 outbreak, while they have permanent immunity to the DENV-1 serotype they remain susceptible to other serotypes. Hence the constants for the intrinsic incubation and infectious periods were set to reflect an introduction of a different serotype other than DENV-1. These constants reflect mean values for DENV-2 and DENV-4 as reported in previous literature [
+ <xref rid="pntd.0008679.ref039" ref-type="bibr">39</xref>–
+ <xref rid="pntd.0008679.ref043" ref-type="bibr">43</xref>]. The analysis presented here is relevant for the introduction of a new serotype on the island, which is timely in the light of the work of [
+ <xref rid="pntd.0008679.ref022" ref-type="bibr">22</xref>]. Their study had demonstrated the ability of the 
+ <italic>Aedes aegypti</italic> populations from Madeira to transmit DENV-2, and the potential risk for the local transmission if introduced to Madeira. Our results suggest that the epidemic dynamics would be significantly impacted by the introduction of a different serotype. This emphasizes the crucial need for the island to intensify its control measures to prevent local transmission while preparing effective mitigation strategies in the event of another outbreak.
+</p>

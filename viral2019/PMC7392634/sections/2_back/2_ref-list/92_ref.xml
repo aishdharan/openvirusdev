@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R92">
+ <label>92</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Wu</surname>
+    <given-names>Z</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>McGoogan</surname>
+    <given-names>JM</given-names>
+   </name>
+  </person-group>
+  <article-title>Characteristics of and important lessons from the coronavirus disease 2019 (Covid-19) outbreak in China: summary of a report of 72 314 cases from the Chinese center for disease control and prevention</article-title>. 
+  <source>JAMA</source>
+  <year>2020</year>. [Epub ahead of print: 24 Feb 2020]. 
+  <pub-id pub-id-type="doi">10.1001/jama.2020.2648</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32091533?>
+ </mixed-citation>
+</ref>

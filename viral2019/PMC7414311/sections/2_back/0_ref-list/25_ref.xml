@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib25">
+ <label>25</label>
+ <element-citation publication-type="journal" id="sref25">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Banerjee</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Kulcsar</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Misra</surname>
+    <given-names>V.</given-names>
+   </name>
+  </person-group>
+  <article-title>Bats and coronaviruses</article-title>
+  <source>Viruses</source>
+  <volume>11</volume>
+  <issue>1</issue>
+  <year>2019</year>
+  <fpage>41</fpage>
+  <comment>Available at:</comment>
+  <ext-link ext-link-type="uri" xlink:href="https://www.mdpi.com/1999-4915/11/1/41" id="interref0010" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mdpi.com/1999-4915/11/1/41</ext-link>
+  <comment>Accessed January 9, 2019</comment>
+ </element-citation>
+</ref>

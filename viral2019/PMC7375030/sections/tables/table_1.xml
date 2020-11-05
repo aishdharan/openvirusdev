@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t1-medscimonit-26-e924582" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>CT findings of COVID-19 pneumonia and other viral pneumonia.</p>
+ </caption>
+ <table frame="hsides" rules="rows">
+  <thead>
+   <tr>
+    <th valign="middle" align="center" rowspan="1" colspan="1">Cause of pneumonia</th>
+    <th valign="middle" align="center" rowspan="1" colspan="1">GGOs</th>
+    <th valign="middle" align="center" rowspan="1" colspan="1">Consolidation</th>
+    <th valign="middle" align="center" rowspan="1" colspan="1">Nodules/micronodules, and TBOs</th>
+    <th valign="middle" align="center" rowspan="1" colspan="1">Interlobular septal thickening</th>
+    <th valign="middle" align="center" rowspan="1" colspan="1">Bronchial and/or bronchiolar wall thickening</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="6" valign="top" align="left" rowspan="1">
+     <bold>RNA viruses</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Coronavirus (COVID-19 e.g.)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Influenza</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Parainfluenza</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> RSV</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> HMPV</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Measles</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Hantavirus</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td colspan="6" valign="top" align="left" rowspan="1">
+     <bold>DNA viruses</bold>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Adenovirus</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> HSV</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" rowspan="1" colspan="1"> Varicella</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">+++</td>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tfn1-medscimonit-26-e924582">
+   <p>Relative frequency of the features from lowest level (+) to highest level (++++). (Data adapted from Ref. [
+    <xref rid="b26-medscimonit-26-e924582" ref-type="bibr">26</xref>]). GGOs – ground-glass opacities; TBOs – tree-in-bud opacities; RSV – respiratory syncytial virus; HMPV – human metapneumovirus; HSV – herpes simplex virus.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

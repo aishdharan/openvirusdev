@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0032">Next, we prove that the stability character of the equilibrium point 
+ <italic>C</italic>
+ <sub>1</sub> is preserved by the method 
+ <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref>. The following technical result will be of utmost importance to that end.
+ <statement id="enun0007">
+  <label>Lemma 7</label>
+  <title>Brauer et al. 
+   <xref rid="bib0031" ref-type="bibr">[31]</xref>
+  </title>
+  <p id="p0033">
+   <italic>Let</italic>
+   <inline-formula>
+    <math id="M71" altimg="si76.svg">
+     <mrow>
+      <msub>
+       <mi>P</mi>
+       <mn>1</mn>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mi>P</mi>
+       <mn>2</mn>
+      </msub>
+      <mo>∈</mo>
+      <mi mathvariant="double-struck">R</mi>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </inline-formula>
+   <italic>and suppose that</italic>
+   <inline-formula>
+    <math id="M72" altimg="si77.svg">
+     <mrow>
+      <msub>
+       <mi>λ</mi>
+       <mn>1</mn>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mi>λ</mi>
+       <mn>2</mn>
+      </msub>
+      <mo>∈</mo>
+      <mi mathvariant="double-struck">C</mi>
+     </mrow>
+    </math>
+   </inline-formula>
+   <italic>are the roots of the</italic>
+   <inline-formula>
+    <math id="M73" altimg="si78.svg">
+     <mrow>
+      <msup>
+       <mi>λ</mi>
+       <mn>2</mn>
+      </msup>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>P</mi>
+       <mn>1</mn>
+      </msub>
+      <mi>λ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>P</mi>
+       <mn>2</mn>
+      </msub>
+     </mrow>
+    </math>
+   </inline-formula>
+   <italic>. Then</italic> |
+   <italic>λ
+    <sub>i</sub>
+   </italic>| &lt; 1 
+   <italic>for</italic>
+   <inline-formula>
+    <math id="M74" altimg="si79.svg">
+     <mrow>
+      <mi>i</mi>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>1</mn>
+      <mo>,</mo>
+      <mn>2</mn>
+     </mrow>
+    </math>
+   </inline-formula>
+   <italic>if and only if the following conditions are satisfied:</italic>
+   <list list-type="simple" id="lst0001">
+    <list-item id="lstitem0006">
+     <label>(i)</label>
+     <p id="p0034">
+      <inline-formula>
+       <math id="M75" altimg="si80.svg">
+        <mrow>
+         <mn>1</mn>
+         <mo linebreak="goodbreak">+</mo>
+         <msub>
+          <mi>P</mi>
+          <mn>1</mn>
+         </msub>
+         <mo linebreak="goodbreak">+</mo>
+         <msub>
+          <mi>P</mi>
+          <mn>2</mn>
+         </msub>
+         <mo linebreak="goodbreak">&gt;</mo>
+         <mn>0</mn>
+         <mo>,</mo>
+        </mrow>
+       </math>
+      </inline-formula>
+     </p>
+    </list-item>
+    <list-item id="lstitem0007">
+     <label>(ii)</label>
+     <p id="p0035">
+      <inline-formula>
+       <math id="M76" altimg="si81.svg">
+        <mrow>
+         <mn>1</mn>
+         <mo linebreak="goodbreak">−</mo>
+         <msub>
+          <mi>P</mi>
+          <mn>1</mn>
+         </msub>
+         <mo linebreak="goodbreak">+</mo>
+         <msub>
+          <mi>P</mi>
+          <mn>2</mn>
+         </msub>
+         <mo linebreak="goodbreak">&gt;</mo>
+         <mn>0</mn>
+        </mrow>
+       </math>
+      </inline-formula>
+      <italic>and</italic>
+     </p>
+    </list-item>
+    <list-item id="lstitem0008">
+     <label>(iii)</label>
+     <p id="p0036">
+      <italic>P</italic>
+      <sub>2</sub> &lt; 1
+      <italic>.</italic>
+     </p>
+    </list-item>
+   </list>
+  </p>
+ </statement>
+ <statement id="uenun0006">
+  <label>Proof</label>
+  <p id="p0037">The proof of this result is straightforward. □</p>
+ </statement>
+ <statement id="enun0008">
+  <label>Theorem 8</label>
+  <p id="p0038">
+   <list list-type="simple" id="lst0002">
+    <list-item id="lstitem0009">
+     <label>(a)</label>
+     <p id="p0039">
+      <italic>If R</italic>
+      <sub>0</sub> &lt; 1 
+      <italic>then C</italic>
+      <sub>1</sub>
+      <italic>is locally asymptotically stable.</italic>
+     </p>
+    </list-item>
+    <list-item id="lstitem0010">
+     <label>(b)</label>
+     <p id="p0040">
+      <italic>If R</italic>
+      <sub>0</sub> &gt; 1 
+      <italic>then C</italic>
+      <sub>2</sub>
+      <italic>is locally asymptotically stable.</italic>
+     </p>
+    </list-item>
+   </list>
+  </p>
+ </statement>
+ <statement id="uenun0007">
+  <label>Proof</label>
+  <p id="p0041">We will prove only (a) in view that the proof of (b) is similar though more tedious. Consider the right-hand sides of the equations in 
+   <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref> as functions of 
+   <italic>S
+    <sup>n</sup>, E
+    <sup>n</sup>, I
+    <sup>n</sup>, Q
+    <sup>n</sup>
+   </italic> and 
+   <italic>R
+    <sup>n</sup>
+   </italic>. Calculate then the Jacobian matrix and evaluate it when 
+   <inline-formula>
+    <math id="M77" altimg="si82.svg">
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <msup>
+        <mi>S</mi>
+        <mi>n</mi>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>E</mi>
+        <mi>n</mi>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>I</mi>
+        <mi>n</mi>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>Q</mi>
+        <mi>n</mi>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>R</mi>
+        <mi>n</mi>
+       </msup>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>C</mi>
+       <mn>1</mn>
+      </msub>
+     </mrow>
+    </math>
+   </inline-formula>. In such way, we obtain that
+   <disp-formula id="eq0030">
+    <label>(3.5)</label>
+    <math id="M78" altimg="si83.svg">
+     <mrow>
+      <mi>J</mi>
+      <mo linebreak="goodbreak">=</mo>
+      <mrow>
+       <mo stretchy="true">(</mo>
+       <mtable>
+        <mtr>
+         <mtd>
+          <mfrac>
+           <mn>1</mn>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>μ</mi>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mfrac>
+            <mrow>
+             <mi>τ</mi>
+             <msub>
+              <mi>β</mi>
+              <mn>2</mn>
+             </msub>
+             <mi>λ</mi>
+             <mrow>
+              <mo>(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>τ</mi>
+              <mi>μ</mi>
+              <mo>)</mo>
+             </mrow>
+            </mrow>
+            <mrow>
+             <mi>μ</mi>
+             <msup>
+              <mrow>
+               <mo>(</mo>
+               <mn>1</mn>
+               <mo>+</mo>
+               <mi>τ</mi>
+               <mi>μ</mi>
+               <mo>)</mo>
+              </mrow>
+              <mn>2</mn>
+             </msup>
+            </mrow>
+           </mfrac>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <mo>−</mo>
+           <mfrac>
+            <mrow>
+             <mi>τ</mi>
+             <msub>
+              <mi>β</mi>
+              <mn>1</mn>
+             </msub>
+             <mi>λ</mi>
+             <mrow>
+              <mo>(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>τ</mi>
+              <mi>μ</mi>
+              <mo>)</mo>
+             </mrow>
+            </mrow>
+            <mrow>
+             <mi>μ</mi>
+             <msup>
+              <mrow>
+               <mo>(</mo>
+               <mn>1</mn>
+               <mo>+</mo>
+               <mi>τ</mi>
+               <mi>μ</mi>
+               <mo>)</mo>
+              </mrow>
+              <mn>2</mn>
+             </msup>
+            </mrow>
+           </mfrac>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd/>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <mi>μ</mi>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <msub>
+             <mi>β</mi>
+             <mn>2</mn>
+            </msub>
+            <mi>λ</mi>
+           </mrow>
+           <mrow>
+            <mi>μ</mi>
+            <mo>[</mo>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mrow>
+             <mo>(</mo>
+             <msub>
+              <mi>q</mi>
+              <mn>1</mn>
+             </msub>
+             <mo>+</mo>
+             <mi>κ</mi>
+             <mo>+</mo>
+             <mi>α</mi>
+             <mo>+</mo>
+             <mi>μ</mi>
+             <mo>)</mo>
+            </mrow>
+            <mo>]</mo>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <mi>τ</mi>
+            <msub>
+             <mi>β</mi>
+             <mn>1</mn>
+            </msub>
+            <mi>λ</mi>
+           </mrow>
+           <mrow>
+            <mi>μ</mi>
+            <mo>[</mo>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mrow>
+             <mo>(</mo>
+             <msub>
+              <mi>q</mi>
+              <mn>1</mn>
+             </msub>
+             <mo>+</mo>
+             <mi>κ</mi>
+             <mo>+</mo>
+             <mi>α</mi>
+             <mo>+</mo>
+             <mi>μ</mi>
+             <mo>)</mo>
+            </mrow>
+            <mo>]</mo>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd/>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <mi>τ</mi>
+            <mi>α</mi>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <mi>r</mi>
+            <mo>+</mo>
+            <mi>μ</mi>
+            <mo>+</mo>
+            <msub>
+             <mi>d</mi>
+             <mn>1</mn>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mn>1</mn>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <mi>r</mi>
+            <mo>+</mo>
+            <mi>μ</mi>
+            <mo>+</mo>
+            <msub>
+             <mi>d</mi>
+             <mn>1</mn>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd/>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <mi>τ</mi>
+            <msub>
+             <mi>q</mi>
+             <mn>1</mn>
+            </msub>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <mi>q</mi>
+            <mo>+</mo>
+            <mi>μ</mi>
+            <mo>+</mo>
+            <msub>
+             <mi>d</mi>
+             <mn>2</mn>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mn>1</mn>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <mi>q</mi>
+            <mo>+</mo>
+            <mi>μ</mi>
+            <mo>+</mo>
+            <msub>
+             <mi>d</mi>
+             <mn>2</mn>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd/>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mn>0</mn>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <mi>τ</mi>
+            <mi>κ</mi>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>μ</mi>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <mi>τ</mi>
+            <mi>r</mi>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>μ</mi>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mrow>
+            <mi>τ</mi>
+            <mi>q</mi>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>μ</mi>
+           </mrow>
+          </mfrac>
+         </mtd>
+         <mtd>
+          <mfrac>
+           <mn>1</mn>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>μ</mi>
+           </mrow>
+          </mfrac>
+         </mtd>
+        </mtr>
+       </mtable>
+       <mo stretchy="true">)</mo>
+      </mrow>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>In turn, the characteristic polynomial of 
+   <italic>J</italic> is given by
+   <disp-formula id="eq0031">
+    <label>(3.6)</label>
+    <math id="M79" altimg="si84.svg">
+     <mrow>
+      <mi>p</mi>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">=</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">−</mo>
+       <msub>
+        <mi>λ</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">−</mo>
+       <msub>
+        <mi>λ</mi>
+        <mn>2</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">−</mo>
+       <msub>
+        <mi>λ</mi>
+        <mn>3</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <msup>
+        <mi>λ</mi>
+        <mn>2</mn>
+       </msup>
+       <mo linebreak="badbreak">−</mo>
+       <msub>
+        <mi>P</mi>
+        <mn>1</mn>
+       </msub>
+       <mi>λ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>P</mi>
+        <mn>2</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>where 
+   <inline-formula>
+    <math id="M80" altimg="si85.svg">
+     <mrow>
+      <msub>
+       <mi>λ</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msub>
+       <mi>λ</mi>
+       <mn>2</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msup>
+       <mrow>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>τ</mi>
+        <mi>μ</mi>
+        <mo>)</mo>
+       </mrow>
+       <mrow>
+        <mo>−</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </inline-formula>
+   <inline-formula>
+    <math id="M81" altimg="si86.svg">
+     <mrow>
+      <msub>
+       <mi>λ</mi>
+       <mn>3</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msup>
+       <mrow>
+        <mo>[</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>τ</mi>
+        <mrow>
+         <mo>(</mo>
+         <mi>q</mi>
+         <mo>+</mo>
+         <mi>μ</mi>
+         <mo>+</mo>
+         <msub>
+          <mi>d</mi>
+          <mn>2</mn>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+        <mo>]</mo>
+       </mrow>
+       <mrow>
+        <mo>−</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+     </mrow>
+    </math>
+   </inline-formula>. Moreover,
+   <disp-formula id="eq0032">
+    <label>(3.7)</label>
+    <math id="M82" altimg="si87.svg">
+     <mrow>
+      <msub>
+       <mi>P</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mfrac>
+       <mrow>
+        <mi>μ</mi>
+        <mo>+</mo>
+        <mi>τ</mi>
+        <msub>
+         <mi>β</mi>
+         <mn>2</mn>
+        </msub>
+        <mi>λ</mi>
+       </mrow>
+       <mrow>
+        <mi>μ</mi>
+        <mo>[</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>τ</mi>
+        <mrow>
+         <mo>(</mo>
+         <msub>
+          <mi>q</mi>
+          <mn>1</mn>
+         </msub>
+         <mo>+</mo>
+         <mi>κ</mi>
+         <mo>+</mo>
+         <mi>α</mi>
+         <mo>+</mo>
+         <mi>μ</mi>
+         <mo>)</mo>
+        </mrow>
+        <mo>]</mo>
+       </mrow>
+      </mfrac>
+      <mo linebreak="goodbreak">+</mo>
+      <mfrac>
+       <mn>1</mn>
+       <mrow>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>τ</mi>
+        <mo>(</mo>
+        <mi>r</mi>
+        <mo>+</mo>
+        <mi>μ</mi>
+        <mo>+</mo>
+        <msub>
+         <mi>d</mi>
+         <mn>1</mn>
+        </msub>
+        <mo>)</mo>
+       </mrow>
+      </mfrac>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0033">
+    <label>(3.8)</label>
+    <math id="M83" altimg="si88.svg">
+     <mrow>
+      <msub>
+       <mi>P</mi>
+       <mn>2</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mfrac>
+       <mrow>
+        <mi>μ</mi>
+        <mo>+</mo>
+        <mi>τ</mi>
+        <msub>
+         <mi>β</mi>
+         <mn>2</mn>
+        </msub>
+        <mi>λ</mi>
+        <mo>−</mo>
+        <msup>
+         <mi>τ</mi>
+         <mn>2</mn>
+        </msup>
+        <mi>α</mi>
+        <msub>
+         <mi>β</mi>
+         <mn>1</mn>
+        </msub>
+        <mi>λ</mi>
+       </mrow>
+       <mrow>
+        <mi>μ</mi>
+        <mrow>
+         <mo>[</mo>
+         <mn>1</mn>
+         <mo>+</mo>
+         <mi>τ</mi>
+         <mrow>
+          <mo>(</mo>
+          <msub>
+           <mi>q</mi>
+           <mn>1</mn>
+          </msub>
+          <mo>+</mo>
+          <mi>κ</mi>
+          <mo>+</mo>
+          <mi>α</mi>
+          <mo>+</mo>
+          <mi>μ</mi>
+          <mo>)</mo>
+         </mrow>
+         <mo>]</mo>
+        </mrow>
+        <mrow>
+         <mo>[</mo>
+         <mn>1</mn>
+         <mo>+</mo>
+         <mi>τ</mi>
+         <mrow>
+          <mo>(</mo>
+          <mi>r</mi>
+          <mo>+</mo>
+          <mi>μ</mi>
+          <mo>+</mo>
+          <msub>
+           <mi>d</mi>
+           <mn>1</mn>
+          </msub>
+          <mo>)</mo>
+         </mrow>
+         <mo>]</mo>
+        </mrow>
+       </mrow>
+      </mfrac>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>Clearly, the absolute value of the eigenvalues 
+   <italic>λ</italic>
+   <sub>1</sub>, 
+   <italic>λ</italic>
+   <sub>2</sub> and 
+   <italic>λ</italic>
+   <sub>3</sub> is less than one. To check that the the roots of the polynomial 
+   <inline-formula>
+    <math id="M84" altimg="si78.svg">
+     <mrow>
+      <msup>
+       <mi>λ</mi>
+       <mn>2</mn>
+      </msup>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>P</mi>
+       <mn>1</mn>
+      </msub>
+      <mi>λ</mi>
+      <mo linebreak="goodbreak">+</mo>
+      <msub>
+       <mi>P</mi>
+       <mn>2</mn>
+      </msub>
+     </mrow>
+    </math>
+   </inline-formula> also have absolute values less than one, it suffices to show that the conditions (
+   <italic>i</italic>)–(
+   <italic>iii</italic>) of 
+   <xref rid="enun0007" ref-type="statement">Lemma 7</xref> hold. However, the fact that 
+   <italic>P</italic>
+   <sub>1</sub> &gt; 0 assures that (
+   <italic>i</italic>) is satisfied when (
+   <italic>ii</italic>) of that lemma is true. To demonstrate (
+   <italic>ii</italic>) and (
+   <italic>iii</italic>), various simple algebraic calculations need to be performed, and the condition 
+   <italic>R</italic>
+   <sub>0</sub> &lt; 1 needs to be employed in both cases. As a consequence, all the eigenvalues of 
+   <italic>J</italic> have absolute values less than 1. This implies that 
+   <italic>C</italic>
+   <sub>1</sub> is locally asymptotically stable, as desired. □
+  </p>
+ </statement>
+</p>

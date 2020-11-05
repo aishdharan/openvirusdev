@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="aut0005">
+  <name>
+   <surname>Cohen</surname>
+   <given-names>R.</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0010">
+  <name>
+   <surname>Delacourt</surname>
+   <given-names>C.</given-names>
+  </name>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+  <xref rid="cor0005" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0015">
+  <name>
+   <surname>Gras-Le Guen</surname>
+   <given-names>C.</given-names>
+  </name>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0020">
+  <name>
+   <surname>Launay</surname>
+   <given-names>E.</given-names>
+  </name>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+ </contrib>
+ <on-behalf-of>for the French Pediatric Society
+  <xref rid="fn1" ref-type="fn">1</xref>
+ </on-behalf-of>
+ <aff id="aff0005">
+  <label>a</label>Centre hospitalier intercommunal de Créteil, 94000 Créteil, France
+ </aff>
+ <aff id="aff0010">
+  <label>b</label>AP–HP, hôpital universitaire Necker-Enfants–Malades, 75015 Paris, France
+ </aff>
+ <aff id="aff0015">
+  <label>c</label>Service de pédiatrie générale, hôpital Mère–Enfant, CHU Nantes, 44000 Nantes, France
+ </aff>
+</contrib-group>

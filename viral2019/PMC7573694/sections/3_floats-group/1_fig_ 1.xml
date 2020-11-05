@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Daily Changes in cumulative confirmed cases, recovered cases and deaths of COVID-19 nationwide (A), and in different regions (B–D), from Jan.1st to Apr. 6th.</p>
+ </caption>
+ <alt-text id="alttext0020">Fig. 1</alt-text>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

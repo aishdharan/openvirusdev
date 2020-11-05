@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e6260">We furthermore insist on an optimal control problem where human life is put on a very high footing. As such, we propose the following additional constraints on the optimal control problem: 
+ <disp-formula id="fd12">
+  <label>(12)</label>
+  <math id="d1e6269" display="block" altimg="si151.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">≤</mo>
+    <mi mathvariant="bold-fraktur">B</mi>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak">∈</mo>
+    <mrow>
+     <mo>(</mo>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">o</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mi mathvariant="bold-fraktur">e</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mi mathvariant="bold-fraktur">T</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>In this context, the positive constant 
+ <inline-formula>
+  <math id="d1e6328" display="inline" altimg="si152.svg">
+   <mi mathvariant="bold-fraktur">k</mi>
+  </math>
+ </inline-formula> may be thought of as the percentage of symptomatic cases who require a hospital bed (or a bed in ICU) at time 
+ <inline-formula>
+  <math id="d1e6333" display="inline" altimg="si239.svg">
+   <mi mathvariant="bold-fraktur">t</mi>
+  </math>
+ </inline-formula>, and the positive constant 
+ <inline-formula>
+  <math id="d1e6339" display="inline" altimg="si154.svg">
+   <mi mathvariant="bold-fraktur">B</mi>
+  </math>
+ </inline-formula> represents a corresponding capacity limit (number of hospital beds, number of ICU beds, etc.). Finally, we impose the additional constraint 
+ <disp-formula id="fd13">
+  <label>(13)</label>
+  <math id="d1e6350" display="block" altimg="si155.svg">
+   <mrow>
+    <mfrac>
+     <mrow>
+      <mi mathvariant="bold-fraktur">d</mi>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">d</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </mfrac>
+    <mo linebreak="goodbreak">≤</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <mi mathvariant="bold-fraktur">T</mi>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>which is true if and only if 
+ <inline-formula>
+  <math id="d1e6385" display="inline" altimg="si156.svg">
+   <mrow>
+    <msubsup>
+     <mrow>
+      <mi>τ</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+     <mrow>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <mn>1</mn>
+     <mo>−</mo>
+     <mi mathvariant="bold-fraktur">f</mi>
+     <mo>)</mo>
+    </mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msubsup>
+     <mrow>
+      <mi>τ</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msubsup>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≤</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> at 
+ <inline-formula>
+  <math id="d1e6446" display="inline" altimg="si114.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">T</mi>
+   </mrow>
+  </math>
+ </inline-formula>. This rules out any ‘optimal’ strategy in which a large epidemic peak would occur just beyond the horizon at 
+ <inline-formula>
+  <math id="d1e6457" display="inline" altimg="si114.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">T</mi>
+   </mrow>
+  </math>
+ </inline-formula>. The exclusion of such strategies is desirable for public-health reasons. As such, the optimal control problem to be solved is the following: 
+ <disp-quote>
+  <p>Under the epidemic modelled by Eq. 
+   <xref rid="fd1j" ref-type="disp-formula">(1j)</xref>, over a time horizon 
+   <inline-formula>
+    <math id="d1e6475" display="inline" altimg="si134.svg">
+     <mi mathvariant="bold-fraktur">T</mi>
+    </math>
+   </inline-formula>, compute the minimizer of 
+   <disp-formula id="fd14">
+    <label>(14)</label>
+    <math id="d1e6486" display="block" altimg="si160.svg">
+     <mrow>
+      <munder>
+       <mrow>
+        <mo class="qopname">min</mo>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">n</mi>
+        <mo linebreak="badbreak">≥</mo>
+        <mn>1</mn>
+       </mrow>
+      </munder>
+      <mrow>
+       <mo class="biggl" fence="true">{</mo>
+       <mrow>
+        <munder>
+         <mrow>
+          <mo class="qopname">min</mo>
+         </mrow>
+         <mrow>
+          <mfrac linethickness="0">
+           <mrow>
+            <msub>
+             <mrow>
+              <mi mathvariant="bold-fraktur">u</mi>
+             </mrow>
+             <mrow>
+              <mn>1</mn>
+             </mrow>
+            </msub>
+            <mo>,</mo>
+            <mo>…</mo>
+            <mo>,</mo>
+            <msub>
+             <mrow>
+              <mi mathvariant="bold-fraktur">u</mi>
+             </mrow>
+             <mrow>
+              <mi mathvariant="bold-fraktur">n</mi>
+             </mrow>
+            </msub>
+            <mo>,</mo>
+           </mrow>
+           <mrow>
+            <msub>
+             <mrow>
+              <mi mathvariant="bold-fraktur">t</mi>
+             </mrow>
+             <mrow>
+              <mi mathvariant="bold-fraktur">s</mi>
+              <mn>1</mn>
+             </mrow>
+            </msub>
+            <mo>,</mo>
+            <mo>…</mo>
+            <mo>,</mo>
+            <msub>
+             <mrow>
+              <mi mathvariant="bold-fraktur">t</mi>
+             </mrow>
+             <mrow>
+              <mi mathvariant="bold-fraktur">s</mi>
+              <mo>,</mo>
+              <mi mathvariant="bold-fraktur">n</mi>
+              <mo linebreak="badbreak">−</mo>
+              <mn>1</mn>
+             </mrow>
+            </msub>
+           </mrow>
+          </mfrac>
+         </mrow>
+        </munder>
+        <mfenced open="[" close="]">
+         <mrow>
+          <munderover>
+           <mrow>
+            <mo linebreak="badbreak">∑</mo>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">i</mi>
+            <mo linebreak="badbreak">=</mo>
+            <mn>1</mn>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">n</mi>
+           </mrow>
+          </munderover>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">u</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">i</mi>
+           </mrow>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">t</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">s</mi>
+             <mo>,</mo>
+             <mi mathvariant="bold-fraktur">i</mi>
+            </mrow>
+           </msub>
+           <mo>−</mo>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">t</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">s</mi>
+             <mo>,</mo>
+             <mi mathvariant="bold-fraktur">i</mi>
+             <mo linebreak="badbreak">−</mo>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mfenced>
+       </mrow>
+       <mo class="biggr" fence="true">}</mo>
+      </mrow>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>subject to the constraints 
+   <xref rid="fd12" ref-type="disp-formula">(12)</xref>–
+   <xref rid="fd13" ref-type="disp-formula">(13)</xref>.
+  </p>
+ </disp-quote>
+</p>

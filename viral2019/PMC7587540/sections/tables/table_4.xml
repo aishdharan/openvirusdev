@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p> Correlation between knowledge, attitude, and practice</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Variable</th>
+    <th align="left">Knowledge score</th>
+    <th align="left">Attitude score</th>
+    <th align="left">Practice score</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Knowledge score</td>
+    <td align="left">1</td>
+    <td align="left"/>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Attitude score</td>
+    <td align="left">0.57 (&lt;0.001)</td>
+    <td align="left">1</td>
+    <td align="left"/>
+   </tr>
+   <tr>
+    <td align="left">Practice score</td>
+    <td align="left">0.55 (&lt;0.001)</td>
+    <td align="left">0.67 (&lt;0.001)</td>
+    <td align="left">1</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Pearson correlation coefficient (p = value)</p>
+ </table-wrap-foot>
+</table-wrap>

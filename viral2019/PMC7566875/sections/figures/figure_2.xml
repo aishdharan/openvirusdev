@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Plot of 
+   <inline-formula>
+    <math id="d1e53" display="inline" altimg="si198.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">J</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">m</mi>
+       <mi mathvariant="bold-fraktur">i</mi>
+       <mi mathvariant="bold-fraktur">n</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> as a function of 
+   <inline-formula>
+    <math id="d1e67" display="inline" altimg="si199.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">m</mi>
+       <mi mathvariant="bold-fraktur">a</mi>
+       <mi mathvariant="bold-fraktur">x</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>, with 
+   <inline-formula>
+    <math id="d1e81" display="inline" altimg="si200.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>2</mn>
+     </mrow>
+    </math>
+   </inline-formula>. The plot range is 
+   <inline-formula>
+    <math id="d1e92" display="inline" altimg="si201.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+      <mrow>
+       <mo>[</mo>
+       <mn>0</mn>
+       <mo>.</mo>
+       <mn>61</mn>
+       <mo>,</mo>
+       <mn>0</mn>
+       <mo>.</mo>
+       <mn>8</mn>
+       <mo>]</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula>. The upper limit is justified in the text. The lower limit is 
+   <inline-formula>
+    <math id="d1e128" display="inline" altimg="si202.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">≥</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>61</mn>
+     </mrow>
+    </math>
+   </inline-formula>; for smaller values of 
+   <inline-formula>
+    <math id="d1e151" display="inline" altimg="si199.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">m</mi>
+       <mi mathvariant="bold-fraktur">a</mi>
+       <mi mathvariant="bold-fraktur">x</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> the state constraints 
+   <xref rid="fd12" ref-type="disp-formula">(12)</xref>–
+   <xref rid="fd13" ref-type="disp-formula">(13)</xref> fail to be satisfied.
+  </p>
+ </caption>
+ <graphic xlink:href="gr2_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ijd15189-bib-0001">
+ <label>1</label>
+ <mixed-citation publication-type="journal" id="ijd15189-cit-0001">
+  <string-name>
+   <surname>Zhang</surname>
+   <given-names>MQ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Wang</surname>
+   <given-names>XH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Chen</surname>
+   <given-names>YL</given-names>
+  </string-name>, 
+  <italic>et al</italic>
+  <article-title>Clinical features of 2019 novel coronavirus pneumonia in the early stage from a fever clinic in Beijing</article-title>. 
+  <source xml:lang="en">Zhonghua Jie He He Hu Xi Za Zhi</source>
+  <year>2020</year>; 
+  <volume>43</volume>: 
+  <elocation-id>E013</elocation-id>
+  <pub-id pub-id-type="doi">10.3760/cma.j.issn.1001-0939.2020.0013</pub-id>
+  <pub-id pub-id-type="pmid">32061066</pub-id>
+ </mixed-citation>
+</ref>

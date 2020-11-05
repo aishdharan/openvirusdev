@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R89">
+ <label>89</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Diop</surname>
+    <given-names>BZ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ngom</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pougué Biyong</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>The relatively young and rural population may limit the spread and severity of COVID-19 in Africa: a modelling study</article-title>. 
+  <source>BMJ Glob Health</source>
+  <year>2020</year>;
+  <volume>5</volume>:
+  <elocation-id>e002699</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1136/bmjgh-2020-002699</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32451367?>
+ </mixed-citation>
+</ref>

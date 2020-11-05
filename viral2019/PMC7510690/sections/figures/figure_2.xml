@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" fig-type="figure" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Phylogenetic analysis of human adenovirus genome type 7 whole-genome sequencing in study of human adenovirus B7d–associated urethritis, Japan. We isolated 293 strain and compared it with other human adenovirus type 7 reference strains. We aligned genomic sequences using ClustalW (
+   <ext-link ext-link-type="uri" xlink:href="http://www.clustal.org" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.clustal.org</ext-link>) and constructed the neighbor-joining phylogenetic tree using MEGA version 7.0 software (
+   <ext-link ext-link-type="uri" xlink:href="https://megasoftware.net" xmlns:xlink="http://www.w3.org/1999/xlink">https://megasoftware.net</ext-link>). Numbers at selected nodes indicate level of support using 1,000 bootstrap replicates. Scale bar indicates the estimated number of nucleotide substitutions per site. Sequence names are derived from the GenBank accession number, geographic location, and year of sample collection and virus type.
+  </p>
+ </caption>
+ <graphic xlink:href="19-1538-F2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

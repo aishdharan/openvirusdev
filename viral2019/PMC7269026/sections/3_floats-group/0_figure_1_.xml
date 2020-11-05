@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F0001" orientation="portrait" position="float">
+ <label>Figure 1.</label>
+ <caption>
+  <p>Impact of Wuhan’s travel ban on 2019-nCoV spread in China. (A) Population movement data for Wuhan between 1 January and 14 February 2020, and during the same lunar period of 2019. (B) Heat map of additional cases for cities in China, caused by cancelling Wuhan’s travel ban on 23 January 2020. (C) Protection rate heat map for cities in China based on a three-day-earlier lockdown of Wuhan. Protection rate was calculated as percentage of reduction from the observed cases. Cities without population influx from Wuhan (B) and without confirmed cases (C) between Jan 24 and Jan 30, 2020, are in grey (check supplementary materials for more details).</p>
+ </caption>
+ <graphic xlink:href="TEMI_A_1760143_F0001_OC" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

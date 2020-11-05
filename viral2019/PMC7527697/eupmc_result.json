@@ -1,0 +1,1165 @@
+{
+  "id": [
+    "32971053"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32971053"
+  ],
+  "pmcid": [
+    "PMC7527697"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7527697"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/s2214-109x(20)30313-2"
+  ],
+  "title": [
+    "Community-based antiretroviral therapy versus standard clinic-based services for HIV in South Africa and Uganda (DO ART): a randomised trial."
+  ],
+  "authorString": [
+    "Barnabas RV, Szpiro AA, van Rooyen H, Asiimwe S, Pillay D, Ware NC, Schaafsma TT, Krows ML, van Heerden A, Joseph P, Shahmanesh M, Wyatt MA, Sausi K, Turyamureeba B, Sithole N, Morrison S, Shapiro AE, Roberts DA, Thomas KK, Koole O, Bershteyn A, Ehrenkranz P, Baeten JM, Celum C, Delivery Optimization of Antiretroviral Therapy (DO ART) Study Team."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barnabas RV"
+          ],
+          "firstName": [
+            "Ruanne V"
+          ],
+          "lastName": [
+            "Barnabas"
+          ],
+          "initials": [
+            "RV"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA; Division of Allergy and Infectious Diseases, University of Washington, Seattle, WA, USA; Department of Epidemiology, University of Washington, Seattle, WA, USA; Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA. Electronic address: rbarnaba@uw.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Szpiro AA"
+          ],
+          "firstName": [
+            "Adam A"
+          ],
+          "lastName": [
+            "Szpiro"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biostatistics, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Rooyen H"
+          ],
+          "firstName": [
+            "Heidi"
+          ],
+          "lastName": [
+            "van Rooyen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Human Sciences Research Council, Sweetwaters, KwaZulu-Natal, South Africa; MRC/Wits Developmental Pathways for Health Research Unit, University of the Witwatersrand, Johannesburg, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Asiimwe S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Asiimwe"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Integrated Community-Based Initiatives, Kabwohe, Uganda."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pillay D"
+          ],
+          "firstName": [
+            "Deenan"
+          ],
+          "lastName": [
+            "Pillay"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Africa Health Research Institute, KwaZulu-Natal, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ware NC"
+          ],
+          "firstName": [
+            "Norma C"
+          ],
+          "lastName": [
+            "Ware"
+          ],
+          "initials": [
+            "NC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Harvard Medical School, Boston, MA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schaafsma TT"
+          ],
+          "firstName": [
+            "Torin T"
+          ],
+          "lastName": [
+            "Schaafsma"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krows ML"
+          ],
+          "firstName": [
+            "Meighan L"
+          ],
+          "lastName": [
+            "Krows"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Heerden A"
+          ],
+          "firstName": [
+            "Alastair"
+          ],
+          "lastName": [
+            "van Heerden"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Human Sciences Research Council, Sweetwaters, KwaZulu-Natal, South Africa; MRC/Wits Developmental Pathways for Health Research Unit, University of the Witwatersrand, Johannesburg, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Joseph P"
+          ],
+          "firstName": [
+            "Philip"
+          ],
+          "lastName": [
+            "Joseph"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Human Sciences Research Council, Sweetwaters, KwaZulu-Natal, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shahmanesh M"
+          ],
+          "firstName": [
+            "Maryam"
+          ],
+          "lastName": [
+            "Shahmanesh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Africa Health Research Institute, KwaZulu-Natal, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wyatt MA"
+          ],
+          "firstName": [
+            "Monique A"
+          ],
+          "lastName": [
+            "Wyatt"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Harvard Medical School, Boston, MA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sausi K"
+          ],
+          "firstName": [
+            "Kombi"
+          ],
+          "lastName": [
+            "Sausi"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Human Sciences Research Council, Sweetwaters, KwaZulu-Natal, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Turyamureeba B"
+          ],
+          "firstName": [
+            "Bosco"
+          ],
+          "lastName": [
+            "Turyamureeba"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Integrated Community-Based Initiatives, Kabwohe, Uganda."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sithole N"
+          ],
+          "firstName": [
+            "Nsika"
+          ],
+          "lastName": [
+            "Sithole"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Africa Health Research Institute, KwaZulu-Natal, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Morrison S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Morrison"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shapiro AE"
+          ],
+          "firstName": [
+            "Adrienne E"
+          ],
+          "lastName": [
+            "Shapiro"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA; Division of Allergy and Infectious Diseases, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roberts DA"
+          ],
+          "firstName": [
+            "D Allen"
+          ],
+          "lastName": [
+            "Roberts"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas KK"
+          ],
+          "firstName": [
+            "Katherine K"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Koole O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Koole"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1122-5382",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "London School of Hygiene & Tropical Medicine, London, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bershteyn A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Bershteyn"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "New York University School of Medicine, New York, NY, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ehrenkranz P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Ehrenkranz"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Bill & Melinda Gates Foundation, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Baeten JM"
+          ],
+          "firstName": [
+            "Jared M"
+          ],
+          "lastName": [
+            "Baeten"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA; Division of Allergy and Infectious Diseases, University of Washington, Seattle, WA, USA; Department of Epidemiology, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Celum C"
+          ],
+          "firstName": [
+            "Connie"
+          ],
+          "lastName": [
+            "Celum"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Global Health, University of Washington, Seattle, WA, USA; Division of Allergy and Infectious Diseases, University of Washington, Seattle, WA, USA; Department of Epidemiology, University of Washington, Seattle, WA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "collectiveName": [
+            "Delivery Optimization of Antiretroviral Therapy (DO ART) Study Team"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1122-5382",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "3020496"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Lancet. Global health"
+          ],
+          "ISOAbbreviation": [
+            "Lancet Glob Health"
+          ],
+          "medlineAbbreviation": [
+            "Lancet Glob Health"
+          ],
+          "NLMid": [
+            "101613665"
+          ],
+          "ISSN": [
+            "2214-109X"
+          ],
+          "ESSN": [
+            "2214-109X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e1305-e1315"
+  ],
+  "abstractText": [
+    "BACKGROUND:Community-based delivery of antiretroviral therapy (ART) for HIV, including ART initiation, clinical and laboratory monitoring, and refills, could reduce barriers to treatment and improve viral suppression, reducing the gap in access to care for individuals who have detectable HIV viral load, including men who are less likely than women to be virally suppressed. We aimed to test the effect of community-based ART delivery on viral suppression among people living with HIV not on ART. METHODS:We did a household-randomised, unblinded trial (DO ART) of delivery of ART in the community compared with the clinic in rural and peri-urban settings in KwaZulu-Natal, South Africa and the Sheema District, Uganda. After community-based HIV testing, people living with HIV were randomly assigned (1:1:1) with mobile phone software to community-based ART initiation with quarterly monitoring and ART refills through mobile vans; ART initiation at the clinic followed by mobile van monitoring and refills (hybrid approach); or standard clinic ART initiation and refills. The primary outcome was HIV viral suppression at 12 months. If the difference in viral suppression was not superior between study groups, an a-priori test for non-inferiority was done to test for a relative risk (RR) of more than 0·95. The cost per person virally suppressed was a co-primary outcome of the study. This study is registered with ClinicalTrials.gov, NCT02929992. FINDINGS:Between May 26, 2016, and March 28, 2019, of 2479 assessed for eligibility, 1315 people living with HIV and not on ART with detectable viral load at baseline were randomly assigned; 666 (51%) were men. Retention at the month 12 visit was 95% (n=1253). At 12 months, community-based ART increased viral suppression compared with the clinic group (306 [74%] vs 269 [63%], RR 1·18, 95% CI 1·07-1·29; psuperiority=0·0005) and the hybrid approach was non-inferior (282 [68%] vs 269 [63%], RR 1·08, 0·98-1·19; pnon-inferiority=0·0049). Community-based ART increased viral suppression among men (73%, RR 1·34, 95% CI 1·16-1·55; psuperiority<0·0001) as did the hybrid approach (66%, RR 1·19, 1·02-1·40; psuperiority=0·026), compared with clinic-based ART (54%). Viral suppression was similar for men (n=156 [73%]) and women (n=150 [75%]) in the community-based ART group. With efficient scale-up, community-based ART could cost US$275-452 per person reaching viral suppression. Community-based ART was considered safe, with few adverse events. INTERPRETATION:In high and medium HIV prevalence settings in South Africa and Uganda, community-based delivery of ART significantly increased viral suppression compared with clinic-based ART, particularly among men, eliminating disparities in viral suppression by gender. Community-based ART should be implemented and evaluated in different contexts for people with detectable viral load. FUNDING:The Bill & Melinda Gates Foundation; the University of Washington and Fred Hutch Center for AIDS Research; the Wellcome Trust; the University of Washington Royalty Research Fund; and the University of Washington King K Holmes Endowed Professorship in STDs and AIDS."
+  ],
+  "affiliation": [
+    "Department of Global Health, University of Washington, Seattle, WA, USA; Division of Allergy and Infectious Diseases, University of Washington, Seattle, WA, USA; Department of Epidemiology, University of Washington, Seattle, WA, USA; Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA. Electronic address: rbarnaba@uw.edu."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 AI027757"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "082384/Z/07/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-HIV Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Community Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Delivery of Health Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Uganda"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "South Africa"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-HIV Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/S2214-109X(20)30313-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7527697"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7527697?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "32971045"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Lancet Glob Health. 2020 Oct;8(10):e1245-e1246"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-10-14"
+  ],
+  "dateOfCreation": [
+    "2020-09-24"
+  ],
+  "firstIndexDate": [
+    "2020-09-25"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-08"
+  ],
+  "dateOfRevision": [
+    "2020-10-14"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

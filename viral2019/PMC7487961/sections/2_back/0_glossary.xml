@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>TDRM</term>
+   <def>
+    <p id="Par5">Transmitted drug resistance mutations</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FSU)</term>
+   <def>
+    <p id="Par6">Former Soviet Union</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SSA)</term>
+   <def>
+    <p id="Par7">Sub-Saharan Africa</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PI)</term>
+   <def>
+    <p id="Par8">Protease inhibitors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NRTI)</term>
+   <def>
+    <p id="Par9">Nucleotide reverse transcriptase inhibitors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NNRTI)</term>
+   <def>
+    <p id="Par10">Non-nucleoside reverse transcriptase inhibitors</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PR)</term>
+   <def>
+    <p id="Par11">Protease</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RT)</term>
+   <def>
+    <p id="Par12">Reverse transcriptase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IDUs)</term>
+   <def>
+    <p id="Par13">Injecting drug users</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IQR)</term>
+   <def>
+    <p id="Par14">Interquartile range</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>VL)</term>
+   <def>
+    <p id="Par15">Viral load</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

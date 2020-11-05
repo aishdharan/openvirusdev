@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Karte</surname>
+   <given-names>Claudia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Platje</surname>
+   <given-names>Nadine</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bullermann</surname>
+   <given-names>Johannes</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Beer</surname>
+   <given-names>Martin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Höper</surname>
+   <given-names>Dirk</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5465-5609</contrib-id>
+  <name>
+   <surname>Blome</surname>
+   <given-names>Sandra</given-names>
+  </name>
+  <address>
+   <email>sandra.blome@fli.de</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.417834.d</institution-id>
+   <institution>Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, </institution>
+  </institution-wrap>Suedufer 10, 17493 Greifswald – Insel Riems, Greifswald, Germany 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Tierarztpraxis Wietmarschen, Wietmarschen, Germany 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Tierarztpraxis Bethen, Cloppenburg, Germany 
+ </aff>
+</contrib-group>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0005">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="lis0005">
+   <list-item id="lsti0005">
+    <label>•</label>
+    <p id="par0005">Influenza viruses accounted for a large proportion of respiratory virus infection even during the epidemic of COVID-19 in Beijing.</p>
+   </list-item>
+   <list-item id="lsti0010">
+    <label>•</label>
+    <p id="par0010">No single symptom or laboratory finding was suggestive of a specific respiratory virus.</p>
+   </list-item>
+   <list-item id="lsti0015">
+    <label>•</label>
+    <p id="par0015">The epidemic history was important for screening of COVID-19.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

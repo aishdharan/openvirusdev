@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-group>
+ <app id="app1-jcm-09-03148">
+  <title>Supplementary Materials</title>
+  <p>The following are available online at 
+   <uri xlink:href="https://www.mdpi.com/2077-0383/9/10/3148/s1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mdpi.com/2077-0383/9/10/3148/s1</uri>: Detail of the mixture model. Sensitivity analysis, likelihoods for the trajectories models. Statistical Methods. Table S1: Characteristics of trajectories using exponential distributions; Table S2: log-likelihood of exponential and log-normal models. 
+  </p>
+ </app>
+</app-group>

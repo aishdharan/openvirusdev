@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="r9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Wölfel</surname>
+    <given-names>R.</given-names>
+   </name>
+   <etal/>
+  </person-group>, 
+  <article-title>Virological assessment of hospitalized patients with COVID-2019</article-title>. 
+  <source>Nature</source>
+  <volume>581</volume>, 
+  <fpage>465</fpage>–
+  <lpage>469</lpage> (
+  <year>2020</year>).
+  <pub-id pub-id-type="pmid">32235945</pub-id>
+ </mixed-citation>
+</ref>

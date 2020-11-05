@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hashem</surname>
+    <given-names>A. M.</given-names>
+   </name>
+   <name>
+    <surname>Alghamdi</surname>
+    <given-names>B. S.</given-names>
+   </name>
+   <name>
+    <surname>Algaissi</surname>
+    <given-names>A. A.</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Therapeutic use of chloroquine and hydroxychloroquine in COVID-19 and other viral infections: a narrative review</article-title>
+  <source>
+   <italic toggle="yes">Travel Medicine and Infectious Disease</italic>
+  </source>
+  <year>2020</year>
+  <volume>35</volume>
+  <pub-id pub-id-type="doi">10.1016/j.tmaid.2020.101735</pub-id>
+ </element-citation>
+</ref>

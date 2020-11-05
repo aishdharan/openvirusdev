@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" orientation="portrait" position="float">
+ <?Table Small?>
+ <label>Table 2</label>
+ <caption>
+  <title>Progress of COVID-19 and influenza-like illness rate from week 1 to week 6, 2020
+   <xref rid="B6" ref-type="bibr">6</xref>
+   <xref rid="B7" ref-type="bibr">7</xref>
+   <xref rid="B8" ref-type="bibr">8</xref>
+   <xref rid="B15" ref-type="bibr">15</xref>
+  </title>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="jkms-35-e182-i002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="rows">
+   <col width="16.04%" span="1"/>
+   <col width="51.89%" span="1"/>
+   <col width="16.04%" span="1"/>
+   <col width="16.04%" span="1"/>
+   <thead>
+    <tr>
+     <th valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Week</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Progress of COVID-19</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Cumulative No. of COVID-19 cases</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">ILI rate</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">1 (29 Dec–4 Jan)</td>
+     <td valign="top" align="left" rowspan="1" colspan="1">31 Dec 2019, cluster of cases of pneumonia with unknown cause in Wuhan, Hubei province of China was reported.</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">49.1</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">2 (5 Jan–11 Jan)</td>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">8 Jan 2020, first patient under investigation (PUI)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">-</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">47.8</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">3 (12 Jan–18 Jan)</td>
+     <td valign="top" align="left" rowspan="1" colspan="1">13 Jan 2020, development of diagnostics for 2019-nCoV was launched by KCDC.</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">42.4</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">4 (19 Jan–25 Jan)</td>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">20 Jan 2020, first case of COVID-19</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">2</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">40.9</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">5 (26 Jan–1 Feb)</td>
+     <td valign="top" align="left" rowspan="1" colspan="1">30 Jan 2020, WHO declared a Public Health Emergency of International Concern (PHEIC).</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">12</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">28.0</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">6 (2 Feb–8 Feb)</td>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">4 Feb 2020, immigration of all foreigners who have been to Hubei province, China, in past 2 weeks was banned.</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">24</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">16.4</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <p>COVID-19 = coronavirus disease 2019, ILI = influenza-like illness, KCDC = Korea Centers for Disease Control and Prevention.</p>
+ </table-wrap-foot>
+</table-wrap>

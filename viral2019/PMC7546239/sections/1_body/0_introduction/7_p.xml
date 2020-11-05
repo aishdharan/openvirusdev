@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e633">Many scientific disciplines investigate and forecast the spread of COVID-19. Statistical approaches are commonly based on Kalman filtering (
+ <xref rid="b41" ref-type="bibr">Yang, Yi et al., 2020</xref>) or consider Bayesian approaches (
+ <xref rid="b25" ref-type="bibr">Lorch et al., 2020</xref>). Network-based approaches consider aeroplane networks, daily commute traffic or cell phone traffic (
+ <xref rid="b5" ref-type="bibr">Chang et al., 2020</xref>). Data scientists apply machine learning algorithms, like adaptive neuro-fuzzy inference system (
+ <xref rid="b1" ref-type="bibr">Al-qaness, Ewees, Fan, &amp; Abd El Aziz, 2020</xref>) or Long Short-Term Memory (LSTM) (
+ <xref rid="b42" ref-type="bibr">Yang, Zeng et al., 2020</xref>). Mathematicians perform parameter estimation on compartmental models like the Susceptible-Infected-Removed model (SIR) (
+ <xref rid="b20" ref-type="bibr">Kergassner et al., 2020</xref>, 
+ <xref rid="b42" ref-type="bibr">Yang, Zeng et al., 2020</xref>) or the Susceptible-Exposed-Infected-Removed (SEIR) model (
+ <xref rid="b14" ref-type="bibr">He, Peng, &amp; Sun, 2020</xref>).
+</p>

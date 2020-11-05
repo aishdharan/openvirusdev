@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F0004" orientation="portrait" position="float">
+ <label>Figure 4.</label>
+ <caption>
+  <p>Time distribution of clinical events in COVID-19 cases admitted to Shanghai Public Health Clinical Center. Numbers underneath indicate the number of patients who went through the corresponding events. CRRT: continuous renal replacement therapy; ECOM: Extra-corporeal membrane oxygenation</p>
+ </caption>
+ <alternatives>
+  <graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1787103_F0004_OC" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1787103_F0004_PB" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </alternatives>
+</fig>

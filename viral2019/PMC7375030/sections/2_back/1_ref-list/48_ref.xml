@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b48-medscimonit-26-e924582">
+ <label>48</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wanhong</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Xiaoting</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Dawei</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <trans-title xml:lang="en">Technical specification for clinical application of critical ultrasonography</trans-title>
+  <source>Zhonghua Nei Ke Za Zhi</source>
+  <year>2018</year>
+  <volume>57</volume>
+  <issue>6</issue>
+  <fpage>397</fpage>
+  <lpage>417</lpage>
+  <pub-id pub-id-type="pmid">29925125</pub-id>
+ </element-citation>
+</ref>

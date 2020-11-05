@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="anchor" id="tblA.4">
+ <label>Table A.4</label>
+ <caption>
+  <p>Estimates of the basic reproduction number and the effective reproduction number under various NPIs, with lower and upper bounds generated from the confidence intervals in 
+   <xref rid="tblA.3" ref-type="table">Table A.3</xref>.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Intervention</th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e2047" display="inline" altimg="si50.svg">
+       <mi>β</mi>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e2052" display="inline" altimg="si54.svg">
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">i</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">S</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e2062" display="inline" altimg="si57.svg">
+       <mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">R</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>(</mo>
+         <mi>β</mi>
+         <mo>,</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">i</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e2089" display="inline" altimg="si57.svg">
+       <mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">R</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>(</mo>
+         <mi>β</mi>
+         <mo>,</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">i</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e2116" display="inline" altimg="si57.svg">
+       <mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">R</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>(</mo>
+         <mi>β</mi>
+         <mo>,</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">i</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+      </math>
+     </inline-formula>
+    </th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left">(Best fit)</th>
+    <th align="left">(Best fit)</th>
+    <th align="left">(Lower bound)</th>
+    <th align="left">(Best fit)</th>
+    <th align="left">(Upper bound)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">No interventions, 
+     <break/>basic reproduction number
+    </td>
+    <td align="left">1.4695</td>
+    <td align="left">1</td>
+    <td align="left">2.7664</td>
+    <td align="left">3.4495</td>
+    <td align="left">4.9079</td>
+   </tr>
+   <tr>
+    <td colspan="6">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Case isolation, no other interventions</td>
+    <td align="left">1.4695</td>
+    <td align="left">0.3405</td>
+    <td align="left">2.0798</td>
+    <td align="left">2.6945</td>
+    <td align="left">3.7549</td>
+   </tr>
+   <tr>
+    <td colspan="6">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Case isolation, schools and universities are closed, 
+     <break/>mass gatherings are banned
+    </td>
+    <td align="left">1.1009</td>
+    <td align="left">0.3405</td>
+    <td align="left">1.2880</td>
+    <td align="left">2.0187</td>
+    <td align="left">2.7204</td>
+   </tr>
+   <tr>
+    <td colspan="6">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Case isolation, all non-essential services and industries closed, travel restrictions</td>
+    <td align="left">0.3576</td>
+    <td align="left">0.3405</td>
+    <td align="left">0.4847</td>
+    <td align="left">0.6557</td>
+    <td align="left">0.8324</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Attempting to achieve herd immunity while simultaneously mitigating the impact of COVID-19 on hospital burden is an extremely challenging task. In order to ensure the hospital burden does not exceed levels comparable with that of the United Kingdom in April 2020, 
+ <inline-formula>
+  <math id="i39">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> needs to be reduced from its initial value (assumed to be 
+ <inline-formula>
+  <math id="i40">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>2.3</mn>
+  </math>
+ </inline-formula>) to about 1.2. Suppression is possible if 
+ <inline-formula>
+  <math id="i41">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is reduced below 1. Due to the fine margins (in terms of control effectiveness) between successful disease suppression and overwhelming hospitals, making herd immunity the primary objective (rather than applying maximal social distancing and aiming for suppression) is not supported by our modeling. Put another way, mitigation (via “flattening the curve”) is not a practical objective: If mitigation efforts are sufficient to prevent hospitals from being overwhelmed, only a comparatively small further increase in control measures will drive 
+ <inline-formula>
+  <math id="i42">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> below 1, and make suppression possible.
+</p>

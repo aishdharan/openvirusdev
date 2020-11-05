@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Khattab</surname>
+   <given-names>Nourhan M</given-names>
+  </name>
+  <aff>
+   <institution>Department of Child and Adolescent Health and Maternal Care, School of Public Health, Capital Medical University</institution>, No.10 You'anmenwai Xitoutiao, Fengtai District, Beijing 100069, 
+   <country country="CN">China</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7289-8698</contrib-id>
+  <name>
+   <surname>Vermund</surname>
+   <given-names>Sten H</given-names>
+  </name>
+  <aff>
+   <institution>Department of Epidemiology of Microbial Diseases, Yale School of Public Health, and Department of Pediatrics, Yale School of Medicine</institution>, P.O. Box 208034, New Haven, CT 06520-8034, 
+   <country country="US">USA</country>
+  </aff>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hu</surname>
+   <given-names>Yifei</given-names>
+  </name>
+  <!--<email>huyifei@yahoo.com</email>-->
+  <aff>
+   <institution>Department of Child and Adolescent Health and Maternal Care, School of Public Health, Capital Medical University</institution>, No.10 You'anmenwai Xitoutiao, Fengtai District, Beijing 100069, 
+   <country country="CN">China</country>
+  </aff>
+  <xref ref-type="corresp" rid="cor1"/>
+ </contrib>
+</contrib-group>

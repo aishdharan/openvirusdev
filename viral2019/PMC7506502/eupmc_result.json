@@ -1,0 +1,362 @@
+{
+  "id": [
+    "32982020"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32982020"
+  ],
+  "pmcid": [
+    "PMC7506502"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7506502"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.apm.2020.08.082"
+  ],
+  "title": [
+    "Design of a nonlinear model for the propagation of COVID-19 and its efficient nonstandard computational implementation."
+  ],
+  "authorString": [
+    "Rafiq M, Macías-Díaz JE, Raza A, Ahmed N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rafiq M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Rafiq"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Engineering, University of Central Punjab, Lahore, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Macías-Díaz JE"
+          ],
+          "firstName": [
+            "J E"
+          ],
+          "lastName": [
+            "Macías-Díaz"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7580-7533",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departamento de Matemáticas y Física, Universidad Autónoma de Aguascalientes, Avenida Universidad 940, Ciudad Universitaria, Aguascalientes 20131, Mexico."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Raza A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Raza"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Mathematics, National College of Business Administration and Economics Lahore, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmed N"
+          ],
+          "firstName": [
+            "Nauman"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Mathematics and Statistics, The University of Lahore, Lahore, Pakistan."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7580-7533",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "89"
+      ],
+      "journalIssueId": [
+        "3000465"
+      ],
+      "dateOfPublication": [
+        "2021 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2021"
+      ],
+      "printPublicationDate": [
+        "2021-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Applied mathematical modelling"
+          ],
+          "ISOAbbreviation": [
+            "Appl Math Model"
+          ],
+          "medlineAbbreviation": [
+            "Appl Math Model"
+          ],
+          "NLMid": [
+            "100971316"
+          ],
+          "ISSN": [
+            "0307-904X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2021"
+  ],
+  "pageInfo": [
+    "1835-1846"
+  ],
+  "abstractText": [
+    "In this manuscript, we develop a mathematical model to describe the spreading of an epidemic disease in a human population. The emphasis in this work will be on the study of the propagation of the coronavirus disease (COVID-19). Various epidemiologically relevant assumptions will be imposed upon the problem, and a coupled system of first-order ordinary differential equations will be obtained. The model adopts the form of a nonlinear susceptible-exposed-infected-quarantined-recovered system, and we investigate it both analytically and numerically. Analytically, we obtain the equilibrium points in the presence and absence of the coronavirus. We also calculate the reproduction number and provide conditions that guarantee the local and global asymptotic stability of the equilibria. To that end, various tools from analysis will be employed, including Volterra-type Lyapunov functions, LaSalle's invariance principle and the Routh-Hurwitz criterion. To simulate computationally the dynamics of propagation of the disease, we propose a nonstandard finite-difference scheme to approximate the solutions of the mathematical model. A thorough analysis of the discrete model is provided in this work, including the consistency and the stability analyses, along with the capability of the discrete model to preserve the equilibria of the continuous system. Among other interesting results, our numerical simulations confirm the stability properties of the equilibrium points."
+  ],
+  "affiliation": [
+    "Faculty of Engineering, University of Central Punjab, Lahore, Pakistan."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stability analysis",
+        "92D30",
+        "34D05",
+        "65L05",
+        "Coronavirus Disease",
+        "Nonstandard Numerical Modeling",
+        "Seiqr Model"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.apm.2020.08.082"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7506502"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7506502?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-10-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-22"
+  ],
+  "firstPublicationDate": [
+    "2020-09-22"
+  ]
+}

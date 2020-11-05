@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Coleman</surname>
+   <given-names>Harry</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Snell</surname>
+   <given-names>Luke B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Simons</surname>
+   <given-names>Rebecca</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Douthwaite</surname>
+   <given-names>Sam T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lee</surname>
+   <given-names>Ming J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+</contrib-group>

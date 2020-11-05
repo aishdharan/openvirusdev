@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR33">
+ <label>33.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wang</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Serological evidence of bat SARS-related Coronavirus infection in humans, China</article-title>
+  <source>Virol. Sin.</source>
+  <year>2018</year>
+  <volume>33</volume>
+  <fpage>104</fpage>
+  <lpage>107</lpage>
+  <pub-id pub-id-type="doi">10.1007/s12250-018-0012-7</pub-id>
+  <?supplied-pmid 29500691?>
+  <pub-id pub-id-type="pmid">29500691</pub-id>
+ </element-citation>
+</ref>

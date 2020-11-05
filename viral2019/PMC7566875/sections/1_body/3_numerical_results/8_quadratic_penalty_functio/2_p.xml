@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e9985">We have repeated the analysis of the previous sections for a quadratic cost function, 
+ <disp-formula id="fd21">
+  <label>(21)</label>
+  <math id="d1e9994" display="block" altimg="si316.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">J</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <munderover>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </munderover>
+    <msubsup>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msubsup>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">i</mi>
+      </mrow>
+     </msub>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">i</mi>
+       <mo linebreak="badbreak">−</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>The motivation for considering Eq. 
+ <xref rid="fd21" ref-type="disp-formula">(21)</xref> is to look at the hypothetical scenario where the cost to the economy of the non-pharmaceutical interventions is nonlinear in the intensity 
+ <inline-formula>
+  <math id="d1e10065" display="inline" altimg="si317.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> of the interventions. In this way, Eq. 
+ <xref rid="fd21" ref-type="disp-formula">(21)</xref> describes a scenario where the more intense interventions (
+ <inline-formula>
+  <math id="d1e10081" display="inline" altimg="si318.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula>) carry a disproportionately severe cost in comparison to less intense interventions (
+ <inline-formula>
+  <math id="d1e10097" display="inline" altimg="si319.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">&lt;</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula>). In spite of the differences between the linear and quadratic cost functions, the results in both cases are qualitatively the same – e.g. a plot of the minimum value of 
+ <inline-formula>
+  <math id="d1e10113" display="inline" altimg="si247.svg">
+   <mi mathvariant="bold-fraktur">J</mi>
+  </math>
+ </inline-formula> as a function of 
+ <inline-formula>
+  <math id="d1e10118" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> for the quadratic case is shown in 
+ <xref rid="fig11" ref-type="fig">Fig. 11</xref>, to be compared with the linear cost function in 
+ <xref rid="fig8" ref-type="fig">Fig. 8</xref>. The main difference between these two figures is that the crossover where the optimal strategy switches from mitigation to suppression occurs at a higher value of 
+ <inline-formula>
+  <math id="d1e10141" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> for the quadratic cost function — that is, under the assumption of the quadratic cost function, mitigation is an optimal strategy for a wider range of values of 
+ <inline-formula>
+  <math id="d1e10155" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. That being said, the sensitivity of the mitigation strategy to small deviations in the controls still applies for the case of the quadratic penalty function.
+</p>

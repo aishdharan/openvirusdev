@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To introduce seasonality in our model, we allowed the temperature to vary over time by sinusoidally forcing [
+ <xref rid="pntd.0008679.ref049" ref-type="bibr">49</xref>]. The daily mean temperature was modeled as a cosine curve with a period of 365 days as specified below: 
+ <disp-formula id="pntd.0008679.e016">
+  <alternatives>
+   <graphic xlink:href="pntd.0008679.e016.jpg" id="pntd.0008679.e016g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M16">
+    <mi>T</mi>
+    <mspace width="2pt"/>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>T</mi>
+       </mrow>
+       <mrow>
+        <mi>m</mi>
+        <mi>a</mi>
+        <mi>x</mi>
+       </mrow>
+      </msub>
+      <mo>-</mo>
+      <msub>
+       <mrow>
+        <mi>T</mi>
+       </mrow>
+       <mrow>
+        <mi>m</mi>
+        <mi>i</mi>
+        <mi>n</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </mfrac>
+    <mi mathvariant="normal">*</mi>
+    <mo>(</mo>
+    <mrow>
+     <mrow>
+      <mrow>
+       <mo>-</mo>
+       <mtext>cos</mtext>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <mfrac>
+         <mrow>
+          <mn>2</mn>
+          <mi>π</mi>
+          <mo>(</mo>
+          <mrow>
+           <mi>t</mi>
+           <mo>-</mo>
+           <mi>ω</mi>
+          </mrow>
+          <mo>)</mo>
+         </mrow>
+         <mrow>
+          <mn>365</mn>
+         </mrow>
+        </mfrac>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </mrow>
+    <mo>)</mo>
+    <mo>+</mo>
+    <msub>
+     <mrow>
+      <mi>T</mi>
+     </mrow>
+     <mrow>
+      <mi>m</mi>
+      <mi>e</mi>
+      <mi>a</mi>
+      <mi>n</mi>
+     </mrow>
+    </msub>
+   </math>
+  </alternatives>
+  <label>(16)</label>
+ </disp-formula>
+</p>

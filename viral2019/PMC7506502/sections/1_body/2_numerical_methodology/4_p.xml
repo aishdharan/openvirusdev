@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0029">Our first result establishes that the numerical method 
+ <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref> is a positivity-preserving technique. Moreover, the explicit character of the scheme is exhibited in the proof of that result.
+ <statement id="enun0006">
+  <label>Theorem 6</label>
+  <p id="p0030">
+   <italic>If the initial data satisfy</italic>
+   <inline-formula>
+    <math id="M65" altimg="si72.svg">
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <msup>
+        <mi>S</mi>
+        <mn>0</mn>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>E</mi>
+        <mn>0</mn>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>I</mi>
+        <mn>0</mn>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>Q</mi>
+        <mn>0</mn>
+       </msup>
+       <mo>,</mo>
+       <msup>
+        <mi>R</mi>
+        <mn>0</mn>
+       </msup>
+       <mo>)</mo>
+      </mrow>
+      <mo>∈</mo>
+      <mover>
+       <mrow>
+        <mstyle mathvariant="normal">
+         <mi>Ω</mi>
+        </mstyle>
+       </mrow>
+       <mo stretchy="true">¯</mo>
+      </mover>
+     </mrow>
+    </math>
+   </inline-formula>
+   <italic>then the system</italic>
+   <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref>
+   <italic>is uniquely solvable, and the solutions belong in</italic>
+   <inline-formula>
+    <math id="M66" altimg="si73.svg">
+     <mover>
+      <mrow>
+       <mstyle mathvariant="normal">
+        <mi>Ω</mi>
+       </mstyle>
+      </mrow>
+      <mo stretchy="true">¯</mo>
+     </mover>
+    </math>
+   </inline-formula>
+   <italic>.</italic>
+  </p>
+ </statement>
+ <statement id="uenun0005">
+  <label>Proof</label>
+  <p id="p0031">Beforehand, notice that the system 
+   <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref> can be rewritten equivalently as
+   <disp-formula id="eq0029">
+    <label>(3.4)</label>
+    <math id="M67" altimg="si74.svg">
+     <mrow>
+      <mo stretchy="true">{</mo>
+      <mtable>
+       <mtr>
+        <mtd columnalign="left">
+         <msup>
+          <mi>S</mi>
+          <mrow>
+           <mi>n</mi>
+           <mo>+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msup>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <mfrac>
+           <mrow>
+            <msup>
+             <mi>S</mi>
+             <mi>n</mi>
+            </msup>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>λ</mi>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <msub>
+             <mi>β</mi>
+             <mn>1</mn>
+            </msub>
+            <msup>
+             <mi>I</mi>
+             <mi>n</mi>
+            </msup>
+            <mo>+</mo>
+            <msub>
+             <mi>β</mi>
+             <mn>2</mn>
+            </msub>
+            <msup>
+             <mi>E</mi>
+             <mi>n</mi>
+            </msup>
+            <mo>)</mo>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>μ</mi>
+           </mrow>
+          </mfrac>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <msup>
+          <mi>E</mi>
+          <mrow>
+           <mi>n</mi>
+           <mo>+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msup>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <mfrac>
+           <mrow>
+            <msup>
+             <mi>E</mi>
+             <mi>n</mi>
+            </msup>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mrow>
+             <mo>(</mo>
+             <msub>
+              <mi>β</mi>
+              <mn>1</mn>
+             </msub>
+             <msup>
+              <mi>I</mi>
+              <mi>n</mi>
+             </msup>
+             <mo>+</mo>
+             <msub>
+              <mi>β</mi>
+              <mn>2</mn>
+             </msub>
+             <msup>
+              <mi>E</mi>
+              <mi>n</mi>
+             </msup>
+             <mo>)</mo>
+            </mrow>
+            <msup>
+             <mi>S</mi>
+             <mi>n</mi>
+            </msup>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <msub>
+             <mi>q</mi>
+             <mn>1</mn>
+            </msub>
+            <mo>+</mo>
+            <mi>κ</mi>
+            <mo>+</mo>
+            <mi>α</mi>
+            <mo>+</mo>
+            <mi>μ</mi>
+            <mo>)</mo>
+           </mrow>
+          </mfrac>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <msup>
+          <mi>I</mi>
+          <mrow>
+           <mi>n</mi>
+           <mo>+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msup>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <mfrac>
+           <mrow>
+            <msup>
+             <mi>I</mi>
+             <mi>n</mi>
+            </msup>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>α</mi>
+            <msup>
+             <mi>E</mi>
+             <mi>n</mi>
+            </msup>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <mi>r</mi>
+            <mo>+</mo>
+            <mi>μ</mi>
+            <mo>+</mo>
+            <msub>
+             <mi>d</mi>
+             <mn>1</mn>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+          </mfrac>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <msup>
+          <mi>Q</mi>
+          <mrow>
+           <mi>n</mi>
+           <mo>+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msup>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <mfrac>
+           <mrow>
+            <msup>
+             <mi>Q</mi>
+             <mi>n</mi>
+            </msup>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <msub>
+             <mi>q</mi>
+             <mn>1</mn>
+            </msub>
+            <msup>
+             <mi>E</mi>
+             <mi>n</mi>
+            </msup>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mo>(</mo>
+            <mi>q</mi>
+            <mo>+</mo>
+            <mi>μ</mi>
+            <mo>+</mo>
+            <msub>
+             <mi>d</mi>
+             <mn>2</mn>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+          </mfrac>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <msup>
+          <mi>R</mi>
+          <mrow>
+           <mi>n</mi>
+           <mo>+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msup>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <mfrac>
+           <mrow>
+            <msup>
+             <mi>R</mi>
+             <mi>n</mi>
+            </msup>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mrow>
+             <mo>(</mo>
+             <mi>κ</mi>
+             <msup>
+              <mi>E</mi>
+              <mi>n</mi>
+             </msup>
+             <mo>+</mo>
+             <mi>r</mi>
+             <msup>
+              <mi>I</mi>
+              <mi>n</mi>
+             </msup>
+             <mo>+</mo>
+             <mi>q</mi>
+             <msup>
+              <mi>Q</mi>
+              <mi>n</mi>
+             </msup>
+             <mo>)</mo>
+            </mrow>
+           </mrow>
+           <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>τ</mi>
+            <mi>μ</mi>
+           </mrow>
+          </mfrac>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>.</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </math>
+   </disp-formula>Observe that 
+   <inline-formula>
+    <math id="M68" altimg="si75.svg">
+     <mrow>
+      <mo>(</mo>
+      <msup>
+       <mi>S</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo>,</mo>
+      <msup>
+       <mi>E</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo>,</mo>
+      <msup>
+       <mi>I</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo>,</mo>
+      <msup>
+       <mi>Q</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo>,</mo>
+      <msup>
+       <mi>R</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+       </mrow>
+      </msup>
+      <mo>)</mo>
+     </mrow>
+    </math>
+   </inline-formula> is uniquely determined and belongs to 
+   <inline-formula>
+    <math id="M69" altimg="si73.svg">
+     <mover>
+      <mrow>
+       <mstyle mathvariant="normal">
+        <mi>Ω</mi>
+       </mstyle>
+      </mrow>
+      <mo stretchy="true">¯</mo>
+     </mover>
+    </math>
+   </inline-formula> in the case that (
+   <italic>S
+    <sup>n</sup>, E
+    <sup>n</sup>, I
+    <sup>n</sup>, Q
+    <sup>n</sup>, R
+    <sup>n</sup>
+   </italic>) belongs to 
+   <inline-formula>
+    <math id="M70" altimg="si73.svg">
+     <mover>
+      <mrow>
+       <mstyle mathvariant="normal">
+        <mi>Ω</mi>
+       </mstyle>
+      </mrow>
+      <mo stretchy="true">¯</mo>
+     </mover>
+    </math>
+   </inline-formula>. The result follows now by induction using the hypothesis on the initial data. □
+  </p>
+ </statement>
+</p>

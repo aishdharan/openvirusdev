@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="par0040">As of 19 February 2020, more than 100 genomes of human-obtained SARS-CoV-2 strains have been released on GISAID (
+ <ext-link ext-link-type="uri" xlink:href="http://gisaid.org/" id="intr0015" xmlns:xlink="http://www.w3.org/1999/xlink">http://gisaid.org/</ext-link>) (
+ <xref rid="bib0065" ref-type="bibr">Elbe and Buckland-Merrett, 2017</xref>). No statistical methods were used to predetermine the number of genomes in the present study, we downloaded all available genomes of human-obtained SARS-CoV-2 strains. The dataset used in present study was also not randomized. Notably, due to the difficulty of sequencing samples with low virus concentrations, certain sequences were excluded from this study in order to avoid potential biases, e.g., sequences that were too short, re-sequences of the same sample, sequences with insufficient associated information, and sequences that showed evidence of artefacts due to the appearance of nucleotide variation. The final dataset (“dataset_112”) included 112 genomes of SARS-CoV-2 from Australia (
+ <italic>n</italic> = 8), Belgium (
+ <italic>n</italic> = 1), China (
+ <italic>n</italic> = 53), Finland (
+ <italic>n</italic> = 1), France (
+ <italic>n</italic> = 10), Germany (
+ <italic>n</italic> = 1), Japan (
+ <italic>n</italic> = 7), Korea (
+ <italic>n</italic> = 1), Nepal (
+ <italic>n</italic> = 1), Singapore (
+ <italic>n</italic> = 11), Thailand (
+ <italic>n</italic> = 2), UK (
+ <italic>n</italic> = 2), and USA (
+ <italic>n</italic> = 14) with sampling dates between 24 December 2019 and 9 February 2020. Of the 53 genomes collected from China, three were from Chongqing, two were from Fujian Province, 16 were from Guangdong Province, 21 were from Hubei Province, one was from Jiangsu Province, one was from Jiangxi Province, one was from Sichuan Province, three were from Taiwan, one was from Yunnan Province, and four were from Zhejiang Province (Supplementary Table 1). We first aligned the collected dataset (“dataset_112”) using MAFFT v7.222 (
+ <xref rid="bib0120" ref-type="bibr">Katoh and Standley, 2013</xref>) and subsequently edited the alignment manually using BioEdit v7.2.5 (
+ <xref rid="bib0110" ref-type="bibr">Hall, 1999</xref>).
+</p>

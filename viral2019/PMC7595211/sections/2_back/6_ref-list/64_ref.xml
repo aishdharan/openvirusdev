@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR64">
+ <label>64.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Van De Vijver</surname>
+    <given-names>DAMC</given-names>
+   </name>
+   <name>
+    <surname>Boucher</surname>
+    <given-names>CAB</given-names>
+   </name>
+  </person-group>
+  <article-title>Insights on transmission of HIV from phylogenetic analysis to locally optimize HIV prevention strategies</article-title>
+  <source>Curr. Opin. HIV AIDS</source>
+  <year>2018</year>
+  <volume>13</volume>
+  <fpage>95</fpage>
+  <lpage>101</lpage>
+  <pub-id pub-id-type="doi">10.1097/COH.0000000000000443</pub-id>
+  <?supplied-pmid 29266012?>
+  <pub-id pub-id-type="pmid">29266012</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2325">Non-pharmaceutical interventions (NPIs) to curb the spread a pandemic like COVID-19 may take various forms, ranging from mass publicity campaigns to educate the public about proper hygiene, social distancing, testing, up to quarantining. The main purpose of such interventions is to reduce the effective reproduction number of the disease. Reducing the effective reproduction number serves either to mitigate the disease, or to suppress it entirely 
+ <xref rid="b4" ref-type="bibr">[4]</xref>. As per Ref. 
+ <xref rid="b4" ref-type="bibr">[4]</xref>, we take ‘suppression’ to mean ‘driving infections to the (unstable) 
+ <inline-formula>
+  <math id="d1e2336" display="inline" altimg="si1.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">I</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> fixed point’, that is, driving the number of infectious cases to zero. Therefore, for the present purposes, ‘suppression’ and ‘elimination’ are synonymous. In contrast, mitigation serves to make the spread of the disease in the population more manageable (e.g. preventing a breakdown in health services due to an excess of hospital admissions). Mitigation may also involve a slow build-up of the disease in the population, with a view to achieving ‘herd immunity’ 
+ <xref rid="b5" ref-type="bibr">[5]</xref>, 
+ <xref rid="b6" ref-type="bibr">[6]</xref>, 
+ <xref rid="b7" ref-type="bibr">[7]</xref>. In contrast, suppression aims to reduce the effective reproduction number of the disease so far below unity that the disease dies out in the population.
+</p>

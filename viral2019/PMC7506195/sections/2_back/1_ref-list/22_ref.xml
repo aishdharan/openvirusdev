@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R22">
+ <label>22</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rosano</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bellaa</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Gesualdoc</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Acamporad</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Pezzottia</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Marchettie</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Investigating the impact of influenza on excess mortality in all ages in Italy during recent seasons (2013/14–2016/17 seasons).</article-title>
+  <source>Int J Infect Dis</source>. 
+  <year>2019</year>;
+  <volume>88</volume>:
+  <fpage>127</fpage>-
+  <lpage>34</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.ijid.2019.08.003</pub-id>
+  <?supplied-pmid 31401203?>
+  <pub-id pub-id-type="pmid">31401203</pub-id>
+ </mixed-citation>
+</ref>

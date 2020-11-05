@@ -1,0 +1,462 @@
+{
+  "id": [
+    "33032617"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33032617"
+  ],
+  "pmcid": [
+    "PMC7545945"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7545945"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s12981-020-00319-7"
+  ],
+  "title": [
+    "Rapid Antiretroviral Therapy (ART) Initiation at a Community-Based Clinic in Jackson, MS."
+  ],
+  "authorString": [
+    "Gomillia CES, Backus KV, Brock JB, Melvin SC, Parham JJ, Mena LA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gomillia CES"
+          ],
+          "firstName": [
+            "Courtney E Sims"
+          ],
+          "lastName": [
+            "Gomillia"
+          ],
+          "initials": [
+            "CES"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5418-3055",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Population Health Science, John D. Bower School of Population Health, University of Mississippi Medical Center, 2500 N State Street, Jackson, MS, 39216, USA. cegomillia@umc.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Backus KV"
+          ],
+          "firstName": [
+            "Kandis V"
+          ],
+          "lastName": [
+            "Backus"
+          ],
+          "initials": [
+            "KV"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Population Health Science, John D. Bower School of Population Health, University of Mississippi Medical Center, 2500 N State Street, Jackson, MS, 39216, USA."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Division of Infectious Diseases, School of Medicine, University of Mississippi Medical Center, Jackson, MS, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Brock JB"
+          ],
+          "firstName": [
+            "James B"
+          ],
+          "lastName": [
+            "Brock"
+          ],
+          "initials": [
+            "JB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Infectious Diseases, School of Medicine, University of Mississippi Medical Center, Jackson, MS, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Melvin SC"
+          ],
+          "firstName": [
+            "Sandra C"
+          ],
+          "lastName": [
+            "Melvin"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Open Arms Healthcare Center, Jackson, MS, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Parham JJ"
+          ],
+          "firstName": [
+            "Jason J"
+          ],
+          "lastName": [
+            "Parham"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Population Health Science, John D. Bower School of Population Health, University of Mississippi Medical Center, 2500 N State Street, Jackson, MS, 39216, USA."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Division of Infectious Diseases, School of Medicine, University of Mississippi Medical Center, Jackson, MS, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mena LA"
+          ],
+          "firstName": [
+            "Leandro A"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Population Health Science, John D. Bower School of Population Health, University of Mississippi Medical Center, 2500 N State Street, Jackson, MS, 39216, USA."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Division of Infectious Diseases, School of Medicine, University of Mississippi Medical Center, Jackson, MS, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5418-3055",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "3034856"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "AIDS research and therapy"
+          ],
+          "ISOAbbreviation": [
+            "AIDS Res Ther"
+          ],
+          "medlineAbbreviation": [
+            "AIDS Res Ther"
+          ],
+          "NLMid": [
+            "101237921"
+          ],
+          "ISSN": [
+            "1742-6405"
+          ],
+          "ESSN": [
+            "1742-6405"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "60"
+  ],
+  "abstractText": [
+    "BACKGROUND:Rapid antiretroviral therapy (ART), ideally initiated within twenty-four hours of diagnosis, may be crucial in efforts to increase virologic suppression and reduce HIV transmission. Recent studies, including demonstration projects in large metropolitan areas such as Atlanta, Georgia; New Orleans, Louisiana; San Francisco, California; and Washington D.C., have demonstrated that rapid ART initiation is a novel tool for expediting viral suppression in clinical settings. Here we present an evaluation of the impact of a rapid ART initiation program in a community-based clinic in Jackson, MS. METHODS:We conducted a retrospective chart review of patients who were diagnosed with HIV at Open Arms Healthcare Center or were linked to the clinic for HIV care by the Mississippi State Department of Health Disease Intervention Specialists from January 1, 2016 to December 31, 2018. Initial viral load, CD4+ T cell count, issuance of an electronic prescription (e-script), subsequent viral loads until suppressed and patient demographics were collected for each individual seen in clinic during the review period. Viral suppression was defined as a viral load less than 200 copies/mL. Rapid ART initiation was defined as receiving an e-script for antiretrovirals within seven days of diagnosis. RESULTS:Between January 1, 2016 and December 31, 2018, 70 individuals were diagnosed with HIV and presented to Open Arms Healthcare Center, of which 63 (90%) completed an initial HIV counseling visit. Twenty-seven percent of patients were provided with an e-script for ART within 7 days of diagnosis. The median time to linkage to care for this sample was 12 days and 5.5 days for rapid ART starters (p < 0.001). Median time from diagnosis to viral suppression was 55 days for rapid ART starters (p = 0.03), a 22 day decrease from standard time to viral suppression. CONCLUSION:Our results provide a similar level of evidence that rapid ART initiation is effective in decreasing time to viral suppression. Evidence from this evaluation supports the use of rapid ART initiation after an initial HIV diagnosis, including same-day treatment."
+  ],
+  "affiliation": [
+    "Department of Population Health Science, John D. Bower School of Population Health, University of Mississippi Medical Center, 2500 N State Street, Jackson, MS, 39216, USA. cegomillia@umc.edu."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Viral Suppression",
+        "Hiv Treatment",
+        "Immediate Art",
+        "Rapid Art"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        },
+        {
+          "code": [
+            "X"
+          ],
+          "name": [
+            "AIDS/HIV research"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12981-020-00319-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7545945"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7545945?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-09"
+  ],
+  "firstIndexDate": [
+    "2020-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-17"
+  ],
+  "dateOfRevision": [
+    "2020-10-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-08"
+  ],
+  "firstPublicationDate": [
+    "2020-10-08"
+  ]
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e10173">We briefly discuss the sensitivity of our results to parameter variations, focusing on some key parameters of interest. In the first instance, we remark that we have taken 
+ <inline-formula>
+  <math id="d1e10176" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> as fixed in this work — that is, the day on which NPIs are first introduced is fixed 
+ <italic>a priori</italic>. We have taken 
+ <inline-formula>
+  <math id="d1e10189" display="inline" altimg="si325.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>13</mn>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <mtext>days</mtext>
+   </mrow>
+  </math>
+ </inline-formula>, corresponding to the day on which NPIs were introduced in Ireland, on foot of the outbreak of COVID-19. By fixing 
+ <inline-formula>
+  <math id="d1e10208" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> in this way, we are asking what would be the optimal sequence of NPIs, given that the NPIs commence on a particular day. Certainly, it may be of interest to look at varying 
+ <inline-formula>
+  <math id="d1e10219" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. Based on the other results in this work, it would seem that the optimal strategy in this case would still be to suppress the disease from the outset (and to make 
+ <inline-formula>
+  <math id="d1e10229" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> as small as possible). In this way, any initial sharp rise in case numbers (due to exponential growth) would be more strongly suppressed (compared to fixed 
+ <inline-formula>
+  <math id="d1e10239" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>), and high-intensity NPIs could be lifted sooner, corresponding to a lower cost to the economy.
+</p>

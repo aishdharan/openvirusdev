@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Five parameters were estimated by fitting the model to the human and livestock epidemic data (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Table S3
+ </ext-link>). Two parameters related to the rainfall-dependent transmission among livestock (
+ <italic>A</italic> and 
+ <italic>B</italic>), two parameters estimated the spillover to humans, via contact with livestock 
+ <inline-formula>
+  <math id="i19">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msubsup>
+       <mi>β</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>−</mo>
+        <mi>H</mi>
+       </mrow>
+       <mi>C</mi>
+      </msubsup>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and via vectors (human vector transmission scaling factor 
+ <italic>X</italic>), and the fifth parameter was the number of infectious livestock at 
+ <italic>t</italic>
+ <sub>0</sub>
+ <inline-formula>
+  <math id="i20">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>I</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+        <mn>0</mn>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Parameter estimation was done by fitting simultaneously the 1) quarterly age-stratified simulated proportion of immune livestock (
+ <italic>p</italic>
+ <sub>
+  <italic>a,q</italic>
+ </sub>) to quarterly RVF IgG seroprevalence (
+ <xref ref-type="fig" rid="fig01">Fig. 1 
+  <italic>E</italic> and 
+  <italic>F</italic>
+ </xref>); 2) the simulated weekly number of reported incident cases in the farming population to the observed cases reporting a contact with animals (
+ <xref ref-type="fig" rid="fig01">Fig. 1
+  <italic>B</italic>
+ </xref>); and 3) the simulated weekly number of reported incident cases in the nonfarming population to the observed cases not reporting a prior contact with animals (
+ <xref ref-type="fig" rid="fig01">Fig. 1
+  <italic>C</italic>
+ </xref>). Values of those five parameters were sampled from their posterior distribution 
+ <inline-formula>
+  <math id="i21">
+   <mrow>
+    <mi>θ</mi>
+    <mo>=</mo>
+    <mrow>
+     <mo>{</mo>
+     <mrow>
+      <mi>A</mi>
+      <mo>,</mo>
+      <mi>B</mi>
+      <mo>,</mo>
+      <msubsup>
+       <mi>β</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>−</mo>
+        <mi>H</mi>
+       </mrow>
+       <mi>C</mi>
+      </msubsup>
+      <mo>,</mo>
+      <mi>X</mi>
+      <mo>,</mo>
+      <msub>
+       <mi>I</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+        <mn>0</mn>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>}</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> using a Monte Carlo Markov chain Metropolis–Hastings algorithm, implemented in the fitR package (
+ <xref rid="r53" ref-type="bibr">53</xref>). Finally, to assess the impact of stratifying the human population, and the impact of the rainfall lag on viral transmission, we also fitted the model to estimate these five parameters assuming that 10% of the population were farmers (
+ <italic>P</italic>
+ <sub>
+  <italic>HF</italic>
+ </sub> = 10%), and a rainfall lag of 21 d (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Table S3
+ </ext-link>). Details on model equations, parameter estimation, and model fitting are presented in 
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, 
+  <italic>Methods</italic>
+ </ext-link>.
+</p>

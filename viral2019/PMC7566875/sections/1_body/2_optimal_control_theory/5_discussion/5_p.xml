@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e7572">There is also a second and more compelling reason for our use of numerical optimization methods in this work. From the outset we rule out the search for optimal controls that involve boundary arcs. Although this restriction may result in the ruling out of globally optimum solutions, we are guided by the intended application of the work, where the outbreak of an epidemic is to be controlled using public-health interventions. These interventions tend to be on the population level. Communication with, and collaboration from, the entire population is necessary for such measures to work. As such, piecewise-controls of the type 
+ <xref rid="fd10" ref-type="disp-formula">(10)</xref> are more realistic. The formulation of the optimization problem in terms of such discrete controls lends itself naturally to a numerical approach.
+</p>

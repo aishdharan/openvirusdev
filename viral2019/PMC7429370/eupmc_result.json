@@ -1,0 +1,362 @@
+{
+  "id": [
+    "32836902"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32836902"
+  ],
+  "pmcid": [
+    "PMC7429370"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7429370"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s00521-020-05285-9"
+  ],
+  "title": [
+    "Identifying epidemic spreading dynamics of COVID-19 by pseudocoevolutionary simulated annealing optimizers."
+  ],
+  "authorString": [
+    "Zhan C, Zheng Y, Lai Z, Hao T, Li B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhan C"
+          ],
+          "firstName": [
+            "Choujun"
+          ],
+          "lastName": [
+            "Zhan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Computer, South China Normal University, Guangzhou, 510631 China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Y"
+          ],
+          "firstName": [
+            "Yufan"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nanfang College of Sun Yat-Sen University, Guangzhou, 510970 China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lai Z"
+          ],
+          "firstName": [
+            "Zhikang"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nanfang College of Sun Yat-Sen University, Guangzhou, 510970 China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hao T"
+          ],
+          "firstName": [
+            "Tianyong"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Computer, South China Normal University, Guangzhou, 510631 China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Economics, Wuhan University of Technology, Wuhan, 430070 China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3000132"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural computing & applications"
+          ],
+          "ISOAbbreviation": [
+            "Neural Comput Appl"
+          ],
+          "medlineAbbreviation": [
+            "Neural Comput Appl"
+          ],
+          "NLMid": [
+            "9313239"
+          ],
+          "ISSN": [
+            "0941-0643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-14"
+  ],
+  "abstractText": [
+    "At the end of 2019, a new coronavirus (COVID-19) epidemic has triggered global public health concern. Here, a model integrating the daily intercity migration network, which constructed from real-world migration records and the Susceptible-Exposed-Infected-Removed model, is utilized to predict the epidemic spreading of the COVID-19 in more than 300 cities in China. However, the model has more than 1800 unknown parameters, which is a challenging task to estimate all unknown parameters from historical data within a reasonable computation time. In this article, we proposed a pseudocoevolutionary simulated annealing (SA) algorithm for identifying these unknown parameters. The large volume of unknown parameters of this model is optimized through three procedures co-adapted SA-based optimization processes, respectively. Our results confirm that the proposed method is both efficient and robust. Then, we use the identified model to predict the trends of the epidemic spreading of the COVID-19 in these cities. We find that the number of infections in most cities in China has reached their peak from February 29, 2020, to March 15, 2020. For most cities outside Hubei province, the total number of infected individuals would be less than 100, while for most cities in Hubei province (exclude Wuhan), the total number of infected individuals would be less than 3000."
+  ],
+  "affiliation": [
+    "School of Computer, South China Normal University, Guangzhou, 510631 China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prediction",
+        "Complex Network",
+        "Epidemic Spreading",
+        "Evolutionary Computation",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00521-020-05285-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7429370"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7429370?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-25"
+  ],
+  "firstIndexDate": [
+    "2020-08-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-20"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-17"
+  ],
+  "firstPublicationDate": [
+    "2020-08-17"
+  ]
+}

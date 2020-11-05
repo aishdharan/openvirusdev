@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Demographic and clinical characteristics of patients newly diagnosed with HIV treated at OAHCC, January 1, 2016–December 31, 2018</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">All patients, 
+     <italic>n</italic> (%)
+    </th>
+    <th align="left">Rapid-ART group, 
+     <italic>n</italic> (%)
+    </th>
+    <th align="left">Non-Rapid ART group, 
+     <italic>n</italic> (%)
+    </th>
+    <th align="left">
+     <italic>P</italic>-value for comparison of rapid versus non-rapid groups (α = 0.05)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Number</td>
+    <td align="left">63</td>
+    <td align="left">16</td>
+    <td align="left">47</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Age (in years)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Median Age (range)</td>
+    <td align="left">27 (20–61)</td>
+    <td align="left">29.5 (21–53)</td>
+    <td align="left">27 (20–61)</td>
+    <td char="." align="char">0.38</td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Sex (gender when available)</td>
+    <td char="." align="char">0.50</td>
+   </tr>
+   <tr>
+    <td align="left"> Male</td>
+    <td align="left">53 (84%)</td>
+    <td align="left">14 (88%)</td>
+    <td align="left">39 (83%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Female</td>
+    <td align="left">8 (13%)</td>
+    <td align="left">2 (13%)</td>
+    <td align="left">6 (13%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Transgender female</td>
+    <td align="left">2 (3%)</td>
+    <td align="left">0 (0)</td>
+    <td align="left">2 (4%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Race/ethnicity</td>
+    <td char="." align="char">0.32</td>
+   </tr>
+   <tr>
+    <td align="left"> Black/African American</td>
+    <td align="left">57 (91%)</td>
+    <td align="left">16 (100%)</td>
+    <td align="left">41 (87%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Hispanic/latinx</td>
+    <td align="left">3 (4.8%)</td>
+    <td align="left">0 (0)</td>
+    <td align="left">3 (6%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">  White</td>
+    <td align="left">3 (4.8%)</td>
+    <td align="left">0 (0)</td>
+    <td align="left">3 (6%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Sexual orientation</td>
+    <td char="." align="char">0.35</td>
+   </tr>
+   <tr>
+    <td align="left"> Gay/homosexual</td>
+    <td align="left">35 (56%)</td>
+    <td align="left">11 (69%)</td>
+    <td align="left">24 (51%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Heterosexual</td>
+    <td align="left">16 (25%)</td>
+    <td align="left">2 (13%)</td>
+    <td align="left">14 (30%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Bisexual</td>
+    <td align="left">12 (19%)</td>
+    <td align="left">3 (19%)</td>
+    <td align="left">9 (19%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Insurance</td>
+    <td char="." align="char">0.45</td>
+   </tr>
+   <tr>
+    <td align="left"> Uninsured</td>
+    <td align="left">36 (57%)</td>
+    <td align="left">8 (50%)</td>
+    <td align="left">28 (60%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Commercial</td>
+    <td align="left">20 (32%)</td>
+    <td align="left">7 (44%)</td>
+    <td align="left">13 (28%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Government Ins. (medicaid/medicare)</td>
+    <td align="left">7 (11%)</td>
+    <td align="left">1 (6%)</td>
+    <td align="left">6 (12%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">Substance use</td>
+    <td char="." align="char">0.84</td>
+   </tr>
+   <tr>
+    <td align="left"> Marijuana</td>
+    <td align="left">14 (22%)</td>
+    <td align="left">3 (18%)</td>
+    <td align="left">11 (65%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left"> Other (cocaine, opioids, etc.)</td>
+    <td align="left">3 (5%)</td>
+    <td align="left">1 (5%)</td>
+    <td align="left">2 (12%)</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left" colspan="5">Baseline CD4+, HIV RNA (mean, ± SD)</td>
+   </tr>
+   <tr>
+    <td align="left"> CD4+ T cell count (cells/μl)</td>
+    <td align="left">446 (± 290.25)</td>
+    <td align="left">603 (± 323.74)</td>
+    <td align="left">393 (± 260.64)</td>
+    <td char="." align="char">0.009</td>
+   </tr>
+   <tr>
+    <td align="left"> HIV RNA (copies/mL)</td>
+    <td align="left">49,768 (130–10 million)</td>
+    <td align="left">22,800 (500–10 million)</td>
+    <td align="left">60,199 (130–3.8 million)</td>
+    <td char="." align="char">0.076</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

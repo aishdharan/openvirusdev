@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The DFT transforms a complex signal into its complex spectrum. If the signal is real (as in most of applications), half of the data is redundant, i.e. half of the computation is wasted. In time domain the imaginary part of the signal is all zero, and in frequency domain, both real and imaginary parts of the spectrum are symmetric [
+ <xref rid="ref38" ref-type="bibr">38</xref>]. Discrete cosine transform (DCT) generates real spectrum of a real signal and thereby avoids redundant data and computation [
+ <xref rid="ref39" ref-type="bibr">39</xref>]. The DCT of a real sequence, x (n), with length N is defined as:
+ <disp-formula id="deqn02">
+  <label>(2)</label>
+  <tex-math id="M2">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} d(k)=u(k)\sum_{n=1}^Nx(n)\cos \frac{\pi \left(2n-1\right)\left(k-1\right)}{2N},k=1,..,N \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+ <disp-formula id="deqn03">
+  <label>(3)</label>
+  <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} u(k)=\left\{\kern-5pt\begin{array}{c}1/\sqrt{N},k=1\ \\{}\sqrt{2/N}, 2\le k\le N\ \end{array}\right. \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

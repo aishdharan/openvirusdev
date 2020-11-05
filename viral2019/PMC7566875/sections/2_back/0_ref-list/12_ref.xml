@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b12">
+ <label>12</label>
+ <element-citation publication-type="journal" id="sb12">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bolzoni</surname>
+    <given-names>Luca</given-names>
+   </name>
+   <name>
+    <surname>Bonacini</surname>
+    <given-names>Elena</given-names>
+   </name>
+   <name>
+    <surname>Della Marca</surname>
+    <given-names>Rossella</given-names>
+   </name>
+   <name>
+    <surname>Groppi</surname>
+    <given-names>Maria</given-names>
+   </name>
+  </person-group>
+  <article-title>Optimal control of epidemic size and duration with limited resources</article-title>
+  <source>Math. Biosci.</source>
+  <volume>315</volume>
+  <year>2019</year>
+  <object-id pub-id-type="publisher-id">108232</object-id>
+ </element-citation>
+</ref>

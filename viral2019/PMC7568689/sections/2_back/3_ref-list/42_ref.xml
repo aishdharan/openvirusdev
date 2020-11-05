@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR42">
+ <label>42.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Puglia</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Stasi</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Da Frè</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Voller</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <article-title>Prevalence and characteristics of HIV/HBV and HIV/HCV coinfections in Tuscany</article-title>
+  <source>Braz J Infect Dis</source>
+  <year>2016</year>
+  <volume>20</volume>
+  <fpage>330</fpage>
+  <lpage>334</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.bjid.2015.11.007</pub-id>
+  <?supplied-pmid 26748234?>
+  <pub-id pub-id-type="pmid">26748234</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR46">
+ <label>46.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kimura</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ide</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kashihara</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kano</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Hatakeyama</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Masui</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Nakagawa</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Yokoyama</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Kuramitsu</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Konagaya</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Inference of s-system models of genetic networks using a cooperative coevolutionary algorithm</article-title>
+  <source>Bioinformatics</source>
+  <year>2005</year>
+  <volume>21</volume>
+  <issue>7</issue>
+  <fpage>1154</fpage>
+  <lpage>1163</lpage>
+  <pub-id pub-id-type="pmid">15514004</pub-id>
+ </element-citation>
+</ref>

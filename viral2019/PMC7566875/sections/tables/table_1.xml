@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl1">
+ <label>Table 1</label>
+ <caption>
+  <p>Effect of various interventions on the value of the basic reproductive number 
+   <inline-formula>
+    <math id="d1e1101" display="inline" altimg="si47.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">R</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>. The formula for 
+   <inline-formula>
+    <math id="d1e1111" display="inline" altimg="si47.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">R</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> is given in Eq. 
+   <xref rid="fd8" ref-type="disp-formula">(8)</xref>, with 
+   <inline-formula>
+    <math id="d1e1127" display="inline" altimg="si49.svg">
+     <msub>
+      <mrow>
+       <mi>β</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> replaced by 
+   <inline-formula>
+    <math id="d1e1137" display="inline" altimg="si50.svg">
+     <mi>β</mi>
+    </math>
+   </inline-formula>. The given values of 
+   <inline-formula>
+    <math id="d1e1142" display="inline" altimg="si50.svg">
+     <mi>β</mi>
+    </math>
+   </inline-formula> correspond to 
+   <inline-formula>
+    <math id="d1e1147" display="inline" altimg="si52.svg">
+     <msub>
+      <mrow>
+       <mi>β</mi>
+      </mrow>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="d1e1158" display="inline" altimg="si53.svg">
+     <msub>
+      <mrow>
+       <mi>β</mi>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> respectively in the optimization problem 
+   <xref rid="fd6" ref-type="disp-formula">(6)</xref>, the numerical values of which are given in 
+   <xref rid="appA" ref-type="sec">Appendix A</xref>. Similarly, the value for the case-isolation parameter 
+   <inline-formula>
+    <math id="d1e1176" display="inline" altimg="si54.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">i</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> is obtained from the optimization problem 
+   <xref rid="fd6" ref-type="disp-formula">(6)</xref>, with the details provided again in 
+   <xref rid="appA" ref-type="sec">Appendix A</xref>.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Intervention</th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1205" display="inline" altimg="si50.svg">
+       <mi>β</mi>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1210" display="inline" altimg="si54.svg">
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">i</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">S</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1220" display="inline" altimg="si57.svg">
+       <mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">R</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>(</mo>
+         <mi>β</mi>
+         <mo>,</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">i</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+      </math>
+     </inline-formula>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Case isolation, no other interventions</td>
+    <td align="left">1.4695</td>
+    <td align="left">0.3405</td>
+    <td align="left">2.6945</td>
+   </tr>
+   <tr>
+    <td colspan="4">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Case isolation, schools and universities are closed, 
+     <break/>mass gatherings are banned
+    </td>
+    <td align="left">1.1009</td>
+    <td align="left">0.3405</td>
+    <td align="left">2.0187</td>
+   </tr>
+   <tr>
+    <td colspan="4">
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Case isolation, all non-essential services 
+     <break/>and industries closed , travel restrictions
+    </td>
+    <td align="left">0.3576</td>
+    <td align="left">0.3405</td>
+    <td align="left">0.6557</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

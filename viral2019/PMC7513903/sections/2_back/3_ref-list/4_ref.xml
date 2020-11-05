@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wilcox</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Gubler</surname>
+    <given-names>DJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Disease ecology and the global emergence of zoonotic pathogens</article-title>
+  <source>Environ. Health Prev. Med.</source>
+  <year>2005</year>
+  <volume>10</volume>
+  <fpage>263</fpage>
+  <lpage>272</lpage>
+  <pub-id pub-id-type="doi">10.1007/BF02897701</pub-id>
+  <?supplied-pmid 21432130?>
+  <pub-id pub-id-type="pmid">21432130</pub-id>
+ </element-citation>
+</ref>

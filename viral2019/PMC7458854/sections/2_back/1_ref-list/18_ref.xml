@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhou</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Liao</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Bai</surname>
+    <given-names>W</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Preliminary prediction of the basic reproduction number of the Wuhan novel coronavirus 2019-nCoV</article-title>
+  <source>J Evid Based Med</source>
+  <year>2020</year>
+  <volume>13</volume>
+  <issue>1</issue>
+  <fpage>3</fpage>
+  <lpage>7</lpage>
+  <pub-id pub-id-type="pmid">32048815</pub-id>
+ </element-citation>
+</ref>

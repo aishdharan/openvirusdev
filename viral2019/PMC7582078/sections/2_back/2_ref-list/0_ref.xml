@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mohammadi</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Meskini</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>do Nascimento Pinto</surname>
+    <given-names>A. L.</given-names>
+   </name>
+  </person-group>
+  <article-title>2019 Novel coronavirus (COVID-19) overview</article-title>
+  <source>
+   <italic toggle="yes">Journal of Public Health</italic>
+  </source>
+  <year>2019</year>
+  <volume>2020</volume>
+  <pub-id pub-id-type="doi">10.1007/s10389-020-01258-3</pub-id>
+ </element-citation>
+</ref>

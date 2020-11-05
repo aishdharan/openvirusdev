@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR31">
+ <label>31.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vabret</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Dina</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Gouarin</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Petitjean</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Tripey</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Brouard</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human (non-severe acute respiratory syndrome) coronavirus infections in hospitalised children in France</article-title>
+  <source>J Paediatr Child Health</source>
+  <year>2008</year>
+  <volume>44</volume>
+  <issue>4</issue>
+  <fpage>176</fpage>
+  <lpage>181</lpage>
+  <pub-id pub-id-type="doi">10.1111/j.1440-1754.2007.01246.x</pub-id>
+  <?supplied-pmid 17999671?>
+  <pub-id pub-id-type="pmid">17999671</pub-id>
+ </element-citation>
+</ref>

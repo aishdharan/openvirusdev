@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Galea</surname>
+   <given-names>Sandro</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <!--<email>sgalea@bu.edu</email>-->
+  <xref rid="cor1" ref-type="corresp"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Keyes</surname>
+   <given-names>Katherine</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+</contrib-group>

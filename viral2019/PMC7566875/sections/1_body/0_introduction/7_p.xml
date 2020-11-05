@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2380">In this work, we perform optimal control theory over a fixed time horizon of one year. The motivation is that this is a realistic time horizon over which to manage the spread of COVID-19 in population, before the advent of anticipated therapeutic interventions such as anti-viral drugs and vaccines. This approach follows the recent work in Ref. 
+ <xref rid="b5" ref-type="bibr">[5]</xref>. This prior work is an important first step in the application of Optimal Control Theory to the COVID-19 outbreak. We build on this prior work by working with a linear cost function (Reference 
+ <xref rid="b5" ref-type="bibr">[5]</xref> uses a cost function that is quadratic in the intensity of the non-pharmaceutical interventions). A linear cost function may be more realistic from the point-of-view of economic modelling 
+ <xref rid="b15" ref-type="bibr">[15]</xref>. Ref. 
+ <xref rid="b5" ref-type="bibr">[5]</xref> involves modelling in the absence of state constraints; in the present article we include state constraints. This makes the mathematical analysis more involved, so a numerical optimization approach is favoured herein. Finally, we emphasize that although the model is calibrated for the Irish context, and the optimization performed in that context also, the methods are entirely generic, and will find use more broadly.
+</p>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig8">
+ <label>Figure 8</label>
+ <caption>
+  <p>The Nightmare of a Recurring Long-Lasting SARS-CoV-2</p>
+  <p>Same as 
+   <xref rid="fig6" ref-type="fig">Figure 6</xref>, but for the slow LOI-rate scenario (γ
+   <sub>in</sub> = 0.00055, or 5-year period) and for the first 50 (A and C) and 100 (B and D) years of the simulation. Both with (ε = 1; [A and B]) and without (ε = 0; [C and D]) solar pump, cycles proceed driven by the slow-rate re-appearing vulnerability of the immune system, with decreasing periods at all latitudes. When UV photons are considered (B), the initial epidemics' bursts are generally intense and erratic, especially at north and south latitudes, and become steadily recurring and stabilize to the seasonal cycle only after 25–70 years depending on the latitude (and in the absence of cross-mixing population), fortunately with moderate strength. Should LOI happen on a long timescale (5 years in this simulation), the presence of UV photons from the Sun (A and B) would make the first several epidemics bursts in the northern and southern hemisphere particularly intense. The fraction of actual people infected at any time over the susceptible population would reach peak values of up to 30% during the first 25 (south) and 50 (north) years and would then stabilize, oscillating within the range 0.02–10% (at latitudes ±40) and 0.2–1% (at the Equator), for the next 25–50 years (B).
+  </p>
+ </caption>
+ <graphic xlink:href="gr8_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

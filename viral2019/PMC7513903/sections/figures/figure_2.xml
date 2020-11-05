@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <title>Philogenetic relationships in the Coronaviridae subfamily from the Coronavirinae family.</title>
+  <p>The viruses in the subfamily group into four genera: Alphacoronavirus, Betacoronavirus, Gammacoronavirus, and Deltacoronavirus, based on their phylogenic relationshios and genomic structures; the alphacoronaviruses and betacoronaviruses infect only mammals and usually cause respiratory syndromes in humans, the gammacoronaviruses infect avian species and the deltacoronaviruses infect both birds and mammals. The highly infective viruses SARS-CoV and MERS-CoV are betacoronaviruses, the COVID-19 virus is not listed among the betacoronaviruses because it was not yet known and classified in early 2019. Other details are found in Cui et al. 2019 (Figure modified from Cui et al.)
+   <sup>
+    <xref ref-type="bibr" rid="CR31">31</xref>
+   </sup>.
+  </p>
+ </caption>
+ <graphic xlink:href="41419_2020_2995_Fig2_HTML" id="d30e415" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

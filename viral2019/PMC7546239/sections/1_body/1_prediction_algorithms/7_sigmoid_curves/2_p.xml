@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e1977">The logistic function is a well-known example of an epidemiological sigmoid curve (
+ <xref rid="b38" ref-type="bibr">Van Mieghem, 2016</xref>, 
+ <xref rid="b39" ref-type="bibr">Verhulst, 1845</xref>). We assume the cumulative number of infected cases 
+ <inline-formula>
+  <math id="d1e1985" display="inline" altimg="si138.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> in region 
+ <inline-formula>
+  <math id="d1e2003" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> at time 
+ <inline-formula>
+  <math id="d1e2009" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula> to follow a logistic function: 
+ <disp-formula id="fd5">
+  <label>(5)</label>
+  <math id="d1e2020" display="block" altimg="si65.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>y</mi>
+       </mrow>
+       <mrow>
+        <mi>∞</mi>
+        <mo>,</mo>
+        <mi>i</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+      <mo linebreak="badbreak">+</mo>
+      <msup>
+       <mrow>
+        <mi>e</mi>
+       </mrow>
+       <mrow>
+        <mo linebreak="badbreak">−</mo>
+        <msub>
+         <mrow>
+          <mi>K</mi>
+         </mrow>
+         <mrow>
+          <mi>i</mi>
+         </mrow>
+        </msub>
+        <mrow>
+         <mo>(</mo>
+         <mi>k</mi>
+         <mo linebreak="badbreak">−</mo>
+         <msub>
+          <mrow>
+           <mi>t</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+           <mo>,</mo>
+           <mi>i</mi>
+          </mrow>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+      </msup>
+     </mrow>
+    </mfrac>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>where 
+ <inline-formula>
+  <math id="d1e2094" display="inline" altimg="si66.svg">
+   <msub>
+    <mrow>
+     <mi>y</mi>
+    </mrow>
+    <mrow>
+     <mi>∞</mi>
+     <mo>,</mo>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is the long-term fraction of infections, 
+ <inline-formula>
+  <math id="d1e2108" display="inline" altimg="si67.svg">
+   <msub>
+    <mrow>
+     <mi>K</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is the logistic growth rate and 
+ <inline-formula>
+  <math id="d1e2119" display="inline" altimg="si68.svg">
+   <msub>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is the inflection point, also known as the epidemic peak. The parameters 
+ <inline-formula>
+  <math id="d1e2133" display="inline" altimg="si66.svg">
+   <msub>
+    <mrow>
+     <mi>y</mi>
+    </mrow>
+    <mrow>
+     <mi>∞</mi>
+     <mo>,</mo>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, 
+ <inline-formula>
+  <math id="d1e2147" display="inline" altimg="si67.svg">
+   <msub>
+    <mrow>
+     <mi>K</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e2157" display="inline" altimg="si68.svg">
+   <msub>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> are estimated for each region separately using a nonlinear curve fitting procedure, which is explained in Appendix F. Other sigmoid curves, like the Hill function and Gompertz function, are also discussed in Appendix F.
+</p>

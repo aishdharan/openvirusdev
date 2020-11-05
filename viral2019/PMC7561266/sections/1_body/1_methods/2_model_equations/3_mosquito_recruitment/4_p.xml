@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Here, 
+ <italic>ρ</italic>(
+ <italic>t</italic>) represents the number of adult female mosquitoes recruited per time step; 
+ <italic>δ</italic>(
+ <italic>t</italic>) is a Gaussian distribution for the number of mosquitoes added to the population daily, during the unimodal peak season; 
+ <italic>ρ</italic>
+ <sub>
+  <italic>b</italic>
+ </sub>(
+ <italic>t</italic>) is the number of mosquitoes added to the population at intervals (
+ <italic>iv</italic>) during the all-year-round recruitment. 
+ <italic>R</italic>
+ <sub>
+  <italic>peak</italic>
+ </sub> is the total number of mosquitoes recruited during the unimodal peak season; 
+ <italic>R</italic>
+ <sub>
+  <italic>base</italic>
+ </sub> is the total number of mosquitoes recruited during the baseline, year-round recruitment; 
+ <italic>R</italic>
+ <sub>
+  <italic>tot</italic>
+ </sub> is the total number of mosquitoes recruited into the population over the year.
+</p>

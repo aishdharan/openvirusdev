@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref25">
+ <label>25.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Elasnaoui</surname>
+    <given-names>K</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chawki</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Using X-ray images and deep learning for automated detection of coronavirus disease</article-title>. 
+  <source>J Biomol Struct Dyn</source>
+  <year>2020</year>;
+  <fpage>1</fpage>–
+  <lpage>12</lpage>. doi: 
+  <pub-id pub-id-type="doi">10.1080/07391102.2020.1767212</pub-id>.
+ </mixed-citation>
+</ref>

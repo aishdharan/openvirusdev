@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Main characteristics of HIV-1 infected population from Kinshasa (DRC) with collected DBS in 2016–2018.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left"> Children/adolescents (%) </th>
+    <th align="left"> Adults (%) </th>
+    <th align="left"> Total (%) </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left"> Subjects with 
+     <italic>pol</italic> sequence 
+    </td>
+    <td align="left"> 55 (33.3) </td>
+    <td align="left"> 110 (66.7) </td>
+    <td align="left"> 165 (100) </td>
+   </tr>
+   <tr>
+    <td align="left"> Female </td>
+    <td align="left"> 28 (50.9) </td>
+    <td align="left"> 64 (58.2) </td>
+    <td align="left"> 92 (55.8) </td>
+   </tr>
+   <tr>
+    <td align="left"> Age at DBS collection (years), median [IQR] </td>
+    <td align="left">14.4 [11.4–16.8]</td>
+    <td align="left"> 43 [34–53.5] </td>
+    <td align="left"> 32.4 [16.2–48.5] </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">
+     <bold>ART exposure</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> ARV naive </td>
+    <td align="left"> 0 </td>
+    <td align="left"> 11 (10) </td>
+    <td align="left"> 11 (6.7) </td>
+   </tr>
+   <tr>
+    <td align="left"> ART </td>
+    <td align="left"> 55 (100) </td>
+    <td align="left"> 69 (62.7) </td>
+    <td align="left"> 124 (75.2) </td>
+   </tr>
+   <tr>
+    <td align="left"> Unknown </td>
+    <td align="left"> 0 </td>
+    <td align="left"> 30 (27.3) </td>
+    <td align="left"> 30 (18.2) </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">
+     <bold>HIV-1 viraemia&gt;1000 HIV-1-RNA copies at sampling (data known in 55 children and in 103 adults)</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> In 1 DBS dot [range] </td>
+    <td align="left">
+     <p> 19/55 (34.5) </p>
+     <p> [1260–16,700] </p>
+    </td>
+    <td align="left">
+     <p> 51/103 (49.5) </p>
+     <p> [1200–132,000] </p>
+    </td>
+    <td align="left">
+     <p> 70 (42.4) </p>
+     <p> [1200–132,000] </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> In 1 ml plasma* [range] </td>
+    <td align="left">
+     <p>49/55 (89.1) </p>
+     <p> [1351–469,320] </p>
+    </td>
+    <td align="left">
+     <p> 86/103 (83.5) </p>
+     <p> [1008–3,901,478] </p>
+    </td>
+    <td align="left">
+     <p> 135 (81.8) </p>
+     <p> [1008–3,901,478] </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">
+     <bold>Available</bold>
+     <bold>
+      <italic>pol</italic>
+     </bold>
+     <bold>HIV-1 sequences</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> PR </td>
+    <td align="left">36 (65.5)</td>
+    <td align="left"> 79 (71.8) </td>
+    <td align="left"> 115 (69.7) </td>
+   </tr>
+   <tr>
+    <td align="left"> RT </td>
+    <td align="left">49 (89.1)</td>
+    <td align="left"> 90 (81.8) </td>
+    <td align="left"> 139 (84.2) </td>
+   </tr>
+   <tr>
+    <td align="left"> IN </td>
+    <td align="left">40 (72.7)</td>
+    <td align="left"> 75 (68.2) </td>
+    <td align="left"> 115 (69.7) </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">
+     <bold>Combination of sequences by regions</bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> Only PR </td>
+    <td align="left">0</td>
+    <td align="left"> 1 (0.9) </td>
+    <td align="left"> 1 (0.6) </td>
+   </tr>
+   <tr>
+    <td align="left"> Only RT </td>
+    <td align="left">5 (9.1)</td>
+    <td align="left"> 8 (7.3) </td>
+    <td align="left"> 13 (7.9) </td>
+   </tr>
+   <tr>
+    <td align="left"> Only IN </td>
+    <td align="left">6 (10.9)</td>
+    <td align="left"> 19 (17.3) </td>
+    <td align="left"> 25 (15.1) </td>
+   </tr>
+   <tr>
+    <td align="left"> PR+RT </td>
+    <td align="left">10 (18.2)</td>
+    <td align="left"> 26 (23.6) </td>
+    <td align="left"> 36 (21.8) </td>
+   </tr>
+   <tr>
+    <td align="left"> RT+IN </td>
+    <td align="left">8 (14.5)</td>
+    <td align="left"> 4 (3.6) </td>
+    <td align="left"> 12 (7.3) </td>
+   </tr>
+   <tr>
+    <td align="left"> PR+RT+IN </td>
+    <td align="left">26 (47.3)</td>
+    <td align="left"> 52 (47.3) </td>
+    <td align="left"> 78 (47.3) </td>
+   </tr>
+   <tr>
+    <td align="left" colspan="4">
+     <bold>HIV-1 variants at</bold>
+     <bold>
+      <italic>pol</italic>
+     </bold>
+    </td>
+   </tr>
+   <tr>
+    <td align="left"> Subtype B </td>
+    <td align="left"> 1 (1.8) </td>
+    <td align="left"> 0 </td>
+    <td align="left"> 1 (0.6) </td>
+   </tr>
+   <tr>
+    <td align="left"> Non-B subtypes </td>
+    <td align="left"> 28 (50.9) </td>
+    <td align="left"> 70 (62.4) </td>
+    <td align="left"> 98 (59.4) </td>
+   </tr>
+   <tr>
+    <td align="left"> CRF </td>
+    <td align="left"> 2 (3.6) </td>
+    <td align="left"> 19 (17) </td>
+    <td align="left"> 21 (12.7) </td>
+   </tr>
+   <tr>
+    <td align="left"> URF </td>
+    <td align="left"> 22 (40) </td>
+    <td align="left"> 17 (14.5) </td>
+    <td align="left"> 39 (23.7) </td>
+   </tr>
+   <tr>
+    <td align="left"> U </td>
+    <td align="left"> 2 (3.6) </td>
+    <td align="left"> 4 (3.6) </td>
+    <td align="left"> 6 (3.6) </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>DRC, Democratic Republic of Congo; DBS, dried blood specimens; ART, antiretroviral treatment; ARV, antiretroviral drugs; PR, protease; RT, retrotranscriptase; IN, integrase; 
+   <italic>pol</italic>, HIV-1 
+   <italic>pol</italic> coding region; CRF, circular recombinant forms; URF, unique recombinants forms; U, unknown variant, not ascribed to pure subtype, CRF or URF.
+  </p>
+  <p>*Estimated HIV-1-RNA copies considering hematocrit
+   <sup>
+    <xref ref-type="bibr" rid="CR70">70</xref>,
+    <xref ref-type="bibr" rid="CR71">71</xref>
+   </sup>.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

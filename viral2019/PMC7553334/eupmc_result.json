@@ -1,0 +1,487 @@
+{
+  "id": [
+    "33048921"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33048921"
+  ],
+  "pmcid": [
+    "PMC7553334"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7553334"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1371/journal.pntd.0008567"
+  ],
+  "title": [
+    "Dengue epidemic in a non-endemic zone of Bangladesh: Clinical and laboratory profiles of patients."
+  ],
+  "authorString": [
+    "Rafi A, Mousumi AN, Ahmed R, Chowdhury RH, Wadood A, Hossain G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rafi A"
+          ],
+          "firstName": [
+            "Abdur"
+          ],
+          "lastName": [
+            "Rafi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5415-6399",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Rajshahi Medical College, Rajshahi, Rajshahi, Bangladesh."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mousumi AN"
+          ],
+          "firstName": [
+            "Ashrafun Nahar"
+          ],
+          "lastName": [
+            "Mousumi"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shaheed Ziaur Rahman Medical College, Bogra, Bogra, Bangladesh."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmed R"
+          ],
+          "firstName": [
+            "Reejvi"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sir Salimullah Medical College, Dhaka, Dhaka, Bangladesh."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chowdhury RH"
+          ],
+          "firstName": [
+            "Rezwanul Haque"
+          ],
+          "lastName": [
+            "Chowdhury"
+          ],
+          "initials": [
+            "RH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Rangpur Medical College, Rangpur, Rangpur, Bangladesh."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wadood A"
+          ],
+          "firstName": [
+            "Abdul"
+          ],
+          "lastName": [
+            "Wadood"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5506-6803",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medical Centre, University of Rajshahi, Rajshahi, Bangladesh."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hossain G"
+          ],
+          "firstName": [
+            "Golam"
+          ],
+          "lastName": [
+            "Hossain"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3822-5489",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Health Research Group, Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5415-6399",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5506-6803",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3822-5489",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "3028658"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS neglected tropical diseases"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "medlineAbbreviation": [
+            "PLoS Negl Trop Dis"
+          ],
+          "NLMid": [
+            "101291488"
+          ],
+          "ISSN": [
+            "1935-2727"
+          ],
+          "ESSN": [
+            "1935-2735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0008567"
+  ],
+  "abstractText": [
+    "BACKGROUNDS:Approximately, half of the population in the world including tropical and sub-tropical climates region is at risk of dengue. Being an endemic country, Bangladesh has experienced the largest dengue epidemic in 2019. The present study aimed at evaluating the clinical and laboratory profile of dengue patients in northern Bangladesh during the epidemic. METHODS:This cross-sectional study included 319 serologically confirmed dengue patients admitted in Shaheed Ziaur Rahman Medical College Hospital in Bogra district. It is one of the main tertiary care hospitals in northern Bangladesh. Data were collected from July to September 2019. Patients' clinical and laboratory data were extracted from clinical records. Patients were classified into two classes according to the WHO 2009 dengue classification such as (i) non-severe dengue and (ii) severe dengue. Chi-square test and independent t-test were used in this study. RESULTS:Of the 319 patients, 94.1% had non-severe dengue and the remaining 5.9% had severe dengue (severe plasma leakage 68.4%, severe organ involvement 68.4%, and severe clinical bleeding 10.5%). Most of the patients were suffering from primary dengue infection. The most common clinical presentation was fever followed by headache and myalgia. Vomiting and abdominal pain were the most prevalent warning signs. The common hematological findings on admission were leukopenia (63.3%), thrombocytopenia (30.4%) and increased hematocrit (26.6%). Raised serum ALT or AST was observed in 14.1% cases whereas raised serum creatinine was observed in 6.6% cases. Signs of plasma leakage (pleural effusion, respiratory distress, and ascites, rise of hematocrit >20% during hospital stay) and hepatic or renal involvement (serum ALT >42UI/L or serum creatinine >1.2 mg/dL) on admission were mostly associated with severe dengue. CONCLUSION:The study provides clinical evidence on presentation as well as hematological and biochemical profile of dengue patients in northern Bangladesh that should be implicated in effective patient management."
+  ],
+  "affiliation": [
+    "Rajshahi Medical College, Rajshahi, Rajshahi, Bangladesh."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pntd.0008567"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7553334"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7553334?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR173238"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-13"
+  ],
+  "firstIndexDate": [
+    "2020-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-13"
+  ],
+  "firstPublicationDate": [
+    "2020-10-13"
+  ]
+}

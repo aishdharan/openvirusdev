@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The estimated values of important parameters of COVID-19 was analyzed in recently studied epidemic models (
+ <xref ref-type="supplementary-material" rid="S1">Supplementary Table 1</xref>).
+ <xref rid="B12" ref-type="bibr">12</xref>
+ <xref rid="B13" ref-type="bibr">13</xref>
+ <xref rid="B14" ref-type="bibr">14</xref>
+ <xref rid="B15" ref-type="bibr">15</xref>
+ <xref rid="B16" ref-type="bibr">16</xref>
+ <xref rid="B17" ref-type="bibr">17</xref>
+ <xref rid="B18" ref-type="bibr">18</xref>
+ <xref rid="B19" ref-type="bibr">19</xref>
+ <xref rid="B20" ref-type="bibr">20</xref>
+ <xref rid="B21" ref-type="bibr">21</xref>
+ <xref rid="B22" ref-type="bibr">22</xref>
+ <xref rid="B23" ref-type="bibr">23</xref>
+ <xref rid="B24" ref-type="bibr">24</xref>
+ <xref rid="B25" ref-type="bibr">25</xref>
+ <xref rid="B26" ref-type="bibr">26</xref>
+ <xref rid="B27" ref-type="bibr">27</xref>
+ <xref rid="B28" ref-type="bibr">28</xref>
+ <xref rid="B29" ref-type="bibr">29</xref>
+ <xref rid="B30" ref-type="bibr">30</xref>
+ <xref rid="B31" ref-type="bibr">31</xref>
+ <xref rid="B32" ref-type="bibr">32</xref> The parameters for the SEIRD model were set by the data analysis results for Wuhan city, China and Gyeongbuk, Daegu, Korea. We assumed no further transmission would occur once a person entered into the status of R. 
+ <italic>S</italic> was set to (
+ <italic>P</italic>-
+ <italic>I</italic>[0]-
+ <italic>E</italic>[0]), total city population (
+ <italic>P</italic>) excluding the initially infected and exposed population.
+ <xref rid="B9" ref-type="bibr">9</xref>
+ <italic>E</italic> was set as 20 times that of 
+ <italic>I</italic> in accordance with Wang et al.
+ <xref rid="B12" ref-type="bibr">12</xref> and Read et al.
+ <xref rid="B13" ref-type="bibr">13</xref>
+ <italic>R</italic>(0) and 
+ <italic>D</italic>(0) were set as 0. The mean incubation period of the new coronavirus was determined to be 5.2 days according to previously published studies.
+ <xref rid="B14" ref-type="bibr">14</xref>
+ <xref rid="B15" ref-type="bibr">15</xref>
+ <xref rid="B16" ref-type="bibr">16</xref>
+ <xref rid="B17" ref-type="bibr">17</xref> Therefore, δ was set as 0.1923(= 1/5.2) with reference to previously published studies.
+ <xref rid="B14" ref-type="bibr">14</xref>
+ <xref rid="B15" ref-type="bibr">15</xref>
+ <xref rid="B16" ref-type="bibr">16</xref>
+ <xref rid="B18" ref-type="bibr">18</xref>
+ <xref rid="B20" ref-type="bibr">20</xref> In some
+ <xref rid="B12" ref-type="bibr">12</xref>
+ <xref rid="B22" ref-type="bibr">22</xref> though not all
+ <xref rid="B21" ref-type="bibr">21</xref> previous studies, the average hospitalization period including the mean time from pathogenesis (disease onset) to diagnosis was calculated as 18 days. The median time from disease onset to diagnosis among confirmed patients was previously found to be 5 days.
+ <xref rid="B23" ref-type="bibr">23</xref> On this basis, our γ was set as 0.0556(= 1/18) while various γ were presented in earlier research.
+ <xref rid="B12" ref-type="bibr">12</xref>
+ <xref rid="B14" ref-type="bibr">14</xref>
+ <xref rid="B15" ref-type="bibr">15</xref>
+ <xref rid="B16" ref-type="bibr">16</xref>
+ <xref rid="B21" ref-type="bibr">21</xref>
+ <xref rid="B24" ref-type="bibr">24</xref> And 
+ <italic>d</italic> was set as 14 days according to the existing research result.
+ <xref rid="B20" ref-type="bibr">20</xref> α is strongly influenced by elapsed time, age, and underlying disease from the date of virus spread.
+ <xref rid="B25" ref-type="bibr">25</xref>
+ <xref rid="B26" ref-type="bibr">26</xref> The values used in our model were based on mortality rates for those over 60 years of age as of May 4, 2020.
+ <xref rid="B27" ref-type="bibr">27</xref>
+</p>

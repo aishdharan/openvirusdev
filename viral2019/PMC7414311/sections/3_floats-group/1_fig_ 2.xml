@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Genome organization of the 7 human coronaviruses. The genomes range in size from 26 to about 32 kb. The order of the genome is typically 5′-ORF1a-ORF1b-S-E-M-N-3’. ORF1a and ORF1b overlap and occupy the 5′ two-thirds of the genome. Both encode for the components required for replication and transcription. The 3′ one-third of the genome encodes for structural (S-E-M-N) and accessory proteins (
+   <italic>green</italic>). The illustrations and ORFs overlap are not to scale.
+  </p>
+ </caption>
+ <graphic xlink:href="gr2_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0105">A third-generation NGS instrument, the MinION, has become very popular and is a promising tool for developing point-of-care mNGS methods. The MinION is a portable sequencer that uses the innovative Nanopore protein pores for sequencing. Strands of DNA or RNA are directed to the protein pores and a characteristic change in the electric current distinguishes nucleotide bases.
+ <xref rid="bib41" ref-type="bibr">
+  <sup>41</sup>
+ </xref> Easy-to-prepare libraries and real-time analysis facilitate the use of MinION as a clinical diagnostic tool. Nanopore recently released Flongle, a flow cell designed for individual tests with less cost. This addition will further enhance the potential of the clinical implementation of this technology.
+</p>

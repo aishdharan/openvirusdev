@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="jmv25723-tbl-0001" xml:lang="en" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Epidemiological parameters estimated by birth‐death skyline analysis</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/>
+  <thead valign="bottom">
+   <tr style="border-bottom:solid 1px #000000" valign="bottom">
+    <th valign="bottom" rowspan="1" colspan="1">Parameter</th>
+    <th valign="bottom" rowspan="1" colspan="1">Mean estimate</th>
+    <th valign="bottom" rowspan="1" colspan="1">95% HPD low</th>
+    <th valign="bottom" rowspan="1" colspan="1">95% HPD up</th>
+   </tr>
+  </thead>
+  <tbody valign="top">
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">
+     <italic>R</italic>
+     <sub>e</sub>1
+    </td>
+    <td valign="top" rowspan="1" colspan="1">0.8</td>
+    <td valign="top" rowspan="1" colspan="1">0.29</td>
+    <td valign="top" rowspan="1" colspan="1">1.3</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">
+     <italic>R</italic>
+     <sub>e</sub>2
+    </td>
+    <td valign="top" rowspan="1" colspan="1">2.4</td>
+    <td valign="top" rowspan="1" colspan="1">1.5</td>
+    <td valign="top" rowspan="1" colspan="1">3.5</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">Origin</td>
+    <td valign="top" rowspan="1" colspan="1">0.304</td>
+    <td valign="top" rowspan="1" colspan="1">0.24</td>
+    <td valign="top" rowspan="1" colspan="1">0.36</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">Become uninfectious
+     <xref ref-type="fn" rid="jmv25723-tbl1-note-0002">
+      <sup>a</sup>
+     </xref>
+    </td>
+    <td valign="top" rowspan="1" colspan="1">49.8</td>
+    <td valign="top" rowspan="1" colspan="1">22.1</td>
+    <td valign="top" rowspan="1" colspan="1">78.3</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">Birth1
+     <xref ref-type="fn" rid="jmv25723-tbl1-note-0003">
+      <sup>b</sup>
+     </xref>
+    </td>
+    <td valign="top" rowspan="1" colspan="1">40.46</td>
+    <td valign="top" rowspan="1" colspan="1">7.9</td>
+    <td valign="top" rowspan="1" colspan="1">73.8</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">Birth2</td>
+    <td valign="top" rowspan="1" colspan="1">112.4</td>
+    <td valign="top" rowspan="1" colspan="1">82.3</td>
+    <td valign="top" rowspan="1" colspan="1">142.9</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">
+     <italic>ρ</italic>
+    </td>
+    <td valign="top" rowspan="1" colspan="1">0.0044</td>
+    <td valign="top" rowspan="1" colspan="1">0.00087</td>
+    <td valign="top" rowspan="1" colspan="1">0.0086</td>
+   </tr>
+   <tr>
+    <td valign="top" rowspan="1" colspan="1">Tree root tMRCA</td>
+    <td valign="top" rowspan="1" colspan="1">0.296</td>
+    <td valign="top" rowspan="1" colspan="1">0.24</td>
+    <td valign="top" rowspan="1" colspan="1">0.35</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="jmv25723-tbl1-note-0001">
+   <p>Abbreviations: HPD, high posterior density; 
+    <italic>R</italic>
+    <sub>e</sub>, recovery rate; 
+    <italic>ρ</italic>, sampling probability.
+   </p>
+  </fn>
+  <fn id="jmv25723-tbl1-note-0002">
+   <label>
+    <sup>a</sup>
+   </label>
+   <p>Transmission rate.</p>
+  </fn>
+  <fn id="jmv25723-tbl1-note-0003">
+   <label>
+    <sup>b</sup>
+   </label>
+   <p>Effective reproductive number.</p>
+  </fn>
+ </table-wrap-foot>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+  <license>
+   <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+  </license>
+ </permissions>
+</table-wrap>

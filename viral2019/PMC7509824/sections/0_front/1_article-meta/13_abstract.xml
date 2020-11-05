@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Since the first outbreak of SARS-CoV-2, the clinical characteristics of the Coronavirus Disease 2019 (COVID-19) have been progressively changed. Data reporting a viral intra-host and inter-host evolution favouring the appearance of mild SARS-CoV-2 strains are since being accumulating. To better understand the evolution of SARS-CoV-2 pathogenicity and its adaptation to the host, it is therefore crucial to investigate the genetic and phenotypic characteristics of SARS-CoV-2 strains circulating lately in the epidemic.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p id="Par2">Nasopharyngeal swabs have been analyzed for viral load in the early (March 2020) and late (May 2020) phases of epidemic in Brescia, Italy. Isolation of SARS-CoV-2 from 2 high viral load specimens identified on March 9 (AP66) and on May 8 (GZ69) was performed on Vero E6 cells. Amount of virus released was assessed by quantitative PCR. Genotypic characterization of AP66 and GZ69 was performed by next generation sequencing followed by an in-depth in silico analysis of nucleotide mutations.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p id="Par3">The SARS-CoV-2 GZ69 strain, isolated in May from an asymptomatic healthcare worker, showed an unprecedented capability of replication in Vero E6 cells in the absence of any evident cytopathic effect. Vero E6 subculturing, up to passage 4, showed that SARS-CoV-2 GZ69 infection was as productive as the one sustained by the cytopathic strain AP66. Whole genome sequencing of the persistently replicating SARS-CoV-2 GZ69 has shown that this strain differs from the early AP66 variant in 9 nucleotide positions (C2939T; C3828T; G21784T; T21846C; T24631C; G28881A; G28882A; G28883C; G29810T) which lead to 6 non-synonymous substitutions spanning on ORF1ab (P892S; S1188L), S (K74N; I95T) and N (R203K, G204R) proteins.</p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p id="Par4">Identification of the peculiar SARS-CoV-2 GZ69 strain in the late Italian epidemic highlights the need to better characterize viral variants circulating among asymptomatic or paucisymptomatic individuals. The current approach could unravel the ways for future studies aimed at analyzing the selection process which favours viral mutations in the human host.</p>
+ </sec>
+</abstract>

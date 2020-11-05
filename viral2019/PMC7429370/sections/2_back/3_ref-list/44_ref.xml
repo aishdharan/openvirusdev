@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR44">
+ <label>44.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fan</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>Y</given-names>
+   </name>
+  </person-group>
+  <article-title>Self-adaptive differential evolution algorithm with crossover strategies adaptation and its application in parameter estimation</article-title>
+  <source>Chem Intell Lab Syst</source>
+  <year>2016</year>
+  <volume>151</volume>
+  <fpage>164</fpage>
+  <lpage>171</lpage>
+ </element-citation>
+</ref>

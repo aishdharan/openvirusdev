@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0023">
+ <label>23</label>
+ <element-citation publication-type="journal" id="sbref0020">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Iqbal</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Baleanu</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Adel</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Rafiq</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Rehman</surname>
+    <given-names>M.A.-u.</given-names>
+   </name>
+   <name>
+    <surname>Alshomrani</surname>
+    <given-names>A.S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Positivity and boundedness preserving numerical algorithm for the solution of fractional nonlinear epidemic model of HIV/AIDS transmission</article-title>
+  <source>Chaos Solitons Fract.</source>
+  <volume>134</volume>
+  <year>2020</year>
+  <fpage>109706</fpage>
+ </element-citation>
+</ref>

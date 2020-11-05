@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="microorganisms-08-01620-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">microorganisms-08-01620-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Principal studies evaluating the correlation between rhinovirus and severity of illness in children with bronchiolitis.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Study,
+     <break/>Year,
+     <break/>Country
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Study Design,
+     <break/>Study Population
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Period of Study Enrollment</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Age Group</th>
+    <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Sample Size
+     <break/>Number of Cases
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Outcome—Measure of Interest</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Results (
+     <italic>p</italic>-Value)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Papadopoulos NG et al.,
+     <break/>2002,
+     <break/>Greece
+     <break/>[
+     <xref rid="B15-microorganisms-08-01620" ref-type="bibr">15</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 1999–Sep 2000</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;18 month</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">118 children,
+     <break/>87 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 63/87 (72.4%)
+     <break/>- RV 25/87 (28.7%)
+     <break/>- Others 18/87 (20.7%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 16/87 (19.5%)
+     <break/>- RV + RSV 10/16 (62.5%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">15-points CSI
+     <break/>based on
+     <break/>heart rate, respiratory rate, cyanosis,
+     <break/>difficult in feeding, and oxygen saturation
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV associated with a higher CSI on admission at the univariate analysis
+     <break/>(OR 5.4; 95% CI 1.7–17.2;
+     <break/>
+     <italic>p</italic> = 0.004)
+     <break/>and at the multivariate logistic regression analysis
+     <break/>(OR 4.9; 95% CI, 1.2–18.7;
+     <break/>
+     <italic>p</italic> = 0.022)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Richard N,
+     <break/>2008,
+     <break/>France
+     <break/>[
+     <xref rid="B16-microorganisms-08-01620" ref-type="bibr">16</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Retrospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sep 2003–Apr 2005
+     <break/>(2 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">180 infants,
+     <break/>173 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 130/173 (75.1%)
+     <break/>- RV 39/173 (22.5%)
+     <break/>- Others 36/173 (20.8%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 44/173 (25.4%)
+     <break/>- RV + RSV 13/44 (29.5%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Admission to PICU
+     <break/>
+     <break/>Hospital LOS
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Viral co-infections associated with an increased risk of admission to PICU
+     <break/>at the univariate analysis (OR 2.9; 95% CI 1.4–6.4) and at the multivariate logistic regression analysis
+     <break/>(OR 2.7; 95% CI, 1.2–6.2;
+     <break/>
+     <italic>p</italic> = 0.02)
+     <break/>
+     <break/>LOS tended to be prolonged in co-infection, but no statistically significant difference
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Marguet C et al.,
+     <break/>2009,
+     <break/>France
+     <break/>[
+     <xref rid="B17-microorganisms-08-01620" ref-type="bibr">17</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nov 2002–Mar 2004
+     <break/>(3 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">209 infants,
+     <break/>198 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 134/198 (67.7%)
+     <break/>- RV 56/198 (28.3%)
+     <break/>- Others 32/198 (16.2%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 49/198 (24.7%)
+     <break/>- RV + RSV 30/49 (61.2%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Duration of oxygen requirement
+     <break/>
+     <break/>Hospital LOS &gt; 5 d
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">At the multivariate logistic regression, RV infection decreased the risk to LOS &gt; 5 d compared to other viral infections, especially RSV-infection
+     <break/>(OR 0.11,
+     <break/>95% CI 0.03-0.37)
+     <break/>
+     <break/>At the multivariate logistic regression, RV infection decreased the oxygen requirement compared to RSV-infections
+     <break/>(OR 0.29,
+     <break/>95% CI 0.09–0.90)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Calvo C et al.,
+     <break/>2010,
+     <break/>Spain
+     <break/>[
+     <xref rid="B18-microorganisms-08-01620" ref-type="bibr">18</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sep 2005–Jul 2008</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">318 children,
+     <break/>275 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 195/275 (61.3%)
+     <break/>- RV 64/275 (17.4%)
+     <break/>- Others 109/275 (39.6%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 79/275 (28.7%)
+     <break/>N.B. frequency of RV+RSV infection not specified
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences between RV and RSV single infections, nor between co-infections and single infections</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Midulla F et al.,
+     <break/>2010,
+     <break/>Italy
+     <break/>[
+     <xref rid="B19-microorganisms-08-01620" ref-type="bibr">19</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sep 2004–May 2007
+     <break/>(3 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">182 infants,
+     <break/>104 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 75/104 (72.1%)
+     <break/>- RV 16/104 (15.4%)
+     <break/>- Others 26/104 (25%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 16/104 (15.4%)
+     <break/>- RV + RSV 0
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8-points CSI based on respiratory rate, nasal flaring or chest retractions,
+     <break/>difficult in feeding,
+     <break/>arterial oxygen saturation in room air
+     <break/>
+     <break/>Hospital LOS
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV infection bronchiolitis had a lower CSI at admission than RSV infection
+     <break/>(3.00 ± 2.0 vs. 4.3 ± 2.4,
+     <break/>
+     <italic>p</italic> = 0.05)
+     <break/>
+     <break/>RV infection had a lower LOS than RSV-infection
+     <break/>(4.0 ± 1.6 d vs. 5.3 ± 2.4 d,
+     <break/>
+     <italic>p</italic> = 0.05)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Miller EK et al.,
+     <break/>2011,
+     <break/>USA
+     <break/>[
+     <xref rid="B20-microorganisms-08-01620" ref-type="bibr">20</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fall 2004–Spring 2008
+     <break/>(4 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">455 infants:
+     <break/>
+     <break/>Viral types
+     <break/>- RV 81/455 (17.8%)
+     <break/>- Others 374/455 (82.2%)
+     <break/>
+     <break/>Co-infections
+     <break/>- RV + other 40/455 (9%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">12-points CSI based on respiratory rate, nasal flaring or chest retractions,
+     <break/>wheezing,
+     <break/>oxygen saturation in room air
+     <break/>
+     <break/>Oxygen requirement
+     <break/>
+     <break/>Hospital LOS
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV infection
+     <break/>associated with a lower median CSI than infants with other viruses
+     <break/>(2.0, (IQR, 1.0–5.5) vs.
+     <break/>5.0 (IQR, 2.0–8.0),
+     <break/>
+     <italic>p</italic> &lt; 0.001)
+     <break/>
+     <break/>RV infection associated with less requirement of supplemental oxygen than infants with
+     <break/>other viral causes
+     <break/>(18% vs. 51%, 
+     <italic>p</italic> &lt; 0.001)
+     <break/>
+     <break/>No significant differences in LOS
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Brand HK et al.,
+     <break/>2011,
+     <break/>the Netherlands
+     <break/>[
+     <xref rid="B21-microorganisms-08-01620" ref-type="bibr">21</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nov 2006–Apr 2009
+     <break/>(3 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">142 children,
+     <break/>138 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 104/138 (75.3%)
+     <break/>- RV 43/138 (31.2%)
+     <break/>- Others 64/138 (46.4%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 58/138 (42%)
+     <break/>- RV + RSV 24/58 (41.4%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Disease severity
+     <break/>3 groups:
+     <break/>mild group (no hypoxia or feeding problems), moderate group (oxygen requirement, feeding problems),
+     <break/>severe group (MV requirement)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Co-infections more frequently found in mild and moderate disease
+     <break/>than in severe disease
+     <break/>(56 and 44% respectively vs. 19%,
+     <break/>
+     <italic>p</italic> = 0.003)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mansbach JM et al.,
+     <break/>2012,
+     <break/>USA
+     <break/>[
+     <xref rid="B22-microorganisms-08-01620" ref-type="bibr">22</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter cohort study (MARC),
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nov 2007–Mar 2010
+     <break/>(3 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">2207 children,
+     <break/>2068 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- single RSV 1075/2068 (52%)
+     <break/>- single RV 167/2068 (8.1%)
+     <break/>N.B. frequency of other viral infection not specified
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 658/2068 (31.8%)
+     <break/>- RV + RSV 287/2068 (13.9%)
+     <break/>- RV + non-RSV 110/2068 (5%)
+     <break/>-RSV + non-RV 227/2068 (11%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS (cut-off ≥3 d)
+     <break/>
+     <break/>PICU admission
+     <break/>
+     <break/>CPAP/intubation requirement
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV only infection or RV + non-RSV infection associated with shorter LOS than RV + RSV co-infection
+     <break/>(5% and 4% LOS ≥ 3 d
+     <break/>vs. 18% LOS ≥ 3 d,
+     <break/>
+     <italic>p</italic> &lt; 0.001)
+     <break/>
+     <break/>No significant differences in terms of PICU admission and CPAP/intubation requirement between viral groups
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ricart S et al.,
+     <break/>2012,
+     <break/>Spain
+     <break/>[
+     <xref rid="B23-microorganisms-08-01620" ref-type="bibr">23</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 2007–Oct 2008</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">418 infants,
+     <break/>410 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 287/410 (70%)
+     <break/>- RV 125/410 (30.5%)
+     <break/>- Others 254/410 (62%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 189/410 (46.1%)
+     <break/>- RV + RSV 56/189 (24.3%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">16-points CSI based on respiratory and heart rate,
+     <break/>air entrance, retractions, wheezing, oxygen saturation in room air
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV infection associated with a severe CSI (≥11) than the other viral types at the univariate analysis
+     <break/>(39% CSI ≥ 11
+     <break/>vs. 27.7% CSI &lt; 11,
+     <break/>
+     <italic>p</italic> = 0.041),
+     <break/>but no significant difference at the multivariate logistic regression analysis
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Miller EK et al.,
+     <break/>2013,
+     <break/>USA
+     <break/>[
+     <xref rid="B24-microorganisms-08-01620" ref-type="bibr">24</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sep 2004–May 2008</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">455 infants,
+     <break/>412 virus-positive cases
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 268/412 (65%)
+     <break/>- RV 41/412 (10%)
+     <break/>- Others 72/412 (17.5%)
+     <break/>
+     <break/>Co-infections
+     <break/>- RV + RSV 30/412 (7.3%)
+     <break/>N.B. frequency of global co-infections not specified
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">12-points CSI based on respiratory rate, nasal flaring or chest retractions, wheezing, oxygen saturation in room air</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV infection associated with lower CSI than RSV-infection
+     <break/>(median 6.5 (IQR 3.9–8) vs. median 7 (IQR 5–9),
+     <break/>
+     <italic>p</italic> = 0.013)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Chen YW et al.,
+     <break/>2014,
+     <break/>Taiwan
+     <break/>[
+     <xref rid="B25-microorganisms-08-01620" ref-type="bibr">25</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Jan 2009–Mar 2011</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">113 children,
+     <break/>86 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 49/86 (57%)
+     <break/>- RV 14/86 (16.3%)
+     <break/>- Others 56/86 (65.1%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 28/86 (32.6%)
+     <break/>N.B. frequency of RV+RSV infection not specified
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences among RV infections and other single and mixed infections</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Jartti T et al.,
+     <break/>2014,
+     <break/>Finland and USA
+     <break/>[
+     <xref rid="B26-microorganisms-08-01620" ref-type="bibr">26</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter cohort study (MARC),
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nov 2008–Mar 2010
+     <break/>(2 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">408 children,
+     <break/>350 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 144/350 (41.4%)
+     <break/>- RV 92/350 (26.3%)
+     <break/>- Others 113/350 (32.3%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 63/350 (18%)
+     <break/>- RSV + RV 10/63 (15.9%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS
+     <break/>(2 groups: &lt;3 d
+     <break/>and ≥3d)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Overall RV infection associated with shorter hospital LOS compared to RSV-infection
+     <break/>(adjusted OR 0.45,
+     <break/>95% CI 0.22–0.92,
+     <break/>
+     <italic>p</italic> = 0.03)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mehta R et al.,
+     <break/>2014,
+     <break/>USA
+     <break/>[
+     <xref rid="B27-microorganisms-08-01620" ref-type="bibr">27</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective cross-sectional single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 2010–Apr 2011</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">131 children,
+     <break/>120 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 84/120 (70%)
+     <break/>- RV 34/120 (28.3%)
+     <break/>- Others 37/120 (30.8%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 39/120 (32.5%)
+     <break/>- RV + RSV 18/39 (46.2%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Admission to PICU</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences between types of viral infection about admission to PICU</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Selvaggi C et al.,
+     <break/>2014,
+     <break/>Italy
+     <break/>[
+     <xref rid="B28-microorganisms-08-01620" ref-type="bibr">28</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2008–2011
+     <break/>(3 epidemic seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">250 infants,
+     <break/>118 single RV or RSV-infection
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 78/118 (66.1%)
+     <break/>- RV 40/118 (33.9%)
+     <break/>- RV-A 18/40 (45%)
+     <break/>- RV-C 22/40 (55%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences in term of LOS between RV infection, RV types, and RSV bronchiolitis</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Jartti et al.,
+     <break/>2015,
+     <break/>Finland and USA
+     <break/>[
+     <xref rid="B29-microorganisms-08-01620" ref-type="bibr">29</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter cohort study (MARC),
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis with a focus on RV genomic viral load
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2007–2010
+     <break/>(4 winter seasons, USA)
+     <break/>
+     <break/>2008–2010
+     <break/>(3 winter seasons, Finland)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">2615 children,
+     <break/>694 with RV detection
+     <break/>
+     <break/>Viral types
+     <break/>- RV 694/2615 (26.5%)
+     <break/>- RV only 259/694 (37.3%)
+     <break/>
+     <break/>Co-infections
+     <break/>- RV + RSV 297/694 (43%)
+     <break/>- RV + non RSV 138/694 (20%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS (cut-off ≥3 d)
+     <break/>
+     <break/>PICU admission
+     <break/>
+     <break/>CPAP/intubation requirement
+     <break/>
+     <break/>N.B. analyzed outcomes after classification of RV genomic load into 3 groups (low, intermediate, high)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant association between RV genomic load, nor co-infection, and LOS ≥ 3 days or risk of PICU admission or CPAP/intubation requirement in unadjusted and multivariable models</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cangiano G et al.,
+     <break/>2016,
+     <break/>Italy
+     <break/>[
+     <xref rid="B30-microorganisms-08-01620" ref-type="bibr">30</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 2004–Mar 2014
+     <break/>(10 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">723 infants,
+     <break/>351 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 234/351 (66.7%)
+     <break/>- RV 44/351 (12.5%)
+     <break/>- Others 34/351 (9.7%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 39/351 (11.1%)
+     <break/>- RV + RSV 14/39 (35.9%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8-points CSI based on respiratory rate, chest retractions, difficult in feeding, arterial oxygen saturation on room air
+     <break/>
+     <break/>Hospital LOS
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences in terms of clinical severity score and LOS between different viruses’ group, including co-infected infants</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Skjerven HO et al.,
+     <break/>2016,
+     <break/>Norway
+     <break/>[
+     <xref rid="B31-microorganisms-08-01620" ref-type="bibr">31</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter,
+     <break/>hospitalized children with a clinical diagnosis of moderate-severe bronchiolitis based on a 10-points CSI
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Jan 2010–May 2011
+     <break/>(2 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">363 infants,
+     <break/>330 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 300/330 (90.9%)
+     <break/>- RV 122/330 (37%)
+     <break/>- RV A/B 35/122 (28.7%)
+     <break/>- RV C 87/122 (71.3%)
+     <break/>- Others 314/330 (95.2%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect 223/330 (67.6%)
+     <break/>- RV + RSV 105/233 (45%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS
+     <break/>
+     <break/>Level of supportive care (3 groups:
+     <break/>no supportive care, use of oxygen and/or nasogastric tube feeding,
+     <break/>use of ventilatory support)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences in terms of LOS nor level of supportive care between RV infection, RV types, other single virus-infections, RV + RSV infections, other co-infections</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Paul SP et al.,
+     <break/>2017,
+     <break/>UK
+     <break/>[
+     <xref rid="B32-microorganisms-08-01620" ref-type="bibr">32</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Apr 2012–Dec 2015</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">319 children,
+     <break/>227 single RV or RSV-infection
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 162/227 (71.4%)
+     <break/>- RV 65/227 (28.6%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV infection associated with a longer hospital LOS than RSV-infection
+     <break/>(4.6 d (range 0–21 d) vs. 3.2 d (range 0–13 d),
+     <break/>
+     <italic>p</italic> = 0.032)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Garcìa-Garcìa ML et al.,
+     <break/>2017,
+     <break/>Spain
+     <break/>[
+     <xref rid="B33-microorganisms-08-01620" ref-type="bibr">33</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective cross-sectional single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 2013–Apr 2016</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">213 hospitalized children vs. 45 healthy controls,
+     <break/>186 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 149/186 (80.1%)
+     <break/>- RV 42/186 (22.6%)
+     <break/>- Others 42/186 (22.6%)
+     <break/>
+     <break/>N.B. frequency of co-infections nor RV + RSV infection not specified
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences among RV bronchiolitis and RSV-bronchiolitis</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Petrarca L et al.,
+     <break/>2018,
+     <break/>Italy
+     <break/>[
+     <xref rid="B34-microorganisms-08-01620" ref-type="bibr">34</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Retrospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 2004–May 2016
+     <break/>(12 winter seasons)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">486 virus-positive infants:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 365/486 (75.1%)
+     <break/>- RV 89/486 (18.3%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 54/486 (11.1%)
+     <break/>- RV + RSV 20/54 (37%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8-points CSI based on respiratory rate, nasal flaring or chest retractions,
+     <break/>difficult in feeding,
+     <break/>arterial oxygen saturation in room air
+     <break/>
+     <break/>PICU admission
+     <break/>
+     <break/>Hospital LOS
+     <break/>
+     <break/>Oxygen requirement
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences about clinical severity score, PICU admission, LOS, oxygen requirement between RSV-infection, RV infection, RV + RSV infection</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Praznik A et al.,
+     <break/>2018,
+     <break/>Slovenia
+     <break/>[
+     <xref rid="B35-microorganisms-08-01620" ref-type="bibr">35</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Retrospective single-center,
+     <break/>children with a clinical diagnosis of bronchiolitis with focus on the need for hospitalization (stratification in 3 groups of patients: outpatients with no hospitalization, standard hospitalization, admission to PICU)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">May 2014–Apr 2015</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">761 children,
+     <break/>473 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 272/473 (57.5%)
+     <break/>- RV 121/473 (25.6%)
+     <break/>- Others 87/473 (18.4%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 151/473 (31.9%)
+     <break/>N.B. frequency of RV+RSV infection not specified
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Disease severity classified according to the site management
+     <break/>(3 groups: outpatients, standard hospital, PICU)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences between types of viral infection about patient’s site management</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bergroth E et al.,
+     <break/>2019,
+     <break/>Finland
+     <break/>[
+     <xref rid="B36-microorganisms-08-01620" ref-type="bibr">36</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter cohort study (MARC-30),
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis with follow-up 4 years after discharge
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nov 2008–Mar 2010</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">349 children,
+     <break/>302 virus-positive cases:
+     <break/>
+     <break/>Viral types and RV types
+     <break/>- RSV 145/302 (48%)
+     <break/>- RV 101/302 (33.4%)
+     <break/>- RV-A 24/101 (23.8%)
+     <break/>- RV-B 3/101 (3%)
+     <break/>- RV-C 73/101 (72.3%)
+     <break/>- Others 51/302 (16.9%)
+     <break/>
+     <break/>Co-infections
+     <break/>- RSV + RV 8/302 (2.6%)
+     <break/>N.B. frequency of co-infections not specified
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS
+     <break/>(cut-off ≥ 3 d)
+     <break/>
+     <break/>Admission to PICU
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RV-A and RV-C infection associated with lower LOS than RSV-infection
+     <break/>(25% and 19% vs. 41%,
+     <break/>
+     <italic>p</italic> = 0.003)
+     <break/>
+     <break/>RV infection associated with lower admission to PICU than RSV-infection
+     <break/>(0 vs. 9%,
+     <break/>
+     <italic>p</italic> = 0.02)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hasegawa K et al.,
+     <break/>2019,
+     <break/>Finland and USA
+     <break/>[
+     <xref rid="B37-microorganisms-08-01620" ref-type="bibr">37</xref>]
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter cohort study
+     <break/>(MARC-30, Finland and MARC-35 USA),
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis with a focus on RVspecies
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2008–2010
+     <break/>(2 winter seasons, Finland)
+     <break/>
+     <break/>Nov 2011–Apr 2014
+     <break/>(3 winter seasons, USA)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MARC-30 Finland
+     <break/>
+     <break/>408 infants,
+     <break/>109 RVinfection
+     <break/>
+     <break/>RV types
+     <break/>RV-A (23%)
+     <break/>RV-B (3%)
+     <break/>RV-C (74%)
+     <break/>
+     <break/>Co-infections
+     <break/>RV + RSV (7%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">MARC-35 USA
+     <break/>
+     <break/>1016 infants, 197 RVinfection
+     <break/>
+     <break/>RV types
+     <break/>RV-A (47%)
+     <break/>RV-B (6%)
+     <break/>RV-C (47%)
+     <break/>
+     <break/>Co-infections
+     <break/>RV + RSV (56%)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hospital LOS
+     <break/>
+     <break/>PICU admission
+     <break/>
+     <break/>CPAP/intubation requirement
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences in terms of LOS, PICU admission, and CPAP/intubation requirement between the 3 different RV types</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>CI = confidence interval; CPAP = continuous positive airway pressure; CSI = clinical score index; d = day; LOS = length of stay; MARC = Multicenter Airway Research Collaboration; mo = month; MV = mechanical ventilation; OR = odds ratio; PICU = Pediatric Intensive Care Unit; RSV = respiratory syncytial virus; RV = rhinovirus; y = year.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

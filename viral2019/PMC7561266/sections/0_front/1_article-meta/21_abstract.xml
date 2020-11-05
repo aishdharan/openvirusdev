@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <p>The recent emergence and established presence of 
+  <italic>Aedes aegypti</italic> in the Autonomous Region of Madeira, Portugal, was responsible for the first autochthonous outbreak of dengue in Europe. The island has not reported any dengue cases since the outbreak in 2012. However, there is a high risk that an introduction of the virus would result in another autochthonous outbreak given the presence of the vector and permissive environmental conditions. Understanding the dynamics of a potential epidemic is critical for targeted local control strategies.
+ </p>
+ <p>Here, we adopt a deterministic model for the transmission of dengue in 
+  <italic>Aedes aegypti</italic> mosquitoes. The model integrates empirical and mechanistic parameters for virus transmission, under seasonally varying temperatures for Funchal, Madeira Island. We examine the epidemic dynamics as triggered by the arrival date of an infectious individual; the influence of seasonal temperature mean and variation on the epidemic dynamics; and performed a sensitivity analysis on the following quantities of interest: the epidemic peak size, time to peak, and the final epidemic size.
+ </p>
+ <p>Our results demonstrate the potential for summer and autumn season transmission of dengue, with the arrival date significantly affecting the distribution of the timing and peak size of the epidemic. Late-summer arrivals were more likely to produce large epidemics within a short peak time. Epidemics within this favorable period had an average of 11% of the susceptible population infected at the peak, at an average peak time of 95 days. We also demonstrated that seasonal temperature variation dramatically affects the epidemic dynamics, with warmer starting temperatures producing large epidemics with a short peak time and vice versa. Overall, our quantities of interest were most sensitive to variance in the date of arrival, seasonal temperature, transmission rates, mortality rate, and the mosquito population; the magnitude of sensitivity differs across quantities.</p>
+ <p>Our model could serve as a useful guide in the development of effective local control and mitigation strategies for dengue fever in Madeira Island.</p>
+</abstract>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Detection of PDCoV, PEDV, and TGEV in diarrhoeal samples from pigs in Sichuan, China, 2017-2019</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left"/>
+    <th align="left" colspan="3">Sows</th>
+    <th align="left" colspan="3">Suckling piglets</th>
+    <th align="left" colspan="3">Total</th>
+   </tr>
+   <tr>
+    <th align="left">Year</th>
+    <th align="left">Virus</th>
+    <th align="left">Number of samples</th>
+    <th align="left">Positive</th>
+    <th align="left">Positive rate, %</th>
+    <th align="left">Number of samples</th>
+    <th align="left">Positive</th>
+    <th align="left">Positive rate, %</th>
+    <th align="left">Number of samples</th>
+    <th align="left">Positive</th>
+    <th align="left">Positive rate, %</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV</td>
+    <td char="." align="char" rowspan="4">76</td>
+    <td char="." align="char">5</td>
+    <td align="left">6.58</td>
+    <td char="." align="char" rowspan="4">152</td>
+    <td char="." align="char">19</td>
+    <td align="left">12.50</td>
+    <td char="." align="char" rowspan="4">228</td>
+    <td char="." align="char">24</td>
+    <td align="left">10.53</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PEDV</td>
+    <td char="." align="char">17</td>
+    <td align="left">22.37</td>
+    <td char="." align="char">53</td>
+    <td align="left">34.87</td>
+    <td char="." align="char">70</td>
+    <td align="left">30.70</td>
+   </tr>
+   <tr>
+    <td align="left">2017</td>
+    <td align="left">TGEV</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV+PEDV</td>
+    <td char="." align="char">1</td>
+    <td align="left">1.32</td>
+    <td char="." align="char">13</td>
+    <td align="left">8.55</td>
+    <td char="." align="char">14</td>
+    <td align="left">6.14</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV</td>
+    <td char="." align="char" rowspan="4">94</td>
+    <td char="." align="char">6</td>
+    <td align="left">6.38</td>
+    <td char="." align="char" rowspan="4">196</td>
+    <td char="." align="char">34</td>
+    <td align="left">17.35</td>
+    <td char="." align="char" rowspan="4">290</td>
+    <td char="." align="char">40</td>
+    <td align="left">13.79</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PEDV</td>
+    <td char="." align="char">21</td>
+    <td align="left">22.34</td>
+    <td char="." align="char">71</td>
+    <td align="left">36.22</td>
+    <td char="." align="char">92</td>
+    <td align="left">31.72</td>
+   </tr>
+   <tr>
+    <td align="left">2018</td>
+    <td align="left">TGEV</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV+PEDV</td>
+    <td char="." align="char">3</td>
+    <td align="left">3.19</td>
+    <td char="." align="char">23</td>
+    <td align="left">11.73</td>
+    <td char="." align="char">26</td>
+    <td align="left">8.97</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV</td>
+    <td char="." align="char" rowspan="4">36</td>
+    <td char="." align="char">3</td>
+    <td align="left">8.33</td>
+    <td char="." align="char" rowspan="4">80</td>
+    <td char="." align="char">17</td>
+    <td align="left">21.25</td>
+    <td char="." align="char" rowspan="4">116</td>
+    <td char="." align="char">20</td>
+    <td align="left">17.24</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PEDV</td>
+    <td char="." align="char">10</td>
+    <td align="left">27.78</td>
+    <td char="." align="char">32</td>
+    <td align="left">40.00</td>
+    <td char="." align="char">42</td>
+    <td align="left">36.21</td>
+   </tr>
+   <tr>
+    <td align="left">2019</td>
+    <td align="left">TGEV</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV+PEDV</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">7</td>
+    <td align="left">8.75</td>
+    <td char="." align="char">7</td>
+    <td align="left">6.03</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV</td>
+    <td char="." align="char" rowspan="4">206</td>
+    <td char="." align="char">14</td>
+    <td align="left">6.80</td>
+    <td char="." align="char" rowspan="4">428</td>
+    <td char="." align="char">70</td>
+    <td align="left">16.36</td>
+    <td char="." align="char" rowspan="4">634</td>
+    <td char="." align="char">84</td>
+    <td align="left">13.25</td>
+   </tr>
+   <tr>
+    <td align="left">2017-</td>
+    <td align="left">PEDV</td>
+    <td char="." align="char">48</td>
+    <td align="left">23.30</td>
+    <td char="." align="char">156</td>
+    <td align="left">36.45</td>
+    <td char="." align="char">204</td>
+    <td align="left">32.18</td>
+   </tr>
+   <tr>
+    <td align="left">2019</td>
+    <td align="left">TGEV</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+    <td char="." align="char">0</td>
+    <td align="left">0</td>
+   </tr>
+   <tr>
+    <td align="left"/>
+    <td align="left">PDCoV+PEDV</td>
+    <td char="." align="char">4</td>
+    <td align="left">1.94</td>
+    <td char="." align="char">43</td>
+    <td align="left">10.05</td>
+    <td char="." align="char">47</td>
+    <td align="left">7.41</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

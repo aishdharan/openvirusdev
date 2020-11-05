@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We adopt a deterministic compartmental vector-host transmission model exploring chikungunya virus invasion in Florida, United States with 
+ <italic>Aedes aegypti</italic> and 
+ <italic>Aedes albopictus</italic> mosquitoes, from [
+ <xref rid="pntd.0008679.ref026" ref-type="bibr">26</xref>]. This was adapted into a standard SEI-SEIR transmission model with one vector, similar to others used in modeling dengue transmission (e.g. in [
+ <xref rid="pntd.0008679.ref027" ref-type="bibr">27</xref>–
+ <xref rid="pntd.0008679.ref030" ref-type="bibr">30</xref>]).
+</p>

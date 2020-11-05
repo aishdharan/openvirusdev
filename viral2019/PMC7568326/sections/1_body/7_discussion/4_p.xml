@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The estimates of hospitalization probability and fatalities were calculated using results from a study of cases in Wuhan, China (
+ <xref rid="r22" ref-type="bibr">22</xref>). For this study, we took the point estimates; however, these had uncertainties associated with them and are unlikely to be the same across regions. Furthermore, as treatment of COVID-19 continues to improve, fatality rates will fall. While there is an obvious feedback between fatality rates and healthcare system burden, the extent to which the Wuhan healthcare system (used in estimation) was overwhelmed is unclear. We therefore assumed the fatality rates fixed regardless of hospital burden. For these reasons, we have avoided attaching confidence intervals to estimates of fatalities, and they should be interpreted as plausible projections and not predictions.
+</p>

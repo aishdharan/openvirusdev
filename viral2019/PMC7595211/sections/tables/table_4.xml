@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab4">
+ <label>Table 4</label>
+ <caption>
+  <p>Genetic diversity by study groups in HIV-1 
+   <italic>pol</italic> sequences from the DRC.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2"/>
+    <th align="left" rowspan="2">LANL DRC 
+     <break/>1976–2012
+    </th>
+    <th align="left" colspan="3">Study cohort Kinshasa 2016-2018</th>
+   </tr>
+   <tr>
+    <th align="left">Total</th>
+    <th align="left">Children/adolescents</th>
+    <th align="left">Adults</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Total</td>
+    <td align="left">
+     <p>0.90</p>
+     <p>(n = 2802)</p>
+    </td>
+    <td align="left">
+     <p>0.91</p>
+     <p>(n = 165)</p>
+    </td>
+    <td align="left">
+     <p>0.92</p>
+     <p>(n = 55)</p>
+    </td>
+    <td align="left">
+     <p>0.88</p>
+     <p>(n = 110)</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Pure subtypes</td>
+    <td align="left">
+     <p>0.84</p>
+     <p>(n = 2198)</p>
+    </td>
+    <td align="left">
+     <p>0.76</p>
+     <p>(n = 99)</p>
+    </td>
+    <td align="left">
+     <p>0.73</p>
+     <p>(n = 29)</p>
+    </td>
+    <td align="left">
+     <p>0.75</p>
+     <p>(n = 70)</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">CRF</td>
+    <td align="left">
+     <p>0.78</p>
+     <p>(n = 333)</p>
+    </td>
+    <td align="left">
+     <p>0.89</p>
+     <p>(n = 21)</p>
+    </td>
+    <td align="left">
+     <p>0.50</p>
+     <p>(n = 2)</p>
+    </td>
+    <td align="left">
+     <p>0.88</p>
+     <p>(n = 19)</p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">URF</td>
+    <td align="left">
+     <p>0.95</p>
+     <p>(n = 176)</p>
+    </td>
+    <td align="left">
+     <p>0.92</p>
+     <p>(n = 39)</p>
+    </td>
+    <td align="left">
+     <p>0.93</p>
+     <p>(n = 22)</p>
+    </td>
+    <td align="left">
+     <p>0.80</p>
+     <p>(n = 17)</p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>CRF, circulating recombinant form; URF, unique recombinant form; n, number of 
+   <italic>pol </italic>sequences; LANL, Los Alamos HIV Sequence database.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

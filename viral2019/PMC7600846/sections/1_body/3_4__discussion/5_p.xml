@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Methodological issues in all analyses included the need to work with censoring (5%). This made it more difficult to conclude on the eventual portion of each outcome as some patients were still hospitalized at the time of the analysis. A number of early reports regarding patients’ outcomes did not consider these issues and likely underestimated the length of stay [
+ <xref rid="B21-jcm-09-03148" ref-type="bibr">21</xref>]. Using mixture for survival analysis has several advantages in this respect [
+ <xref rid="B22-jcm-09-03148" ref-type="bibr">22</xref>]. By comparison with competing risk models, mixture models posit the existence of several subpopulations, each submitted to one risk (death or survival) rather than one population submitted to several risks (death and survival) and allows estimating the importance of these subpopulations.
+</p>

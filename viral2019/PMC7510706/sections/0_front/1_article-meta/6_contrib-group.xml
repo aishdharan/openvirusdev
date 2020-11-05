@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Haider</surname>
+   <given-names>Najmul</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vairo</surname>
+   <given-names>Francesco</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ippolito</surname>
+   <given-names>Giuseppe</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zumla</surname>
+   <given-names>Alimuddin</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kock</surname>
+   <given-names>Richard A.</given-names>
+  </name>
+ </contrib>
+ <aff id="aff1">The Royal Veterinary College, University of London, London, UK (N. Haider, R.A. Kock); </aff>
+ <aff id="aff2">National Institute for Infectious Diseases Lazzaro Spallanzani, Rome, Italy (F. Vairo, G. Ippolito); </aff>
+ <aff id="aff3">University College London, London (A. Zumla)</aff>
+</contrib-group>

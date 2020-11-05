@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref50">
+ <label>50.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Negnevitsky</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <source>Artificial Intelligence: A Guide to Intelligent Systems</source>. 
+  <publisher-name>Pearson</publisher-name>, 
+  <publisher-loc>Edinburgh, England</publisher-loc>
+  <comment>ch. 6</comment>, 
+  <year>2005</year>;
+  <volume>3</volume>:
+  <fpage>175</fpage>–
+  <lpage>9</lpage>.
+ </mixed-citation>
+</ref>

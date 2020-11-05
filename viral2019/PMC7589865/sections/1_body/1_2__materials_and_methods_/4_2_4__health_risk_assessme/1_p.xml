@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In this study, the health risk of PM
+ <sub>2.5</sub> was evaluated using the long-term risk assessment value recommended by the World Health Organization (WHO). With reference to the assessment method of the WHO, the health risk of residents was assessed using the PM
+ <sub>2.5</sub> concentration obtained and the current status of population distribution. 
+ <disp-formula id="FD8-ijerph-17-07664">
+  <label>(8)</label>
+  <math id="mm33">
+   <mrow>
+    <mrow>
+     <mi>E</mi>
+     <mo>=</mo>
+     <mi>β</mi>
+     <mo>·</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>c</mi>
+       <mo>−</mo>
+       <msub>
+        <mi>c</mi>
+        <mn>0</mn>
+       </msub>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>·</mo>
+     <msub>
+      <mi>E</mi>
+      <mn>0</mn>
+     </msub>
+     <mo>·</mo>
+     <msub>
+      <mi>P</mi>
+      <mi>p</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm34">
+   <mrow>
+    <mi>E</mi>
+   </mrow>
+  </math>
+ </inline-formula> represents the potential risk of disease of residents under the current PM
+ <sub>2.5</sub> concentration; 
+ <inline-formula>
+  <math id="mm35">
+   <mrow>
+    <mi>β</mi>
+   </mrow>
+  </math>
+ </inline-formula> is the proportion of the mortality caused by the change of PM
+ <sub>2.5</sub>. In this study, the mortality rate of PM
+ <sub>2.5</sub> decreased by 10 μg/m
+ <sup>3</sup> by 6% [
+ <xref rid="B39-ijerph-17-07664" ref-type="bibr">39</xref>]; 
+ <inline-formula>
+  <math id="mm36">
+   <mrow>
+    <mi>c</mi>
+   </mrow>
+  </math>
+ </inline-formula> is the actual PM
+ <sub>2.5</sub> concentration; 
+ <inline-formula>
+  <math id="mm37">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>c</mi>
+      <mn>0</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the referenced PM
+ <sub>2.5</sub> concentration; 
+ <inline-formula>
+  <math id="mm38">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>E</mi>
+      <mn>0</mn>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the health effect of residents under the referenced concentration. The mortality rate in the population census (7.14%) was selected in this study; and 
+ <inline-formula>
+  <math id="mm39">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>P</mi>
+      <mi>p</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the population at the current location.
+</p>

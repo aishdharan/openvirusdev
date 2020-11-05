@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B38">
+ <label>38.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Ni</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Du</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Complete genome sequence of a recombinant porcine epidemic diarrhea virus strain from Eastern China</article-title>. 
+  <source>Genome Announc.</source> (
+  <year>2013</year>) 
+  <volume>1</volume>:
+  <fpage>e0010513</fpage>. 
+  <pub-id pub-id-type="doi">10.1128/genomeA.00105-13</pub-id>
+  <?supplied-pmid 23599287?>
+  <pub-id pub-id-type="pmid">23599287</pub-id>
+ </mixed-citation>
+</ref>

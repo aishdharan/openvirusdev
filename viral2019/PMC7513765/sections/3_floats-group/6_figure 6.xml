@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig6">
+ <label>Figure 6</label>
+ <caption>
+  <p>Evolution of SARS-CoV-2 Pandemic</p>
+  <p>(A and C) Simulation of the curves of growths of the daily new infected for the first 3 years of the SARS-CoV-2 pandemics at three different latitudes on the Earth, +40° north (black), −40° south (blue), and the Equator (orange), with (ε = 1; [A and B]) and without (ε = 0; [C and D]) active solar pump. Model parameters are t
+   <sub>0</sub> = January 6
+   <sup>th</sup> 2020, t
+   <sub>end</sub> = t
+   <sub>0</sub>+100 years, R
+   <sub>0</sub> = 3.0, γ
+   <sub>out</sub> = 0.1, γ
+   <sub>in</sub> = 0.0055, μ = 0.01, and external lockdown and phase 2 starting on 11 March 2020 (official lockdown date in Italy) and 17 April 2020 (3 days after the first official reopening date in Italy), with halving and doubling times of 28 and 238 days, respectively. Black points in panels (A) and (C) are SARS-CoV-2 data for Italy from 24 February 2020 through 21 August 2020, smoothed over a 4-day moving average. For the active solar-pump case (A), all curves of growth of new daily infected have been scaled down by a factor of 6 to let the +40° curve (black) match the Italian data of the current outbreak: the model closely matches observations. In the non-active solar-pump case (C) model, curves needs to be scaled down by an unrealistically high factor of 300, and only the climbing phase of the outbreak in Italy can be reproduced. Yearly oscillating dotted curves at the bottom of panels (A and C) are UV-B/UV-A lethal exposure estimated for COVID-19.
+  </p>
+  <p>(B and D) S–I phase diagrams for the simulations of panels (A) and (C), respectively. The first 10 years of a possible evolution of the epidemics are plotted. When the solar pump is not active (D), the curves are the same at all latitudes and the cycles of epidemics die out in 4 cycles because of lack of supply among the susceptible population. Considering the effect of solar pump makes the epidemics evolve quickly to endemic at all latitudes (B). After the first 3 cycles, and at latitudes of ±40° (black and blue curves), the susceptible population at each time oscillates between 30 and 55% of the population, and the instant fraction of infected people over susceptible, at the peaks, reach maximum values of &lt;15%. At the equator, the amplitude of oscillations is much smaller (orange curve), the susceptible population at each time settles at a fraction of about 50% of the total, while infected people oscillate steadily between 0.2 and 3.5% of the susceptible population</p>
+ </caption>
+ <graphic xlink:href="gr6_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

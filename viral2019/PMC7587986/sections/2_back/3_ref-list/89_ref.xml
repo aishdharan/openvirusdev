@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B89">
+ <label>89</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Melsew</surname>
+    <given-names>YA</given-names>
+   </name>
+   <name>
+    <surname>Gambhir</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>AC</given-names>
+   </name>
+   <name>
+    <surname>McBryde</surname>
+    <given-names>ES</given-names>
+   </name>
+   <name>
+    <surname>Denholm</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Tay</surname>
+    <given-names>EL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The role of super-spreading events in Mycobacterium tuberculosis transmission: evidence from contact tracing</article-title>
+  <source> BMC Infectious Diseases</source>
+  <year>2019</year>
+  <volume>19</volume>
+  <issue>1</issue>
+  <fpage>244</fpage>
+  <pub-id pub-id-type="pmid">30866840</pub-id>
+ </element-citation>
+</ref>

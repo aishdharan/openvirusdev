@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0085">We focus on two particular study cases: (A) typical influenza epidemics, with initial reproductive number R
+ <sub>0</sub> = 1.5, solar-pump efficiencies ε = 1 and 0 (i.e. no solar pump) and recovery and death rate γ
+ <sub>out</sub> = 0.2 and μ = 0.001, respectively, and (B) a more aggressive and higher mortality epidemics, with parameters similar to those recorded for the recent SARS-Cov-2 pandemic (R
+ <sub>0</sub> = 3, γ
+ <sub>out</sub> = 0.1 and μ = 0.01) and solar efficiencies ε = 1, 0.3, and 0. For each case, we consider three different LOI rates: γ
+ <sub>in</sub> = 0 (i.e. no LOI), γ
+ <sub>in</sub> = 0.0055 (180-day period: shorter than seasonality), and γ
+ <sub>in</sub> = 0.00055 (5-year period: much longer than seasonality).
+</p>

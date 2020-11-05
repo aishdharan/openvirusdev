@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b23">
+ <label>23</label>
+ <element-citation publication-type="journal" id="sb23">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ito</surname>
+    <given-names>Kazufumi</given-names>
+   </name>
+   <name>
+    <surname>Kunisch</surname>
+    <given-names>Karl</given-names>
+   </name>
+  </person-group>
+  <article-title>Minimal effort problems and their treatment by semismooth Newton methods</article-title>
+  <source>SIAM J. Control Optim.</source>
+  <volume>49</volume>
+  <issue>5</issue>
+  <year>2011</year>
+  <fpage>2083</fpage>
+  <lpage>2100</lpage>
+ </element-citation>
+</ref>

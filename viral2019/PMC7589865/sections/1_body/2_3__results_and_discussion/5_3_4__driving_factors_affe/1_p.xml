@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>PM
+ <sub>2.5</sub> poses a threat to human health, in order to explore the impact of PM
+ <sub>2.5</sub> caused by anthropogenic activities and aids the reduction of health risk, the study selected six driving factors (i.e., GDP, road area, green area, number of taxis, number of buses, and number of factories) from POI data and used the GWR method to quantify the impact of these variables on PM
+ <sub>2.5</sub>. In order to effectively explore the primary driving factors on PM
+ <sub>2.5</sub> concentration, this study respectively selects the adaptive Gaussian Akaike information criterion (AIC) index (determine the best bandwidth through the minimum information criterion) to be the kernel function and bandwidth of the GWR model, the correlation between the above driving factors and PM
+ <sub>2.5</sub> concentration was analyzed.
+</p>

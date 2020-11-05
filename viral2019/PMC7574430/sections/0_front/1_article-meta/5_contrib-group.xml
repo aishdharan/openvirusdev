@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Su</surname>
+   <given-names>Ling</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Feng</surname>
+   <given-names>Yi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liang</surname>
+   <given-names>Shu</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zeng</surname>
+   <given-names>Yali</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Yiping</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Hong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ye</surname>
+   <given-names>Li</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Qiushi</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wei</surname>
+   <given-names>Dongbin</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yuan</surname>
+   <given-names>Dan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lai</surname>
+   <given-names>Wenhong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Linglin</given-names>
+  </name>
+  <address>
+   <email>zhangllsccdc@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.198530.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8803 2373</institution-id>
+   <institution>Sichuan Provincial Center for Disease Control and Prevention, </institution>
+   <institution>Center for AIDS/STD Control and Prevention, </institution>
+  </institution-wrap>Chengdu, 610041 Sichuan China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.198530.6</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 8803 2373</institution-id>
+   <institution>Division of Virology and Immunology, </institution>
+   <institution>National Center for AIDS/STD Control and Prevention (NCAIDS), China CDC, </institution>
+  </institution-wrap>Beijing, China 
+ </aff>
+</contrib-group>

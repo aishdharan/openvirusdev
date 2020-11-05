@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib32">
+ <element-citation publication-type="journal" id="sref32">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shehzad</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Sarfraz</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Shah</surname>
+    <given-names>S.G.M.</given-names>
+   </name>
+  </person-group>
+  <article-title>The impact of COVID-19 as a necessary evil on air pollution in India during the lockdown</article-title>
+  <source>Environ. Pollut.</source>
+  <volume>266</volume>
+  <year>2020</year>
+  <fpage>115080</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.envpol.2020.115080</pub-id>
+  <pub-id pub-id-type="pmid">32634726</pub-id>
+ </element-citation>
+</ref>

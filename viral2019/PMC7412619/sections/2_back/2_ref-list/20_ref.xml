@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R20">
+ <label>20</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Pickles</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Foss</surname>
+    <given-names>AM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Vickerman</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Interim modelling analysis to validate reported increases in condom use and assess HIV infections averted among female sex workers and clients in southern India following a targeted HIV prevention programme</article-title>. 
+  <source>Sex Transm Infect</source>
+  <year>2010</year>;
+  <volume>86(Suppl 1)</volume>:
+  <fpage>i33</fpage>–
+  <lpage>43</lpage>. 
+  <pub-id pub-id-type="doi">10.1136/sti.2009.038950</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20167728?>
+  <pub-id pub-id-type="pmid">20167728</pub-id>
+ </mixed-citation>
+</ref>

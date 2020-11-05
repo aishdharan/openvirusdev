@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b32">
+ <element-citation publication-type="book" id="sb32">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Prasse</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Achterberg</surname>
+    <given-names>M.A.</given-names>
+   </name>
+   <name>
+    <surname>Van Mieghem</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Fundamental limits of predicting epidemic outbreaks</chapter-title>
+  <year>2020</year>
+  <publisher-name>Delft, University of Technology</publisher-name>
+  <comment>Retrieved from 
+   <ext-link ext-link-type="uri" xlink:href="https://www.nas.ewi.tudelft.nl/people/Piet/papers/TUD2020410%5Fprediction%5Flimits%5Fepidemic%5Foutbreaks.pdf" id="interref21" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.nas.ewi.tudelft.nl/people/Piet/papers/TUD2020410_prediction_limits_epidemic_outbreaks.pdf</ext-link>
+  </comment>
+ </element-citation>
+</ref>

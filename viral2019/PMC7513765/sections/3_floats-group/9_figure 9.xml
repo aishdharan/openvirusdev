@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig9">
+ <label>Figure 9</label>
+ <caption>
+  <p>Evolution of SARS-CoV-2 in Italy for Different Solar-Pump Efficiencies</p>
+  <p>Italian daily COVID-19 cases from 24 February 2020 through 21 August 2020 (smoothed over a 4-day moving average: black points) are shown together with three different SARS-COV-2 model predictions at a latitude of 40° north, for solar-pump efficiencies ε = 1 (red curve: same model as in 
+   <xref rid="fig6" ref-type="fig">Figures 6</xref>A and 6B), ε = 0.3 (green curve), and ε = 0 (no solar-pump; blue curve). The three curves differ (other than in solar-pump efficiency) in the values of a number of critical parameters, namely, the epidemic starting time t
+   <sub>0</sub> (6, 19, and 22 January 2020 for the red, green, and blue curves, respectively), the phase 2 starting time (17, 10, and 12 April 2020, for the red, green, and blue curves, respectively) lockdown halving times (28, 18, and 15 days, for the red, green, and blue curves respectively), and phase 2 doubling times (238, 235, and 210 days, for the red, green, and blue curves, respectively). The remaining parameters are common to all simulations and the same used for 
+   <xref rid="fig6" ref-type="fig">Figures 6</xref>, 
+   <xref rid="fig7" ref-type="fig">7</xref>, and 
+   <xref rid="fig8" ref-type="fig">8</xref>. All curves of growth of new daily infected have been scaled down by a factor of 6 (as observed) to match the Italian data of the current outbreak. All models closely match observation; however, short- and long-term predictions differ significantly in the three cases.
+  </p>
+ </caption>
+ <graphic xlink:href="gr9_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

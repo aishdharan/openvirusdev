@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0075">The efficiency of the solar pump is here parameterized through the parameter ε (in the interval [0,1]) but depends, effectively, on internal virus properties, namely the lethal time τ
+ <sub>0</sub> needed to deliver the UV lethal dose D
+ <sub>0</sub> (defined as the UV-C fluence needed to inactivate 63% of the virus) for the given virus (
+ <xref rid="bib26" ref-type="bibr">Nicastro et al., 2020</xref>, submitted). At local noon (the minima of the daily solar curves of 
+ <xref rid="fig1" ref-type="fig">Figure 1</xref>), typical UV-B/UV-A solar intensities on the Earth range from 0.9 to 18 J m
+ <sup>−2</sup> min
+ <sup>−1</sup> in the northern and southern hemispheres between winters and summers, respectively, and are roughly constant at the equator throughout the year with a mean value of ∼18 J m
+ <sup>−2</sup> min
+ <sup>−1</sup>. Folding these intensities through the action spectrum (i.e. the ratio of the virucidal dose of UV radiation at a given wavelength to the lethal dose at 254 nm) of 
+ <xref rid="bib19" ref-type="bibr">Lytle and Sagripanti (2005)</xref> yields to lethal UV-B/UV-A intensities of ∼0.05–1 J m
+ <sup>−2</sup> min
+ <sup>−1</sup>. For Covid-19, we measured a 3-order-of-magnitude inactivation dose of 37 J m
+ <sup>−2</sup> (
+ <xref rid="bib4" ref-type="bibr">Bianco et al., 2020</xref>, submitted), which translates into D
+ <sub>0</sub> = 4.8 J m
+ <sup>−2</sup>. This value is used to produce the lethal-time dotted curves of 
+ <xref rid="fig3" ref-type="fig">Figures 3</xref> , 
+ <xref rid="fig4" ref-type="fig">4</xref> , 
+ <xref rid="fig5" ref-type="fig">5</xref> , 
+ <xref rid="fig6" ref-type="fig">6</xref> , 
+ <xref rid="fig7" ref-type="fig">7</xref> , 
+ <xref rid="fig8" ref-type="fig">8</xref> , and 
+ <xref rid="fig9" ref-type="fig">9</xref> , which oscillate between 5 and 100 min at local noon depending on latitude and time of the year, and corresponds to our reference solar-pump efficiency ε = 1. Efficiencies lower than the reference value 1 correspond to inversely longer lethal times (e.g. dotted green curve of 
+ <xref rid="fig9" ref-type="fig">Figure 9</xref>). As an example, 
+ <xref rid="fig2" ref-type="fig">Figure 2</xref> shows two solar pump attenuated R
+ <sub>t</sub> curves over a solar-year period for a 40° north location on the Earth and for an epidemic with R
+ <sub>0</sub> = 3 (see figure's caption for details).
+</p>

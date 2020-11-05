@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Matsumoto</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sobata</surname>
+   <given-names>R</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Uchida</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hidaka</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Momose</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hino</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>Risk for transmission of pandemic (H1N1) 2009 virus by blood transfusion.</article-title>
+  <source>Emerg Infect Dis</source>. 
+  <year>2010</year>;
+  <volume>16</volume>:
+  <fpage>722</fpage>–
+  <lpage>3</lpage>. 
+  <pub-id pub-id-type="doi">10.3201/eid1604.091795</pub-id>
+  <?supplied-pmid 20350401?>
+  <pub-id pub-id-type="pmid">20350401</pub-id>
+ </mixed-citation>
+</ref>

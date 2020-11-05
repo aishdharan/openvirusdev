@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Husereau</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Drummond</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Petrou</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Carswell</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Moher</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Greenberg</surname>
+    <given-names>D</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Consolidated Health Economic Evaluation Reporting Standards (CHEERS) statement</article-title>
+  <source>Value Health</source>
+  <year>2013</year>
+  <date-in-citation content-type="access-date">Aug 8, 2019</date-in-citation>
+  <volume>16</volume>
+  <issue>2</issue>
+  <fpage>231</fpage>
+  <lpage>250</lpage>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1016/j.jval.2013.02.002</pub-id>
+  <pub-id pub-id-type="pmid">23538175</pub-id>
+ </element-citation>
+</ref>

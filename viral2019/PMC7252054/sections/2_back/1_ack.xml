@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ack0010">
+ <title>Acknowledgements</title>
+ <p>This work was supported by funds from the 
+  <funding-source id="gs2">Guangzhou Institute of Pediatrics/Guangzhou Women and Children Medical Center</funding-source> (grant number: YIP-2019-023), 
+  <funding-source id="gs3">Guangzhou Science and Technology Department</funding-source> (grant number: 201804010142), and 
+  <funding-source id="gs1">
+   <institution-wrap>
+    <institution-id institution-id-type="doi">10.13039/501100007162</institution-id>
+    <institution>Guangdong Science and Technology Department</institution>
+   </institution-wrap>
+  </funding-source> (grant number: 2016ZC0227). The authors thank all patients involved in the study.
+ </p>
+</ack>

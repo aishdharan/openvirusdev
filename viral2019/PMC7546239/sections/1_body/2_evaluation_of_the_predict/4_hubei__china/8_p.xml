@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3401">The prediction accuracy of all NIPA methods in 
+ <xref rid="fig2" ref-type="fig">Fig. 2</xref> is similar, although NIPA static prior is considerably worse around February 4 for the prediction of three or more days ahead in time. A possible reason is as follows. The impact of the nation-wide lockdown on January 24 is captured incorrectly by the static prior, whereas the original NIPA method has more freedom to adjust its contact network accordingly and NIPA dynamic prior receives a more tailored prior to the current situation. Another reason is that the prior network (dynamic or static) may deviate significantly from the true infection matrix. Under ideal circumstances, namely that the epidemic outbreak exactly follows the SIR model, we show that NIPA static prior outperforms NIPA in Appendix E.
+</p>

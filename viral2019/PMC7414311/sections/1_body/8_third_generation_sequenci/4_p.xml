@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0120">The use of the MinION as a tool for quick investigation of a novel coronavirus has not only diagnostic potential but also a huge epidemiologic impact. A quick method for direct sequencing of clinical specimens is instrumental for understanding the transmission of the virus, its mutation rate, and polymorphisms associated with disease severity. The ARTIC network was initiated by a group of molecular biologists as a real-time molecular epidemiology response network for processing specimens during viral outbreaks. Based on Nanopore technology, this epidemiologic screening network for viral outbreaks has become feasible in locations with limited resources and is mainly focused on the rapidly evolving RNA viruses. The overall goal is to collect sequencing information in a real-time format to allow the real-time understanding of viral transmission and evolution (
+ <ext-link ext-link-type="uri" xlink:href="https://artic.network/" id="intref0020" xmlns:xlink="http://www.w3.org/1999/xlink">https://artic.network/</ext-link>). The ARTIC group has started providing materials and support for sequencing the SARS-CoV-2, which include primers, protocols, and pipelines for data analysis.
+ <xref rid="bib47" ref-type="bibr">
+  <sup>47</sup>
+ </xref>
+</p>

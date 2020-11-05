@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="t01" orientation="portrait" position="float">
+ <label>Table 1.</label>
+ <caption>
+  <p>Predicted epidemic sizes and postepidemic seroprevalence in livestock and humans (farming and nonfarming groups), without intervention and for the different vaccination scenarios, predicted median (95% CrI)</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td rowspan="3" colspan="1">Scenarios</td>
+    <td align="center" rowspan="3" colspan="1">No intervention</td>
+    <td align="center" colspan="5" rowspan="2">Livestock vaccination: month, no. of doses (vaccination coverage)</td>
+    <td align="center" colspan="2" rowspan="1">Human vaccination: month, no. of doses (vaccination coverage)</td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">Farming</td>
+    <td align="center" rowspan="1" colspan="1">Farming and nonfarming (50%)</td>
+   </tr>
+   <tr>
+    <td align="center" rowspan="1" colspan="1">December, 3,000 (10%)</td>
+    <td align="center" rowspan="1" colspan="1">December, 6,000 (20%)</td>
+    <td align="center" rowspan="1" colspan="1">January, 3,000 (10%)</td>
+    <td align="center" rowspan="1" colspan="1">January, 6,000 (20%)</td>
+    <td align="center" rowspan="1" colspan="1">January, 9,000 (30%)</td>
+    <td align="center" rowspan="1" colspan="1">December, 61,560 (80%)</td>
+    <td align="center" rowspan="1" colspan="1">December,128,250</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="9" rowspan="1">Epidemic size</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Livestock</td>
+    <td align="center" rowspan="1" colspan="1">17,723 (14,170–20,481)</td>
+    <td align="center" rowspan="1" colspan="1">14,385 (11,013–17,077)</td>
+    <td align="center" rowspan="1" colspan="1">11,397 (8,653–13,945)</td>
+    <td align="center" rowspan="1" colspan="1">15,264 (11,945–17,901)</td>
+    <td align="center" rowspan="1" colspan="1">13,214 (10,402–15,623)</td>
+    <td align="center" rowspan="1" colspan="1">11,576 (9.190–13,819)</td>
+    <td align="center" rowspan="1" colspan="1">17,726 (14,283–20,536)</td>
+    <td align="center" rowspan="1" colspan="1">17,748 (14,182–20,541)</td>
+   </tr>
+   <tr>
+    <td colspan="8" rowspan="1">Human, reported cases [percentage total]</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Total</td>
+    <td align="center" rowspan="1" colspan="1">173 (133–224)</td>
+    <td align="center" rowspan="1" colspan="1">142 (107–185)</td>
+    <td align="center" rowspan="1" colspan="1">113 (82–152)</td>
+    <td align="center" rowspan="1" colspan="1">150 (114–197)</td>
+    <td align="center" rowspan="1" colspan="1">131 (96–179)</td>
+    <td align="center" rowspan="1" colspan="1">117 (83–159)</td>
+    <td align="center" rowspan="1" colspan="1">111 (78–153)</td>
+    <td align="center" rowspan="1" colspan="1">135 (100–181)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Farming</td>
+    <td align="center" rowspan="1" colspan="1">106 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">87 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">69 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">92 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">80 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">71 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">44 [40%]</td>
+    <td align="center" rowspan="1" colspan="1">67 [50%]</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Nonfarming</td>
+    <td align="center" rowspan="1" colspan="1">67 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">55 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">44 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">59 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">51 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">46 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">67 [60%]</td>
+    <td align="center" rowspan="1" colspan="1">68 [50%]</td>
+   </tr>
+   <tr>
+    <td colspan="8" rowspan="1">Humans, all cases: reported and nonreported [percentage total]</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Total</td>
+    <td align="center" rowspan="1" colspan="1">9,113 (7,361–11,355)</td>
+    <td align="center" rowspan="1" colspan="1">7,490 (6,057–9,333)</td>
+    <td align="center" rowspan="1" colspan="1">5,956 (4,642–7,621)</td>
+    <td align="center" rowspan="1" colspan="1">7,916 (6,393–10,113)</td>
+    <td align="center" rowspan="1" colspan="1">6,916 (5,422–8,924)</td>
+    <td align="center" rowspan="1" colspan="1">6,170 (4,708–8,226)</td>
+    <td align="center" rowspan="1" colspan="1">5,789 (4,456–7,671)</td>
+    <td align="center" rowspan="1" colspan="1">7,109 (5,669–9,201)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Farming</td>
+    <td align="center" rowspan="1" colspan="1">5,559 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">4,569 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">3,633 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">4,829 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">4,219 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">3,764 [61%]</td>
+    <td align="center" rowspan="1" colspan="1">2,316 [40%]</td>
+    <td align="center" rowspan="1" colspan="1">3,512 [50%]</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Nonfarming</td>
+    <td align="center" rowspan="1" colspan="1">3,554 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">2,921 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">2,323 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">3,087 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">2,697 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">2,406 [39%]</td>
+    <td align="center" rowspan="1" colspan="1">3,473 [60%]</td>
+    <td align="center" rowspan="1" colspan="1">3,588 [50%]</td>
+   </tr>
+   <tr>
+    <td colspan="8" rowspan="1">Postepidemic seroprevalence</td>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Livestock</td>
+    <td align="center" rowspan="1" colspan="1">52.0 (42.9–59.4)</td>
+    <td align="center" rowspan="1" colspan="1">42.8 (34.2–50.3)</td>
+    <td align="center" rowspan="1" colspan="1">34.4 (27.5–41.3)</td>
+    <td align="center" rowspan="1" colspan="1">45.1 (36.7–52.2)</td>
+    <td align="center" rowspan="1" colspan="1">39.2 (32.3–45.5)</td>
+    <td align="center" rowspan="1" colspan="1">34.6 (28.7–40.3)</td>
+    <td align="center" rowspan="1" colspan="1">52.0 (43.24–59.62)</td>
+    <td align="center" rowspan="1" colspan="1">52.1 (43.1–59.6)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Humans: farming</td>
+    <td align="center" rowspan="1" colspan="1">7.2 (5.7–9.3)</td>
+    <td align="center" rowspan="1" colspan="1">6.0 (4.7–7.8)</td>
+    <td align="center" rowspan="1" colspan="1">4.8 (3.6–6.4)</td>
+    <td align="center" rowspan="1" colspan="1">6.3 (4.9–8.4)</td>
+    <td align="center" rowspan="1" colspan="1">5.5 (4.1–7.4)</td>
+    <td align="center" rowspan="1" colspan="1">4.9 (3.6–6.8)</td>
+    <td align="center" rowspan="1" colspan="1">2.9 (2.1–4.4)</td>
+    <td align="center" rowspan="1" colspan="1">4.6 (2.5–6.2)</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">  Humans: nonfarming</td>
+    <td align="center" rowspan="1" colspan="1">2.0 (1.4–2.7)</td>
+    <td align="center" rowspan="1" colspan="1">1.6 (1.1–2.2)</td>
+    <td align="center" rowspan="1" colspan="1">1.3 (0.9–1.8)</td>
+    <td align="center" rowspan="1" colspan="1">1.7 (1.2–2.3)</td>
+    <td align="center" rowspan="1" colspan="1">1.5 (1.0–2.1)</td>
+    <td align="center" rowspan="1" colspan="1">1.3 (0.9–1.9)</td>
+    <td align="center" rowspan="1" colspan="1">2.0 (1.4–2.7)</td>
+    <td align="center" rowspan="1" colspan="1">2.0 (1.4–2.7)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

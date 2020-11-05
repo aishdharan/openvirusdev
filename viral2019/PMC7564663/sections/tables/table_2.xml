@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="vaccines-08-00531-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">vaccines-08-00531-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Advances in major virulence genes/immune escape-related genes of ASFV.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Pathway</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Encoded Protein/Genes</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Essential/Nonessential</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Mechanism</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2" align="left" valign="middle" colspan="1">Regulation of host protein expression</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">A238L</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Inhibits NF-κ B and NFAT activation</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B51-vaccines-08-00531" ref-type="bibr">51</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <bold>NL</bold>
+     <bold>(DP71L)</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Inhibition of activation of peIF2α-ATF4-CHOP signaling pathway and its mediated apoptosis</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B52-vaccines-08-00531" ref-type="bibr">52</xref>,
+     <xref rid="B53-vaccines-08-00531" ref-type="bibr">53</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="left" valign="middle" colspan="1">Interference with innate immune system</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <bold>MGF360,MGF505/530</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Inhibition of transcription of type I IFN and other cytokines 
+     <break/>Increased survival of infected cells
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B54-vaccines-08-00531" ref-type="bibr">54</xref>,
+     <xref rid="B55-vaccines-08-00531" ref-type="bibr">55</xref>,
+     <xref rid="B56-vaccines-08-00531" ref-type="bibr">56</xref>,
+     <xref rid="B57-vaccines-08-00531" ref-type="bibr">57</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">I329L</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Inhibits TLR signaling 
+     <break/>Inhibiting NF-κ B and IRF3 signaling pathways
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B50-vaccines-08-00531" ref-type="bibr">50</xref>,
+     <xref rid="B58-vaccines-08-00531" ref-type="bibr">58</xref>,
+     <xref rid="B59-vaccines-08-00531" ref-type="bibr">59</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="4" align="left" valign="middle" colspan="1">Regulation of apoptosis/autophagy</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">A179L</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">A member of the Bcl-2 family 
+     <break/>Inhibition of apoptosis in the early stage of infection 
+     <break/>Inhibition of cell autophagy
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B60-vaccines-08-00531" ref-type="bibr">60</xref>,
+     <xref rid="B61-vaccines-08-00531" ref-type="bibr">61</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">4CL (A224L)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Inhibition of TNF-alpha-induced caspase 3 activation and apoptosis</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B54-vaccines-08-00531" ref-type="bibr">54</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">EP153R</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">C-type lectin, participate in the process of blood cell adsorption 
+     <break/>Regulating apoptosis and inhibiting MHC-1 expression
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B62-vaccines-08-00531" ref-type="bibr">62</xref>,
+     <xref rid="B63-vaccines-08-00531" ref-type="bibr">63</xref>,
+     <xref rid="B64-vaccines-08-00531" ref-type="bibr">64</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">P54 (E183L)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Participate in viral particle assembly and viral adhesion to host cells 
+     <break/>Induce apoptosis in the late stage of infection
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B65-vaccines-08-00531" ref-type="bibr">65</xref>,
+     <xref rid="B66-vaccines-08-00531" ref-type="bibr">66</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="6" align="left" valign="middle" style="border-bottom:solid thin" colspan="1">Others</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <bold>CD2v</bold>
+     <bold>(EP402R)</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Mediate erythrocyte adsorption and promote virus transmission 
+     <break/>Interacts with cellular AP-1 protein and participates in intracellular transport of virus 
+     <break/>Inhibition of lymphocyte proliferation
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B58-vaccines-08-00531" ref-type="bibr">58</xref>,
+     <xref rid="B67-vaccines-08-00531" ref-type="bibr">67</xref>,
+     <xref rid="B68-vaccines-08-00531" ref-type="bibr">68</xref>,
+     <xref rid="B69-vaccines-08-00531" ref-type="bibr">69</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">L83L</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Binding host protein IL-1beta to inhibit its antiviral effect</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B70-vaccines-08-00531" ref-type="bibr">70</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <bold>UK</bold>
+     <bold>(DP96R)</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Negative regulation of type I IFN expression and NF-κ B signaling by inhibition of TBK1 and IKKβ</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B71-vaccines-08-00531" ref-type="bibr">71</xref>,
+     <xref rid="B72-vaccines-08-00531" ref-type="bibr">72</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <bold>9GL</bold>
+     <bold>(B119L)</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Influencing virion maturation and viral growth in macrophages and viral virulence in swine</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B56-vaccines-08-00531" ref-type="bibr">56</xref>,
+     <xref rid="B71-vaccines-08-00531" ref-type="bibr">71</xref>,
+     <xref rid="B73-vaccines-08-00531" ref-type="bibr">73</xref>,
+     <xref rid="B74-vaccines-08-00531" ref-type="bibr">74</xref>,
+     <xref rid="B75-vaccines-08-00531" ref-type="bibr">75</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">
+     <bold>TK</bold>
+     <bold>(A240L)</bold>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Essential</td>
+    <td align="left" valign="middle" rowspan="1" colspan="1">Determines virulence</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B76-vaccines-08-00531" ref-type="bibr">76</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+     <bold>DP148R</bold>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nonessential</td>
+    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">The function is elusive yet. 
+     <break/>Deletion of DP148R greatly reduces viral virulence
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B77-vaccines-08-00531" ref-type="bibr">77</xref>,
+     <xref rid="B78-vaccines-08-00531" ref-type="bibr">78</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Bold markers are virulence-determining genes encoded by ASFV that have been reported so far.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0238411.g001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0238411.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <title>Validation of the modified SIR model using data from Guangdong and Zhejiang provinces.</title>
+  <p>The 
+   <italic>φ</italic> values from February 3 to February 12 (before nationwide intensive community screening but after Wuhan city lockdown) were used to predict 
+   <italic>φ</italic> values from February 13 to March 11 for Guangdong (A) and Zhejiang (D). The 
+   <italic>α</italic> values from February 8 to February 12 (before nationwide intensive community screening but after Wuhan city lockdown) were used to predict 
+   <italic>α</italic> values from February 13 to March 10 for Guangdong (B) and Zhejiang (E). Predicted 
+   <italic>α</italic> values and 
+   <italic>φ</italic> values were used to predict the number of infections in from February 14 to March 11 for Guangdong (C) and Zhejiang (F).
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0238411.g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

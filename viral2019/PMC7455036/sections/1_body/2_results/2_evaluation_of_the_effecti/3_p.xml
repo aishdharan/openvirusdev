@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Next, we predicted the increase in infections, supposing that the two measures had never been implemented. To assess the impacts of city lockdown on Wuhan, the lowest 
+ <italic>α</italic> value before January 23 was set as the 
+ <italic>α</italic> value before city lockdown, and we made the same assumption for the recovery number. Infections in Wuhan were predicted from January 24 to February 15 using simulated 
+ <italic>α</italic> values and 
+ <italic>φ</italic> values. Similar analyses were performed using data from China excluding Hubei. The infections in Wuhan city and China excluding Hubei were predicted to be 36241 and 129269, respectively, on February 15. In reality, with city lockdown, the numbers of infections in Wuhan city and China excluding Hubei were 36547 and 8533, respectively (
+ <xref ref-type="fig" rid="pone.0238411.g003">Fig 3</xref>).
+</p>

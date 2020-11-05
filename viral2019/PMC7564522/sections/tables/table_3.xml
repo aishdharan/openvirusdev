@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0003">
+ <label>Table 3</label>
+ <caption>
+  <p>Alternative assumptions used for the risk of death experienced by those PLHIV whose ART supply is interrupted.</p>
+ </caption>
+ <alt-text id="alt0006">Table 3</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top"/>
+    <th valign="top">
+     <italic>Average monthly mortality risk</italic>
+    </th>
+    <th valign="top">
+     <italic>Proportion that would die after one year</italic>
+    </th>
+    <th valign="top">
+     <italic>Justification</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top">
+     <italic>Lower bound</italic>
+    </td>
+    <td valign="top">0.10%</td>
+    <td valign="top">1.24%</td>
+    <td valign="top">This is a hypothetical best-case scenario in which the vast majority of individuals do not deteriorate rapidly.</td>
+   </tr>
+   <tr>
+    <td valign="top">
+     <italic>Medium</italic>
+    </td>
+    <td valign="top">0.24%</td>
+    <td valign="top">2.91%</td>
+    <td valign="top">The SMART trial found a 3% risk at 12 months of either death of an opportunistic infection for those with interrupted ART 
+     <xref rid="bib0013" ref-type="bibr">[13]</xref>. This also implies a mean survival time approximately equivalent to that for HIV-positive persons who have never been on ART 
+     <xref rid="bib0014" ref-type="bibr">[14]</xref>.
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">
+     <italic>Upper bound</italic>
+    </td>
+    <td valign="top">0.44%</td>
+    <td valign="top">5.28%</td>
+    <td valign="top">This is the hypothetical worst-case scenario in which many persons deteriorate more rapidly.</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

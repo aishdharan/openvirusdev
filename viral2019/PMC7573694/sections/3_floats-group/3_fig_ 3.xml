@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Time series heatmap of air pollutants in different regions, combined with line chart of new confirmed cases and deaths outside Hubei province in China, From Jan. 1st to Apr. 6th. NOTE: X-axle of each heatmap from top to bottom: Central China, East China, North China, Northeast, Northwest, Southwest. Major epidemic response actions taken by the Chinese government are shown in the bottom.</p>
+ </caption>
+ <alt-text id="alttext0030">Fig. 3</alt-text>
+ <graphic xlink:href="gr3_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

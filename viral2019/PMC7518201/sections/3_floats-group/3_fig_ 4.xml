@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>Comparing the probability of death in terms of time for COVID9 in two different regions. (Probabilities could have a coefficient of order 
+   <inline-formula>
+    <math id="M28" altimg="si25.svg">
+     <mrow>
+      <msup>
+       <mn>10</mn>
+       <mrow>
+        <mo>−</mo>
+        <mn>3</mn>
+       </mrow>
+      </msup>
+     </mrow>
+    </math>
+   </inline-formula>, less or more.)
+  </p>
+ </caption>
+ <alt-text id="alttext0025">Fig. 4</alt-text>
+ <graphic xlink:href="gr4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

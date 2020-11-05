@@ -1,0 +1,1164 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><?covid-19-tdm?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Dermatol</journal-id><journal-id journal-id-type="iso-abbrev">Int J Dermatol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-4632</journal-id><journal-id journal-id-type="publisher-id">IJD</journal-id><journal-title-group><journal-title>International Journal of Dermatology</journal-title></journal-title-group><issn pub-type="ppub">0011-9059</issn><issn pub-type="epub">1365-4632</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7537512</article-id><article-id pub-id-type="doi">10.1111/ijd.15189</article-id><article-id pub-id-type="publisher-id">IJD15189</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></article-categories><title-group><article-title>Covid&#x02010;19 pandemic and the skin</article-title><alt-title alt-title-type="right-running-head">Covid&#x02010;19 pandemic and the skin</alt-title><alt-title alt-title-type="left-running-head">Drenovska, Schmidt, and Vassileva</alt-title></title-group><contrib-group><contrib id="ijd15189-cr-0001" contrib-type="author" corresp="yes"><name><surname>Drenovska</surname><given-names>Kossara</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8254-1630</contrib-id><xref ref-type="aff" rid="ijd15189-aff-0001">
+<sup>1</sup>
+</xref><address><email>kosara@lycos.com</email></address></contrib><contrib id="ijd15189-cr-0002" contrib-type="author"><name><surname>Schmidt</surname><given-names>Enno</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1206-8913</contrib-id><xref ref-type="aff" rid="ijd15189-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ijd15189-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ijd15189-cr-0003" contrib-type="author"><name><surname>Vassileva</surname><given-names>Snejina</given-names></name><degrees>MD, PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1623-2482</contrib-id><xref ref-type="aff" rid="ijd15189-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ijd15189-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Dermatology and Venereology</named-content>
+<institution>University Hospital &#x0201c;Alexandrovska&#x0201d;</institution>
+<institution>Medical University &#x02010; Sofia</institution>
+<city>Sofia</city>
+<country country="BG">Bulgaria</country>
+</aff><aff id="ijd15189-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Dermatology</named-content>
+<institution>University of L&#x000fc;beck</institution>
+<city>L&#x000fc;beck</city>
+<country country="DE">Germany</country>
+</aff><aff id="ijd15189-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">L&#x000fc;beck Institute of Experimental Dermatology (LIED)</named-content>
+<institution>University of L&#x000fc;beck</institution>
+<city>L&#x000fc;beck</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Kossara Drenovska, <sc>md</sc>, <sc>p</sc>h<sc>d</sc><break/>
+Department of Dermatology and Venereology<break/>
+University Hospital &#x0201c;Alexandrovska&#x0201d;<break/>
+Medical University &#x02013; Sofia<break/>
+1 Sv. Georgi Sofiiski str.; 1431<break/>
+Sofia, Bulgaria<break/>
+E&#x02010;mail: <email>kosara@lycos.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>9</month><year>2020</year></pub-date><elocation-id>10.1111/ijd.15189</elocation-id><history><date date-type="received"><day>15</day><month>5</month><year>2020</year></date><date date-type="rev-recd"><day>25</day><month>8</month><year>2020</year></date><date date-type="accepted"><day>26</day><month>8</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 the International Society of Dermatology. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 <italic>the International Society of Dermatology</italic></copyright-statement><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:IJD-9999-na.pdf"/><abstract id="ijd15189-abs-0001"><title>Abstract</title><p>In the beginning of the COVID&#x02010;19 outbreak, skin manifestations, if present, were not paid enough attention. Then, the focus moved toward the impact of the prolonged use of personal protective measures in both healthcare workers and patients. In the meantime, attention is increasingly paid to dermatology as a result of the concern for certain groups of dermatologic patients, including those whose condition may worsen by the thorough disinfection measures and those treated with immunosuppressants or immunomodulators. Following patients with psoriasis on biological therapy, as well as other inflammatory and autoimmune cutaneous disorders such as atopic dermatitis, pemphigus, pemphigoid diseases, and skin cancer provoked the interest of dermatologists. Finally, an intriguing question to the dermatologic society was whether skin changes during COVID&#x02010;19 infection exist and what could be their diagnostic or prognostic value. Here, we summarize skin conditions during the COVID&#x02010;19 pandemic, patient information, and expert recommendations and give an overview about the registries launched to document skin changes during COVID&#x02010;19, as well as details about certain patient groups infected with SARS&#x02010;CoV&#x02010;2, for example, psoriasis, atopic dermatitis, and autoimmune bullous diseases.</p></abstract><counts><fig-count count="0"/><table-count count="2"/><page-count count="8"/><word-count count="17229"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>edited-state</meta-name><meta-value>corrected-proof</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.2 mode:remove_FC converted:06.10.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="ijd15189-ntgp-0001"><fn id="ijd15189-note-0001"><p>Conflict of interest: Dr. Drenovska reports personal fees from Roche, Abbvie, Johnson &#x00026; Johnson, Novartis, and Eli Lilly, outside the submitted work. Dr. Schmidt reports grants and personal fees from UCB, grants and personal fees from Biotest, grants from Incyte, grants from Euroimmun, personal fees from Novartis, grants and personal fees from ArgenX, personal fees from Astra Zeneca, grants and personal fees from Fresenius Medical Care, grants from Dompe, grants from Synthon, grants from Admirx, and personal fees from Thermo Fischer, outside the submitted work. Dr. Vassileva reports personal fees from Abbvie, Novartis, Johnson &#x00026; Johnson, Eli Lilly, Sanofi, Roche, UCB, and Berlin Chemie, outside of the submitted work.</p></fn><fn id="ijd15189-note-0002"><p>Funding source: None.</p></fn></fn-group></notes></front><body id="ijd15189-body-0001"><sec id="ijd15189-sec-0001"><title>Introduction</title><p>The current coronavirus disease (COVID&#x02010;19) manifests itself predominantly as a disorder of the lower respiratory tract leading to pneumonia. It spreads through droplets, aerosols, and contact surfaces and causes fever, fatigue, dry cough, and subsequent shortness of breath.<xref rid="ijd15189-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> Headache, myalgia, arthralgia, and gastrointestinal symptoms may occur in 5&#x02013;15% of patients.<xref rid="ijd15189-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>
+</p><p>In the very beginning of the COVID&#x02010;19 outbreak, data on skin manifestations were scarce. The first look toward dermatology focused on the prevention of the skin and mucous membranes from contact with the infection. Chinese dermatologists were the first to publish a consensus on the adequate measures for topical disinfection in the new pandemic situation.<xref rid="ijd15189-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> Wearing protective masks, goggles, and gloves, thorough hand washing, as well as frequent use of topical antiseptics became obligatory for a broad spectrum of the population and medical staff. Very soon this resulted in occupational skin damage among medical specialists including facial skin injury on the back of the nose, forehead, and suprazygomatic area.<xref rid="ijd15189-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="ijd15189-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Additionally, damage of the skin barrier through aggressive disinfection or wearing gloves could be considered a prerequisite for provoking or exacerbating of contact or atopic dermatitis, chronic hand eczema, skin candidiasis, etc.</p></sec><sec id="ijd15189-sec-0002"><title>Expert recommendations and patient information during COVID&#x02010;19</title><p>The second wave of COVID&#x02010;19&#x02010;related dermatological publications was provoked by the concern to all patients with severe dermatological diseases who undergo treatment with biological agents or other types of immunosuppressive or immunomodulatory therapies.<xref rid="ijd15189-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="ijd15189-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="ijd15189-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Psoriasis vulgaris treated with biologics has already been reported to exacerbate from various infectious diseases like zika and dengue virus.<xref rid="ijd15189-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> Psoriasis was the first dermatosis during the COVID&#x02010;19 pandemic that drew the attention of dermatologists owing to the wide scope of cytotoxic or biological agents used for its treatment.<xref rid="ijd15189-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="ijd15189-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Patients with hidradenitis suppurativa or other rare diseases who probably face similar problems were provided information on the necessary preventive measures and optional treatment regimens by the <italic>European Reference Networks</italic> (ERN).<xref rid="ijd15189-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Atopic dermatitis patients who demonstrate elevated risk of respiratory comorbidities were advised by the <italic>European Academy of Dermatology and Venereology</italic> (<italic>EADV</italic>) task force on atopic dermatitis not to modify by themselves previously stable immune&#x02010;modulating or immunosuppressive therapies because of increased risk of relapses.<xref rid="ijd15189-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> Patients with autoimmune bullous dermatoses, especially those suffering from pemphigus and mucous membrane pemphigoid, were informed by the respective AIBD task force on the effects of systemic corticosteroids, steroid&#x02010;sparing agents, rituximab, and other treatment options during the COVID&#x02010;19 pandemic.<xref rid="ijd15189-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="ijd15189-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="ijd15189-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> Patients with connective tissue diseases on disease&#x02010;modifying antirheumatic drugs, biologics, or other immunosuppressive medications were advised to consult their rheumatologist and stop these drugs during an infection, while noninfected patients are required to continue their medication during the epidemic.<xref rid="ijd15189-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="ijd15189-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> Expert consensus&#x02010;based guidance was elaborated on the use of systemic immunosuppressive therapies for inflammatory skin diseases in children during COVID&#x02010;19 infection along with recommendations concerning the management of infantile hemangiomas.<xref rid="ijd15189-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="ijd15189-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> In the meanwhile, dermatologic surgeons and dermoscopists alarmed on the possible delay and risk of complications in diagnosing and treatment of nonmelanoma skin cancer, melanoma, and lymphoma.<xref rid="ijd15189-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="ijd15189-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="ijd15189-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="ijd15189-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="ijd15189-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>, <xref rid="ijd15189-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> Reorganization of the work in dermatology units was proposed for maximum safety of both patients and staff.<xref rid="ijd15189-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="ijd15189-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="ijd15189-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> Severe acute respiratory syndrome coronavirus&#x02010;2 (SARS&#x02010;CoV&#x02010;2) took place among the streptococcal infections, varicella, measles, hepatitis B and C, and AIDS with which dermatologists are often in contact.<xref rid="ijd15189-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> Patient recommendations and guidelines on specific dermatological conditions during the COVID&#x02010;19 pandemic are detailed in Table&#x000a0;<xref rid="ijd15189-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="ijd15189-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient information and expert recommendations on dermatological conditions during the COVID&#x02010;19 pandemic</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Dermatological condition</th><th align="left" valign="top" rowspan="1" colspan="1">Patient information</th><th align="left" valign="top" rowspan="1" colspan="1">Expert recommendation</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Severe skin diseases on biological or immunomodulation therapy</td><td align="left" rowspan="1" colspan="1">
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.nice.org.uk/guidance/ng169">https://www.nice.org.uk/guidance/ng169</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="http://www.bad.org.uk/healthcare-professionals/covid-19">http://www.bad.org.uk/healthcare&#x02010;professionals/covid&#x02010;19</ext-link>
+</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>NICE guideline<xref rid="ijd15189-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>
+</p>
+<p>BAD &#x02013; advice for dermatology HCPs<xref rid="ijd15189-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Psoriasis vulgaris</td><td align="left" rowspan="1" colspan="1">
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force">https://www.eadv.org/covid&#x02010;19/task&#x02010;force</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.psoriasiscouncil.org/blog/Statement-on-COVID-19-and-Psoriasis.htm">https://www.psoriasiscouncil.org/blog/Statement&#x02010;on&#x02010;COVID&#x02010;19&#x02010;and&#x02010;Psoriasis.htm</ext-link>
+</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Conforti <italic>et al</italic>.<xref rid="ijd15189-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>
+</p>
+<p>Lebwohl <italic>et al</italic>.<xref rid="ijd15189-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Hidradenitis suppurativa and other rare skin diseases</td><td align="left" rowspan="1" colspan="1">
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://ern-skin.eu/covid-19/">https://ern&#x02010;skin.eu/covid&#x02010;19/</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force">https://www.eadv.org/covid&#x02010;19/task&#x02010;force</ext-link>
+</p>
+</td><td align="left" rowspan="1" colspan="1">Bodemer <italic>et al</italic>.<xref rid="ijd15189-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Atopic dermatitis</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force">https://www.eadv.org/covid&#x02010;19/task&#x02010;force</ext-link>
+</td><td align="left" rowspan="1" colspan="1">Wollenberg <italic>et al</italic>.<xref rid="ijd15189-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Autoimmune blistering diseases</td><td align="left" rowspan="1" colspan="1">
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force">https://www.eadv.org/covid&#x02010;19/task&#x02010;force</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="http://www.pemphigus.org/information-for-pemphigus-and-pemphigoid-patients-related-to-coronavirus-disease-covid-19/">http://www.pemphigus.org/information&#x02010;for&#x02010;pemphigus&#x02010;and&#x02010;pemphigoid&#x02010;patients&#x02010;related&#x02010;to&#x02010;coronavirus&#x02010;disease&#x02010;covid&#x02010;19/</ext-link>
+</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Kasperkiewicz <italic>et al</italic>.<xref rid="ijd15189-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>
+</p>
+<p>Shakshouk <italic>et al</italic>.<xref rid="ijd15189-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Rheumatologic skin diseases</td><td align="left" rowspan="1" colspan="1">
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.rheumatology.org.uk/news-policy/details/Covid19-Coronavirus-update-members">https://www.rheumatology.org.uk/news&#x02010;policy/details/Covid19&#x02010;Coronavirus&#x02010;update&#x02010;members</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.rheumatology.org/Portals/0/Files/ACR-COVID-19-Clinical-Guidance-Summary-Patients-with-Rheumatic-Diseases.pd">https://www.rheumatology.org/Portals/0/Files/ACR&#x02010;COVID&#x02010;19&#x02010;Clinical&#x02010;Guidance&#x02010;Summary&#x02010;Patients&#x02010;with&#x02010;Rheumatic&#x02010;Diseases.pd</ext-link>
+</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Arora <italic>et al</italic>.<xref rid="ijd15189-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>
+</p>
+<p>Mikuls <italic>et al</italic>.<xref rid="ijd15189-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Inflammatory skin diseases in children</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://pedsderm.net/resources/general-information-for-patients-and-caregivers-about-covid-19/">https://pedsderm.net/resources/general&#x02010;information&#x02010;for&#x02010;patients&#x02010;and&#x02010;caregivers&#x02010;about&#x02010;covid&#x02010;19/</ext-link>
+</td><td align="left" rowspan="1" colspan="1">Reynolds <italic>et al</italic>.<xref rid="ijd15189-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Infantile hemangiomas</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/pde.14196">https://doi.org/10.1111/pde.14196</ext-link>
+</td><td align="left" rowspan="1" colspan="1">Frieden <italic>et al</italic>.<xref rid="ijd15189-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Nonmelanoma skin cancer, melanoma, and lymphoma</td><td align="left" rowspan="1" colspan="1">
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.nccn.org/covid-19/default.aspx">https://www.nccn.org/covid&#x02010;19/default.aspx</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.skincancer.org/treatment-resources/support-resources/robins-nest/covid-19-and-you">https://www.skincancer.org/treatment&#x02010;resources/support&#x02010;resources/robins&#x02010;nest/covid&#x02010;19&#x02010;and&#x02010;you</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.rcr.ac.uk/sites/default/files/non-melanoma-skin-cancer-covid19.pdf">https://www.rcr.ac.uk/sites/default/files/non&#x02010;melanoma&#x02010;skin&#x02010;cancer&#x02010;covid19.pdf</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.rcr.ac.uk/sites/default/files/melanoma-treatment-covid19.pdf">https://www.rcr.ac.uk/sites/default/files/melanoma&#x02010;treatment&#x02010;covid19.pdf</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.esmo.org/guidelines/cancer-patient-management-during-the-covid-19-pandemic/melanoma-in-the-covid-19-era">https://www.esmo.org/guidelines/cancer&#x02010;patient&#x02010;management&#x02010;during&#x02010;the&#x02010;covid&#x02010;19&#x02010;pandemic/melanoma&#x02010;in&#x02010;the&#x02010;covid&#x02010;19&#x02010;era</ext-link>
+</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Der Sarkissian <italic>et al</italic>.<xref rid="ijd15189-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>
+</p>
+<p>Jakhar <italic>et al</italic>.<xref rid="ijd15189-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>
+</p>
+<p>Royal College of Radiologists<xref rid="ijd15189-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="ijd15189-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>
+</p>
+<p>Conforti <italic>et al</italic>.<xref rid="ijd15189-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>
+</p>
+<p>Zic JA <italic>et al</italic>.<xref rid="ijd15189-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref>
+</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Management of dermatological practice</td><td align="left" rowspan="1" colspan="1">
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://www.aad.org/member/practice/managing/coronavirus">https://www.aad.org/member/practice/managing/coronavirus</ext-link>
+</p>
+<p>
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jaad.2020.04.091">https://doi.org/10.1016/j.jaad.2020.04.091</ext-link>
+</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>AAD instructions<xref rid="ijd15189-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>
+</p>
+<p>Lim <italic>et al</italic>.<xref rid="ijd15189-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>
+</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions></table-wrap></sec><sec id="ijd15189-sec-0003"><title>Skin manifestations during COVID&#x02010;19 disease</title><p>The most intriguing question to all dermatologists was whether specific skin manifestations of COVID&#x02010;19 exist. A look back to previous coronavirus infections found only sporadic reports on coronavirus NL63&#x02010;related acute hemorrhagic edema of infancy (AHEI), a rare form of leukocytoclastic vasculitis of early childhood.<xref rid="ijd15189-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> Another etiologic study with a panel of respiratory viruses in 58 children with petechial rash has detected 2 human coronavirus (HcoV) positive samples of 39 virus&#x02010;positive children.<xref rid="ijd15189-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>
+</p><p>Cutaneous involvement during the COVID&#x02010;19 disease was estimated to be 0.2% in China where only two patients of 1,099 with confirmed SARS&#x02010;CoV&#x02010;2 infection presented with &#x0201c;skin rash&#x0201d; without further characteristics.<xref rid="ijd15189-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> In Italy, the range of reported skin manifestations reached 20.4%, given that 18 of 88 COVID&#x02010;19 patients had it. They presented with erythematous rash (14 patients), widespread urticarial lesions (three patients), and chickenpox&#x02010;like vesicles (one patient). The lesions were asymptomatic or slightly pruritic and affected mainly the trunk. They appeared at the onset of the infection or in the course of hospitalization and were healing within a few days. As no correlation with the disease severity was found, a nonspecific character was presumed.<xref rid="ijd15189-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref> In a French prospective study on the incidence and types of COVID&#x02010;19&#x02010;associated cutaneous manifestations, skin involvement was reported in only 4.9% (five patients of 103) and presented as erythematous rash (two patients) and urticaria (two patients). Lesions appeared during the illness or the prodromal phase, affected mainly the face and upper part of the body, were pruritic, and resolved between 24&#x000a0;hours and 6&#x000a0;days. The authors concluded that cutaneous manifestations of COVID&#x02010;19 were unusual and mostly nonspecific.<xref rid="ijd15189-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> These initial data were followed by a growing number of individual reports and case series.</p><sec id="ijd15189-sec-0004"><title>Erythematous rashes</title><p>
+<italic>Morbilliform rash</italic> as a presenting symptom of COVID&#x02010;19 was reported in a 20&#x02010;year&#x02010;old previously healthy man from the USA. Extensive maculopapular and nonpruritic lesions on the trunk and extremities were consistent with viral exanthema. The patient demonstrated both positive SARS&#x02010;CoV&#x02010;2 polymerase chain reaction (PCR) test and bilateral multifocal pneumonia on chest radiograph.<xref rid="ijd15189-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>
+<italic>Asymptomatic malar erythema and slight edema</italic> were described in another 26&#x02010;year&#x02010;old man from the USA who was treated with adalimumab 40&#x000a0;mg biweekly for Crohn&#x02019;s disease in remission. This patient was not tested, but his condition followed a contact with SARS&#x02010;CoV&#x02010;2&#x02010;infected persons. The skin eruption was preceded by general symptoms of infection and resolved within 20&#x000a0;days. It was considered a typical viral exanthema with a possible clinical modification by the adalimumab treatment, the latter being on hold until the patient&#x02019;s full recovery.<xref rid="ijd15189-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>
+<italic>Symmetrical drug&#x02010;related intertriginous and flexural exanthema (SDRIFE)&#x02010;like</italic> erythematous rash was observed in a 64&#x02010;year&#x02010;old diabetic woman from France. She took oral paracetamol for fever and asthenia and 4&#x000a0;days later developed an erythematous rash on both antecubital fossae that further extended to the trunk and axillary folds. The patient was positive for SARS&#x02010;CoV&#x02010;2 RNA by PCR and chest computed tomography. The rash resolved within 5&#x000a0;days without paracetamol discontinuation. Relation to the infection was discussed as SDRIFE has previously been associated with both drug intake and viral infection, primarily parvovirus B19.<xref rid="ijd15189-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0005"><title>Urticaria&#x02010;like rashes</title><p>
+<italic>Urticarial eruption</italic> on the face and extremities of a 27&#x02010;year&#x02010;old woman from France preceded any other symptom of disease that developed within the following 48&#x000a0;hours and were supported by positive SARS&#x02010;CoV&#x02010;2 test.<xref rid="ijd15189-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>
+<italic>Urticaria&#x02010;like rash</italic> was documented in another 32&#x02010;year&#x02010;old woman with COVID&#x02010;19 from Spain. Skin lesions appeared 6&#x000a0;days after the onset of symptoms and faded under oral antihistamines in another 5&#x000a0;days. In contrast to previous reports, histologic examination has been performed and revealed a perivascular infiltrate of lymphocytes, some eosinophils, and edema in the upper dermis. The authors considered the rash nonspecific and prospectively observed other cases of maculopapular rash, some of them with a purpuric component, and urticaria.<xref rid="ijd15189-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>
+<italic>Urticaria, urticarial vasculitis, idiopathic plantar hidradenitis, or neutrophilic dermatosis</italic> was considered in the differential diagnosis of another COVID&#x02010;19 case from Spain. A 28&#x02010;year&#x02010;old woman without previous medical history complained of pruritic erythematous&#x02010;yellowish papules on both heels that further enlarged to erythematous patches and hardened. The lesions appeared during her reconvalescence period and 10&#x000a0;days after the last paracetamol intake. A biopsy was not performed, but the skin changes could be related to the viral infection or patient&#x02019;s immune response.<xref rid="ijd15189-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0006"><title>Vesiculobullous rashes</title><p>
+<italic>Varicella&#x02010;like papulovesicular exanthema</italic> was reported in a series of 22 patients from Italy as a rare but specific cutaneous manifestation of COVID&#x02010;19. The rash developed on average within 3&#x000a0;days after systemic symptoms and affected mostly men with median age of 60&#x000a0;years. Lesions predominantly affected the trunk, and mild itching was reported in 40% of the patients. Histology was consistent with viral infection. The lesions regressed within 8&#x000a0;days without scarring.<xref rid="ijd15189-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> Another prospective observational study from Spain including 24 patients with COVID&#x02010;19&#x02010;related vesicular rashes suggested two presentation patterns, diffuse and localized, respectively. The diffuse pattern was polymorphic, widespread, and resembling hand&#x02010;foot&#x02010;mouth disease, while the localized was monomorphic, involving mostly the trunk, and resembling chickenpox. In this series, COVID&#x02010;19 vesicular rashes also developed mostly after the onset of typical COVID&#x02010;19 symptoms. Their histological presentation was consistent with viral infection. PCR tests failed to detect SARS&#x02010;CoV&#x02010;2 inside the vesicles so the direct relation to the virus itself remains unclear.<xref rid="ijd15189-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> Varicella&#x02010;like exanthema was considered a COVID&#x02010;19&#x02010;associated skin manifestation and a possible diagnostic clue in children.<xref rid="ijd15189-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0007"><title>Acral ischemia and chilblain&#x02010;like rashes</title><p>
+<italic>Acral ischemia</italic> was initially observed in isolated cases of young and otherwise healthy individuals who presented with occasionally itchy or burning erythematous bluish macules or papules on solitary digits. Some of the patients remained healthy although SARS&#x02010;CoV&#x02010;2 positive, while others developed general symptoms of infection.<xref rid="ijd15189-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="ijd15189-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref>
+<italic>A new type of COVID&#x02010;19&#x02010;related vasculitis</italic> was suggested based on the large number of similar cases from Italy and France. Secondary microthrombosis caused by endothelial damage and vascular disorders was suspected, and vasculitis&#x02010;like changes were histologically confirmed.<xref rid="ijd15189-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="ijd15189-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>
+<italic>Lupus erythematosus (LE)&#x02010;like chilblains</italic> of the feet associated with normal coagulation status were explained with microangiopathic changes as a result of early interferon (IFN)&#x02010;I response.<xref rid="ijd15189-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>
+<italic>&#x0201c;Covid toes&#x0201d;</italic> was the term introduced recently for these pernio&#x02010;like lesions in the absence of previous exposure to cold temperatures.<xref rid="ijd15189-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>
+<italic>Chilblain&#x02010;like lesions (CLL)</italic> &#x0201c;outbreak&#x0201d; was detected in Italy in a series of 63 otherwise healthy adolescents with occasional history of initial general symptoms. Cutaneous lesions were painful or itchy, stable, and mostly affected toes and soles in two different patterns: erythematous&#x02010;edematous and blistering type. Despite the low rate of laboratory&#x02010;proven SARS&#x02010;CoV&#x02010;2 infection, the authors supported the hypothesis of a delayed immune&#x02010;mediated reaction to the virus in genetically predisposed patients.<xref rid="ijd15189-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref> A retrospective nationwide study in France including 277 outpatients with median age 27&#x000a0;years (range 2&#x02013;98&#x000a0;years) also detected high predominance of acral changes (<italic>n</italic>&#x000a0;=&#x000a0;142, 80%) presenting mainly as CLL (<italic>n</italic>&#x000a0;=&#x000a0;106/142, 75%). Among the 277 patients, 34 had a SARS&#x02010;Cov2 PCR test, of which 25 were positive (74%). Seven of these 25 (28%) had acral lesions. Additionally, 59 patients had isolated CLL, without associated extracutaneous symptoms. Histological examination of three CLL showed a lichenoid dermatitis with a perivascular and eccrine mononuclear infiltrate, and vascular microthrombi in 2 cases.<xref rid="ijd15189-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref> Another retrospective study from Spain reported 132 nonhospitalized patients with median age 19.9 (range 1&#x02013;54&#x000a0;years) and predominantly acral involvement. Mild COVID&#x02010;19 symptoms preceded skin lesions in 16 patients, with a mean latency time of 9.2&#x000a0;days (range 3&#x02013;30&#x000a0;days), and in three patients, their onset coincided. The average duration of the skin lesions was 8.7&#x000a0;days (range 2&#x02013;24&#x000a0;days). Two main patterns of acro&#x02010;ischemic lesions were differentiated: chilblain&#x02010;like pattern in 95 (72%) patients and erythema multiforme&#x02010;like pattern in 37 (28%).<xref rid="ijd15189-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>
+<italic>Acute acral cyanosis</italic> in the absence of chilblains has also been seen in an unpublished observation. In contrast to the above&#x02010;mentioned young and asymptomatic cases, reports from Wuhan described acral ischemia of the lower limbs bilaterally and of solitary fingers of the hands in critically ill COVID&#x02010;19 patients.<xref rid="ijd15189-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref> Chinese patients, aged above 60, had multiple comorbidities and were hospitalized in the intensive&#x02010;care unit with severe COVID&#x02010;19 pneumonia. Hypercoagulopathy, elevated D&#x02010;dimers, and antiphospholipid antibodies (anticardiolipin IgA, anti&#x02010;&#x003b2;2&#x02010;glycoprotein I IgA, and IgG antibodies) in the course of severe infection could explain the presence of ischemic skin lesions.<xref rid="ijd15189-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref> The induced thrombotic events were difficult to differentiate from other causes of multifocal thromboses in critically ill patients, such as disseminated intravascular coagulation (DIC), heparin&#x02010;induced thrombocytopenia, and thrombotic microangiopathy.<xref rid="ijd15189-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0008"><title>Dengue&#x02010;like and petechial rashes</title><p>
+<italic>Dengue&#x02010;like rash</italic> was reported in a single case from Taiwan, the second country, affected by COVID&#x02010;19 with 48 patients detected at that time. Neither photographs were made nor skin biopsy was performed since it was not a routine practice according to the dengue clinical practice guideline. The patient further developed respiratory problems and was confirmed COVID&#x02010;19 positive by real&#x02010;time PCR.<xref rid="ijd15189-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref>
+<italic>Petechial rash</italic> was also observed in Spain, where an 84&#x02010;year&#x02010;old woman with arterial hypertension and dyslipidemia was treated with hydroxychloroquine and lopinavir/ritonavir for bilateral COVID&#x02010;19 pneumonia. Three days after her hospitalization (11&#x000a0;days since the onset of COVID&#x02010;19 symptoms), she developed slightly pruritic, mostly periaxillary, erythemo&#x02010;purpuric, coalescing macules. Either the triggering role of the infection itself or the drug intake was discussed.<xref rid="ijd15189-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0009"><title>Livedo&#x02010;like rashes</title><p>
+<italic>Livedo reticularis</italic> was reported in two mild COVID&#x02010;19&#x02010;positive cases from the USA. Both patients, a 67&#x02010;year&#x02010;old man and 47&#x02010;year&#x02010;old woman, experienced unilateral, nonpruritic net&#x02010;like rash which resolved within 19&#x000a0;hours and 20&#x000a0;minutes, respectively. The skin lesions appeared about a week after infection onset and did not reappear on challenge. It was suggested that microthromboses such as in DIC may cause transient livedo in mild&#x02010;to&#x02010;moderate COVID&#x02010;19 cases or acrocyanosis in critically ill patients.<xref rid="ijd15189-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref> Initially, major histological changes were not detected in the skin biopsies of three patients from China, although the presence or absence of skin lesions in these cases was not clearly declared.<xref rid="ijd15189-bib-0058" ref-type="ref">
+<sup>58</sup>
+</xref> Later, in three of five critically ill SARS&#x02010;CoV&#x02010;2&#x02010;infected patients from the USA presenting with retiform and purpuric lesions, a generalized thrombotic microvascular injury was detected in both pulmonary and cutaneous biopsies. Histological tests from cutaneous lesions and normal&#x02010;appearing skin revealed a pauci&#x02010;inflammatory complement&#x02010;mediated microthrombotic disease with C5b&#x02010;9 and C4d deposition.<xref rid="ijd15189-bib-0059" ref-type="ref">
+<sup>59</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0010"><title>Androgenetic alopecia</title><p>
+<italic>Androgenetic alopecia</italic> (AGA) could possibly be related to SARS&#x02010;CoV&#x02010;2 infection as both conditions are considered to be androgen mediated.<xref rid="ijd15189-bib-0060" ref-type="ref">
+<sup>60</sup>
+</xref> Clinically significant AGA was found in 29 (71%) of the 41 Caucasian men with bilateral SARS&#x02010;CoV&#x02010;2 pneumonia hospitalized in two tertiary Spanish hospitals. In comparison, the prevalence of AGA among healthy Spanish Caucasian men was estimated at approximately 31&#x02013;53%.<xref rid="ijd15189-bib-0061" ref-type="ref">
+<sup>61</sup>
+</xref> Future case&#x02010;controlled studies may potentially confirm AGA as a predictive factor for increased COVID&#x02010;19 severity and contribute to the development of antiandrogen therapy for SARS&#x02010;CoV&#x02010;2 infection.<xref rid="ijd15189-bib-0062" ref-type="ref">
+<sup>62</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0011"><title>Neonatal rashes</title><p>
+<italic>Skin rashes in newborns of COVID&#x02010;19&#x02010;infected mothers</italic> were reported in two boys out of four infants from China. <italic>Maculopapular rash</italic> scattered throughout the body was observed in one of the boys who was not tested for SARS&#x02010;CoV&#x02010;2. The rash resolved rapidly without treatment and was followed by desquamation. <italic>Ulcerated facial skin</italic> on the forehead was detected in the other boy who was proven to be SARS&#x02010;CoV&#x02010;2 negative. Lesions were quickly followed by diffuse red papules that spontaneously healed within 10&#x000a0;days. None of the four newborns of COVID&#x02010;19&#x02010;infected mothers developed disease, and no vertical transmission was detected.<xref rid="ijd15189-bib-0063" ref-type="ref">
+<sup>63</sup>
+</xref>
+<italic>Kawasaki disease</italic>, an acute vasculitis of unknown origin, is another possible but unproven manifestation during COVID&#x02010;19. It was reported in a 6&#x02010;month&#x02010;old, full&#x02010;term, previously healthy and SARS&#x02010;CoV&#x02010;2 positive girl who presented with fever, nonpruritic erythematous maculopapular rash, and other symptoms consistent with classical Kawasaki disease.<xref rid="ijd15189-bib-0064" ref-type="ref">
+<sup>64</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0012"><title>Pigment disorders</title><p>
+<italic>Diffuse melanoderma</italic> of acute onset was reported from Wuhan in two severely ill Chinese doctors. The exact reason for the observed diffuse skin darkening remained unknown, but hormonal imbalance related to liver dysfunction or drug side effects were suspected, and the changes were considered reversible.<xref rid="ijd15189-bib-0065" ref-type="ref">
+<sup>65</sup>
+</xref>
+</p></sec><sec id="ijd15189-sec-0013"><title>Classification of the cutaneous manifestations of COVID&#x02010;19</title><p>A prospective nationwide consensus study conducted among dermatologists in Spain summarized clinical data and images of 375 confirmed or suspected COVID&#x02010;19 cases with cutaneous manifestations. Based on this case collection survey, the authors suggested five cutaneous clinical patterns and several subpatterns associated with COVID&#x02010;19, as well as few familial clusters. Lesions were classified as acral erythema with vesicles or pustules (pseudo&#x02010;chilblain) (19%), other vesicular eruptions (9%), urticarial lesions (19%), maculopapular eruptions (47%), and livedo or necrosis (6%). It was also pointed out that the separate types of skin involvement appeared at various points of the disease course and were associated with different duration, severity, and prognosis. This classification might be helpful in recognition of paucisymptomatic patients, epidemiological control, and prognostic evaluation.<xref rid="ijd15189-bib-0066" ref-type="ref">
+<sup>66</sup>
+</xref>
+</p></sec></sec><sec id="ijd15189-sec-0014"><title>COVID&#x02010;19 registries</title><p>In an online registry launched by the American Academy of Dermatology (AAD) in collaboration with the International League of Dermatological Societies (ILDS), all patients with skin lesions during or following COVID&#x02010;19 can be reported (Table&#x000a0;<xref rid="ijd15189-tbl-0002" ref-type="table">2</xref>).<xref rid="ijd15189-bib-0067" ref-type="ref">
+<sup>67</sup>
+</xref> The primary purpose is to rapidly collect dermatologic manifestations of COVID&#x02010;19 in order to enable prompt dissemination of the information to the dermatology community and frontline healthcare workers. Similar registries based on the submission of downloadable forms have been initiated by the French and Spanish dermatological societies. These registries will certainly help to describe the whole spectrum of COVID&#x02010;19&#x02010;related skin changes. Systematic studies on dermatoses during acute COVID&#x02010;19 may not be expected within the near future and are certainly hampered by the most likely benign course of these skin changes and the lack of involvement of dermatologists in the acute treatment of COVID&#x02010;19.</p><table-wrap id="ijd15189-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>International patient registries for dermatological conditions during the COVID&#x02010;19 pandemic</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Dermatological condition</th><th align="left" valign="top" rowspan="1" colspan="1">Patient information</th><th align="left" valign="top" rowspan="1" colspan="1">Organization</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Skin diseases in general</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://www.aad.org/member/practice/coronavirus/registry">https://www.aad.org/member/practice/coronavirus/registry</ext-link>
+</td><td align="left" rowspan="1" colspan="1">American Academy of Dermatology</td></tr><tr><td align="left" rowspan="1" colspan="1">Psoriasis vulgaris</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://psoprotect.org/">https://psoprotect.org/</ext-link>
+</td><td align="left" rowspan="1" colspan="1">PsoProtect</td></tr><tr><td align="left" rowspan="1" colspan="1">Atopic dermatitis</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://www.eczemacouncil.org/news/coronavirus-secure-ad-registry/">https://www.eczemacouncil.org/news/coronavirus&#x02010;secure&#x02010;ad&#x02010;registry/</ext-link>
+</td><td align="left" rowspan="1" colspan="1">SECURE&#x02010;Dermatology</td></tr><tr><td align="left" rowspan="1" colspan="1">Autoimmune blistering diseases (AIBD)</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://recovab.umcg.nl">https://recovab.umcg.nl</ext-link>
+</td><td align="left" rowspan="1" colspan="1">EADV Task Force for AIBD</td></tr><tr><td align="left" rowspan="1" colspan="1">Lupus erythematosus, systemic sclerosis, dermatomyositis (from Europe)</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://www.eular.org/eular_covid19_database.cfm">https://www.eular.org/eular_covid19_database.cfm</ext-link>
+</td><td align="left" rowspan="1" colspan="1">European League Against Rheumatism</td></tr><tr><td align="left" rowspan="1" colspan="1">Lupus erythematosus, systemic sclerosis, dermatomyositis (outside Europe)</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://rheum-covid.org/">https://rheum&#x02010;covid.org/</ext-link>
+</td><td align="left" rowspan="1" colspan="1">American College of Rheumatology</td></tr><tr><td align="left" rowspan="1" colspan="1">Hidradenitis suppurativa</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://hscovid.ucsf.edu/">https://hscovid.ucsf.edu/</ext-link>
+</td><td align="left" rowspan="1" colspan="1">University of California San Francisco</td></tr><tr><td align="left" rowspan="1" colspan="1">Alopecia areata</td><td align="left" rowspan="1" colspan="1">
+<ext-link ext-link-type="uri" xlink:href="https://www.secure-derm.com/secure-alopecia/">https://www.secure&#x02010;derm.com/secure&#x02010;alopecia/</ext-link>
+</td><td align="left" rowspan="1" colspan="1">SECURE&#x02010;Dermatology</td></tr></tbody></table><table-wrap-foot id="ijd15189-ntgp-0002"><fn id="ijd15189-note-0003"><p>EADV, European Academy of Dermatology and Venereology.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions></table-wrap><p>Furthermore, disease&#x02010;specific registries have been initiated, for example, for patients with psoriasis (by PsoProtect), atopic dermatitis (by Secure&#x02010;AD&#x02010;registry), connective tissues diseases (by EULAR), and autoimmune blistering diseases (by the corresponding EADV task force) (Table&#x000a0;<xref rid="ijd15189-tbl-0002" ref-type="table">2</xref>).</p></sec></body><back><ref-list content-type="cited-references" id="ijd15189-bibl-0001"><title>References</title><ref id="ijd15189-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ijd15189-cit-0001">
+<string-name>
+<surname>Zhang</surname>
+<given-names>MQ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>XH</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>YL</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Clinical features of 2019 novel coronavirus pneumonia in the early stage from a fever clinic in Beijing</article-title>. <source xml:lang="en">Zhonghua Jie He He Hu Xi Za Zhi</source>
+<year>2020</year>; <volume>43</volume>: <elocation-id>E013</elocation-id>
+<pub-id pub-id-type="doi">10.3760/cma.j.issn.1001-0939.2020.0013</pub-id>
+<pub-id pub-id-type="pmid">32061066</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ijd15189-cit-0002">
+<string-name>
+<surname>Guan</surname>
+<given-names>Wei&#x02010;jie</given-names>
+</string-name>, <string-name>
+<surname>Ni</surname>
+<given-names>Zheng&#x02010;yi</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>Yu</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Clinical characteristics of Coronavirus Disease 2019 in China</article-title>. <source xml:lang="en">N Engl J Med</source>
+<year>2020</year>; <volume>382</volume>(<issue>18</issue>): <fpage>1708</fpage>&#x02013;<lpage>1720</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2002032</pub-id>
+<pub-id pub-id-type="pmid">32109013</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ijd15189-cit-0003">
+<string-name>
+<surname>Yan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Consensus of Chinese experts on protection of skin and mucous membrane barrier for healthcare workers fighting against coronavirus disease 2019</article-title>. <source xml:lang="en">Dermatol Ther</source>
+<year>2020</year>; <volume>13</volume>: <elocation-id>e13310</elocation-id>
+<pub-id pub-id-type="doi">10.1111/dth.13310</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ijd15189-cit-0004">
+<string-name>
+<surname>Elston</surname>
+<given-names>Dirk M</given-names>
+</string-name>. <article-title>Occupational skin disease among health care workers during the coronavirus (COVID&#x02010;19) epidemic</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>82</volume>(<issue>5</issue>): <fpage>1085</fpage>&#x02013;<lpage>1086</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.03.012</pub-id>
+<pub-id pub-id-type="pmid">32171807</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ijd15189-cit-0005">
+<string-name>
+<surname>Lan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Miao</surname>
+<given-names>X</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Skin damage and the risk of infection among healthcare workers managing coronavirus disease&#x02010;2019</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>. <year>2020</year>;<volume>82</volume>: <fpage>1215</fpage>&#x02013;<lpage>1216</lpage>.<pub-id pub-id-type="doi">10.1016/j.jaad.2020.03.014</pub-id>
+<pub-id pub-id-type="pmid">32171808</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0006">
+<article-title>NICE guideline [NG169] &#x02010; COVID&#x02010;19 rapid guideline: dermatological conditions treated with drugs affecting the immune response</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.nice.org.uk/guidance/ng169">https://www.nice.org.uk/guidance/ng169</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0007">
+<article-title>British Association of Dermatologists (BAD) &#x02010; Advice for Dermatology HCPs [health care professionals] during Covid&#x02010;19 pandemic</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.bad.org.uk/healthcare-professionals/covid-19">http://www.bad.org.uk/healthcare&#x02010;professionals/covid&#x02010;19</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ijd15189-cit-0008">
+<string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rademaker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Foley</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>COVID&#x02010;19 and the use of immunomodulatory and biologic agents for severe cutaneous disease: An Australia/New Zealand consensus statement</article-title>. <source xml:lang="en">Australas J Dermatol</source>
+<year>2020</year>; <volume>61</volume>: <fpage>210</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1111/ajd.13313</pub-id>
+<pub-id pub-id-type="pmid">32255510</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ijd15189-cit-0009">
+<string-name>
+<surname>Araujo</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Bressan</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Azulay&#x02010;Abulafia</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Zika, chikungunya, and dengue infections as exacerbating factors of psoriasis in patients receiving biological therapy</article-title>. <source xml:lang="en">Int J Dermatol</source>
+<year>2020</year>; <volume>59</volume>
+<issue>6</issue>:<fpage>e209</fpage>&#x02013;<lpage>e211</lpage>. <pub-id pub-id-type="doi">10.1111/ijd.14785</pub-id>
+<pub-id pub-id-type="pmid">32039473</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ijd15189-cit-0010">
+<string-name>
+<surname>Conforti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Giuffrida</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dianzani</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>COVID&#x02010;19 and psoriasis: is it time to limit treatment with immunosuppressants? A call for action</article-title>. <source xml:lang="en">Dermatol Ther</source>
+<year>2020</year>; <volume>11</volume>: <elocation-id>e13298</elocation-id>
+<pub-id pub-id-type="doi">10.1111/dth.13298</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ijd15189-cit-0011">
+<string-name>
+<surname>Lebwohl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rivera&#x02010;Oyola</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Murrell</surname>
+<given-names>DF</given-names>
+</string-name>. <article-title>Should biologics for psoriasis be interrupted in the era of COVID&#x02010;19?</article-title>
+<source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>82</volume>(<issue>5</issue>): <fpage>1217</fpage>&#x02013;<lpage>1218</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.03.031</pub-id>
+<pub-id pub-id-type="pmid">32199889</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0012">
+<string-name>
+<surname>Bodemer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bolling</surname>
+<given-names>MC</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Patients with rare skin diseases and COVID&#x02010;19</article-title>. <ext-link ext-link-type="uri" xlink:href="https://ern-skin.eu/covid-19/">https://ern&#x02010;skin.eu/covid&#x02010;19/</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ijd15189-cit-0013">
+<string-name>
+<surname>Wollenberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Flohr</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>D</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>European Task Force on Atopic Dermatitis (ETFAD) statement on severe acute respiratory syndrome coronavirus 2 (SARS&#x02010;Cov&#x02010;2)&#x02010;infection and atopic dermatitis</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>. <year>2020</year>; <volume>34</volume>: <fpage>e241</fpage>&#x02013;<lpage>e242</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.16411</pub-id>
+<pub-id pub-id-type="pmid">32223003</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0014">
+<article-title>Guidance from the EADV Task Force Autoimmune Blistering Diseases during the COVID&#x02010;19 pandemic</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force">https://www.eadv.org/covid&#x02010;19/task&#x02010;force</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ijd15189-cit-0015">
+<string-name>
+<surname>Kasperkiewicz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Fairley</surname>
+<given-names>JA</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Expert recommendations for the management of autoimmune bullous diseases during the COVID&#x02010;19 pandemic</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol.</source>
+<year>2020</year>; <volume>34</volume>: <fpage>e302</fpage>&#x02013;<lpage>e303</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.16525</pub-id>
+<pub-id pub-id-type="pmid">32333823</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ijd15189-cit-0016">
+<string-name>
+<surname>Shakshouk</surname>
+<given-names>Hadir</given-names>
+</string-name>, <string-name>
+<surname>Daneshpazhooh</surname>
+<given-names>Maryam</given-names>
+</string-name>, <string-name>
+<surname>Murrell</surname>
+<given-names>Dedee F</given-names>
+</string-name>, <string-name>
+<surname>Lehman</surname>
+<given-names>Julia S</given-names>
+</string-name>. <article-title>Treatment considerations for patients with pemphigus during the COVID&#x02010;19 pandemic</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>82</volume>(<issue>6</issue>): <fpage>e235</fpage>&#x02013;<lpage>e236</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.005</pub-id>
+<pub-id pub-id-type="pmid">32283243</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ijd15189-cit-0017">
+<string-name>
+<surname>Arora</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kassir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jafferany</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The COVID&#x02010;19 outbreak and rheumatologic skin diseases [published online ahead of print, 2020 Mar 31]</article-title>. <source xml:lang="en">Dermatol Ther</source>
+<year>2020</year>; <volume>33</volume>:<elocation-id>e13357</elocation-id>
+<pub-id pub-id-type="doi">10.1111/dth.13357</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ijd15189-cit-0018">
+<string-name>
+<surname>Mikuls</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Fraenkel</surname>
+<given-names>L</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>American College of Rheumatology guidance for the management of adult patients with rheumatic disease during the COVID&#x02010;19 pandemic</article-title>. <source xml:lang="en">Arthritis Rheumatol</source>
+<ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41301">https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41301</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ijd15189-cit-0019">
+<string-name>
+<surname>Reynolds</surname>
+<given-names>Sean D</given-names>
+</string-name>, <string-name>
+<surname>Mathur</surname>
+<given-names>Anubhav N</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>
+<given-names>Yvonne E</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Systemic immunosuppressive therapy for inflammatory skin diseases in children: Expert consensus&#x02010;based guidance for clinical decision&#x02010;making during the COVID&#x02010;19 pandemic</article-title>. <source xml:lang="en">Pediatric Dermatol</source>
+<year>2020</year>; <volume>37</volume>(<issue>3</issue>): <fpage>424</fpage>&#x02013;<lpage>434</lpage>. <pub-id pub-id-type="doi">10.1111/pde.14202</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ijd15189-cit-0020">
+<string-name>
+<surname>Frieden</surname>
+<given-names>Ilona J</given-names>
+</string-name>, <string-name>
+<surname>P&#x000fc;ttgen</surname>
+<given-names>Katherine B</given-names>
+</string-name>, <string-name>
+<surname>Drolet</surname>
+<given-names>Beth A</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Management of infantile hemangiomas during the COVID pandemic</article-title>. <source xml:lang="en">Pediatric Dermatol</source>
+<year>2020</year>; <volume>37</volume>(<issue>3</issue>): <fpage>412</fpage>&#x02013;<lpage>418</lpage>. <pub-id pub-id-type="doi">10.1111/pde.14196</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ijd15189-cit-0021">
+<string-name>
+<surname>Der Sarkissian</surname>
+<given-names>Samuel Antranig</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>Leo</given-names>
+</string-name>, <string-name>
+<surname>Veness</surname>
+<given-names>Michael</given-names>
+</string-name>, <string-name>
+<surname>Yiasemides</surname>
+<given-names>Eleni</given-names>
+</string-name>, <string-name>
+<surname>Sebaratnam</surname>
+<given-names>Deshan Frank</given-names>
+</string-name>. <article-title>Recommendations on dermatologic surgery during the COVID&#x02010;19 pandemic</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>83</volume>(<issue>1</issue>): <fpage>e29</fpage>&#x02013;<lpage>e30</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.034</pub-id>
+<pub-id pub-id-type="pmid">32283242</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ijd15189-cit-0022">
+<string-name>
+<surname>Jakhar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kaur</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kaul</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Art of performing dermoscopy during the times of coronavirus disease (COVID&#x02010;19): simple change in approach can save the day!</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2020</year>; <volume>34</volume>(<issue>6</issue>):<fpage>e242</fpage>&#x02013;<lpage>e244</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.16412</pub-id>
+<pub-id pub-id-type="pmid">32223004</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0023">
+<article-title>Royal College of Radiologists &#x02010; Non&#x02010;melanoma skin cancer (NMSC) and COVID&#x02010;19 (PDF)</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.rcr.ac.uk/sites/default/files/non-melanoma-skin-cancer-covid19.pdf">https://www.rcr.ac.uk/sites/default/files/non&#x02010;melanoma&#x02010;skin&#x02010;cancer&#x02010;covid19.pdf</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0024">
+<article-title>Royal College of Radiologists &#x02010; Guidelines for follow&#x02010;up and SACT for melanoma during COVID&#x02010;19 pandemic (PDF)</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.rcr.ac.uk/sites/default/files/melanoma-treatment-covid19.pdf">https://www.rcr.ac.uk/sites/default/files/melanoma&#x02010;treatment&#x02010;covid19.pdf</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ijd15189-cit-0025">
+<string-name>
+<surname>Conforti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Giuffrida</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Di Meo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Zalaudek</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Management of advanced melanoma in the COVID&#x02010;19</article-title>. <source xml:lang="en">Dermatol Ther</source>
+<year>2020</year>; <volume>33</volume>
+<issue>4</issue>:<fpage>e1344</fpage>
+<pub-id pub-id-type="doi">10.1111/dth.13444</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ijd15189-cit-0026">
+<string-name>
+<surname>Zic</surname>
+<given-names>John A</given-names>
+</string-name>, <string-name>
+<surname>Ai</surname>
+<given-names>Weiyun</given-names>
+</string-name>, <string-name>
+<surname>Akilov</surname>
+<given-names>Oleg E</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>United States Cutaneous Lymphoma Consortium recommendations for treatment of cutaneous lymphomas during the COVID&#x02010;19 pandemic</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>83</volume>(<issue>2</issue>): <fpage>703</fpage>&#x02013;<lpage>704</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.049</pub-id>
+<pub-id pub-id-type="pmid">32305443</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ijd15189-cit-0027">
+<string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Pradhan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>What are we doing in the dermatology outpatient department amidst the raging of the 2019 novel coronavirus?</article-title>
+<source xml:lang="en">J Am Acad Dermatol.</source>
+<year>2020</year>; <volume>82</volume>: <fpage>1034</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2020.02.030</pub-id>
+<pub-id pub-id-type="pmid">32081700</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0028"><label>28</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0028">
+<article-title>American Academy of Dermatology (AAD) &#x02010; Managing your practice through the COVID&#x02010;19 outbreak</article-title>. <ext-link ext-link-type="uri" xlink:href="https://www.aad.org/member/practice/managing/coronavirus">https://www.aad.org/member/practice/managing/coronavirus</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ijd15189-cit-0029">
+<string-name>
+<surname>Lim</surname>
+<given-names>Henry W</given-names>
+</string-name>, <string-name>
+<surname>Feldman</surname>
+<given-names>Steven R</given-names>
+</string-name>, <string-name>
+<surname>Van Voorhees</surname>
+<given-names>Abby S</given-names>
+</string-name>, <string-name>
+<surname>Gelfand</surname>
+<given-names>Joel M</given-names>
+</string-name>. <article-title>Recommendations for phototherapy during the COVID&#x02010;19 pandemic</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>83</volume>(<issue>1</issue>): <fpage>287</fpage>&#x02013;<lpage>288</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.091</pub-id>
+<pub-id pub-id-type="pmid">32339700</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ijd15189-cit-0030">
+<string-name>
+<surname>Elston</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>The coronavirus (COVID&#x02010;19) epidemic and patient safety</article-title>. <source xml:lang="en">J Am Acad Dermatol.</source>
+<year>2020</year>; <volume>82</volume>: <fpage>819</fpage>&#x02013;<lpage>820</lpage>.<pub-id pub-id-type="pmid">32074487</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ijd15189-cit-0031">
+<string-name>
+<surname>Chesser</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chambliss</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Zwemer</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Acute hemorrhagic edema of infancy after Coronavirus infection with recurrent rash</article-title>. <source xml:lang="en">Case Rep Pediatr.</source>
+<year>2017</year>; <volume>2017</volume>: <elocation-id>5637503</elocation-id>
+<pub-id pub-id-type="doi">10.1155/2017/5637503</pub-id>.<pub-id pub-id-type="pmid">28243478</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ijd15189-cit-0032">
+<string-name>
+<surname>Schneider</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Clinical characteristics of children with viral single&#x02010; and co&#x02010;infections and a petechial rash</article-title>. <source xml:lang="en">Pediatr Infect Dis</source>
+<year>2013</year>; <volume>32</volume>(<issue>5</issue>): <fpage>e186</fpage>&#x02013;<lpage>e191</lpage>. <pub-id pub-id-type="doi">10.1097/INF.0b013e318280618d</pub-id>.</mixed-citation></ref><ref id="ijd15189-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ijd15189-cit-0033">
+<string-name>
+<surname>Recalcati</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Cutaneous manifestations in COVID&#x02010;19: a first perspective</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol.</source>
+<year>2020</year>; <volume>34</volume>(<issue>5</issue>:<fpage>e212</fpage>&#x02013;<lpage>e213</lpage>.<pub-id pub-id-type="doi">10.1111/jdv.16387</pub-id>
+<pub-id pub-id-type="pmid">32215952</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ijd15189-cit-0034">
+<string-name>
+<surname>Hedou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Carsuzaa</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chary</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hainaut</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cazenave&#x02010;Roblot</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Masson Regnault</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Comment on &#x02018;Cutaneous manifestations in COVID&#x02010;19: a first perspective&#x02019; by Recalcati S</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2020</year>; <volume>34</volume>(<issue>7</issue>):<fpage>e299</fpage>&#x02013;<lpage>e300</lpage>.<pub-id pub-id-type="doi">10.1111/jdv.16519</pub-id>
+<pub-id pub-id-type="pmid">32314436</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="ijd15189-cit-0035">
+<string-name>
+<surname>Hunt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Koziatek</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>A case of COVID&#x02010;19 pneumonia in a young male with full body rash as a presenting symptom</article-title>. <source xml:lang="en">Clin Pract Cases Emerg Med</source>
+<year>2020</year>; <volume>4</volume>(<issue>2</issue>):<fpage>219</fpage>&#x02013;<lpage>221</lpage>. <pub-id pub-id-type="doi">10.5811/cpcem.2020.3.47349</pub-id>
+<pub-id pub-id-type="pmid">32282312</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="ijd15189-cit-0036">
+<string-name>
+<surname>Hoenig</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Pereira</surname>
+<given-names>FA</given-names>
+</string-name>. <article-title>Rash as a clinical manifestation of COVID19. Photographs of a patient</article-title>. <source xml:lang="en">Clin Dermatol</source>
+<year>2020</year>
+<pub-id pub-id-type="doi">10.1016/j.clindermatol.2020.04.001</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="ijd15189-cit-0037">
+<string-name>
+<surname>Mah&#x000e9;</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Birckel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Krieger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Merklen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bottlaender</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>A distinctive skin rash associated with coronavirus disease 2019?</article-title>
+<source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2020</year>; <volume>34</volume>(<issue>6</issue>:<fpage>e246</fpage>&#x02013;<lpage>e247</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.16471</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="ijd15189-cit-0038">
+<string-name>
+<surname>Henry</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ackerman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sancelme</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Finon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Esteve</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Urticarial eruption in COVID&#x02010;19 infection</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol.</source>
+<year>2020</year>; <volume>34</volume>(<issue>6</issue>:<fpage>e244</fpage>&#x02013;<lpage>e245</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.16472</pub-id>
+<pub-id pub-id-type="pmid">32294273</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="ijd15189-cit-0039">
+<string-name>
+<surname>Fernandez&#x02010;Nieto</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ortega&#x02010;Quijano</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Segurado&#x02010;Miravalles</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Pindado&#x02010;Ortega</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Prieto&#x02010;Barrios</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jimenez&#x02010;Cauhe</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Comment on: Cutaneous manifestations in COVID&#x02010;19: a first perspective. Safety concerns of clinical images and skin biopsies</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2020</year>; <volume>34</volume>(<issue>6</issue>):<fpage>e252</fpage>&#x02013;<lpage>e254</lpage>.<pub-id pub-id-type="doi">10.1111/jdv.16470</pub-id>
+<pub-id pub-id-type="pmid">32294262</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="ijd15189-cit-0040">
+<string-name>
+<surname>Est&#x000e9;banez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>P&#x000e9;rez&#x02010;Santiago</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Guillen&#x02010;Climent</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a&#x02010; V&#x000e1;zquez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ram&#x000f3;n</surname>
+<given-names>Md</given-names>
+</string-name>. <article-title>Cutaneous manifestations in COVID&#x02010;19: a new contribution</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2020</year>; <volume>34</volume>(<issue>6</issue>):<fpage>e250</fpage>&#x02013;<lpage>e251</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.16474</pub-id>
+<pub-id pub-id-type="pmid">32294264</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="ijd15189-cit-0041">
+<string-name>
+<surname>Marzano</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Genovese</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fabbrocini</surname>
+<given-names>G</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Varicella&#x02010;like exanthem as a specific COVID&#x02010;19&#x02010;associated skin manifestation: multicenter case series of 22 patients</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>83</volume>(<issue>1</issue>): <fpage>280</fpage>&#x02013;<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.044</pub-id>
+<pub-id pub-id-type="pmid">32305439</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="ijd15189-cit-0042">
+<string-name>
+<surname>Fernandez&#x02010;Nieto</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ortega&#x02010;Quijano</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jimenez&#x02010;Cauhe</surname>
+<given-names>J</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Clinical and histological characterization of vesicular COVID&#x02010;19 rashes: a prospective study in a tertiary care hospital</article-title>. <source xml:lang="en">Clin Exp Dermatol</source>
+<year>2020</year>
+<pub-id pub-id-type="doi">10.1111/ced.14277</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="ijd15189-cit-0043">
+<string-name>
+<surname>Genovese</surname>
+<given-names>Giovanni</given-names>
+</string-name>, <string-name>
+<surname>Colonna</surname>
+<given-names>Cristiana</given-names>
+</string-name>, <string-name>
+<surname>Marzano</surname>
+<given-names>Angelo V</given-names>
+</string-name>. <article-title>Varicella&#x02010;like exanthem associated with COVID&#x02010;19 in an 8&#x02010;year&#x02010;old girl: a diagnostic clue?</article-title>
+<source xml:lang="en">Pediatric Dermatol</source>
+<year>2020</year>; <volume>37</volume>(<issue>3</issue>): <fpage>435</fpage>&#x02013;<lpage>436</lpage>. <pub-id pub-id-type="doi">10.1111/pde.14201</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="ijd15189-cit-0044">
+<string-name>
+<surname>Mazzotta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Troccili</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Acute acro&#x02010;ischemia in the child at the time of COVID&#x02010;19</article-title>. <source xml:lang="en">Dermatol Pediatr</source>. Online ahead of print. <ext-link ext-link-type="uri" xlink:href="https://www.ejpd.com/images/acroischemia-ENG.pdf">https://www.ejpd.com/images/acroischemia&#x02010;ENG.pdf</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="ijd15189-cit-0045">
+<string-name>
+<surname>Alramthan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Aldaraji</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>A case of COVID&#x02010;19 presenting in clinical picture resembling chilblains disease. First report from the Middle East</article-title>. <source xml:lang="en">Clin Exp Dermatol</source>
+<year>2020</year>; <volume>45</volume>: <fpage>746</fpage>&#x02013;<lpage>748</lpage>. <pub-id pub-id-type="doi">10.1111/ced.14243</pub-id>
+<pub-id pub-id-type="pmid">32302422</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="ijd15189-cit-0046">
+<string-name>
+<surname>Mazzotta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Troccoli</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bonifazi</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>A new vasculitis at the time of COVID&#x02010;19</article-title>. <source xml:lang="en">Eur J Pediatr Dermatol</source>, Monday's case. <ext-link ext-link-type="uri" xlink:href="https://www.ejpd.com/images/nuova-vasculite-covid-ENG.pdf">https://www.ejpd.com/images/nuova&#x02010;vasculite&#x02010;covid&#x02010;ENG.pdf</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="ijd15189-cit-0047">
+<string-name>
+<surname>Kolivras</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dehavay</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Delplace</surname>
+<given-names>D</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Coronavirus (COVID&#x02010;19) infection induced chilblains: a case report with histopathological findings</article-title>. <source xml:lang="en">J Am Acad Dermatol Case Rep.</source>
+<year>2020</year>; <volume>6</volume>
+<issue>6</issue>:<fpage>489</fpage>&#x02013;<lpage>492</lpage>. <pub-id pub-id-type="doi">10.1016/j.jdcr.2020.04.011</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0048"><label>48</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0048">
+<string-name>
+<surname>Paller</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>&#x02018;COVID Toes&#x02019;: Mysterious Skin Condition Could be Linked to Coronavirus, Derms Say</article-title>. Coronavirus Illinois. <ext-link ext-link-type="uri" xlink:href="https://www.nbcchicago.com/news/coronavirus/covid-toes-mysterious-skin-condition-could-be-linked-to-coronavirus-derms-say/2259631/">https://www.nbcchicago.com/news/coronavirus/covid&#x02010;toes&#x02010;mysterious&#x02010;skin&#x02010;condition&#x02010;could&#x02010;be&#x02010;linked&#x02010;to&#x02010;coronavirus&#x02010;derms&#x02010;say/2259631/</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="ijd15189-cit-0049">
+<string-name>
+<surname>Piccolo</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Neri</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Filippeschi</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Chilblain&#x02010;like lesions during COVID&#x02010;19 epidemic: a preliminary study on 63 patients</article-title>. <source xml:lang="en">J Eur Acad Dermatol Venereol</source>
+<year>2020</year>; <volume>34</volume>: <fpage>e291</fpage>&#x02013;<lpage>e293</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.16526</pub-id>
+<pub-id pub-id-type="pmid">32330334</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="ijd15189-cit-0050">
+<string-name>
+<surname>de Masson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bouaziz</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Sulimovic</surname>
+<given-names>L</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Chilblains are a common cutaneous finding during the COVID&#x02010;19 pandemic: a retrospective nationwide study from France</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year> S0190&#x02010;9622(20)30789&#x02010;1.<volume>83</volume>: <fpage>667</fpage>&#x02013;<lpage>680</lpage>.<pub-id pub-id-type="pmid">32380219</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="ijd15189-cit-0051">
+<string-name>
+<surname>Fernandez&#x02010;Nieto</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jimenez&#x02010;Cauhe</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Suarez&#x02010;Valle</surname>
+<given-names>A</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Characterization of acute acro&#x02010;ischemic lesions in non&#x02010;hospitalized patients: a case series of 132 patients during the COVID&#x02010;19 outbreak</article-title>. <source xml:lang="en">J Am Acad Dermatol.</source>
+<year>2020</year>; <volume>83</volume>(<issue>1</issue>): <fpage>e61</fpage>&#x02013;<lpage>e63</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.093</pub-id>
+<pub-id pub-id-type="pmid">32339703</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="ijd15189-cit-0052">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>M</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>[Clinical and coagulation characteristics of 7 patients with critical COVID&#x02010;2019 pneumonia and acro&#x02010;ischemia]</article-title>. <source xml:lang="en">Zhonghua Xue Ye Xue Za Zhi</source>. <year>2020</year>; <volume>41</volume>: <elocation-id>E006</elocation-id>
+<pub-id pub-id-type="doi">10.3760/cma.j.issn.0253-2727.2020.0006</pub-id>
+<pub-id pub-id-type="pmid">32220276</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="ijd15189-cit-0053">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Yan</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>Meng</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Shulan</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Coagulopathy and antiphospholipid antibodies in patients with Covid&#x02010;19</article-title>. <source xml:lang="en">N Engl J Med.</source>
+<year>2020</year>; <volume>382</volume>(<issue>17</issue>): <elocation-id>e38</elocation-id>
+<pub-id pub-id-type="doi">10.1056/NEJMc2007575</pub-id>
+<pub-id pub-id-type="pmid">32268022</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="ijd15189-cit-0054">
+<string-name>
+<surname>Uthman</surname>
+<given-names>IW</given-names>
+</string-name>, <string-name>
+<surname>Gharavi</surname>
+<given-names>AE</given-names>
+</string-name>. <article-title>Viral infections and antiphospholipid antibodies</article-title>. <source xml:lang="en">Semin Arthritis Rheum</source>
+<year>2002</year>; <volume>31</volume>(<issue>4</issue>): <fpage>256</fpage>&#x02013;<lpage>263</lpage>. <pub-id pub-id-type="doi">10.1053/sarh.2002.28303</pub-id>
+<pub-id pub-id-type="pmid">11836658</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="ijd15189-cit-0055">
+<string-name>
+<surname>Joob</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wiwanitkit</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>COVID&#x02010;19 can present with a rash and be mistaken for dengue</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>82</volume>(<issue>5</issue>): <elocation-id>e177</elocation-id>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2020.03.036</pub-id>.<pub-id pub-id-type="pmid">32213305</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="ijd15189-cit-0056">
+<string-name>
+<surname>Jimenez&#x02010;Cauhe</surname>
+<given-names>Juan</given-names>
+</string-name>, <string-name>
+<surname>Ortega&#x02010;Quijano</surname>
+<given-names>Daniel</given-names>
+</string-name>, <string-name>
+<surname>Prieto&#x02010;Barrios</surname>
+<given-names>Marta</given-names>
+</string-name>, <string-name>
+<surname>Moreno&#x02010;Arrones</surname>
+<given-names>Oscar M</given-names>
+</string-name>, <string-name>
+<surname>Fernandez&#x02010;Nieto</surname>
+<given-names>Diego</given-names>
+</string-name>. <article-title>Reply to &#x0201c;COVID&#x02010;19 can present with a rash and be mistaken for dengue&#x0201d;: Petechial rash in a patient with COVID&#x02010;19 infection</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>83</volume>(<issue>2</issue>): <fpage>e141</fpage>&#x02013;<lpage>e142</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.016</pub-id>
+<pub-id pub-id-type="pmid">32283233</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="ijd15189-cit-0057">
+<string-name>
+<surname>Manalo</surname>
+<given-names>IF</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Cheeley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>A dermatologic manifestation of COVID&#x02010;19: transient livedo reticularis</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>83</volume>: <fpage>700</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.018</pub-id>
+<pub-id pub-id-type="pmid">32283229</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="ijd15189-cit-0058">
+<string-name>
+<surname>Yao</surname>
+<given-names>XH</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>ZC</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Histopathological study of 3 cases of new coronavirus pneumonia (COVID&#x02010;19) with multi&#x02010;site puncture</article-title>. <source xml:lang="en">Zhonghua Bing Li Xue Za Zhi.</source>
+<year>2020</year>; <volume>49</volume>: <fpage>E009</fpage>
+<pub-id pub-id-type="doi">10.3760/cma.j.cn112151-20200312-00193</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="ijd15189-cit-0059">
+<string-name>
+<surname>Magro</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mulvey</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Berlin</surname>
+<given-names>D</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Complement associated microvascular injury and thrombosis in the pathogenesis of severe COVID&#x02010;19 infection: a report of five cases</article-title>. <source xml:lang="en">Transl Res</source>
+<year>2020</year>; <volume>5244</volume>(<issue>20</issue>): <fpage>1</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1016/j.trsl.2020.04.007</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="ijd15189-cit-0060">
+<string-name>
+<surname>Wambier</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Goren</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>SARS&#x02010;COV&#x02010;2 infection is likely to be androgen mediated</article-title>. <source xml:lang="en">J Am Acad Dermatol.</source>
+<year>2020</year>; <volume>83</volume>: <fpage>308</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.032</pub-id>
+<pub-id pub-id-type="pmid">32283245</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="ijd15189-cit-0061">
+<string-name>
+<surname>Goren</surname>
+<given-names>Andy</given-names>
+</string-name>, <string-name>
+<surname>Va&#x000f1;o&#x02010;Galv&#x000e1;n</surname>
+<given-names>Sergio</given-names>
+</string-name>, <string-name>
+<surname>Wambier</surname>
+<given-names>Carlos Gustavo</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>A preliminary observation: Male pattern hair loss among hospitalized COVID&#x02010;19 patients in Spain &#x02013; A potential clue to the role of androgens in COVID&#x02010;19 severity</article-title>. <source xml:lang="en">J Cosmet Dermatol</source>
+<year>2020</year>; <volume>19</volume>(<issue>7</issue>): <fpage>1545</fpage>&#x02013;<lpage>1547</lpage>. <pub-id pub-id-type="doi">10.1111/jocd.13443</pub-id>
+<pub-id pub-id-type="pmid">32301221</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="ijd15189-cit-0062">
+<string-name>
+<surname>Goren</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McCoy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wambier</surname>
+<given-names>CG</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>What does androgenetic alopecia have to do with COVID&#x02010;19? An insight into a potential new therapy</article-title>. <source xml:lang="en">Dermatol Ther</source>
+<year>2020</year>; <volume>33</volume>(<issue>4</issue>): <elocation-id>e13365</elocation-id>
+<pub-id pub-id-type="doi">10.1111/dth.13365</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="ijd15189-cit-0063">
+<string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Infants Born to Mothers With a New Coronavirus (COVID&#x02010;19)</article-title>. <source xml:lang="en">Front Pediatr</source>
+<year>2020</year>; <volume>8</volume>(<issue>104</issue>). <pub-id pub-id-type="doi">10.3389/fped.2020.00104</pub-id>
+</mixed-citation></ref><ref id="ijd15189-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="ijd15189-cit-0064">
+<string-name>
+<surname>Jones</surname>
+<given-names>VG</given-names>
+</string-name>, <string-name>
+<surname>Mills</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Suarez</surname>
+<given-names>D</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>COVID&#x02010;19 and Kawasaki disease: novel virus and novel case</article-title>. <source xml:lang="en">Hosp Pediatr</source>
+<year>2020</year>; <volume>10</volume>(<issue>6</issue>): <fpage>537</fpage>&#x02013;<lpage>540</lpage>. <pub-id pub-id-type="doi">10.1542/hpeds.2020-0123</pub-id>
+<pub-id pub-id-type="pmid">32265235</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0065"><label>65</label><mixed-citation publication-type="miscellaneous" id="ijd15189-cit-0065">
+<string-name>
+<surname>Steinbuch</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Chinese doctors&#x02019; skin turns dark after coronavirus recovery</article-title>. April 21, 2020, New York Post.<ext-link ext-link-type="uri" xlink:href="https://nypost.com/2020/04/21/chinese-doctors-skin-turns-dark-after-coronavirus-recovery/">htttps://nypost.com/2020/04/21/chinese&#x02010;doctors&#x02010;skin&#x02010;turns&#x02010;dark&#x02010;after&#x02010;coronavirus&#x02010;recovery/</ext-link>
+</mixed-citation></ref><ref id="ijd15189-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="ijd15189-cit-0066">
+<string-name>
+<surname>Galv&#x000e1;n Casas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Catal&#x000e0;</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Carretero Hern&#x000e1;ndez</surname>
+<given-names>G</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>Classification of the cutaneous manifestations of COVID&#x02010;19: a rapid prospective nationwide consensus study in Spain with 375 cases</article-title>. <source xml:lang="en">Br J Dermatol</source>
+<year>2020</year>; <volume>183</volume>: <fpage>71</fpage>&#x02013;<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1111/bjd.19163</pub-id>
+<pub-id pub-id-type="pmid">32348545</pub-id></mixed-citation></ref><ref id="ijd15189-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="ijd15189-cit-0067">
+<string-name>
+<surname>Freeman</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>McMahon</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Fitzgerald</surname>
+<given-names>ME</given-names>
+</string-name>, <italic>et al</italic>
+<article-title>The AAD COVID&#x02010;19 Registry: Crowdsourcing Dermatology in the Age of COVID&#x02010;19</article-title>. <source xml:lang="en">J Am Acad Dermatol</source>
+<year>2020</year>; <volume>83</volume>: <fpage>509</fpage>&#x02013;<lpage>510</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2020.04.045</pub-id>
+<pub-id pub-id-type="pmid">32305438</pub-id></mixed-citation></ref></ref-list></back></article>

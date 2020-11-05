@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0210">
+ <element-citation publication-type="journal" id="sbref0210">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sagulenko</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Puller</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Neher</surname>
+    <given-names>R.A.</given-names>
+   </name>
+  </person-group>
+  <article-title>TreeTime: maximum-likelihood phylodynamic analysis</article-title>
+  <source>Virus Evol.</source>
+  <volume>4</volume>
+  <year>2018</year>
+  <pub-id pub-id-type="doi">10.1093/ve/vex042</pub-id>
+  <comment>vex042</comment>
+ </element-citation>
+</ref>

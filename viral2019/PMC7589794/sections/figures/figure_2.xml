@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pathogens-09-00856-f002" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Global HEV genotype distribution. Different colors on the map indicate the distribution of HEV genotypes (HEV-1 through -4) across the globe. The figure was created using SimpleMappr, an online tool to produce publication-quality point maps [
+   <xref rid="B149-pathogens-09-00856" ref-type="bibr">149</xref>].
+  </p>
+ </caption>
+ <graphic xlink:href="pathogens-09-00856-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

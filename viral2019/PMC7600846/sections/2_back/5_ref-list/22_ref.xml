@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22-jcm-09-03148">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>McLachlan</surname>
+    <given-names>G.J.</given-names>
+   </name>
+   <name>
+    <surname>McGiffin</surname>
+    <given-names>D.C.</given-names>
+   </name>
+  </person-group>
+  <article-title>On the role of finite mixture models in survival analysis</article-title>
+  <source>Stat. Methods Med. Res.</source>
+  <year>1994</year>
+  <volume>3</volume>
+  <fpage>211</fpage>
+  <lpage>226</lpage>
+  <pub-id pub-id-type="doi">10.1177/096228029400300302</pub-id>
+  <?supplied-pmid 7820292?>
+  <pub-id pub-id-type="pmid">7820292</pub-id>
+ </element-citation>
+</ref>

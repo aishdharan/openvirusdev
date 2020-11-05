@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Results from the SEIRD model for the Daegu-Gyeongbuk region are shown in 
+ <xref ref-type="fig" rid="F1">Fig. 1</xref>. The graph was modeled based on actual data from the start of infection and for an 84-day period. The figure shows the distribution of I (infections) and D (deaths) for the left Y-axis and R (recovered) for the right Y-axis. From the actual data for Daegu and Gyeongbuk, the number of infected persons exploded after the 10th day from the start of the spread of the infectious disease. This is due to the collective infections that occurred through Sinchonji religious groups and nursing homes. To quantitatively confirm the actual infection curve, 6th order polynomial curve fitting was also applied.
+</p>

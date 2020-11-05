@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R122">
+ <label>122</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Yuan</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kou</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Liang</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Pcr assays turned positive in 25 discharged COVID-19 patients</article-title>. 
+  <source>Clin Infect Dis</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1093/cid/ciaa398</pub-id>
+ </mixed-citation>
+</ref>

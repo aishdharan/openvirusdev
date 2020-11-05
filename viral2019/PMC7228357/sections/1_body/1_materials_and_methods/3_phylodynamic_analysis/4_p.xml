@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Different coalescent priors and molecular clock models (constant population size, exponential growth, and a Bayesian skyline plot [BSP]) were tested using strict and relaxed molecular clock models. Given the large credibility interval (CI) and high level of uncertainty due to very close sampling dates, all the estimates were made using days as the unit of time and a normal prior with substitution rates obtained from our preliminary estimates (mean rate 2.2 × 10
+ <sup>−6</sup> subs/site/day, with a standard deviation of 1.1 × 10
+ <sup>−6</sup>).
+</p>

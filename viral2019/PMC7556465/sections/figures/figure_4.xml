@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0240013.g004" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0240013.g004</object-id>
+ <label>Fig 4</label>
+ <caption>
+  <title>Gompertz model estimates of averted COVID-19 cases.</title>
+  <p>COVID-19 confirmed cases (dots) from March 16 through March 28 (n = 292) were used to fit a Gompertz model (red line) to estimate the expected number of cases (n = 7,466), compared with the observed cases (green line), through May 15 (n = 1,311).</p>
+ </caption>
+ <graphic xlink:href="pone.0240013.g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

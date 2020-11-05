@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>The number of samples and PDCoV positive rates in different regions in Sichuan, China</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Region</th>
+    <th align="left">Number of samples</th>
+    <th align="left">PDCoV positive (%)</th>
+    <th align="left">Region</th>
+    <th align="left">Number of samples</th>
+    <th align="left">PDCoV positive (%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Mian Yang</td>
+    <td char="." align="char">67</td>
+    <td align="left">10 (14.93%)</td>
+    <td align="left">Ya An</td>
+    <td char="." align="char">55</td>
+    <td align="left">5 (9.09%)</td>
+   </tr>
+   <tr>
+    <td align="left">Guan Yuan</td>
+    <td char="." align="char">30</td>
+    <td align="left">4 (13.33%)</td>
+    <td align="left">De Yang</td>
+    <td char="." align="char">48</td>
+    <td align="left">8 (16.67%)</td>
+   </tr>
+   <tr>
+    <td align="left">Guan An</td>
+    <td char="." align="char">44</td>
+    <td align="left">10 (22.73%)</td>
+    <td align="left">Nan Chong</td>
+    <td char="." align="char">93</td>
+    <td align="left">13 (13.98%)</td>
+   </tr>
+   <tr>
+    <td align="left">Sui Ning</td>
+    <td char="." align="char">23</td>
+    <td align="left">2 (8.70%)</td>
+    <td align="left">Zi Yang</td>
+    <td char="." align="char">50</td>
+    <td align="left">8 (16.00%)</td>
+   </tr>
+   <tr>
+    <td align="left">Mei Shan</td>
+    <td char="." align="char">49</td>
+    <td align="left">6 (12.24%)</td>
+    <td align="left">Da Zhou</td>
+    <td char="." align="char">41</td>
+    <td align="left">7 (17.07%)</td>
+   </tr>
+   <tr>
+    <td align="left">Le Shan</td>
+    <td char="." align="char">31</td>
+    <td align="left">0 (0%)</td>
+    <td align="left">Nei Jiang</td>
+    <td char="." align="char">25</td>
+    <td align="left">3 (12.00%)</td>
+   </tr>
+   <tr>
+    <td align="left">Yi Bing</td>
+    <td char="." align="char">78</td>
+    <td align="left">8 (10.26%)</td>
+    <td align="left">Total</td>
+    <td char="." align="char">634</td>
+    <td align="left">84 (13.25%)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

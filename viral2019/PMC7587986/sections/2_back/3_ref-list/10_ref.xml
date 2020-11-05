@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Brooks</surname>
+    <given-names>SK</given-names>
+   </name>
+   <name>
+    <surname>Webster</surname>
+    <given-names>RK</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>LE</given-names>
+   </name>
+   <name>
+    <surname>Woodland</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Wessely</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Greenberg</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The psychological impact of quarantine and how to reduce it: rapid review of the evidence</article-title>
+  <source> The Lancet</source>
+  <year>2020</year>
+  <volume>395</volume>
+  <issue>10227</issue>
+  <fpage>912</fpage>
+  <lpage>20</lpage>
+ </element-citation>
+</ref>

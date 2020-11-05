@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e1957">The details of the outlined method for obtaining prediction intervals are beyond the scope of this paper. Two particular challenges are the determination of the distribution of the model errors 
+ <inline-formula>
+  <math id="d1e1960" display="inline" altimg="si61.svg">
+   <mrow>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and the implementation of a computationally efficient sampling method.
+</p>

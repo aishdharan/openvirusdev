@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b16">
+ <label>16</label>
+ <element-citation publication-type="book" id="sb16">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Di Domenico</surname>
+    <given-names>Laura</given-names>
+   </name>
+   <name>
+    <surname>Pullano</surname>
+    <given-names>Giulia</given-names>
+   </name>
+   <name>
+    <surname>Sabbatini</surname>
+    <given-names>Chiara E.</given-names>
+   </name>
+   <name>
+    <surname>Boëlle</surname>
+    <given-names>Pierre-Yves</given-names>
+   </name>
+   <name>
+    <surname>Colizza</surname>
+    <given-names>Vittoria</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Expected impact of lockdown in Île-de-France and possible exit strategies</chapter-title>
+  <year>2020</year>
+  <comment>medRxiv</comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In order to capture these changes in the model, we introduced the coefficient of proportionality 
+ <italic>α</italic> value into the abovementioned classical SIR model. 
+ <italic>i</italic>(
+ <italic>t</italic>)×
+ <italic>α</italic> represents the patients who are not quarantined. If disease detection is effective, then 
+ <italic>α</italic> ≤ 1, or if there are some undetected cases, then 
+ <italic>α</italic> &gt; 1 and 
+ <italic>i</italic>(
+ <italic>t</italic>)×
+ <italic>α</italic> represents both detected and undetected patients who are not quarantined. In either case, the implementation of effective measures will lead to a decrease in α, and the larger the decrease in α, the higher the proportion of patients in quarantine, suggesting better efficacy of measures.
+</p>

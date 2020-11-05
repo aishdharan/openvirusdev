@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Representative mammalian coronaviruses and their dominant cell receptors or attachment factors</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Virus</th>
+    <th>Abbreviation</th>
+    <th>Cell receptor or attachment factor</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="3">Genus: Alphacoronaviruses</td>
+   </tr>
+   <tr>
+    <td>  Human coronavirus 229E</td>
+    <td>HCoV-229E</td>
+    <td>APN (CD13)</td>
+   </tr>
+   <tr>
+    <td>  Human coronavirus NL63</td>
+    <td>HCoV-NL63</td>
+    <td>ACE2</td>
+   </tr>
+   <tr>
+    <td colspan="3">  Alphacoronavirus 1 species:</td>
+   </tr>
+   <tr>
+    <td>    Transmissible gastroenteritis virus</td>
+    <td>TGEV</td>
+    <td>APN (CD13)</td>
+   </tr>
+   <tr>
+    <td>    Feline coronavirus type 1</td>
+    <td>FCoV-1</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>    Feline infectious perionitis virus</td>
+    <td>FIPV</td>
+    <td>APN (CD13)</td>
+   </tr>
+   <tr>
+    <td>    Canine coronavirus</td>
+    <td>CCoV</td>
+    <td>APN (CD13)</td>
+   </tr>
+   <tr>
+    <td>  Porcine epidemic diarrhea virus</td>
+    <td>PEDV</td>
+    <td>APN (CD13)</td>
+   </tr>
+   <tr>
+    <td colspan="3">  Diverse bat coronaviruses</td>
+   </tr>
+   <tr>
+    <td colspan="3">Genus: Betacoronaviruses</td>
+   </tr>
+   <tr>
+    <td>  Human coronavirus HKU1</td>
+    <td>HCoV-HKU1</td>
+    <td>
+     <italic>N</italic>-Acetyl-9-
+     <italic>O</italic>-acetylneuraminic acid (9-
+     <italic>O</italic>-acetylsialic acid)
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3">  Betacoronavirus 1 species:</td>
+   </tr>
+   <tr>
+    <td>    Human coronavirus OC43</td>
+    <td>HCoV-OC43</td>
+    <td>
+     <italic>N</italic>-Acetyl-9-
+     <italic>O</italic>-acetylneuraminic acid (9-
+     <italic>O</italic>-acetylsialic acid)
+    </td>
+   </tr>
+   <tr>
+    <td>    Bovine coronavirus</td>
+    <td>BCoV</td>
+    <td>
+     <italic>N</italic>-Acetyl-9-
+     <italic>O</italic>-acetylneuraminic acid (9-
+     <italic>O</italic>-acetylsialic acid)
+    </td>
+   </tr>
+   <tr>
+    <td>    Equine coronavirus</td>
+    <td>EqCoV</td>
+    <td>9-
+     <italic>O</italic>-Acetylsialic acid determinant?
+    </td>
+   </tr>
+   <tr>
+    <td>    Porcine hemagglutinating encephalomyelitis virus</td>
+    <td>PHEV</td>
+    <td>9-
+     <italic>O</italic>-Acetylsialic acid determinant?
+    </td>
+   </tr>
+   <tr>
+    <td>    Dromedary camel coronavirus HKU23</td>
+    <td>DcCoV HKU23</td>
+    <td/>
+   </tr>
+   <tr>
+    <td colspan="3">    Severe acute respiratory syndrome-related coronavirus species:</td>
+   </tr>
+   <tr>
+    <td>    Human SARS coronavirus</td>
+    <td>SARS-CoV</td>
+    <td>ACE2, also L-SIGN (CD209L)</td>
+   </tr>
+   <tr>
+    <td>    Human SARS coronavirus-2</td>
+    <td>SAR-CoV-2</td>
+    <td>ACE2</td>
+   </tr>
+   <tr>
+    <td>    SARS-related 
+     <italic>Rhinolophus</italic> bat coronavirus Rp3
+    </td>
+    <td>SARSr-Rh-BatCoV Rp3</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Middle East respiratory syndrome-related coronavirus</td>
+    <td>MERS-CoV</td>
+    <td>DPP4 (CD26)</td>
+   </tr>
+   <tr>
+    <td colspan="3">  Murine coronavirus species:</td>
+   </tr>
+   <tr>
+    <td>    Mouse hepatitis virus</td>
+    <td>MHV</td>
+    <td>CEACAM1, also L-SIGN (CD209L), also 4-
+     <italic>O</italic>- or 9-
+     <italic>O</italic>-acetylsialic acid
+    </td>
+   </tr>
+   <tr>
+    <td>    Rat coronavirus</td>
+    <td>RCoV</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>  Diverse bat coronaviruses</td>
+    <td colspan="2"/>
+   </tr>
+   <tr>
+    <td colspan="3">Genus: Deltacoronaviruses</td>
+   </tr>
+   <tr>
+    <td>  Porcine deltacoronavirus</td>
+    <td>PDCoV</td>
+    <td>APN (CD13)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <italic>ACE2</italic> angiotensin-converting enzyme 2, 
+   <italic>APN</italic> aminopeptidase N, 
+   <italic>DPP4</italic> dipeptidyl peptidase 4
+  </p>
+ </table-wrap-foot>
+</table-wrap>

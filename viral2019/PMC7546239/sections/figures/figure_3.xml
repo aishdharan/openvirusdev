@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>The surface error plots for a 4-days forecast horizon versus time. The subfigures show (a) NIPA, (b) NIPA separate, (c) NIPA static prior, (d) NIPA dynamic prior, (e) Logistic function and (f) LSTM.</p>
+ </caption>
+ <graphic xlink:href="gr3_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

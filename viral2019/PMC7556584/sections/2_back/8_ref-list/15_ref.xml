@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR15">
+ <label>15.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Porter</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Tasker</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Day</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <name>
+    <surname>Harley</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Kipar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Siddell</surname>
+    <given-names>SG</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Amino acid changes in the spike protein of feline coronavirus correlate with systemic spread of virus from the intestine and not with feline infectious peritonitis</article-title>
+  <source>Vet Res</source>
+  <year>2014</year>
+  <volume>45</volume>
+  <issue>1</issue>
+  <fpage>49</fpage>
+  <pub-id pub-id-type="doi">10.1186/1297-9716-45-49</pub-id>
+  <?supplied-pmid 24767677?>
+  <pub-id pub-id-type="pmid">24767677</pub-id>
+ </element-citation>
+</ref>

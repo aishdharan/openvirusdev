@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0008">It is important to realize that the most recent progresses in mathematical epidemiology give account of a vast variety of realistic mathematical models to describe the propagation of diseases 
+ <xref rid="bib0016" ref-type="bibr">[16]</xref>. Indeed, in addition to the usual models based on the use of ordinary or partial differential equations, there are reports on individual-based systems to describe the spreading of infectious diseases in clustered complex networks 
+ <xref rid="bib0017" ref-type="bibr">[17]</xref>, agent-based systems to investigate the spatio-temporal dynamics and synchrony of influenza epidemics 
+ <xref rid="bib0018" ref-type="bibr">[18]</xref>, network-based models to provide control strategies in SIS systems 
+ <xref rid="bib0019" ref-type="bibr">[19]</xref>, stochastic models that consider ratio-dependent incidence rates 
+ <xref rid="bib0020" ref-type="bibr">[20]</xref>, statistical models for the problem of estimation in some epidemic scenarios 
+ <xref rid="bib0021" ref-type="bibr">[21]</xref>, among various other approaches. The analysis of those models has been a fruitful topic of research in the literature. Moreover, the reliable computational simulation of those systems has also become a cornerstone in order to propose pertinent applications 
+ <xref rid="bib0022" ref-type="bibr">[22]</xref>. In the case of models based on differential equations, consistency, stability and convergence of the numerical methodologies have been criteria for the reliability of the discretizations. However, in light that the variables under study are populations, emphasis has been done on the development of finite-difference schemes that preserve the positivity and/or boundedness of the solutions of epidemic problems 
+ <xref rid="bib0023" ref-type="bibr">[23]</xref>, 
+ <xref rid="bib0024" ref-type="bibr">[24]</xref>, 
+ <xref rid="bib0025" ref-type="bibr">[25]</xref>, as well as other approaches for more complicated scenarios 
+ <xref rid="bib0026" ref-type="bibr">[26]</xref>.
+</p>

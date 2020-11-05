@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We added a module simulating RVFV transmission from livestock to humans (
+ <xref ref-type="fig" rid="fig02">Fig. 2</xref>). The human population was divided into those that have regular contact with livestock (farming) and those that do not, the nonfarming population. We assumed that susceptibles from the farming population 
+ <inline-formula>
+  <math id="i5">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>S</mi>
+       <mrow>
+        <mi>H</mi>
+        <mi>F</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> became infected 
+ <inline-formula>
+  <math id="i6">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>E</mi>
+       <mrow>
+        <mi>H</mi>
+        <mi>F</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> following exposure with infectious livestock by direct contact at a constant rate 
+ <inline-formula>
+  <math id="i7">
+   <mrow>
+    <msubsup>
+     <mi>β</mi>
+     <mrow>
+      <mi>L</mi>
+      <mo>−</mo>
+      <mi>H</mi>
+     </mrow>
+     <mi>C</mi>
+    </msubsup>
+   </mrow>
+  </math>
+ </inline-formula>, and by the vector-mediated route at a time-varying rate 
+ <inline-formula>
+  <math id="i8">
+   <mrow>
+    <msubsup>
+     <mi>β</mi>
+     <mrow>
+      <mi>L</mi>
+      <mo>−</mo>
+      <mi>H</mi>
+      <mo>,</mo>
+      <mi>t</mi>
+     </mrow>
+     <mi>V</mi>
+    </msubsup>
+   </mrow>
+  </math>
+ </inline-formula>. Infected individuals from the farming population, 
+ <inline-formula>
+  <math id="i9">
+   <mrow>
+    <msub>
+     <mi>E</mi>
+     <mrow>
+      <mi>H</mi>
+      <mi>F</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>, successively moved through their respective infectious 
+ <inline-formula>
+  <math id="i10">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>I</mi>
+       <mrow>
+        <mi>H</mi>
+        <mi>F</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and immune states 
+ <inline-formula>
+  <math id="i11">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>R</mi>
+       <mrow>
+        <mi>H</mi>
+        <mi>F</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, assuming they remained immune until the end of the study period. Susceptibles from the nonfarming population 
+ <inline-formula>
+  <math id="i12">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>S</mi>
+       <mrow>
+        <mi>H</mi>
+        <mi>N</mi>
+        <mi>F</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> became infected 
+ <inline-formula>
+  <math id="i13">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>E</mi>
+       <mrow>
+        <mi>H</mi>
+        <mi>N</mi>
+        <mi>F</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> following exposure to infectious livestock by the vector-mediated route only, at a time-varying rate 
+ <inline-formula>
+  <math id="i14">
+   <mrow>
+    <msubsup>
+     <mi>β</mi>
+     <mrow>
+      <mi>L</mi>
+      <mo>−</mo>
+      <mi>H</mi>
+      <mo>,</mo>
+      <mi>t</mi>
+     </mrow>
+     <mi>V</mi>
+    </msubsup>
+   </mrow>
+  </math>
+ </inline-formula>. The time-varying rate 
+ <inline-formula>
+  <math id="i15">
+   <mrow>
+    <msubsup>
+     <mi>β</mi>
+     <mrow>
+      <mi>L</mi>
+      <mo>−</mo>
+      <mi>H</mi>
+      <mo>,</mo>
+      <mi>t</mi>
+     </mrow>
+     <mi>V</mi>
+    </msubsup>
+   </mrow>
+  </math>
+ </inline-formula> was scaled to the within-livestock transmission rate 
+ <inline-formula>
+  <math id="i16">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>β</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>−</mo>
+        <mi>L</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, which was rainfall dependent. The model equations, transmission parameters, and the formulation of the forces of infection from livestock in the farming 
+ <inline-formula>
+  <math id="i17">
+   <mrow>
+    <msub>
+     <mi>λ</mi>
+     <mrow>
+      <mi>F</mi>
+      <mo>,</mo>
+      <mi>t</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> and nonfarming groups 
+ <inline-formula>
+  <math id="i18">
+   <mrow>
+    <msub>
+     <mi>λ</mi>
+     <mrow>
+      <mi>N</mi>
+      <mi>F</mi>
+      <mo>,</mo>
+      <mi>t</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> are presented in 
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, 
+  <italic>Methods</italic>
+ </ext-link>.
+</p>

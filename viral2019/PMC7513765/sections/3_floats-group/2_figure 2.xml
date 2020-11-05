@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Figure 2</label>
+ <caption>
+  <p>Efficiency of the Solar Pump</p>
+  <p>One-day-averaged reproductive number Rt as a function of time (in days) over one full solar year and at a 40° north location on the Earth, attenuated only by the solar-pump mechanism with efficiencies of ε = 0.3 (green curves) and ε = 1 (blue curves), starting from an epidemic-intrinsic R
+   <sub>0</sub> = 3 value. Onsets show the daily attenuation curves as a function of day time in hours during the first and the 180
+   <sup>th</sup> day of the year (January 1
+   <sup>st</sup> and July 1
+   <sup>st</sup>, respectively).
+  </p>
+ </caption>
+ <graphic xlink:href="gr2_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

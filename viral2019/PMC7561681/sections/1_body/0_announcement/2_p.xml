@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>A 2008–2009 CHIKV outbreak in southern Thailand was caused by an East/Central/South African (ECSA) genotype CHIKV strain harboring the E1:A226V mutation (
+ <xref rid="B4" ref-type="bibr">4</xref>). This mutation is associated with increased viral transmission in 
+ <named-content content-type="genus-species">Aedes albopictus</named-content> (
+ <xref rid="B5" ref-type="bibr">5</xref>). The most recent CHIKV outbreak in Thailand was reported in 2018 to 2019 (
+ <xref rid="B6" ref-type="bibr">6</xref>, 
+ <xref rid="B7" ref-type="bibr">7</xref>). To investigate the CHIKV genomes from this outbreak, we sequenced 22 existing CHIKV isolates from Thailand. The CHIKV isolates were previously propagated in C6/36 cell lines (
+ <xref rid="B8" ref-type="bibr">8</xref>). RNA was extracted from the culture supernatant using the QIAamp viral RNA minikit (Qiagen). Seven primer pairs were designed (available upon request) and used to amplify the near-complete genome in seven overlapping fragments using the SuperScript III One-Step reverse transcription-PCR (RT-PCR) system with Platinum 
+ <italic>Taq</italic> high-fidelity DNA polymerase (Invitrogen). The fragments were pooled at the same concentration (10 ng/μl). DNA libraries were constructed using the QIAseq FX DNA library preparation kit (Qiagen) and subjected to paired-end sequencing on a MiSeq system using the MiSeq reagent kit v2 (2 × 250 nucleotides [nt]). A total of 48 million reads (1.2 to 2.6 million reads per sample) between 100 and 250 nt long were generated. Raw sequence reads were trimmed and mapped to a reference genome (GenBank accession number 
+ <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/MN630017" assigning-authority="genbank" xmlns:xlink="http://www.w3.org/1999/xlink">MN630017</ext-link>), and a consensus sequence was generated using ngs_mapper v1.2.4 (
+ <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.594756" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.5281/zenodo.594756</ext-link>). We obtained a mean coverage of ≥500×, and the GC contents ranged from 50.2% to 50.8%.
+</p>

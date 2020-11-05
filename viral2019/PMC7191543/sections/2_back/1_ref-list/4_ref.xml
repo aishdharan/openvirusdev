@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zash</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Holmes</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Deseko</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Neural-tube defects and antiretroviral treatment regimens in Botswana</article-title>
+  <source>NEJM</source>
+  <year>2019</year>
+  <volume>381</volume>
+  <fpage>827</fpage>
+  <lpage>840</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJMoa1905230</pub-id>
+  <pub-id pub-id-type="pmid">31329379</pub-id>
+ </element-citation>
+</ref>

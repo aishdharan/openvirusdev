@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F0002" orientation="portrait" position="float">
+ <label>Figure 2.</label>
+ <caption>
+  <p>Daily distribution of confirmed cases of COVID-19 in Shanghai Public Health Clinical Center from January 20 to February 29, 2020.</p>
+ </caption>
+ <alternatives>
+  <graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1787103_F0002_OC" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1787103_F0002_PB" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </alternatives>
+</fig>

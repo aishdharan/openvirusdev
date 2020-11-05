@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3390">The performance of LSTM is moderately good, but LSTM fails to find an accurate forecast around January 31. Since the time series is the shortest at the left part of 
+ <xref rid="fig2" ref-type="fig">Fig. 2</xref>, less data is available to train LSTM. Pure machine-learning algorithms are known to yield a lower prediction accuracy than other methods if the time series is short (
+ <xref rid="b27" ref-type="bibr">Makridakis, Spiliotis, &amp; Assimakopoulos, 2020</xref>).
+</p>

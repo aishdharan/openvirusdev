@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0042">Before establishing the main numerical properties of the scheme 
+ <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref>, we would like to plot the largest eigenvalues of the Jacobian matrix associated to 
+ <italic>C</italic>
+ <sub>2</sub>. To that end, we will employ the estimated and fitted values of the parameters recorded in 
+ <xref rid="tbl0002" ref-type="table">Table 2</xref>. The graph of the spectral radius of the Jacobian matrix is plotted in 
+ <xref rid="fig0002" ref-type="fig">Fig. 2</xref> as a function of the temporal step size. Notice that the spectral radius is always less than one, as predicted by 
+ <xref rid="enun0008" ref-type="statement">Theorem 8</xref>.
+ <statement id="enun0009">
+  <label>Theorem 9</label>
+  <p id="p0043">
+   <italic>If</italic>
+   <inline-formula>
+    <math id="M85" altimg="si89.svg">
+     <mrow>
+      <mi>S</mi>
+      <mo>,</mo>
+      <mi>E</mi>
+      <mo>,</mo>
+      <mi>I</mi>
+      <mo>,</mo>
+      <mi>Q</mi>
+      <mo>,</mo>
+      <mi>R</mi>
+      <mo>∈</mo>
+      <msup>
+       <mrow>
+        <mi mathvariant="bold-script">C</mi>
+       </mrow>
+       <mn>2</mn>
+      </msup>
+      <mrow>
+       <mo>(</mo>
+       <mrow>
+        <mo>[</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mi>T</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula>
+   <italic>then the scheme</italic>
+   <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref>
+   <italic>yields consistent approximations to the solutions of the system</italic>
+   <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref>
+   <italic>with linear consistency order.</italic>
+  </p>
+ </statement>
+ <statement id="uenun0008">
+  <label>Proof</label>
+  <p id="p0044">Beforehand, let us define the differential operators
+   <disp-formula id="eq0034">
+    <label>(3.9)</label>
+    <math id="M86" altimg="si90.svg">
+     <mrow>
+      <mo stretchy="true">{</mo>
+      <mtable>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi mathvariant="bold-script">L</mi>
+           <mi>S</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msup>
+           <mi>S</mi>
+           <mo>′</mo>
+          </msup>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>λ</mi>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo stretchy="true">(</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>1</mn>
+           </msub>
+           <mi>I</mi>
+           <mrow>
+            <mo>(</mo>
+            <mi>t</mi>
+            <mo>)</mo>
+           </mrow>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>2</mn>
+           </msub>
+           <mi>E</mi>
+           <mrow>
+            <mo>(</mo>
+            <mi>t</mi>
+            <mo>)</mo>
+           </mrow>
+           <mo stretchy="true">)</mo>
+          </mrow>
+          <mi>S</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mi>μ</mi>
+          <mi>S</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>t</mi>
+          <mo>∈</mo>
+          <mrow>
+           <mo>[</mo>
+           <mn>0</mn>
+           <mo>,</mo>
+           <mi>T</mi>
+           <mo>]</mo>
+          </mrow>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi mathvariant="bold-script">L</mi>
+           <mi>E</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msup>
+           <mi>E</mi>
+           <mo>′</mo>
+          </msup>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mrow>
+           <mo stretchy="true">(</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>1</mn>
+           </msub>
+           <mi>I</mi>
+           <mrow>
+            <mo>(</mo>
+            <mi>t</mi>
+            <mo>)</mo>
+           </mrow>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>2</mn>
+           </msub>
+           <mi>E</mi>
+           <mrow>
+            <mo>(</mo>
+            <mi>t</mi>
+            <mo>)</mo>
+           </mrow>
+           <mo stretchy="true">)</mo>
+          </mrow>
+          <mi>S</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>q</mi>
+            <mn>1</mn>
+           </msub>
+           <mo linebreak="badbreak">+</mo>
+           <mi>κ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>α</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo>)</mo>
+          </mrow>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>t</mi>
+          <mo>∈</mo>
+          <mrow>
+           <mo>[</mo>
+           <mn>0</mn>
+           <mo>,</mo>
+           <mi>T</mi>
+           <mo>]</mo>
+          </mrow>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi mathvariant="bold-script">L</mi>
+           <mi>I</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msup>
+           <mi>I</mi>
+           <mo>′</mo>
+          </msup>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>α</mi>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo>(</mo>
+           <mi>r</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>d</mi>
+            <mn>1</mn>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mi>I</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>t</mi>
+          <mo>∈</mo>
+          <mrow>
+           <mo>[</mo>
+           <mn>0</mn>
+           <mo>,</mo>
+           <mi>T</mi>
+           <mo>]</mo>
+          </mrow>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi mathvariant="bold-script">L</mi>
+           <mi>Q</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msup>
+           <mi>Q</mi>
+           <mo>′</mo>
+          </msup>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <msub>
+           <mi>q</mi>
+           <mn>1</mn>
+          </msub>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo>(</mo>
+           <mi>q</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>d</mi>
+            <mn>2</mn>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mi>Q</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>t</mi>
+          <mo>∈</mo>
+          <mrow>
+           <mo>[</mo>
+           <mn>0</mn>
+           <mo>,</mo>
+           <mi>T</mi>
+           <mo>]</mo>
+          </mrow>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi mathvariant="bold-script">L</mi>
+           <mi>R</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msup>
+           <mi>R</mi>
+           <mo>′</mo>
+          </msup>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>κ</mi>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>r</mi>
+          <mi>I</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>q</mi>
+          <mi>Q</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mi>μ</mi>
+          <mi>R</mi>
+          <mrow>
+           <mo>(</mo>
+           <mi>t</mi>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>t</mi>
+          <mo>∈</mo>
+          <mrow>
+           <mo>[</mo>
+           <mn>0</mn>
+           <mo>,</mo>
+           <mi>T</mi>
+           <mo>]</mo>
+          </mrow>
+          <mo>.</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </math>
+   </disp-formula>On the other hand, define also the discrete operators
+   <disp-formula id="eq0035">
+    <label>(3.10)</label>
+    <math id="M87" altimg="si91.svg">
+     <mrow>
+      <mo stretchy="true">{</mo>
+      <mtable>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi>L</mi>
+           <mi>S</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msub>
+           <mi>δ</mi>
+           <mi>t</mi>
+          </msub>
+          <mi>S</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>λ</mi>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>1</mn>
+           </msub>
+           <mi>I</mi>
+           <mrow>
+            <mo>(</mo>
+            <msub>
+             <mi>t</mi>
+             <mi>n</mi>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>2</mn>
+           </msub>
+           <mi>E</mi>
+           <mrow>
+            <mo>(</mo>
+            <msub>
+             <mi>t</mi>
+             <mi>n</mi>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+           <mo>)</mo>
+          </mrow>
+          <mi>S</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mrow>
+             <mi>n</mi>
+             <mo>+</mo>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mi>μ</mi>
+          <mi>S</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mrow>
+             <mi>n</mi>
+             <mo>+</mo>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi>L</mi>
+           <mi>E</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msub>
+           <mi>δ</mi>
+           <mi>t</mi>
+          </msub>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>1</mn>
+           </msub>
+           <mi>I</mi>
+           <mrow>
+            <mo>(</mo>
+            <msub>
+             <mi>t</mi>
+             <mi>n</mi>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>β</mi>
+            <mn>2</mn>
+           </msub>
+           <mi>E</mi>
+           <mrow>
+            <mo>(</mo>
+            <msub>
+             <mi>t</mi>
+             <mi>n</mi>
+            </msub>
+            <mo>)</mo>
+           </mrow>
+           <mo>)</mo>
+          </mrow>
+          <mi>S</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>q</mi>
+            <mn>1</mn>
+           </msub>
+           <mo linebreak="badbreak">+</mo>
+           <mi>κ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>α</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo>)</mo>
+          </mrow>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mrow>
+             <mi>n</mi>
+             <mo>+</mo>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi>L</mi>
+           <mi>I</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msub>
+           <mi>δ</mi>
+           <mi>t</mi>
+          </msub>
+          <mi>I</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>α</mi>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo>(</mo>
+           <mi>r</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>d</mi>
+            <mn>1</mn>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mi>I</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mrow>
+             <mi>n</mi>
+             <mo>+</mo>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi>L</mi>
+           <mi>Q</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msub>
+           <mi>δ</mi>
+           <mi>t</mi>
+          </msub>
+          <mi>Q</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <msub>
+           <mi>q</mi>
+           <mn>1</mn>
+          </msub>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mrow>
+           <mo>(</mo>
+           <mi>q</mi>
+           <mo linebreak="badbreak">+</mo>
+           <mi>μ</mi>
+           <mo linebreak="badbreak">+</mo>
+           <msub>
+            <mi>d</mi>
+            <mn>2</mn>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mi>Q</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mrow>
+             <mi>n</mi>
+             <mo>+</mo>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd/>
+       </mtr>
+       <mtr>
+        <mtd columnalign="left">
+         <mrow>
+          <msub>
+           <mi>L</mi>
+           <mi>R</mi>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mtd>
+        <mtd columnalign="left">
+         <mrow>
+          <mo>=</mo>
+          <msub>
+           <mi>δ</mi>
+           <mi>t</mi>
+          </msub>
+          <mi>R</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>κ</mi>
+          <mi>E</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>r</mi>
+          <mi>I</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mi>q</mi>
+          <mi>Q</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>n</mi>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">+</mo>
+          <mi>μ</mi>
+          <mi>R</mi>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mi>t</mi>
+            <mrow>
+             <mi>n</mi>
+             <mo>+</mo>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mspace width="1em"/>
+          <mo>∀</mo>
+          <mi>n</mi>
+          <mo>∈</mo>
+          <msub>
+           <mover>
+            <mrow>
+             <mi>I</mi>
+            </mrow>
+            <mo stretchy="true">¯</mo>
+           </mover>
+           <mrow>
+            <mi>N</mi>
+            <mo>−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msub>
+          <mo>.</mo>
+         </mrow>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </math>
+   </disp-formula>Here, we used the discrete operator
+   <disp-formula id="eq0036">
+    <label>(3.11)</label>
+    <math id="M88" altimg="si92.svg">
+     <mrow>
+      <msub>
+       <mi>δ</mi>
+       <mi>t</mi>
+      </msub>
+      <mi>U</mi>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>t</mi>
+        <mi>n</mi>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">=</mo>
+      <mfrac>
+       <mrow>
+        <mi>U</mi>
+        <mrow>
+         <mo>(</mo>
+         <msub>
+          <mi>t</mi>
+          <mrow>
+           <mi>n</mi>
+           <mo>+</mo>
+           <mn>1</mn>
+          </mrow>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+        <mo>−</mo>
+        <mi>U</mi>
+        <mrow>
+         <mo>(</mo>
+         <msub>
+          <mi>t</mi>
+          <mi>n</mi>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mi>τ</mi>
+      </mfrac>
+      <mo>,</mo>
+      <mo>∀</mo>
+      <mi>t</mi>
+      <mo>∈</mo>
+      <mrow>
+       <mo>[</mo>
+       <mn>0</mn>
+       <mo>,</mo>
+       <mi>T</mi>
+       <mo>]</mo>
+      </mrow>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>where 
+   <italic>U</italic> can be any of the functions 
+   <italic>S, E, I, Q</italic> or 
+   <italic>R</italic> for the remainder of this proof. Notice that, under the regularity assumptions and using the classical argument based on Taylor’s theorem, it follows that there exist constants 
+   <inline-formula>
+    <math id="M89" altimg="si93.svg">
+     <msubsup>
+      <mi>C</mi>
+      <mi>U</mi>
+      <mn>1</mn>
+     </msubsup>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="M90" altimg="si94.svg">
+     <msubsup>
+      <mi>C</mi>
+      <mi>U</mi>
+      <mn>2</mn>
+     </msubsup>
+    </math>
+   </inline-formula> which are independent of 
+   <italic>τ</italic>, such that
+   <disp-formula id="eq0037">
+    <label>(3.12)</label>
+    <math id="M91" altimg="si95.svg">
+     <mrow>
+      <mrow>
+       <mo>|</mo>
+      </mrow>
+      <msup>
+       <mi>U</mi>
+       <mo>′</mo>
+      </msup>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>t</mi>
+        <mi>n</mi>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">−</mo>
+      <msub>
+       <mi>δ</mi>
+       <mi>t</mi>
+      </msub>
+      <mi>U</mi>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>t</mi>
+        <mi>n</mi>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>|</mo>
+       <mo>≤</mo>
+      </mrow>
+      <msubsup>
+       <mi>C</mi>
+       <mi>U</mi>
+       <mn>1</mn>
+      </msubsup>
+      <mi>τ</mi>
+      <mo>,</mo>
+      <mspace width="1em"/>
+      <mo>∀</mo>
+      <mi>n</mi>
+      <mo>∈</mo>
+      <msub>
+       <mover>
+        <mrow>
+         <mi>I</mi>
+        </mrow>
+        <mo stretchy="true">¯</mo>
+       </mover>
+       <mrow>
+        <mi>N</mi>
+        <mo>−</mo>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0038">
+    <label>(3.13)</label>
+    <math id="M92" altimg="si96.svg">
+     <mrow>
+      <mrow>
+       <mo>|</mo>
+       <mi>U</mi>
+      </mrow>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>t</mi>
+        <mi>n</mi>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak">−</mo>
+      <mi>U</mi>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>t</mi>
+        <mrow>
+         <mi>n</mi>
+         <mo>+</mo>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <mrow>
+       <mo>|</mo>
+       <mo>≤</mo>
+      </mrow>
+      <msubsup>
+       <mi>C</mi>
+       <mi>U</mi>
+       <mn>2</mn>
+      </msubsup>
+      <mi>τ</mi>
+      <mo>,</mo>
+      <mspace width="1em"/>
+      <mo>∀</mo>
+      <mi>n</mi>
+      <mo>∈</mo>
+      <msub>
+       <mover>
+        <mrow>
+         <mi>I</mi>
+        </mrow>
+        <mo stretchy="true">¯</mo>
+       </mover>
+       <mrow>
+        <mi>N</mi>
+        <mo>−</mo>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>Using the smoothness of 
+   <italic>E</italic> and 
+   <italic>I</italic>, we can fix respective bounds 
+   <inline-formula>
+    <math id="M93" altimg="si97.svg">
+     <msubsup>
+      <mi>C</mi>
+      <mi>E</mi>
+      <mn>0</mn>
+     </msubsup>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="M94" altimg="si98.svg">
+     <msubsup>
+      <mi>C</mi>
+      <mi>I</mi>
+      <mn>0</mn>
+     </msubsup>
+    </math>
+   </inline-formula> of these functions on [0, 
+   <italic>T</italic>]. Using the triangle ineqlauity and the bounds above, we observe then that there exists a constant 
+   <italic>C
+    <sub>U</sub>
+   </italic> which is independent of 
+   <italic>τ</italic>, such that the following are satisfied for 
+   <italic>U</italic> being any of 
+   <italic>S, E, I, Q</italic> or 
+   <italic>R</italic>:
+   <disp-formula id="eq0039">
+    <label>(3.14)</label>
+    <math id="M95" altimg="si99.svg">
+     <mrow>
+      <mrow>
+       <mo stretchy="true">|</mo>
+       <msub>
+        <mi mathvariant="bold-script">L</mi>
+        <mi>U</mi>
+       </msub>
+       <mrow>
+        <mo>(</mo>
+        <msub>
+         <mi>t</mi>
+         <mi>n</mi>
+        </msub>
+        <mo>)</mo>
+       </mrow>
+       <mo linebreak="badbreak">−</mo>
+       <msub>
+        <mi>L</mi>
+        <mi>U</mi>
+       </msub>
+       <mrow>
+        <mo>(</mo>
+        <msub>
+         <mi>t</mi>
+         <mi>n</mi>
+        </msub>
+        <mo>)</mo>
+       </mrow>
+       <mo stretchy="true">|</mo>
+      </mrow>
+      <mo>≤</mo>
+      <msub>
+       <mi>C</mi>
+       <mi>S</mi>
+      </msub>
+      <mi>τ</mi>
+      <mo>,</mo>
+      <mspace width="1em"/>
+      <mo>∀</mo>
+      <mi>n</mi>
+      <mo>∈</mo>
+      <msub>
+       <mover>
+        <mrow>
+         <mi>I</mi>
+        </mrow>
+        <mo stretchy="true">¯</mo>
+       </mover>
+       <mrow>
+        <mi>N</mi>
+        <mo>−</mo>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>To be more precise, those constants are
+   <disp-formula id="eq0040">
+    <label>(3.15)</label>
+    <math id="M96" altimg="si100.svg">
+     <mrow>
+      <msub>
+       <mi>C</mi>
+       <mi>S</mi>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msubsup>
+       <mi>C</mi>
+       <mi>S</mi>
+       <mn>1</mn>
+      </msubsup>
+      <mo linebreak="goodbreak">+</mo>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>β</mi>
+        <mn>1</mn>
+       </msub>
+       <msubsup>
+        <mi>C</mi>
+        <mi>I</mi>
+        <mn>0</mn>
+       </msubsup>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>β</mi>
+        <mn>2</mn>
+       </msub>
+       <msubsup>
+        <mi>C</mi>
+        <mi>E</mi>
+        <mn>0</mn>
+       </msubsup>
+       <mo>)</mo>
+      </mrow>
+      <msubsup>
+       <mi>C</mi>
+       <mi>S</mi>
+       <mn>2</mn>
+      </msubsup>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <msubsup>
+       <mi>C</mi>
+       <mi>S</mi>
+       <mn>2</mn>
+      </msubsup>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0041">
+    <label>(3.16)</label>
+    <math id="M97" altimg="si101.svg">
+     <mrow>
+      <msub>
+       <mi>C</mi>
+       <mi>E</mi>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msubsup>
+       <mi>C</mi>
+       <mi>E</mi>
+       <mn>1</mn>
+      </msubsup>
+      <mo linebreak="goodbreak">+</mo>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mi>q</mi>
+        <mn>1</mn>
+       </msub>
+       <mo linebreak="badbreak">+</mo>
+       <mi>κ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>α</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>μ</mi>
+       <mo>)</mo>
+      </mrow>
+      <msubsup>
+       <mi>C</mi>
+       <mi>E</mi>
+       <mn>2</mn>
+      </msubsup>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0042">
+    <label>(3.17)</label>
+    <math id="M98" altimg="si102.svg">
+     <mrow>
+      <msub>
+       <mi>C</mi>
+       <mi>I</mi>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msubsup>
+       <mi>C</mi>
+       <mi>I</mi>
+       <mn>1</mn>
+      </msubsup>
+      <mo linebreak="goodbreak">+</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi>r</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>μ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>d</mi>
+        <mn>1</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <msubsup>
+       <mi>C</mi>
+       <mi>I</mi>
+       <mn>2</mn>
+      </msubsup>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0043">
+    <label>(3.18)</label>
+    <math id="M99" altimg="si103.svg">
+     <mrow>
+      <msub>
+       <mi>C</mi>
+       <mi>Q</mi>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msubsup>
+       <mi>C</mi>
+       <mi>Q</mi>
+       <mn>1</mn>
+      </msubsup>
+      <mo linebreak="goodbreak">+</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi>q</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>μ</mi>
+       <mo linebreak="badbreak">+</mo>
+       <msub>
+        <mi>d</mi>
+        <mn>2</mn>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+      <msubsup>
+       <mi>C</mi>
+       <mi>Q</mi>
+       <mn>2</mn>
+      </msubsup>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+   <disp-formula id="eq0044">
+    <label>(3.19)</label>
+    <math id="M100" altimg="si104.svg">
+     <mrow>
+      <msub>
+       <mi>C</mi>
+       <mi>R</mi>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <msubsup>
+       <mi>C</mi>
+       <mi>R</mi>
+       <mn>1</mn>
+      </msubsup>
+      <mo linebreak="goodbreak">+</mo>
+      <mi>μ</mi>
+      <msubsup>
+       <mi>C</mi>
+       <mi>R</mi>
+       <mn>2</mn>
+      </msubsup>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>We conclude that 
+   <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref> yields first-order approximations to the solutions of 
+   <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref>, as desired. □
+  </p>
+ </statement>
+</p>

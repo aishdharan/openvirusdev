@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>It is not easy to estimate the rapid increase in the number of infected people due to the (incidental) collective infection as an existing SEIRD model. In the case of mass infections, such as in religious groups or nursing homes in Korea, epidemic peaks may occur earlier compared to predictions made by common SEIRD models. In other words, collective infection means that the time to prepare health care resources before the spread of infectious diseases can be much shorter than we thought. Although the 
+ <italic>t
+  <sub>d</sub>
+ </italic> was set considering the period of the mass infection described in 
+ <xref ref-type="fig" rid="F1">Fig. 1A</xref>, it can be seen that there is a time difference λ
+ <sub>I</sub>(= 
+ <italic>d</italic>
+ <sub>I.a</sub> − 
+ <italic>d</italic>
+ <sub>I.m</sub>) between the actual (fitted) and the estimated (modeled by our model) infection trends. λ
+ <sub>I</sub>(= −6.3 days for Daegu and −5.3 days for Gyeongbuk) was obtained by the difference between the actual epidemic peak 
+ <italic>d</italic>
+ <sub>I.a</sub>(= 25 days for Daegu and 24 days for Gyeongbuk) and the modeled epidemic peak 
+ <italic>d</italic>
+ <sub>I.m</sub>(= 31.3 days for Daegu and 29.3 days for Gyeongbuk). Also, in order to find differences in the actual and estimated trends for those recovering from COVID, the date 
+ <italic>d</italic>
+ <sub>R.C</sub> occurs when the actual and estimated numbers of those recovering are equal and the number of those recovering 
+ <italic>h</italic>
+ <sub>R.C</sub> at that time is defined. The averages, 
+ <inline-formula>
+  <alternatives>
+   <math id="m11">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">a</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i008.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula>
+  <alternatives>
+   <math id="m12">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">m</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i009.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, of the actual and modeled recovery numbers are compared. It was found that mass infection by COVID-19 may cause a difference 
+ <italic>hd</italic>
+ <sub>R.C</sub>(
+ <inline-formula>
+  <alternatives>
+   <math id="m13">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">a</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i008.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> − 
+ <inline-formula>
+  <alternatives>
+   <math id="m14">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">m</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i009.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>) in the number of those recovering after 
+ <italic>d</italic>
+ <sub>R.C</sub>. 
+ <italic>hd</italic>
+ <sub>R.C</sub>(= −1486.6 persons for Daegu and −223.7 persons for Gyeongbuk) is determined by the difference in dates in the actual (
+ <inline-formula>
+  <alternatives>
+   <math id="m15">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">a</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i008.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> = 5781.7 persons for Daegu and 1,058.7 persons for Gyeongbuk) and modeled (
+ <inline-formula>
+  <alternatives>
+   <math id="m16">
+    <mstyle scriptlevel="+1">
+     <msub>
+      <mrow>
+       <mover accent="true">
+        <mrow>
+         <mi>R</mi>
+        </mrow>
+        <mo>-</mo>
+       </mover>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">C</mi>
+       <mo>.</mo>
+       <mi mathvariant="normal">m</mi>
+      </mrow>
+     </msub>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i009.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> = 7,268.3 persons for Daegu and 1,291.4 persons for Gyeongbuk) recovery trends. The experimental results indicate that in the case of mass infection, the actual recovery trend may occur later than the modeled recovery trend.
+</p>

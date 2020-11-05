@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Jia</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ma</surname>
+   <given-names>Xue-Ping</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bai</surname>
+   <given-names>Long</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Miao</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Deng</surname>
+   <given-names>Wu</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ning</surname>
+   <given-names>Ning</given-names>
+  </name>
+  <degrees>MM</degrees>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+</contrib-group>

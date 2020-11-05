@@ -1,0 +1,760 @@
+{
+  "id": [
+    "33092306"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33092306"
+  ],
+  "pmcid": [
+    "PMC7589794"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7589794"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/pathogens9100856"
+  ],
+  "title": [
+    "Hepatitis E Virus Infection: Circulation, Molecular Epidemiology, and Impact on Global Health."
+  ],
+  "authorString": [
+    "Pallerla SR, Harms D, Johne R, Todt D, Steinmann E, Schemmerer M, Wenzel JJ, Hofmann J, Shih JWK, Wedemeyer H, Bock CT, Velavan TP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pallerla SR"
+          ],
+          "firstName": [
+            "Srinivas Reddy"
+          ],
+          "lastName": [
+            "Pallerla"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1669-1515",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Tropical Medicine, University of Tübingen, Tübingen 72074, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Vietnamese-German Center for Medical Research (VG-CARE), Hanoi 550000, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Harms D"
+          ],
+          "firstName": [
+            "Dominik"
+          ],
+          "lastName": [
+            "Harms"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Viral Gastroenteritis and Hepatitis Pathogens and Enteroviruses, Department of Infectious Diseases, Robert Koch Institute, Berlin 13353, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Johne R"
+          ],
+          "firstName": [
+            "Reimar"
+          ],
+          "lastName": [
+            "Johne"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9597-6724",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department Biological Safety, Unit Viruses in Food, German Federal Institute for Risk Assessment, Berlin 10589, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Todt D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Todt"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3564-1014",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular and Medical Virology, Ruhr University Bochum, Bochum 44801, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "European Virus Bioinformatics Center (EVBC), Jena 07743, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Steinmann E"
+          ],
+          "firstName": [
+            "Eike"
+          ],
+          "lastName": [
+            "Steinmann"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3654-9965",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Molecular and Medical Virology, Ruhr University Bochum, Bochum 44801, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Schemmerer M"
+          ],
+          "firstName": [
+            "Mathias"
+          ],
+          "lastName": [
+            "Schemmerer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Clinical Microbiology and Hygiene, National Consultant Laboratory for HAV and HEV, University Medical Center Regensburg, Regensburg 93053, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wenzel JJ"
+          ],
+          "firstName": [
+            "Jürgen J"
+          ],
+          "lastName": [
+            "Wenzel"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8422-6581",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Clinical Microbiology and Hygiene, National Consultant Laboratory for HAV and HEV, University Medical Center Regensburg, Regensburg 93053, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hofmann J"
+          ],
+          "firstName": [
+            "Jörg"
+          ],
+          "lastName": [
+            "Hofmann"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Virology, Charité Universitätsmedizin Berlin, Labor Berlin-Charité-Vivantes GmbH, Berlin 13353, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shih JWK"
+          ],
+          "firstName": [
+            "James Wai Kuo"
+          ],
+          "lastName": [
+            "Shih"
+          ],
+          "initials": [
+            "JWK"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Xiamen Innovax Biotech Co., Ltd., Haicang, Xiamen 361022, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wedemeyer H"
+          ],
+          "firstName": [
+            "Heiner"
+          ],
+          "lastName": [
+            "Wedemeyer"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Gastroenterology, Hepatology and Endocrinology, Hannover Medical School, Hannover 30623, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "German Center for Infection Research, Partner Hannover-Braunschweig, Braunschweig 38124, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bock CT"
+          ],
+          "firstName": [
+            "C-Thomas"
+          ],
+          "lastName": [
+            "Bock"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2773-486X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Tropical Medicine, University of Tübingen, Tübingen 72074, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Division of Viral Gastroenteritis and Hepatitis Pathogens and Enteroviruses, Department of Infectious Diseases, Robert Koch Institute, Berlin 13353, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Velavan TP"
+          ],
+          "firstName": [
+            "Thirumalaisamy P"
+          ],
+          "lastName": [
+            "Velavan"
+          ],
+          "initials": [
+            "TP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9809-9883",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Tropical Medicine, University of Tübingen, Tübingen 72074, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Vietnamese-German Center for Medical Research (VG-CARE), Hanoi 550000, Vietnam."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Faculty of Medicine, Duy Tan University, Da Nang, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1669-1515",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9597-6724",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3564-1014",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3654-9965",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8422-6581",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2773-486X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9809-9883",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "3035461"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pathogens (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Pathogens"
+          ],
+          "medlineAbbreviation": [
+            "Pathogens"
+          ],
+          "NLMid": [
+            "101596317"
+          ],
+          "ISSN": [
+            "2076-0817"
+          ],
+          "ESSN": [
+            "2076-0817"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Infection with hepatitis E virus (HEV) represents the most common source of viral hepatitis globally. Although infecting over 20 million people annually in endemic regions, with major outbreaks described since the 1950s, hepatitis E remains an underestimated disease. This review gives a current view of the global circulation and epidemiology of this emerging virus. The history of HEV, from the first reported enteric non-A non-B hepatitis outbreaks, to the discovery of the viral agent and the molecular characterization of the different human pathogenic genotypes, is discussed. Furthermore, the current state of research regarding the virology of HEV is critically assessed, and the challenges towards prevention and diagnosis, as well as clinical risks of the disease described. Together, these points aim to underline the significant impact of hepatitis E on global health and the need for further in-depth research to better understand the pathophysiology and its role in the complex disease manifestations of HEV infection."
+  ],
+  "affiliation": [
+    "Institute of Tropical Medicine, University of Tübingen, Tübingen 72074, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BMBF01DP19006A"
+          ],
+          "agency": [
+            "Bundesministerium für Wissenschaft und Forschung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Promotions Stipendium"
+          ],
+          "agency": [
+            "FAZIT Stiftung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZMVI1-2519GHP711"
+          ],
+          "agency": [
+            "Bundesministerium für Gesundheit"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BMBF01DP17047"
+          ],
+          "agency": [
+            "Bundesministerium für Wissenschaft und Forschung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Dissertation Plus"
+          ],
+          "agency": [
+            "Claussen-Simon-Stiftung"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZMVI1-2518FSB705"
+          ],
+          "agency": [
+            "Bundesministerium für Gesundheit"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Infection",
+        "Hepatitis E",
+        "epidemiology",
+        "outbreak",
+        "Global Health"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/pathogens9100856"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7589794"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7589794?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-23"
+  ],
+  "firstIndexDate": [
+    "2020-10-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-31"
+  ],
+  "dateOfRevision": [
+    "2020-10-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-20"
+  ],
+  "firstPublicationDate": [
+    "2020-10-20"
+  ]
+}

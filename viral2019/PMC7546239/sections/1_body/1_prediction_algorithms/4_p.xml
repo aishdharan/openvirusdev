@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e1200">The spread of COVID-19 cannot be described exactly by the SIR Eqs. 
+ <xref rid="dfn1" ref-type="statement">1</xref>. The COVID-19 pandemic evolves in continuous time, whereas the SIR model 
+ <xref rid="dfn1" ref-type="statement">1</xref> evolves in discrete time, with a time step of 1 day. Additionally, the SIR model 
+ <xref rid="dfn1" ref-type="statement">1</xref> is unable to describe phenomena like personal social distancing, nation-wide lockdowns and the availability of vaccinations. Each of these model assumptions introduces model errors. Prior to the introduction of several forecasting algorithms, we explain how model errors can be used to obtain prediction intervals for the forecasted number of infected cases.
+</p>

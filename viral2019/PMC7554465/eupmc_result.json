@@ -1,0 +1,286 @@
+{
+  "id": [
+    "PMC7554465"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7554465"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7554465"
+      ]
+    }
+  ],
+  "title": [
+    "Asia and COVID-19; The need to continue mental health care to prevent the spread of suicide in the elderly"
+  ],
+  "authorString": [
+    "Badrfam R, Zandifar A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Badrfam R"
+          ],
+          "firstName": [
+            "Rahim"
+          ],
+          "lastName": [
+            "Badrfam"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zandifar A"
+          ],
+          "firstName": [
+            "Atefeh"
+          ],
+          "lastName": [
+            "Zandifar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b Social Determinants of Health Research Center, Alborz University of Medical Sciences, Karaj, Iran"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "54"
+      ],
+      "journalIssueId": [
+        "3039300"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Asian journal of psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Asian J Psychiatr"
+          ],
+          "medlineAbbreviation": [
+            "Asian J Psychiatr"
+          ],
+          "NLMid": [
+            "101517820"
+          ],
+          "ISSN": [
+            "1876-2018"
+          ],
+          "ESSN": [
+            "1876-2026"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "102452-102452"
+  ],
+  "abstractText": [
+    "Highlights • There is serious concern about the probable increase in the prevalence of suicide due to the global pandemic of COVID-19 in the elderly in Asia.• Mental health care programs should be of higher quality at the same time as trying to control the existing pandemic."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554465/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554465/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7554465"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7554465?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-18"
+  ],
+  "firstIndexDate": [
+    "2020-10-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-18"
+  ],
+  "dateOfRevision": [
+    "2020-10-24"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-14"
+  ],
+  "firstPublicationDate": [
+    "2020-10-14"
+  ]
+}

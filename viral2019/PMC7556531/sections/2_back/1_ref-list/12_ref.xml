@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pntd.0008475.ref012">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Amraoui</surname>
+   <given-names>F</given-names>
+  </name>, 
+  <name>
+   <surname>Ben Ayed</surname>
+   <given-names>W</given-names>
+  </name>, 
+  <name>
+   <surname>Madec</surname>
+   <given-names>Y</given-names>
+  </name>, 
+  <name>
+   <surname>Faraj</surname>
+   <given-names>C</given-names>
+  </name>, 
+  <name>
+   <surname>Himmi</surname>
+   <given-names>O</given-names>
+  </name>, 
+  <name>
+   <surname>Btissam</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Potential of Aedes albopictus to cause the emergence of arboviruses in Morocco</article-title>. 
+  <source>PLoS Negl Trop Dis</source>. 
+  <year>2019</year>;
+  <volume>13</volume>(
+  <issue>2</issue>):
+  <fpage>e0006997</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pntd.0006997</pub-id>
+  <?supplied-pmid 30763312?>
+  <pub-id pub-id-type="pmid">30763312</pub-id>
+ </mixed-citation>
+</ref>

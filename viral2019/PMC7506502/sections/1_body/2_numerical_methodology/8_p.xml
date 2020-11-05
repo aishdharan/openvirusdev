@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0051">Before closing this section, we employed the finite-difference scheme 
+ <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref> to confirm the validity of the analytical results. 
+ <xref rid="fig0003" ref-type="fig">Fig. 3</xref> shows the solution of the system 
+ <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref> using the method proposed in this work. To that end, we employed the parameters of 
+ <xref rid="tbl0001" ref-type="table">Table 1</xref>, and the initial conditions are. Two cases were considered, namely, (a) a system free of COVID-19 and (b) a system with the presence of COVID-19. The graphs show that the solutions tend to the prescribed equilibrium points 
+ <italic>C</italic>
+ <sub>1</sub> and 
+ <italic>C</italic>
+ <sub>2</sub>, respectively. It is worth pointing out that these results are in full agreement with both the analytical and the numerical theorems derived in this work. 
+ <xref rid="fig0003" ref-type="fig">Fig. 3</xref>(c) shows the the dynamics of the model 
+ <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref> when it transits from COVID-19 present to COVID-19 absent with 
+ <inline-formula>
+  <math id="M133" altimg="si7.svg">
+   <mrow>
+    <msub>
+     <mi>q</mi>
+     <mn>1</mn>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0.014</mn>
+   </mrow>
+  </math>
+ </inline-formula>. Meanwhile, 
+ <xref rid="fig0003" ref-type="fig">Fig. 3</xref>(c) shows the effect of the quarantine parameter on infected humans. As expected, increasing 
+ <italic>q</italic>
+ <sub>1</sub> reduces the number of infected individuals. In the simulations, we used 
+ <inline-formula>
+  <math id="M134" altimg="si1.svg">
+   <mrow>
+    <msub>
+     <mi>S</mi>
+     <mn>0</mn>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0.5</mn>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula>
+ <inline-formula>
+  <math id="M135" altimg="si2.svg">
+   <mrow>
+    <msub>
+     <mi>E</mi>
+     <mn>0</mn>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0.2</mn>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula>
+ <inline-formula>
+  <math id="M136" altimg="si3.svg">
+   <mrow>
+    <msub>
+     <mi>I</mi>
+     <mn>0</mn>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0.1</mn>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula>
+ <inline-formula>
+  <math id="M137" altimg="si4.svg">
+   <mrow>
+    <msub>
+     <mi>Q</mi>
+     <mn>0</mn>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0.1</mn>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula>
+ <inline-formula>
+  <math id="M138" altimg="si5.svg">
+   <mrow>
+    <msub>
+     <mi>R</mi>
+     <mn>0</mn>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0.1</mn>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="M139" altimg="si6.svg">
+   <mrow>
+    <mi>τ</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>0.01</mn>
+   </mrow>
+  </math>
+ </inline-formula>.
+</p>

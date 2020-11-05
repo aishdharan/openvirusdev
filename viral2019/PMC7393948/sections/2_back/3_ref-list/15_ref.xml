@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Chai</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Xing</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Liao</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Du</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Molecular characteristics of the spike gene of porcine epidemic diarrhoea virus strains in Eastern China in 2016</article-title>. 
+  <source>Virus Res.</source> (
+  <year>2018</year>) 
+  <volume>247</volume>:
+  <fpage>47</fpage>–
+  <lpage>54</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.virusres.2018.01.013</pub-id>
+  <?supplied-pmid 29412159?>
+  <pub-id pub-id-type="pmid">29412159</pub-id>
+ </mixed-citation>
+</ref>

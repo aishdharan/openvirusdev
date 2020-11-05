@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">The Fasttree 2.1
+ <sup>
+  <xref ref-type="bibr" rid="CR46">46</xref>
+ </sup> software program was used to estimate an approximate maximum likelihood phylogenetic tree for the 
+ <italic>pol</italic> sequences, together with reference sequences, using a general time reversible model with g-distributed (G4) among-site rate heterogeneity. The Fasttree program made use of the Shimodaira-Hasegawa test to alternate topologies of the whole sequences and calculate the confidence of each node in phylogenetic trees. The final maximum likelihood tree was visualized using the FigTree software program, v1.4.2 (
+ <ext-link ext-link-type="uri" xlink:href="https://tree.bio.ed.ac.uk/software/figtree/" xmlns:xlink="http://www.w3.org/1999/xlink">https://tree.bio.ed.ac.uk/software/figtree/</ext-link>).
+</p>

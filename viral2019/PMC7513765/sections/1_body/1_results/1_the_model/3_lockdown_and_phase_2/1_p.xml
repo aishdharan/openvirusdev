@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0080">Lockdown and phase 2 terms are modeled with exponential functions (see Methods in 
+ <xref rid="appsec1" ref-type="fn">Supplementary Information</xref>) that act as attenuation (lockdown) and amplification (phase 2) factors of the reproductive number R
+ <sub>t</sub>, with, respectively, halving and doubling times (in units of 1 day) that are free parameters of the model. The lockdown attenuation ends when phase 2 starts, and phase 2 amplification ends when R
+ <sub>t</sub> reaches the original value R
+ <sub>0</sub> characteristic of the disease.
+</p>

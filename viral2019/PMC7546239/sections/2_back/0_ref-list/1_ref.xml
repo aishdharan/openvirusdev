@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b1">
+ <element-citation publication-type="journal" id="sb1">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Al-qaness</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Ewees</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Fan</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Abd El Aziz</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Optimization method for forecasting confirmed cases of COVID-19 in China</article-title>
+  <source>Journal of Clinical Medicine</source>
+  <volume>9</volume>
+  <year>2020</year>
+  <fpage>674</fpage>
+  <pub-id pub-id-type="doi">10.3390/jcm9030674</pub-id>
+  <comment>URL 
+   <ext-link ext-link-type="uri" xlink:href="https://www.mdpi.com/2077-0383/9/3/674" id="interref2" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.mdpi.com/2077-0383/9/3/674</ext-link>
+  </comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e5924">We recall that 
+ <inline-formula>
+  <math id="d1e5927" display="inline" altimg="si136.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>β</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">c</mi>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">q</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">p</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>, where 
+ <inline-formula>
+  <math id="d1e5949" display="inline" altimg="si23.svg">
+   <mi mathvariant="bold-fraktur">c</mi>
+  </math>
+ </inline-formula> is the average number of contacts between a susceptible person and an infections person, per day, and 
+ <inline-formula>
+  <math id="d1e5954" display="inline" altimg="si138.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">p</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> denotes the probability that an infected, pre-symptomatic person transmits the disease to a susceptible person during one of those contacts. Therefore, the function 
+ <inline-formula>
+  <math id="d1e5965" display="inline" altimg="si118.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> describes at a population level how to implement a strategy of NPIs — through a reduction of either 
+ <inline-formula>
+  <math id="d1e5978" display="inline" altimg="si23.svg">
+   <mi mathvariant="bold-fraktur">c</mi>
+  </math>
+ </inline-formula> or 
+ <inline-formula>
+  <math id="d1e5983" display="inline" altimg="si138.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">p</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. For example, 
+ <inline-formula>
+  <math id="d1e5993" display="inline" altimg="si142.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>5</mn>
+   </mrow>
+  </math>
+ </inline-formula> may correspond to a 50% reduction in 
+ <inline-formula>
+  <math id="d1e6015" display="inline" altimg="si23.svg">
+   <mi mathvariant="bold-fraktur">c</mi>
+  </math>
+ </inline-formula>, resulting from a corresponding reduction in mobility for the susceptible population.
+</p>

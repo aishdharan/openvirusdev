@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0430">
+ <label>86</label>
+ <element-citation publication-type="journal" id="h0430">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Beigel</surname>
+    <given-names>J.H.</given-names>
+   </name>
+   <name>
+    <surname>Tomashek</surname>
+    <given-names>K.M.</given-names>
+   </name>
+   <name>
+    <surname>Dodd</surname>
+    <given-names>L.E.</given-names>
+   </name>
+   <name>
+    <surname>Mehta</surname>
+    <given-names>A.K.</given-names>
+   </name>
+   <name>
+    <surname>Zingman</surname>
+    <given-names>B.S.</given-names>
+   </name>
+   <name>
+    <surname>Kalil</surname>
+    <given-names>A.C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Remdesivir for the treatment of Covid-19—preliminary report</article-title>
+  <source>N Engl J Med</source>
+  <volume>383</volume>
+  <year>2020</year>
+  <fpage>992</fpage>
+  <lpage>994</lpage>
+ </element-citation>
+</ref>

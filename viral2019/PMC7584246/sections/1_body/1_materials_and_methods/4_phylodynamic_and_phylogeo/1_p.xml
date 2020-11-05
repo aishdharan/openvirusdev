@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The rate of nucleotide substitution per site per year (s/s/y), the time to the most recent common ancestor (T
+ <sub>MRCA</sub>) and the mode of population growth was jointly estimated employing the Bayesian Markov Chain Monte Carlo (MCMC) approach using the BEAST v1.10.0 [
+ <xref rid="pone.0241269.ref048" ref-type="bibr">48</xref>]. We compared several molecular clock models (strict and relaxed) and coalescent priors (constant population size, exponential growth and logistic growth and Bayesian skyline) by Tracer v1.5 in order to find the best combination (
+ <xref ref-type="supplementary-material" rid="pone.0241269.s009">S4 Table</xref>). As a result, the relaxed uncorrelated lognormal clock (UCLN) and Bayesian Skyline Plot (BSP) were used in inferring the temporal scale of the evolutionary process from the sampling dates of the sequences; a lognormal prior distribution for the clock rate were used (mean = 0.002, stdev = 0.5) [
+ <xref rid="pone.0241269.ref005" ref-type="bibr">5</xref>, 
+ <xref rid="pone.0241269.ref049" ref-type="bibr">49</xref>]. Two independent MCMC chains were run of 300×10
+ <sup>6</sup> steps with parameters sampled every 5000 generations, with a burn-in of first 25%.Convergence of the chains was estimated based on the Effective Sample Size (ESS) in the Tracer v1.5. The parameter estimates with ESS over 200 were accepted. Lastly, the maximum clade credibility (MCC) tree was then selected from the posterior tree distribution in TreeAnnotator v1.10.1. Final trees were visualized using FigTree v1.4.0 (accessible at 
+ <ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/" xmlns:xlink="http://www.w3.org/1999/xlink">http://tree.bio.ed.ac.uk/</ext-link>) and/or iTOL tool [
+ <xref rid="pone.0241269.ref050" ref-type="bibr">50</xref>].
+</p>

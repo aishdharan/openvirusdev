@@ -1,0 +1,359 @@
+{
+  "id": [
+    "32953445"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32953445"
+  ],
+  "pmcid": [
+    "PMC7492837"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7492837"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.rmcr.2020.101219"
+  ],
+  "title": [
+    "How the first cases of COVID-19 in 10 countries become infected? a case series."
+  ],
+  "authorString": [
+    "Sadeghmoghadam L, Daneshfar M, Sharifi F, Alizad V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sadeghmoghadam L"
+          ],
+          "firstName": [
+            "Leila"
+          ],
+          "lastName": [
+            "Sadeghmoghadam"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Nursing, School of Nursing, Social Development and Health Promotion Research Center, Gonabad University of Medical Sciences, Gonabad, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Daneshfar M"
+          ],
+          "firstName": [
+            "Majid"
+          ],
+          "lastName": [
+            "Daneshfar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical-Surgical Nursing, School of Nursing, Gonabad University of Medical Sciences, Gonabad, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sharifi F"
+          ],
+          "firstName": [
+            "Farshad"
+          ],
+          "lastName": [
+            "Sharifi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Endocrinology and Metabolism Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Alizad V"
+          ],
+          "firstName": [
+            "Vida"
+          ],
+          "lastName": [
+            "Alizad"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Movement Neuroscience Program, Institute of Health and Biomedical Innovation, Queensland University of Technology, Brisbane, QLD, Australia."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Iranian Research Centre on Ageing, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006170"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Respiratory medicine case reports"
+          ],
+          "ISOAbbreviation": [
+            "Respir Med Case Rep"
+          ],
+          "medlineAbbreviation": [
+            "Respir Med Case Rep"
+          ],
+          "NLMid": [
+            "101604463"
+          ],
+          "ISSN": [
+            "2213-0071"
+          ],
+          "ESSN": [
+            "2213-0071"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "101219"
+  ],
+  "abstractText": [
+    "Recently, a new respiratory infectious disease called COVID-19 has emerged and created a global emergency. It was initially linked to the animal-to-human transmission. However, it is now thought that COVID-19 is spreading through human-to-human transmission mainly via droplets. As there is no definite antiviral therapy for the treatment of cases with COVID-19 the best option for slowing down the pandemic and reducing mortality rates is protection against the virus of interest. To achieve this goal obtaining information about how first cases infected with COVID-19 is crucial. Hence, this study aims to review the studies published in peer-reviewed journals to report the first confirmed cases with COVID-19. Herein, we review the origin, symptoms, diagnostic tests, and progress of the disease and possible actions of authorities which would be effective in similar pandemics in the future. This study reviewed 13 cases (5 females and 8 males; 25-61 years old) from 10 countries. All cases have recovered from COVID-19. The results of this review suggested that timely reports of the confirmed cases, notifying World Health Organization and providing information to the general population about the methods of spreading the virus would have decreased the number of infected cases and mortality rates. In addition, the travel history of the first confirmed cases in various countries suggested that prompt actions in restricting travels and closing borders could be an efficient strategy in preventing the transmission of the disease outside of the affected sites. Efforts should be taken by health authorities for preparing the world for future epidemic/pandemic in terms of developing advanced screening strategies in the borders and diagnostic strategies for early identification of infected cases."
+  ],
+  "affiliation": [
+    "Department of Nursing, School of Nursing, Social Development and Health Promotion Research Center, Gonabad University of Medical Sciences, Gonabad, Iran."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Infection",
+        "Coronavirus",
+        "First Cases",
+        "2019-Ncov",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.rmcr.2020.101219"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492837"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7492837?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-21"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-16"
+  ],
+  "firstPublicationDate": [
+    "2020-09-16"
+  ]
+}

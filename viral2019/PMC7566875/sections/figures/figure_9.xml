@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig9">
+ <label>Fig. 9</label>
+ <caption>
+  <p>Plot of 
+   <inline-formula>
+    <math id="d1e825" display="inline" altimg="si204.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">k</mi>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> under an optimal-control strategy in which the boundary is attained. Control parameters: 
+   <inline-formula>
+    <math id="d1e845" display="inline" altimg="si308.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>6</mn>
+     </mrow>
+    </math>
+   </inline-formula>, 
+   <inline-formula>
+    <math id="d1e855" display="inline" altimg="si309.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>68</mn>
+     </mrow>
+    </math>
+   </inline-formula>. Cost: 
+   <inline-formula>
+    <math id="d1e879" display="inline" altimg="si310.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">J</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">i</mi>
+        <mi mathvariant="bold-fraktur">n</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+      <mn>146</mn>
+      <mo>.</mo>
+      <mn>5</mn>
+     </mrow>
+    </math>
+   </inline-formula>. Similar results are found for other values of 
+   <inline-formula>
+    <math id="d1e902" display="inline" altimg="si311.svg">
+     <mi mathvariant="bold-fraktur">n</mi>
+    </math>
+   </inline-formula>, e.g. with 
+   <inline-formula>
+    <math id="d1e907" display="inline" altimg="si312.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>12</mn>
+     </mrow>
+    </math>
+   </inline-formula> an eight-peak plot is obtained with 
+   <inline-formula>
+    <math id="d1e917" display="inline" altimg="si313.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">J</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">i</mi>
+        <mi mathvariant="bold-fraktur">n</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+      <mn>129</mn>
+      <mo>.</mo>
+      <mn>6</mn>
+     </mrow>
+    </math>
+   </inline-formula>.
+  </p>
+ </caption>
+ <graphic xlink:href="gr9_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

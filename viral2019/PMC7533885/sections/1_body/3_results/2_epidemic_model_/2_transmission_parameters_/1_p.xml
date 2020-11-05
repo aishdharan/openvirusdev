@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>By fitting this model to the RVF datasets, the time-varying reproduction number in the livestock population was estimated to peak at 
+ <italic>R</italic>
+ <sub>
+  <italic>s,t</italic>
+ </sub> = 1.9 (95% credible interval [CrI] [1.5–2.5]), in the second half of January (January 14–27, 2019) (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Fig. S2
+  <italic>A</italic>
+ </ext-link>), 2 wk following the rainfall peak, and 3 to 4 wk prior to the predicted epidemic peaks in livestock and humans (
+ <xref ref-type="fig" rid="fig03">Fig. 3
+  <italic>A</italic>
+ </xref>). This corresponded to a transmission rate among livestock 
+ <inline-formula>
+  <math id="i1">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>β</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>−</mo>
+        <mi>L</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> at 9.1 per 1,000,000 livestock heads per day (95% CrI [7.9–11.2]) (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Fig. S2
+  <italic>B</italic>
+ </ext-link>). The spillover rate from livestock to humans by direct contact 
+ <inline-formula>
+  <math id="i2">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msubsup>
+       <mi>β</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>−</mo>
+        <mi>H</mi>
+       </mrow>
+       <mi>C</mi>
+      </msubsup>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> was estimated to be 4.4 per 10 million persons per day (95% CrI [2.9–7.0]) (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Table S3
+ </ext-link>), which was 2.3 times higher than the vector-mediated route 
+ <inline-formula>
+  <math id="i3">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msubsup>
+       <mi>β</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>−</mo>
+        <mi>H</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+       </mrow>
+       <mi>V</mi>
+      </msubsup>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> at its highest value (1.9 per 10 million persons per day [95% CrI (1.3–3.2)]; 
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Fig. S2
+  <italic>C</italic>
+ </ext-link>).
+</p>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19-jcm-09-03148">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wood</surname>
+    <given-names>R.M.</given-names>
+   </name>
+   <name>
+    <surname>McWilliams</surname>
+    <given-names>C.J.</given-names>
+   </name>
+   <name>
+    <surname>Thomas</surname>
+    <given-names>M.J.</given-names>
+   </name>
+   <name>
+    <surname>Bourdeaux</surname>
+    <given-names>C.P.</given-names>
+   </name>
+   <name>
+    <surname>Vasilakis</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>COVID-19 scenario modelling for the mitigation of capacity-dependent deaths in intensive care</article-title>
+  <source>Health Care Manag. Sci.</source>
+  <year>2020</year>
+  <volume>23</volume>
+  <fpage>315</fpage>
+  <lpage>324</lpage>
+  <pub-id pub-id-type="doi">10.1007/s10729-020-09511-7</pub-id>
+  <pub-id pub-id-type="pmid">32642878</pub-id>
+ </element-citation>
+</ref>

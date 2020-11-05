@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>9</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Nsanzimana</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Remera</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kanters</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Effect of baseline CD4 cell count at linkage to HIV care and at initiation of antiretroviral therapy on mortality in HIV-positive adult patients in Rwanda: a nationwide cohort study</article-title>. 
+  <source>Lancet HIV</source>
+  <year>2015</year>;
+  <volume>2</volume>:
+  <fpage>e376</fpage>–
+  <lpage>84</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S2352-3018(15)00112-5</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26423551?>
+  <pub-id pub-id-type="pmid">26423551</pub-id>
+ </mixed-citation>
+</ref>

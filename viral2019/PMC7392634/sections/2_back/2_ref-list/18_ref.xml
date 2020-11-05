@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R18">
+ <label>18</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Hamner</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Dubbel</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Capron</surname>
+    <given-names>I</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>High SARS-CoV-2 attack rate following exposure at a Choir practice — Skagit County, Washington, March 2020</article-title>. 
+  <source>MMWR Morb Mortal Wkly Rep</source>
+  <year>2020</year>;
+  <volume>69</volume>:
+  <fpage>606</fpage>–
+  <lpage>10</lpage>. 
+  <pub-id pub-id-type="doi">10.15585/mmwr.mm6919e6</pub-id>
+  <pub-id pub-id-type="pmid">32407303</pub-id>
+ </mixed-citation>
+</ref>

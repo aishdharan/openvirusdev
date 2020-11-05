@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <label>14.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>HIV-1 transmissions among recently infected individuals in Southwest China are predominantly derived from circulating local strains</article-title>
+  <source>Sci. Rep.</source>
+  <year>2018</year>
+  <volume>8</volume>
+  <fpage>12831</fpage>
+  <lpage>12831</lpage>
+  <pub-id pub-id-type="doi">10.1038/s41598-018-29201-3</pub-id>
+  <?supplied-pmid 30150680?>
+  <pub-id pub-id-type="pmid">30150680</pub-id>
+ </element-citation>
+</ref>

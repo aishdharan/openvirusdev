@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R24">
+ <label>24</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Binagwaho</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Farmer</surname>
+    <given-names>PE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Nsanzimana</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Rwanda 20 years on: investing in life</article-title>. 
+  <source>Lancet</source>
+  <year>2014</year>;
+  <volume>384</volume>:
+  <fpage>371</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(14)60574-2</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/24703831?>
+  <pub-id pub-id-type="pmid">24703831</pub-id>
+ </mixed-citation>
+</ref>

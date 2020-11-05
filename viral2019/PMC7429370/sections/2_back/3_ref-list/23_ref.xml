@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhan</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Yeung</surname>
+    <given-names>LF</given-names>
+   </name>
+  </person-group>
+  <article-title>Parameter estimation in systems biology models using spline approximation</article-title>
+  <source>BMC Syst Biol</source>
+  <year>2011</year>
+  <volume>5</volume>
+  <issue>1</issue>
+  <fpage>14</fpage>
+  <pub-id pub-id-type="pmid">21255466</pub-id>
+ </element-citation>
+</ref>

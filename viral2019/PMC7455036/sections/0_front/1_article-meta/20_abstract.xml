@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec id="sec001">
+  <title>Background</title>
+  <p>In December 2019, an outbreak of COVID-19 epidemic occurred in Wuhan, China and infection spread rapidly around the world. To limit the rapid spread locally and nationwide, the Chinese government locked down Wuhan city on January 23 and began implementing nationwide intensive community screening on February 16.</p>
+ </sec>
+ <sec id="sec002">
+  <title>Method</title>
+  <p>To assess the effectiveness of city lockdown and intensive community screening, we built a modified SIR model by introducing an α value into the classic SIR model. The α value represents the proportion of infected individuals who are not effectively isolated from susceptible individuals at a given time point.</p>
+ </sec>
+ <sec id="sec003">
+  <title>Results</title>
+  <p>The accuracy of the modified SIR model was validated using data from Guangdong and Zhejiang provinces. The lockdown of Wuhan city substantially reduced the α value for the rest of China excluding Hubei province, while only slightly reducing the α value for the city itself. Intensive community screening rapidly reduced the α value for Wuhan.</p>
+ </sec>
+ <sec id="sec004">
+  <title>Conclusion</title>
+  <p>City lockdown was efficient in controlling the spread of the epidemic from Wuhan to the rest of the country. Nationwide intensive community screening was extremely effective in suppressing the spread locally within Wuhan city. These experiences should urgently be shared with other countries to help halt the progressing worldwide pandemic.</p>
+ </sec>
+</abstract>

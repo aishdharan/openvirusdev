@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Vally</surname>
+   <given-names>Faheema</given-names>
+  </name>
+  <degrees>MBcHb</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Selvaraj</surname>
+   <given-names>Wencilaus Margret Pious</given-names>
+  </name>
+  <degrees>MD</degrees>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0648-4128</contrib-id>
+  <name>
+   <surname>Ngalamika</surname>
+   <given-names>Owen</given-names>
+  </name>
+  <degrees>MMed</degrees>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+</contrib-group>

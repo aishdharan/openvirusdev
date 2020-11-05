@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref51">
+ <label>51.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Goyal</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Goyal</surname>
+    <given-names>GK</given-names>
+   </name>
+  </person-group>
+  <article-title>Cascade and feed-forward backpropagation artificial neural network models for prediction of sensory quality of instant coffee flavoured sterilized drink</article-title>. 
+  <source>Can J Artif Intell Mach Learn Pattern Recogn</source>
+  <year>2011</year>;
+  <volume>2</volume>(
+  <issue>6</issue>):
+  <fpage>78</fpage>–
+  <lpage>82</lpage>.
+ </mixed-citation>
+</ref>

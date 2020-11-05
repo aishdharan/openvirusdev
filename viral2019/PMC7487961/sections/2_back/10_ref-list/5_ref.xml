@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boucher</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Bobkova</surname>
+    <given-names>MR</given-names>
+   </name>
+   <name>
+    <surname>Hung</surname>
+    <given-names>C-C</given-names>
+   </name>
+   <name>
+    <surname>Kaiser</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Marcelin</surname>
+    <given-names>A-G</given-names>
+   </name>
+   <name>
+    <surname>Streinu-Cercel</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>State of the art in HIV drug resistance: surveillance and regional gaps</article-title>
+  <source>AIDS Rev</source>
+  <year>2018</year>
+  <volume>20</volume>
+  <issue>1</issue>
+  <fpage>43</fpage>
+  <lpage>57</lpage>
+  <?supplied-pmid 29628514?>
+  <pub-id pub-id-type="pmid">29628514</pub-id>
+ </element-citation>
+</ref>

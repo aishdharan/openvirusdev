@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref11">
+ <label>11</label>
+ <element-citation publication-type="webpage">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ma</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Coronavirus: China’s first confirmed Covid-19 case traced back to November 17</article-title>
+  <source>South China Morning Post</source>
+  <year>2020</year>
+  <month>3</month>
+  <day>13</day>
+  <date-in-citation>2020-03-15</date-in-citation>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://www.scmp.com/news/china/society/article/3074991/coronavirus-chinas-first-confirmed-covid-19-case-traced-back" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.scmp.com/news/china/society/article/3074991/coronavirus-chinas-first-confirmed-covid-19-case-traced-back</ext-link>
+  </comment>
+ </element-citation>
+</ref>

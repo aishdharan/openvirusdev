@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zignego</surname>
+    <given-names>AL</given-names>
+   </name>
+   <name>
+    <surname>Ferri</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Pileri</surname>
+    <given-names>SA</given-names>
+   </name>
+  </person-group>
+  <article-title>Italian Association of the Study of Liver Commission on Extrahepatic Manifestations of HCV infection. Extrahepatic manifestations of hepatitis C virus infection: a general overview and guidelines for a clinical approach</article-title>
+  <source>Dig Liver Dis</source>
+  <year>2007</year>
+  <volume>39</volume>
+  <fpage>2</fpage>
+  <lpage>17</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.dld.2006.06.008</pub-id>
+  <?supplied-pmid 16884964?>
+  <pub-id pub-id-type="pmid">16884964</pub-id>
+ </element-citation>
+</ref>

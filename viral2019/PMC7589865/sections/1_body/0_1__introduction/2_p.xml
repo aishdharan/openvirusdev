@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Compared the state-of-the-art studies on PM
+ <sub>2.5</sub> exposure and health risks, most studies used census-based population data, which ignores the spatial heterogeneity of population, and indirectly leads to lower accuracy. With the rise of the IoT, more and more portable mobile devices are adding LBS, a service that records real-time data about people’s activities in space and time. Compared to traditional demographics-based or global positioning system (GPS)-based location recording data, integrated LBS and PM
+ <sub>2.5</sub> data can improve the assessment of the population exposure and health risks because it can be modeled with high precision by establishing a relationship between PM
+ <sub>2.5</sub> concentrations and population density. The spatial and temporal distributions of PM
+ <sub>2.5</sub> have been extensively studied using geostatistical methods [
+ <xref rid="B10-ijerph-17-07664" ref-type="bibr">10</xref>,
+ <xref rid="B11-ijerph-17-07664" ref-type="bibr">11</xref>], as well as the pattern of spatial distribution of PM
+ <sub>2.5</sub> was analyzed. For China, most studies focused on the Jing-Jin-Ji urban agglomeration [
+ <xref rid="B12-ijerph-17-07664" ref-type="bibr">12</xref>,
+ <xref rid="B13-ijerph-17-07664" ref-type="bibr">13</xref>], the Yangtze River economic zones [
+ <xref rid="B14-ijerph-17-07664" ref-type="bibr">14</xref>,
+ <xref rid="B15-ijerph-17-07664" ref-type="bibr">15</xref>,
+ <xref rid="B16-ijerph-17-07664" ref-type="bibr">16</xref>], and the Pearl River Delta region [
+ <xref rid="B17-ijerph-17-07664" ref-type="bibr">17</xref>], Cheng-Yu urban agglomeration [
+ <xref rid="B18-ijerph-17-07664" ref-type="bibr">18</xref>]. Studies at the national scale are also increasingly being undertaken. Li et al. [
+ <xref rid="B19-ijerph-17-07664" ref-type="bibr">19</xref>] used statistical methods and geographic information system (GIS) technology to systematically analyze the PM
+ <sub>2.5</sub> concentration to discover the spatial and temporal distribution patterns of air pollution in the 161 cities of mainland China in 2014. In addition, Zhang et al. [
+ <xref rid="B20-ijerph-17-07664" ref-type="bibr">20</xref>] found that PM
+ <sub>2.5</sub> is associated with an increase in disease morbidity and mortality by examining indicators of the biological effects of PM
+ <sub>2.5</sub>. Fu et al. [
+ <xref rid="B21-ijerph-17-07664" ref-type="bibr">21</xref>] established an empirical model of human health risk factors caused by excessive PM
+ <sub>2.5</sub> concentration, and studied the impact of the combination of population spatial distribution and PM
+ <sub>2.5</sub> spatial distribution on population health. Song et al. [
+ <xref rid="B22-ijerph-17-07664" ref-type="bibr">22</xref>] used spatiotemporal big data (micro-blog location data) to study the Jing-Jin-Ji urban agglomeration of PM
+ <sub>2.5</sub> for dynamic exposure and health risk assessment. However, current studies rarely consider the mobility of the population when assessing the PM
+ <sub>2.5</sub> exposure and health risk, especially in the COVID-19 epidemic.
+</p>

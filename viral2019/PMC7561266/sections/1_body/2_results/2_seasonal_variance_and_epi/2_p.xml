@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the second set of temperature regimes (future; 
+ <italic>T</italic>
+ <sub>
+  <italic>mean</italic>
+ </sub> varied from 15.0°C to 30.0°C and 
+ <italic>T</italic>
+ <sub>
+  <italic>range</italic>
+ </sub> varied from 0.0°C to 15.0°C, both in increments of 0.2°C), epidemic peak time and size show similar inverse variation as a function of starting temperature, although the overall behavior is different. Epidemic peak size had a unimodal distribution with its peak at ~28 °C and steadily declines afterward. Conversely the time to peak starts to increase at ~17 °C to ~19 °C, then steadily decreases until ~28 °C. At this peak of ~28 °C, the epidemic peak size was at 19% of the susceptible population infected, within a short peak time of 73 days. On the other hand, the final epidemic size steeply increases as a function of starting temperature, and plateaus at ~21 °C to ~30 °C (with 100% of the population infected), before steeply declining (
+ <xref ref-type="fig" rid="pntd.0008679.g004">Fig 4B</xref>). Extending the temperature regimes demonstrates the nonlinear influence of the interaction between mean temperature and seasonal variance on the epidemic dynamics.
+</p>

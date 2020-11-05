@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e679">The focus of this work is the comparison of a diverse set of methods to forecast the spread of COVID-19, ranging from fitting closed-form epidemic curves and comprehensive machine-learning algorithms to network-based approaches. We focus on the spread of COVID-19, but we emphasise that all methods can be applied to general epidemic outbreaks. We show that pure machine-learning and network-agnostic algorithms or epidemiological models are inferior to algorithms which combine multiple approaches that rely on the underlying network topology. In particular, the Network Inference-based Prediction Algorithm (NIPA) is superior to any other algorithm that we have evaluated. In Section 
+ <xref rid="sec2" ref-type="sec">2</xref> we explain eight forecast algorithms to predict the future number of COVID-19 cases. Thereafter, we show their accuracy in two selected regions: Hubei (China) and the Netherlands in Section 
+ <xref rid="sec3" ref-type="sec">3</xref> and discuss the strengths and weaknesses of each algorithm. Finally, we conclude in Section 
+ <xref rid="sec4" ref-type="sec">4</xref>.
+</p>

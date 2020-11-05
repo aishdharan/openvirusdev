@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R90">
+ <label>90</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Verity</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Okell</surname>
+    <given-names>LC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Dorigatti</surname>
+    <given-names>I</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Estimates of the severity of coronavirus disease 2019: a model-based analysis</article-title>. 
+  <source>Lancet Infect Dis</source>
+  <year>2020</year>;
+  <volume>20</volume>:
+  <fpage>669</fpage>–
+  <lpage>77</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30243-7</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32240634?>
+  <pub-id pub-id-type="pmid">32240634</pub-id>
+ </mixed-citation>
+</ref>

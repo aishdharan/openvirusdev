@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" fig-type="figure" orientation="portrait" position="float">
+ <?Figure Large?>
+ <label>Fig. 1</label>
+ <caption>
+  <title>Results of the Susceptible-Exposed-Infected-Recovered-Dead model for mass infection. (
+   <bold>A</bold>) λ
+   <sub>I</sub> = −6.3 days for Daegu was obtained by the difference between the actual epidemic peak 
+   <italic>d</italic>
+   <sub>I.a</sub> = 25 days and the modeled epidemic peak 
+   <italic>d</italic>
+   <sub>I.m</sub> = 31.3 days. (
+   <bold>B</bold>) λ
+   <sub>I</sub> = −5.3 days for Gyeongbuk was obtained by the difference between the actual epidemic peak 
+   <italic>d</italic>
+   <sub>I.a</sub> = 24 and the modeled epidemic peak 
+   <italic>d</italic>
+   <sub>I.m</sub> = 29.3 days.
+  </title>
+ </caption>
+ <graphic xlink:href="jkms-35-e317-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

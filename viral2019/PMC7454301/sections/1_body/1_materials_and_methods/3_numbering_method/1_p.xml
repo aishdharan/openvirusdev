@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>There are various mapping methods used for converting the nucleotide bases from strings A, T, C and G to numbers, so the GSP techniques can be applied to them. The electron–ion interaction pseudopotential (EIIP) representation is one of these mapping methods [
+ <xref rid="ref32" ref-type="bibr">32–35</xref>]. The EIIP values symbolize the free electrons’ energy distribution along the nucleotide sequence [
+ <xref rid="ref36" ref-type="bibr">36</xref>]. These values are 0.1260, 0.1335, 0.1340 and 0.0806 for A, T, C and G, respectively.
+</p>

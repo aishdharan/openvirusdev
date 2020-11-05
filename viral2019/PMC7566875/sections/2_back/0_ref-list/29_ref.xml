@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b29">
+ <label>29</label>
+ <element-citation publication-type="journal" id="sb29">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baud</surname>
+    <given-names>David</given-names>
+   </name>
+   <name>
+    <surname>Qi</surname>
+    <given-names>Xiaolong</given-names>
+   </name>
+   <name>
+    <surname>Nielsen-Saines</surname>
+    <given-names>Karin</given-names>
+   </name>
+   <name>
+    <surname>Musso</surname>
+    <given-names>Didier</given-names>
+   </name>
+   <name>
+    <surname>Pomar</surname>
+    <given-names>Léo</given-names>
+   </name>
+   <name>
+    <surname>Favre</surname>
+    <given-names>Guillaume</given-names>
+   </name>
+  </person-group>
+  <article-title>Real estimates of mortality following COVID-19 infection</article-title>
+  <source>Lancet Inf. Dis.</source>
+  <volume>20</volume>
+  <year>2020</year>
+ </element-citation>
+</ref>

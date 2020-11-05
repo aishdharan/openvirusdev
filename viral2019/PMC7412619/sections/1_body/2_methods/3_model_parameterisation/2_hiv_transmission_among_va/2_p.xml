@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The transition probabilities for the six states are presented in 
+ <xref ref-type="supplementary-material" rid="SP1">online supplementary table 3</xref>. In short, these probabilities were derived from multiple nationwide surveys and longitudinal studies conducted in Rwanda. In addition, general and Rwanda-specific estimates of likelihood of adherence to ART is incorporated. The model was programmed in R V.3.4.2,
+ <xref rid="R14" ref-type="bibr">14</xref> and figures were produced using the 
+ <italic>ggplot2</italic> package.
+ <xref rid="R15" ref-type="bibr">15</xref>
+</p>

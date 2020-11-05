@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R37">
+ <label>37</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Altmann</surname>
+    <given-names>DM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Douek</surname>
+    <given-names>DC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Boyton</surname>
+    <given-names>RJ</given-names>
+   </name>
+  </person-group>
+  <article-title>What policy makers need to know about COVID-19 protective immunity</article-title>. 
+  <source>Lancet</source>
+  <year>2020</year>;
+  <volume>395</volume>:
+  <fpage>1527</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30985-5</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32353328?>
+  <pub-id pub-id-type="pmid">32353328</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,305 @@
+{
+  "id": [
+    "33075364"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33075364"
+  ],
+  "pmcid": [
+    "PMC7566875"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7566875"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.mbs.2020.108496"
+  ],
+  "title": [
+    "Piecewise-constant optimal control strategies for controlling the outbreak of COVID-19 in the Irish population."
+  ],
+  "authorString": [
+    "Náraigh LÓ, Byrne Á."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Náraigh LÓ"
+          ],
+          "firstName": [
+            "Lennon Ó"
+          ],
+          "lastName": [
+            "Náraigh"
+          ],
+          "initials": [
+            "LÓ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Mathematics and Statistics, University College Dublin, Belfield, Dublin 4, Ireland. Electronic address: onaraigh@maths.ucd.ie."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Byrne Á"
+          ],
+          "firstName": [
+            "Áine"
+          ],
+          "lastName": [
+            "Byrne"
+          ],
+          "initials": [
+            "Á"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Mathematics and Statistics, University College Dublin, Belfield, Dublin 4, Ireland."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "330"
+      ],
+      "journalIssueId": [
+        "3032812"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Mathematical biosciences"
+          ],
+          "ISOAbbreviation": [
+            "Math Biosci"
+          ],
+          "medlineAbbreviation": [
+            "Math Biosci"
+          ],
+          "NLMid": [
+            "0103146"
+          ],
+          "ISSN": [
+            "0025-5564"
+          ],
+          "ESSN": [
+            "1879-3134"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "108496"
+  ],
+  "abstractText": [
+    "We introduce a deterministic SEIR model and fit it to epidemiological data for the COVID-19 outbreak in Ireland. We couple the model to economic considerations - we formulate an optimal control problem in which the cost to the economy of the various non-pharmaceutical interventions is minimized, subject to hospital admissions never exceeding a threshold value corresponding to health-service capacity. Within the framework of the model, the optimal strategy of disease control is revealed to be one of disease suppression, rather than disease mitigation."
+  ],
+  "affiliation": [
+    "School of Mathematics and Statistics, University College Dublin, Belfield, Dublin 4, Ireland. Electronic address: onaraigh@maths.ucd.ie."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Simulated annealing",
+        "Optimal control",
+        "Seir Model"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.mbs.2020.108496"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7566875"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7566875?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-19"
+  ],
+  "firstIndexDate": [
+    "2020-10-20"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-21"
+  ],
+  "dateOfRevision": [
+    "2020-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-16"
+  ],
+  "firstPublicationDate": [
+    "2020-10-16"
+  ]
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Uhteg</surname>
+   <given-names>Katharine</given-names>
+  </name>
+  <degrees>MS</degrees>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Carroll</surname>
+   <given-names>Karen C.</given-names>
+  </name>
+  <degrees>MD</degrees>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Mostafa</surname>
+   <given-names>Heba H.</given-names>
+  </name>
+  <degrees>MD, PhD, D(ABMM)</degrees>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <aff id="aff1">Division of Medical Microbiology, Department of Pathology, Johns Hopkins University School of Medicine, Meyer B-121F, 600 North Wolfe Street, Baltimore, MD 21287-7093, USA</aff>
+</contrib-group>

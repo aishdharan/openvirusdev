@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e8311">The main purpose of this section is to characterize the solution of Eq. 
+ <xref rid="fd16" ref-type="disp-formula">(16)</xref> as a function of 
+ <inline-formula>
+  <math id="d1e8319" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, where 
+ <disp-formula id="fd19">
+  <label>(19)</label>
+  <math id="d1e8339" display="block" altimg="si228.svg">
+   <mrow>
+    <mn>0</mn>
+    <mo linebreak="goodbreak">≤</mo>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">≤</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">≤</mo>
+    <mn>1</mn>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>That is, we look at the structure of the solution of the problem 
+ <xref rid="fd16" ref-type="disp-formula">(16)</xref> for various values of 
+ <inline-formula>
+  <math id="d1e8395" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. We deliberately restrict ourselves to 
+ <inline-formula>
+  <math id="d1e8409" display="inline" altimg="si230.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≤</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+   </mrow>
+  </math>
+ </inline-formula>. When the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> was fitted to the data for Ireland, 
+ <inline-formula>
+  <math id="d1e8437" display="inline" altimg="si231.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+   </mrow>
+  </math>
+ </inline-formula> was the maximum reduction in 
+ <inline-formula>
+  <math id="d1e8460" display="inline" altimg="si50.svg">
+   <mi>β</mi>
+  </math>
+ </inline-formula> achieved, under a severe set of interventions designed to curb the spread of COVID-19 (all non-essential services and industries closed down, travel restricted to within 
+ <inline-formula>
+  <math id="d1e8465" display="inline" altimg="si80.svg">
+   <mrow>
+    <mn>2</mn>
+    <mspace width="0.16667em"/>
+    <mi mathvariant="normal">km</mi>
+   </mrow>
+  </math>
+ </inline-formula> of a person’s house, with certain exceptions).
+</p>

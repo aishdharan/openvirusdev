@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Daily data of COVID-19 infections, recovery, and death toll in 5 cities in Hubei province and 5 metropolis in China from December 8, 2019, to February 13, 2020. 
+   <bold>a</bold> Cumulative number of infections of 5 cities in Hubei; 
+   <bold>b</bold> cumulative number of recovery of 5 cities in Hubei; 
+   <bold>c</bold> cumulative number of death toll of 5 cities in Hubei; 
+   <bold>d</bold> cumulative number of infections of 5 metropolis; 
+   <bold>e</bold> cumulative number of recovery of 5 metropolis; 
+   <bold>f</bold> cumulative number of death toll of metropolis (color online)
+  </p>
+ </caption>
+ <graphic xlink:href="521_2020_5285_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

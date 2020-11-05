@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0125">Another advantage to using Nanopore sequencing methods is the feasibility of direct RNA sequencing. This approach was used to obtain the whole genome of HCoV-229E and was very successful in identifying not only an accurately built scaffold for the genome but also the several subgenomic-length RNAs.
+ <xref rid="bib48" ref-type="bibr">
+  <sup>48</sup>
+ </xref> Like other RNA viruses, coronaviruses are characterized by high rates of recombination
+ <xref rid="bib49" ref-type="bibr">
+  <sup>49</sup>
+ </xref> in addition to the unique replication cycle that results in nested messenger RNAs, largely identical to the original sequence. With the existence of this complex population of variants, long reads sequencing becomes the method of choice. Future research using NGS approaches might give further insight into the biology of replication and polymorphisms of coronaviruses. This method still faces the challenges of high error rate, approaches for maintaining the integrity of RNA samples, and the requirement for high-input RNA.
+</p>

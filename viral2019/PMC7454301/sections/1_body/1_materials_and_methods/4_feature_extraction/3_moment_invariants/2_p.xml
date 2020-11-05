@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For a function of intensity 
+ <italic>α</italic>(
+ <italic>x</italic>
+ <sub>1</sub>, … ., 
+ <italic>x
+  <sub>n</sub>
+ </italic>) = 
+ <italic>α</italic>(
+ <italic>y</italic>), the 
+ <italic>n</italic>-dimensional moments of order 
+ <italic>r</italic> are calculated in terms of Riemann integral [
+ <xref rid="ref46" ref-type="bibr">46</xref>] as follows:
+ <disp-formula id="deqn04">
+  <label>(4)</label>
+  <tex-math id="M4">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {v}_{r1\dots rn}=\int \dots \int{x}_1^{r1}\dots \dots{x}_n^{rn}\ \alpha (x)\ d{x}_1\dots .d{x}_n \end{equation*}\end{document}</tex-math>
+ </disp-formula> where 
+ <italic>ri +</italic> … 
+ <italic>rn = r,</italic> 0 
+ <italic>&lt; r &lt; ∞.</italic> Then, the central moment will be:
+ <disp-formula id="deqn05">
+  <label>(5)</label>
+  <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {\mu}_{r1\dots . rn}=\underset{-\infty }{\overset{\infty }{\int }}\dots \underset{-\infty }{\overset{\infty }{\int }}\dots \dots \Big({x}_n-{\overline{x}}_n\alpha (x)\ d{x}_1\dots d{x}_n \end{equation*}\end{document}</tex-math>
+ </disp-formula> where
+ <disp-formula id="deqn06">
+  <label>(6)</label>
+  <tex-math id="M6">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} \overline{x}=\frac{v_{1\dots 0}}{v_{0\dots 0}},\dots \dots, {\overline{x}}_n=\frac{v_{0\dots 1}}{v_{0\dots 0}} \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

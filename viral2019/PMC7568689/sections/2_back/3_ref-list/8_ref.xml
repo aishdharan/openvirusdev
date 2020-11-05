@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fedeli</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Grande</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Grippo</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Frova</surname>
+    <given-names>L</given-names>
+   </name>
+  </person-group>
+  <article-title>Mortality associated with hepatitis C and hepatitis B virus infection: a nationwide study on multiple causes of death data</article-title>
+  <source>World J Gastroenterol</source>
+  <year>2017</year>
+  <volume>23</volume>
+  <fpage>1866</fpage>
+  <lpage>1871</lpage>
+  <pub-id pub-id-type="doi">10.3748/wjg.v23.i10.1866</pub-id>
+  <?supplied-pmid 28348493?>
+  <pub-id pub-id-type="pmid">28348493</pub-id>
+ </element-citation>
+</ref>

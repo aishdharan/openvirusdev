@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Estimation of evolutionary rate and the time of the most recent common ancestor (tMRCA) for CRF85_BC were performed by BEAST v1.8 [
+ <xref ref-type="bibr" rid="CR28">28</xref>]. A Bayesian skygrid model with Markov chain Monte Carlo (MCMC) inference under the relaxed lognormal molecular clock was selected as a reliable mode for this analysis. The MCMC chains were run 200 million times with 20,000 generations logged in, and the first 10% generations were discarded as burn-in. Bayesian MCMC output was analyzed using TRACER v1.5 [
+ <xref ref-type="bibr" rid="CR29">29</xref>], and all parameters were estimated from an ESS &gt; 200. The trees were summarized in a target tree using the Tree Annotator program and scanned using the Fig. Tree 1.4.3.
+</p>

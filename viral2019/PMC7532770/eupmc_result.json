@@ -1,0 +1,382 @@
+{
+  "id": [
+    "PMC7532770"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7532770"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7532770"
+      ]
+    }
+  ],
+  "title": [
+    "Burn Unit admission and management protocol during COVID-19 pandemic"
+  ],
+  "authorString": [
+    "Azzena B, Perozzo F, De Lazzari A, Valotto G, Pontini A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Azzena B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Azzena"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, Padua, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Perozzo F"
+          ],
+          "firstName": [
+            "Filippo Andrea Giovanni"
+          ],
+          "lastName": [
+            "Perozzo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, Padua, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "De Lazzari A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "De Lazzari"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, Padua, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Valotto G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Valotto"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b 1st Surgical Ward, Padua University Hospital, Via Giustiniani 2, Padua, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pontini A"
+          ],
+          "firstName": [
+            "Alex"
+          ],
+          "lastName": [
+            "Pontini"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Burn Unit, Plastic Surgery, Padua University Hospital, Via Giustiniani 2, Padua, Italy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3029745"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Burns : journal of the International Society for Burn Injuries"
+          ],
+          "ISOAbbreviation": [
+            "Burns"
+          ],
+          "medlineAbbreviation": [
+            "Burns"
+          ],
+          "NLMid": [
+            "8913178"
+          ],
+          "ISSN": [
+            "0305-4179"
+          ],
+          "ESSN": [
+            "1879-1409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Highlights • COVID-19 is an adjunctive risk factor for burn injured patients.• Isolation of suspected cases and development of management procedures are essential preventive measures to reduce viral spread.• We developed an admission protocol to our Burn Unit which proved itself effective in minimizing the contagion between patients and healthcare workers. Background The actual pandemic outbreak is the third time in the last two decades in which a coronavirus results in a major global spread with serious consequences in terms of vastity of affected patients, life losses, health system organization efforts and socio-economic implications. Lacking effective therapies and vaccinations, during viral outbreak the major and most incisive mean for viral spread control is spread prevention, especially for the fragile burn-injured patients we are called to care for in Burn Units. Methods We developed an admission and inpatient management protocol to preserve burn patients from SARS-CoV-2 contagion, in order to avoid additional morbidity and mortality in patients with already compromised health conditions. Data from burn-injured patients admitted to our Unit following this new protocol were retrospectively analyzed in order to verify its effectiveness in prevention of viral spread. Results From the 8th of March to the 8th of June, we admitted 18 patients in the Burn Unit ICU and semi-ICU and 17 patients in the Burn Ward. Two of them resulted positive to COVID-19 nasopharyngeal swab and bronchoalveolar lavage collected immediately on admission, for both the extension of burns and their general clinical conditions implied ICU admission. Moreover, a caregiver of an admitted child resulted positive to the nasopharyngeal swab. No other cases of SARS-CoV-2 positivity have been reported neither between hospitalized patients nor between healthcare workers. Conclusion The evidence of high ICU admission rate and high mortality in patients affected by SARS-CoV-2 combined with the fragile clinical conditions of burn patients required the development of an admission and hospitalization management protocol which proved itself effective in minimizing viral spread among patients and healthcare workers."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Burns",
+        "Management strategies",
+        "Viral Infections",
+        "experience",
+        "Epidemic Control",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7532770/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7532770/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7532770"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7532770?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-08"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-08"
+  ],
+  "dateOfRevision": [
+    "2020-10-12"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-03"
+  ],
+  "firstPublicationDate": [
+    "2020-10-03"
+  ]
+}

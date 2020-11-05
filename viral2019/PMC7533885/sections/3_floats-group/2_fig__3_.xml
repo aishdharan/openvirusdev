@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="figure" id="fig03" orientation="portrait" position="float">
+ <label>Fig. 3.</label>
+ <caption>
+  <p>(
+   <italic>A</italic> and 
+   <italic>C</italic>) Model predictions over two rainy seasons (2018–2019 and 2019–2020). (
+   <italic>A</italic>) Predicted (reported and unreported) number of infectious livestock (blue) and humans by direct contact (red), and vector-mediated route (green). (
+   <italic>B</italic>) Predicted median (solid lines) and 95% CrI envelopes of the predicted proportion of susceptible (green) and immune (black) livestock over the course of the epidemic. (
+   <italic>C</italic>) Values of 
+   <italic>R</italic>
+   <sub>
+    <italic>e,t</italic>
+   </sub>
+   <italic>= R</italic>
+   <sub>
+    <italic>s,t</italic>
+   </sub>
+   <italic>*S</italic>
+   <sub>
+    <italic>t</italic>
+   </sub> over the course of the epidemic. In all panels, the vertical blue line corresponds to the predicted epidemic peak in livestock (1,186 infections) and nonfarmers (240 infections) (February 11–17). The highest incidence in the farming group is estimated to be February 11–17 and February 18–24 (354 and 353 infections, respectively); the second of these weeks is represented with the red line. The vertical black line corresponds to the end of the fitting period (August 2019).
+  </p>
+ </caption>
+ <graphic id="gra3" xlink:href="pnas.2004468117fig03" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

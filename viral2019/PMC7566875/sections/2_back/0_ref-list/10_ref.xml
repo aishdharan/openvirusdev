@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b10">
+ <label>10</label>
+ <element-citation publication-type="journal" id="sb10">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ishaku</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Gazali</surname>
+    <given-names>A.M.</given-names>
+   </name>
+   <name>
+    <surname>Abdullahi</surname>
+    <given-names>S.A.</given-names>
+   </name>
+   <name>
+    <surname>Hussaini</surname>
+    <given-names>N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Analysis and optimal control of an HIV model based on CD4 count</article-title>
+  <source>J. Math. Biol.</source>
+  <year>2020</year>
+  <fpage>1</fpage>
+  <lpage>33</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hasan</surname>
+    <given-names>SS</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Sapparapu</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Fernandez</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Klose</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Long</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Fokine</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Porta</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Diamond</surname>
+    <given-names>MS</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A human antibody against Zika virus crosslinks the E protein to prevent infection</article-title>
+  <source>Nat Commun</source>
+  <year>2017</year>
+  <volume>8</volume>
+  <fpage>14722</fpage>
+  <pub-id pub-id-type="doi">10.1038/ncomms14722</pub-id>
+  <?supplied-pmid 28300075?>
+  <pub-id pub-id-type="pmid">28300075</pub-id>
+ </element-citation>
+</ref>

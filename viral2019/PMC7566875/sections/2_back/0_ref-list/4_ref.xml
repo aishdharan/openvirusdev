@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b4">
+ <label>4</label>
+ <element-citation publication-type="journal" id="sb4">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Eubank</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Eckstrand</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Lewis</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Venkatramanan</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Marathe</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Barrett</surname>
+    <given-names>C.L.</given-names>
+   </name>
+  </person-group>
+  <article-title>Commentary on Ferguson, et al.,“Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand”</article-title>
+  <source>Bull. Math. Biol.</source>
+  <volume>82</volume>
+  <year>2020</year>
+  <fpage>1</fpage>
+  <lpage>7</lpage>
+ </element-citation>
+</ref>

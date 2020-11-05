@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Input parameters were those related to the natural history of infection and demographics in both livestock and human populations (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Table S2
+ </ext-link>). In the “base case,” we assumed that the proportion of farmers (
+ <italic>P</italic>
+ <sub>
+  <italic>HF</italic>
+ </sub>) was 30%, and 70% were nonfarmers (
+ <xref rid="r13" ref-type="bibr">13</xref>), and the rainfall lag was 14 d (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Table S3
+ </ext-link>). The proportion of immune animals at 
+ <italic>t</italic>
+ <sub>0</sub> was informed from the aggregated July to September 2018 IgG livestock seroprevalence campaign (
+ <xref ref-type="fig" rid="fig01">Fig. 1
+  <italic>D</italic>
+ </xref>). The reporting fraction of human cases was set to 
+ <italic>ρ</italic> = 1.9%, as a postepidemic serological study in humans, conducted in 2011 in Mayotte, estimated that 3.5% (95% CI [2.6–4.8]) of the human population was RVF IgG-positive (
+ <xref rid="r37" ref-type="bibr">37</xref>). Assuming a population size of 212,645 inhabitants in 2012 (
+ <xref rid="r52" ref-type="bibr">52</xref>), this corresponded to an average of 7,442 persons being seropositive. Assuming that the sizes of the 2007–2008 and 2018–2019 epidemics were similar (as seroprevalence data from livestock suggest), then 143 cases in the 2018–2019 epidemics would be correspond to a reporting fraction of 1.9% (95% CI [1.4–2.6]). Finally, input rainfall data were downloaded from the Meteofrance website, as cumulated rainfall over 10-d periods (
+ <xref rid="r51" ref-type="bibr">51</xref>). Daily rainfall was calculated by dividing these values by 10 over each 10-d period.
+</p>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0011">For the remainder of this work, we will investigate the dynamics of a human population which is divided into various non-overlapping subpopulations. The population will be represented by 
+ <inline-formula>
+  <math id="M1" altimg="si8.svg">
+   <mrow>
+    <mi>P</mi>
+    <mo>:</mo>
+    <mo>[</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mi>∞</mi>
+    <mo>)</mo>
+    <mo>→</mo>
+    <mi mathvariant="double-struck">R</mi>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> and it will be a function of the time 
+ <italic>t</italic> ≥ 0. In turn, each of the five subpopulations will be denoted by the nonnegative differentiable functions 
+ <inline-formula>
+  <math id="M2" altimg="si9.svg">
+   <mrow>
+    <mi>S</mi>
+    <mo>,</mo>
+    <mi>E</mi>
+    <mo>,</mo>
+    <mi>I</mi>
+    <mo>,</mo>
+    <mi>Q</mi>
+    <mo>,</mo>
+    <mi>R</mi>
+    <mo>:</mo>
+    <mo>[</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mi>∞</mi>
+    <mo>)</mo>
+    <mo>→</mo>
+    <mi mathvariant="double-struck">R</mi>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> which will represent, respectively, the total number of individuals who are susceptible to be infected by COVID-19, the number of individuals who have been exposed to this disease, the number of individuals who are infected, the number of persons who are in quarantine and the number of recovered individuals.
+</p>

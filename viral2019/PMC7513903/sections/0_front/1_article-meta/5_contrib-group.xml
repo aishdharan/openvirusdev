@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Platto</surname>
+   <given-names>Sara</given-names>
+  </name>
+  <address>
+   <email>saraplatto@cbcgdf.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xue</surname>
+   <given-names>Tongtong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carafoli</surname>
+   <given-names>Ernesto</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>China Biodiversity Conservation and Green Development Foundation, Beijing, China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.411854.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0709 0000</institution-id>
+   <institution>Department of Biotechnology, College of Life Sciences, </institution>
+   <institution>Jianghan University, </institution>
+  </institution-wrap>Wuhan, China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5608.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1757 3470</institution-id>
+   <institution>Venetian Institute of molecular Medicine, </institution>
+   <institution>University of Padova, </institution>
+  </institution-wrap>Padova, Italy 
+ </aff>
+</contrib-group>

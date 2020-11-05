@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0020">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="ulist0010">
+   <list-item id="u0010">
+    <label>•</label>
+    <p id="p0010">There is a statistically significant association between ambient air pollution and the spread of COVID-19.</p>
+   </list-item>
+   <list-item id="u0015">
+    <label>•</label>
+    <p id="p0015">The lag days from onset date to report date of COVID-19 were taken into account.</p>
+   </list-item>
+   <list-item id="u0020">
+    <label>•</label>
+    <p id="p0020">Quarantine measures can not only cut off the transmission of virus, but also retard the spread by improving air quality.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

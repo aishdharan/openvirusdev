@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par26">Note that the cumulative number of infections varies widely by cities. For example, Wuhan, the city with the largest number of infected people in China, is infected by more than 50,000 people. However, in some small cities, only a dozen people are infected, or even no one has been infected yet. Therefore, the weighted coefficient of the objective function 
+ <xref rid="Equ11" ref-type="">11</xref> should be carefully adopted. In this work, 
+ <inline-formula id="IEq60">
+  <alternatives>
+   <tex-math id="M141">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$w_{ij}$$\end{document}</tex-math>
+   <math id="M142">
+    <msub>
+     <mi>w</mi>
+     <mrow>
+      <mi mathvariant="italic">ij</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq60.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is defined as follows:
+ <disp-formula id="Equ12">
+  <label>12</label>
+  <alternatives>
+   <tex-math id="M143">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} w_{ij}=\frac{a}{\sum _i^N(I_j(t_i))}. \end{aligned}$$\end{document}</tex-math>
+   <math id="M144" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <msub>
+          <mi>w</mi>
+          <mrow>
+           <mi mathvariant="italic">ij</mi>
+          </mrow>
+         </msub>
+         <mo>=</mo>
+         <mfrac>
+          <mi>a</mi>
+          <mrow>
+           <msubsup>
+            <mo>∑</mo>
+            <mi>i</mi>
+            <mi>N</mi>
+           </msubsup>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <msub>
+             <mi>I</mi>
+             <mi>j</mi>
+            </msub>
+            <mrow>
+             <mo stretchy="false">(</mo>
+             <msub>
+              <mi>t</mi>
+              <mi>i</mi>
+             </msub>
+             <mo stretchy="false">)</mo>
+            </mrow>
+            <mo stretchy="false">)</mo>
+           </mrow>
+          </mrow>
+         </mfrac>
+         <mo>.</mo>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ12.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>If the city is Wuhan, we have 
+ <inline-formula id="IEq61">
+  <alternatives>
+   <tex-math id="M145">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$a=5000$$\end{document}</tex-math>
+   <math id="M146">
+    <mrow>
+     <mi>a</mi>
+     <mo>=</mo>
+     <mn>5000</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq61.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>; otherwise, 
+ <inline-formula id="IEq62">
+  <alternatives>
+   <tex-math id="M147">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$a=1$$\end{document}</tex-math>
+   <math id="M148">
+    <mrow>
+     <mi>a</mi>
+     <mo>=</mo>
+     <mn>1</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq62.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. In our model, each city has a set of unknown variables 
+ <inline-formula id="IEq63">
+  <alternatives>
+   <tex-math id="M149">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\theta _j = \{\alpha _j,\beta _j,\gamma _j,\kappa _j,\delta _j \}$$\end{document}</tex-math>
+   <math id="M150">
+    <mrow>
+     <msub>
+      <mi>θ</mi>
+      <mi>j</mi>
+     </msub>
+     <mo>=</mo>
+     <mrow>
+      <mo stretchy="false">{</mo>
+      <msub>
+       <mi>α</mi>
+       <mi>j</mi>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mi>β</mi>
+       <mi>j</mi>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mi>γ</mi>
+       <mi>j</mi>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mi>κ</mi>
+       <mi>j</mi>
+      </msub>
+      <mo>,</mo>
+      <msub>
+       <mi>δ</mi>
+       <mi>j</mi>
+      </msub>
+      <mo stretchy="false">}</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq63.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, which controls the size of infected population, spreading rate, and the death rate.
+</p>

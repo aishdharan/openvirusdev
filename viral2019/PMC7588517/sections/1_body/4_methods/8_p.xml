@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We computed the median time and interquartile range (IQR) for the time to reach each of the milestones for all the outbreaks included in the study, then stratified results by year of outbreak start, WHO Africa subregion (Central, West, Eastern, or Southern), and disease category (food/waterborne, vaccine-preventable, vectorborne, viral hemorrhagic fever, or others). We used the World Bank’s classification of countries’ economies (
+ <xref rid="R16" ref-type="bibr">
+  <italic>16</italic>
+ </xref>) to stratify results by income level (low vs. middle and high). We used median values (i.e., in-country value for each variable compared with median value for that variable for all African Region countries) to stratify results by number of refugees (low or high), percentage of internally displaced population (low or high), current health expenditure as percentage of gross domestic product (low or high), and population density (low or high). The results are indicated as hazard ratios (HR) with 95% CIs. An HR &gt;1 indicates improvement in the time to each of the milestones, whereas an HR &lt;1 signals a regression in the time to each milestone. R version 3.5.2 (
+ <ext-link ext-link-type="uri" xlink:href="https://www.r-project.org" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.r-project.org</ext-link>) was used for statistical analysis and ESRI ArcGIS Desktop 10.6.1 (
+ <ext-link ext-link-type="uri" xlink:href="https://desktop.arcgis.com" xmlns:xlink="http://www.w3.org/1999/xlink">https://desktop.arcgis.com</ext-link>) for mapping of outbreaks included in our study.
+</p>

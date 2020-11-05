@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BX1" position="float" orientation="portrait">
+ <caption>
+  <title>Learning points</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>A VP shunt may predispose individuals to prolonged viral shedding of the novel coronavirus.</p>
+  </list-item>
+  <list-item>
+   <p>Further insight into prolonged viral shedding is warranted to know whether this shedding leads to infectivity.</p>
+  </list-item>
+  <list-item>
+   <p>For persistently positive patients, consider all risk factors for prolonged infectivity.</p>
+  </list-item>
+ </list>
+</boxed-text>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0238411.g003" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0238411.g003</object-id>
+ <label>Fig 3</label>
+ <caption>
+  <title>Impact of city lockdown on Wuhan city and China excluding Hubei province.</title>
+  <p>(A) The 
+   <italic>φ</italic> values for Wuhan city at January 22 (before city lockdown) were used to predict the 
+   <italic>φ</italic> values from January 23 to February 15 without city lockdown. (B) The 
+   <italic>α</italic> values for Wuhan city at January 22 (before city lockdown) were used to predict the 
+   <italic>α</italic> values from January 23 to February 14 without city lockdown. (C) Predicted 
+   <italic>α</italic> values and 
+   <italic>φ</italic> values were used to calculate the number of infections in Wuhan city from January 24 to February 15. (D) The 
+   <italic>φ</italic> values for China excluding Hubei province on January 22 were used to predict the 
+   <italic>φ</italic> values from January 23 to February 15 without city lockdown. (E) The 
+   <italic>α</italic> values for China excluding Hubei province on January 22 were used to predict the 
+   <italic>α</italic> values from January 23 to February 14 without city lockdown. (F) Predicted 
+   <italic>α</italic> values and 
+   <italic>φ</italic> values were used to calculate the numbers of infections in China excluding Hubei province from January 24 to February 15.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0238411.g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

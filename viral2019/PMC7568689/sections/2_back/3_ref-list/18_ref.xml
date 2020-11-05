@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dolan</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Wirtz</surname>
+    <given-names>AL</given-names>
+   </name>
+   <name>
+    <surname>Moazen</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Ndeffo-Mbah</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Galvani</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kinner</surname>
+    <given-names>SA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Global burden of HIV, viral hepatitis, and tuberculosis in prisoners and detainees</article-title>
+  <source>Lancet</source>
+  <year>2016</year>
+  <volume>388</volume>
+  <fpage>1089</fpage>
+  <lpage>1102</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0140-6736(16)30466-4</pub-id>
+  <?supplied-pmid 27427453?>
+  <pub-id pub-id-type="pmid">27427453</pub-id>
+ </element-citation>
+</ref>

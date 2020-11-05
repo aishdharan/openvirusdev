@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0210">
+ <label>42</label>
+ <element-citation publication-type="journal" id="h0210">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Kou</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Ding</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Ni</surname>
+    <given-names>W.</given-names>
+   </name>
+  </person-group>
+  <article-title>Evaluation of nucleocapsid and spike protein-based enzyme-linked immunosorbent assays for detecting antibodies against SARS-CoV-2</article-title>
+  <source>J Clin Microbiol</source>
+  <volume>58</volume>
+  <issue>6</issue>
+  <year>2020</year>
+  <comment>e00461–20</comment>
+ </element-citation>
+</ref>

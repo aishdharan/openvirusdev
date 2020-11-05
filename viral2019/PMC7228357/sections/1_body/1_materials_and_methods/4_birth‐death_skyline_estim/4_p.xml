@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the birth‐death analysis, one and two intervals and a lognormal prior to 
+ <italic>R</italic>
+ <sub>e</sub>, with a mean (
+ <italic>M</italic>) of 0.0 and a variance (
+ <italic>S</italic>) of 1.0 were chosen, which allows the 
+ <italic>R</italic>
+ <sub>e</sub> values to change between less than 1 (0.193) and more than 5. A normal prior with 
+ <italic>M</italic> = 48.7 and 
+ <italic>S</italic> = 15 (corresponding to a 95% interval from 24.0 to 73.4) was used for the rate of becoming uninfectious. These values are expressed as units per year and reflect the inverse of the time of infectiousness (5.3‐19 days; mean, 7.5) according to the serial interval estimated by Li et al.
+ <xref rid="jmv25723-bib-0010" ref-type="ref">
+  <sup>10</sup>
+ </xref> Sampling probability (
+ <italic>ρ</italic>) was estimated assuming a prior β (α = 1.0 and β = 999), corresponding to a minority of the sampled cases (between 10
+ <sup>−5</sup> and 10
+ <sup>−3</sup>). The origin of the epidemic was estimated using a normal prior with 
+ <italic>M</italic> = 0.1 and 
+ <italic>S</italic> = 0.05 in units per year.
+</p>

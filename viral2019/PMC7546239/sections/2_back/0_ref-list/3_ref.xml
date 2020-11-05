@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b3">
+ <element-citation publication-type="book" id="sb3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boyd</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Vandenberghe</surname>
+    <given-names>L.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Convex optimization</chapter-title>
+  <year>2004</year>
+  <publisher-name>Cambridge University Press</publisher-name>
+  <pub-id pub-id-type="doi">10.1017/CBO9780511804441</pub-id>
+ </element-citation>
+</ref>

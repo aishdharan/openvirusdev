@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0241269.g003" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0241269.g003</object-id>
+ <label>Fig 3</label>
+ <caption>
+  <title>The migration patterns of the HIV-1 CRF03_AB recombinant in the former Soviet Union.</title>
+  <p>The geographic locations are colored according the HIV-1 prevalence data [
+   <xref rid="pone.0241269.ref008" ref-type="bibr">8</xref>]. Lines between the locations indicate the migration routes between the CRF03_AB sub-populations and correspond to the location state transitions along the branches of the Bayesian MCC tree. Line colors reflect the Bayes Factor test support for epidemiological linkage between locations. Location abbreviations are presented in 
+   <xref rid="pone.0241269.t001" ref-type="table">Table 1</xref> or 
+   <xref ref-type="fig" rid="pone.0241269.g002">Fig 2</xref>. Republished from [
+   <xref rid="pone.0241269.ref052" ref-type="bibr">52</xref>] under a CC BY license, with permission from Hellerick, original copyright 2014.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0241269.g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

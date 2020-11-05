@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0053">
+ <element-citation publication-type="journal" id="sbref0053">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moher</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Liberati</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Tetzlaff</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Altman</surname>
+    <given-names>D.G.</given-names>
+   </name>
+   <collab>The, P. G.</collab>
+  </person-group>
+  <article-title>Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement</article-title>
+  <source>PLOS Med.</source>
+  <volume>6</volume>
+  <issue>7</issue>
+  <year>2009</year>
+  <object-id pub-id-type="publisher-id">e1000097</object-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR52">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Link</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Chung</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Jolly</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Withers</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Tepe</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Arenkiel</surname>
+    <given-names>BR</given-names>
+   </name>
+   <name>
+    <surname>Shah</surname>
+    <given-names>PS</given-names>
+   </name>
+   <name>
+    <surname>Krogan</surname>
+    <given-names>NJ</given-names>
+   </name>
+   <name>
+    <surname>Aydin</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Geckinli</surname>
+    <given-names>BB</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mutations in ANKLE2, a ZIKA virus target, disrupt an asymmetric cell division pathway in 
+   <italic>Drosophila</italic> neuroblasts to cause microcephaly
+  </article-title>
+  <source>Dev Cell</source>
+  <year>2019</year>
+  <volume>51</volume>
+  <fpage>713</fpage>
+  <lpage>729</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.devcel.2019.10.009</pub-id>
+  <?supplied-pmid 31735666?>
+  <pub-id pub-id-type="pmid">31735666</pub-id>
+ </element-citation>
+</ref>

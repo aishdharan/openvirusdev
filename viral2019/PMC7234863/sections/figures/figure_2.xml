@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" fig-type="figure" orientation="portrait" position="float">
+ <?Figure Large?>
+ <label>Fig. 2</label>
+ <caption>
+  <title>Detection rate of influenza viruses by KINRESS during 2016-2020 season as of 18 Apr 2020.
+   <xref rid="B16" ref-type="bibr">16</xref> Data of the week 53, 2016 (46.8%) was not shown in the figure.
+  </title>
+  <p>KINRESS = Korea Influenza and Respiratory Viruses Surveillance System.</p>
+ </caption>
+ <graphic xlink:href="jkms-35-e182-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

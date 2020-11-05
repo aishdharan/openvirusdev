@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pntd.0008679.ref056">
+ <label>56</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Calcagno</surname>
+   <given-names>V</given-names>
+  </name>, 
+  <name>
+   <surname>de Mazancourt</surname>
+   <given-names>C</given-names>
+  </name>. 
+  <article-title>Glmulti: an R package for easy automated model selection with (generalized) linear models</article-title>. 
+  <year>2010</year> 2010;
+  <volume>34</volume>(
+  <issue>12</issue>): 
+  <source>J Stat Softw</source>. 
+  <pub-id pub-id-type="doi">10.18637/jss.v034.i12</pub-id>.
+ </mixed-citation>
+</ref>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl2">
+ <label>Table 2</label>
+ <caption>
+  <p>RRs and 95% CIs of daily COVID-19 confirmed cases associated with per IQR increase in pollutant concentration (AQI, NO
+   <sub>2</sub>, PM
+   <sub>2.5</sub>, PM
+   <sub>10</sub>, CO, SO
+   <sub>2</sub>, O
+   <sub>3</sub>) in single-lag models.
+  </p>
+ </caption>
+ <alt-text id="alttext0045">Table 2</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Air Pollutants</th>
+    <th>Lag Days</th>
+    <th>RR</th>
+    <th>95% CI</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">AQI</td>
+    <td align="left">LAG 0-15</td>
+    <td align="left">1.09</td>
+    <td align="left">1.06–1.12</td>
+   </tr>
+   <tr>
+    <td align="left">CO</td>
+    <td align="left">LAG 0-25</td>
+    <td align="left">0.81</td>
+    <td align="left">0.78–0.83</td>
+   </tr>
+   <tr>
+    <td align="left">NO
+     <sub>2</sub>
+    </td>
+    <td align="left">LAG 0-20</td>
+    <td align="left">1.19</td>
+    <td align="left">1.14–1.24</td>
+   </tr>
+   <tr>
+    <td align="left">O
+     <sub>3</sub>
+    </td>
+    <td align="left">LAG 0-10</td>
+    <td align="left">0.96</td>
+    <td align="left">0.93–1.00</td>
+   </tr>
+   <tr>
+    <td align="left">PM
+     <sub>2.5</sub>
+    </td>
+    <td align="left">LAG 0-15</td>
+    <td align="left">1.06</td>
+    <td align="left">1.03–1.08</td>
+   </tr>
+   <tr>
+    <td align="left">PM
+     <sub>10</sub>
+    </td>
+    <td align="left">LAG 0-15</td>
+    <td align="left">1.07</td>
+    <td align="left">1.04–1.09</td>
+   </tr>
+   <tr>
+    <td align="left">SO
+     <sub>2</sub>
+    </td>
+    <td align="left">LAG 0-25</td>
+    <td align="left">0.82</td>
+    <td align="left">0.78–0.85</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

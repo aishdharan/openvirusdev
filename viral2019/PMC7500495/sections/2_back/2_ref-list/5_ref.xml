@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR5">
+ <label>5.</label>
+ <element-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Maguire</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>van Seventer</surname>
+    <given-names>NS</given-names>
+   </name>
+   <name>
+    <surname>Hochberg, </surname>
+   </name>
+  </person-group>
+  <article-title>Principles of infectious diseases: transmission, diagnosis, prevention, and control</article-title>
+  <source>International encyclopedia of public health</source>
+  <year>2017</year>
+  <edition>2</edition>
+  <publisher-loc>Boston</publisher-loc>
+  <publisher-name>Elsevier</publisher-name>
+  <fpage>22</fpage>
+  <lpage>39</lpage>
+ </element-citation>
+</ref>

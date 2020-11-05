@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR2">
+ <label>2.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hemelaar</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Global and regional molecular epidemiology of HIV-1, 1990–2015: A systematic review, global survey, and trend analysis</article-title>
+  <source>Lancet Infect. Dis.</source>
+  <year>2019</year>
+  <volume>19</volume>
+  <fpage>143</fpage>
+  <lpage>155</lpage>
+  <pub-id pub-id-type="doi">10.1016/s1473-3099(18)30647-9</pub-id>
+  <?supplied-pmid 30509777?>
+  <pub-id pub-id-type="pmid">30509777</pub-id>
+ </element-citation>
+</ref>

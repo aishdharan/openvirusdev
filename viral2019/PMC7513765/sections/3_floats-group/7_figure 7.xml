@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig7">
+ <label>Figure 7</label>
+ <caption>
+  <p>Secondary Wave of No-LOI SARS-CoV-2</p>
+  <p>Same as 
+   <xref rid="fig6" ref-type="fig">Figure 6</xref>, but for a zero LOI rate (γ
+   <sub>in</sub> = 0). With these parameters, the model is not able to adequately match the Italian data of the outbreak (black points in [A and C]), even when the solar pump is active (ε = 1; [A]). However, only when UV photons are considered (panel [A]), can the model reproduce the observed differences in geographical spread of the pandemics. Should recovered people preserve their immunity against COVID-19, UV photons from the Sun may still be able to amplify contagions during autumns/winters and produce one additional wave of the SARS-CoV-2 epidemics at all latitudes. With this set of parameters, this cannot happen in the absence of UV photons (ε = 0; [C]), even after lockdown measures are loosened. S–I phase diagrams of panels (B and D) are shown for the entire duration of the simulation (100 years). When UV photons are considered (B), the epidemics last longer (a total of two cycles at all latitudes). With epidemics starting during northern hemisphere winters (as in our models), and in the absence of additional lockdown measures, two cycles develop +40° and at the equator, while a single, longer, and asymmetric cycle runs through the end of 2021 in the South hemisphere. The final fractions of susceptible population are 12%, 20%, and 35% at +40, 0, and −40°, respectively, and maximum 30% instant fractions of infected over susceptible population are recorded in the northern hemisphere and at the equator, toward the end of 2020, while this fraction stays lower (&lt;11%) at all time during the epidemics in the southern hemisphere.
+  </p>
+ </caption>
+ <graphic xlink:href="gr7_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

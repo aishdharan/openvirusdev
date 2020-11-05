@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" fig-type="figure" orientation="portrait" position="float">
+ <?Figure Large?>
+ <label>Fig. 3</label>
+ <caption>
+  <title>Trend of daily (infections and deaths) and cumulative (total infections and total recovered) coronavirus disease 2019 confirmed patients. (
+   <bold>A</bold>) The cumulative confirmed cases in Daegu rapidly exceeded 6,000 through mass infection by the religious groups within a month. (
+   <bold>B</bold>) The cumulative number of confirmed cases in Gyeongbuk has steeply exceeded 1,100 through mass infection at nursing hospitals within a month. (
+   <bold>C</bold>) The number of confirmed cases in Seoul gradually reached 250 due to general infection within a month. (
+   <bold>D</bold>) The number of confirmed patients in the game gradually reached 230 due to general infection within a month.
+  </title>
+ </caption>
+ <graphic xlink:href="jkms-35-e317-g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

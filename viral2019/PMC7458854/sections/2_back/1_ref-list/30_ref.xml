@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B31">
+ <label>31</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Iwata</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Miyakoshi</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>A simulation on potential secondary spread of novel coronavirus in an exported country using a stochastic epidemic SEIR model</article-title>
+  <source>J Clin Med</source>
+  <year>2020</year>
+  <volume>9</volume>
+  <issue>4</issue>
+  <fpage>1</fpage>
+  <lpage>7</lpage>
+ </element-citation>
+</ref>

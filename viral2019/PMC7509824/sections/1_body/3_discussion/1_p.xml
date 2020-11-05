@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par45">Viral mutation rates/nucleotide substitutions/cell infection ranges for RNA viruses approximately between 10
+ <sup>−6</sup> and 10
+ <sup>−4</sup> [
+ <xref ref-type="bibr" rid="CR26">26</xref>]. The exception to this rule is provided by coronaviruses, encoding a complex RNA-dependent RNA polymerase that has a 3′ exonuclease domain [
+ <xref ref-type="bibr" rid="CR26">26</xref>]. Thousands of SARS-CoV-2 whole genomes have been sequenced up to date proving crucial for tracing viral origin and evolution. Surprisingly, the SARS-CoV-2 global population seems to have accumulated only moderate genetic diversity at this stage of the COVID-19 pandemic, possibly reflecting a relative recent common ancestor [
+ <xref ref-type="bibr" rid="CR27">27</xref>]. An estimated mutation rate underlying the global diversity of SARS-CoV-2 of approximately 6 x 10
+ <sup>−4</sup> nucleotides/genome/year has been recently calculated [
+ <xref ref-type="bibr" rid="CR27">27</xref>]. This is largely unremarkable for an RNA virus [
+ <xref ref-type="bibr" rid="CR26">26</xref>, 
+ <xref ref-type="bibr" rid="CR28">28</xref>], even if we consider that SARS-CoV-2 has the capability of proofreading the errors of RNA polymerase by the activity of the multidomain non-structural protein (nsp)14 [
+ <xref ref-type="bibr" rid="CR29">29</xref>, 
+ <xref ref-type="bibr" rid="CR30">30</xref>]. Nevertheless, the examination of a dataset of 7,666 public genome assemblies identified regions of accumulating diversity, with 198 recurrent mutations emerged independently, worldwide, multiple times (homoplasies). Of these, nearly 80% of the recurrent mutations produced non-synonymous changes at the protein level, suggesting possible ongoing adaptation of SARS-CoV-2 to the human host [
+ <xref ref-type="bibr" rid="CR27">27</xref>]. In a recent study, metatranscriptome sequencing on bronchoalveolar lavage fluid samples of 8 patients showed that the number of intra-host variants ranged from 0 to 51, with a median of 4, suggesting a high evolution rate of the virus [
+ <xref ref-type="bibr" rid="CR31">31</xref>]. This is not surprising as when the level of infection of a population becomes significant, some individuals become multiply infected with different variants of the virus [
+ <xref ref-type="bibr" rid="CR32">32</xref>]. Moreover, analysis of viral isolates highlighted the presence of quasispecies showing novel genetic mutations despite the relatively early sampling dates [
+ <xref ref-type="bibr" rid="CR11">11</xref>, 
+ <xref ref-type="bibr" rid="CR12">12</xref>] thus indicating that the true diversity of the viral strains is largely underappreciated [
+ <xref ref-type="bibr" rid="CR11">11</xref>].
+</p>

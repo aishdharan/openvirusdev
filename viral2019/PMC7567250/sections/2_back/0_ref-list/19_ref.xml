@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref20">
+ <label>20</label>
+ <element-citation publication-type="book">
+  <source>WHO R&amp;D blueprint: Informal consultation on prioritization of candidate therapeutic agents for use in novel coronavirus 2019 infection</source>
+  <year>2020</year>
+  <month>1</month>
+  <day>24</day>
+  <publisher-loc>Geneva</publisher-loc>
+  <publisher-name>World Health Organization</publisher-name>
+  <comment>Available from: 
+   <uri xlink:type="simple" xlink:href="https://apps.who.int/iris/bitstream/handle/10665/330680/WHO-HEO-RDBlueprint%28nCoV%29-2020.1-eng.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">https://apps.who.int/iris/bitstream/handle/10665/330680/WHO-HEO-RDBlueprint%28nCoV%29-2020.1-eng.pdf</uri>
+  </comment>
+ </element-citation>
+</ref>

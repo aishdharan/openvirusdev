@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="d1e2260">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="d1e2266">
+   <list-item id="d1e2267">
+    <label>•</label>
+    <p id="d1e2270">Presentation of SEIR-type model for COVID-19, model fitted to data for Ireland.</p>
+   </list-item>
+   <list-item id="d1e2272">
+    <label>•</label>
+    <p id="d1e2275">Aim is to find best strategy for non-pharmaceutical interventions (NPIs).</p>
+   </list-item>
+   <list-item id="d1e2277">
+    <label>•</label>
+    <p id="d1e2280">Optimal-control theory is performed on the model; cost function: cost of the NPIs.</p>
+   </list-item>
+   <list-item id="d1e2282">
+    <label>•</label>
+    <p id="d1e2285">State constraint: Hospital admissions remain below a threshold.</p>
+   </list-item>
+   <list-item id="d1e2287">
+    <label>•</label>
+    <p id="d1e2290">Suppression is cheaper than mitigation, over a 1-year time horizon.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

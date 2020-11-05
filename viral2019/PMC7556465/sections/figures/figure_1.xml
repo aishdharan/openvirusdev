@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0240013.g001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0240013.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <title>Epidemic curve of confirmed COVID-19 cases from March 15 –May 15.</title>
+  <p>Epidemic curve of cases with log-linear regression line and 95% CI estimated before and after peak of 85 cases on March 30.</p>
+ </caption>
+ <graphic xlink:href="pone.0240013.g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

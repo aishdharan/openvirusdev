@@ -1,0 +1,440 @@
+{
+  "id": [
+    "32949869"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32949869"
+  ],
+  "pmcid": [
+    "PMC7444461"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7444461"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.jad.2020.08.040"
+  ],
+  "title": [
+    "Qualitative study of the psychological experience of COVID-19 patients during hospitalization."
+  ],
+  "authorString": [
+    "Sun N, Wei L, Wang H, Wang X, Gao M, Hu X, Shi S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sun N"
+          ],
+          "firstName": [
+            "Niuniu"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Humanities Teaching and Research Office, School of Nursing, Henan University of Science and Technology, The First Affiliated Hospital of Henan University of Science and Technology, Luoyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei L"
+          ],
+          "firstName": [
+            "Luoqun"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infection, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hongyun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infection, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, China. Electronic address: lcyxy@haust.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xianru"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infection, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gao M"
+          ],
+          "firstName": [
+            "Mingxia"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infection, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu X"
+          ],
+          "firstName": [
+            "Xinjun"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infection, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi S"
+          ],
+          "firstName": [
+            "Suling"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infection, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, China. Electronic address: ly13939914314@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "278"
+      ],
+      "journalIssueId": [
+        "3013509"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of affective disorders"
+          ],
+          "ISOAbbreviation": [
+            "J Affect Disord"
+          ],
+          "medlineAbbreviation": [
+            "J Affect Disord"
+          ],
+          "NLMid": [
+            "7906073"
+          ],
+          "ISSN": [
+            "0165-0327"
+          ],
+          "ESSN": [
+            "1573-2517"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "15-22"
+  ],
+  "abstractText": [
+    "BACKGROUND:Coronavirus disease 2019 (COVID-19) continues to spread across the globe, but patient experiences are rarely documented. OBJECTIVE:To explore the psychology of COVID-19 patients during hospitalization. METHODS:A phenomenological and robust sampling approach was employed. Sixteen patients admitted to the First Affiliated Hospital of Henan University of Science and Technology with COVID-19 from 20th January to 1st March 2020 were selected. Data were collected through semi-structured interviews, phone calls, or face-to-face interviews using quarantine measures. Data were analyzed using the Colaizzi method. RESULTS:The psychological experience of COVID-19 patients during hospitalization could be summarized into five themes. Firstly, attitudes toward the disease included fear, denial, and stigma during the early stages, which gradually developed into acceptance in the later stages. Secondly, the major source of stress included the viral nature of the disease, quarantine measures, and concerns regarding the health of family members. Thirdly, reactions of body and mind included disease stage-dependent emotional responses, excessive attention to symptoms, rumination, and changes in diet, sleep, and behavior. Fourthly, supportive factors included psychological adjustments, medical care, and family and social support. Finally, the disease resulted in psychological growth and patients viewed problems with gratitude through the cherishing of life, family, bravery, and tenacity. CONCLUSION:COVID-19 patients gradually changed their attitude toward the disease and displayed emotional responses dependent on the stage of the disease. Negative emotions dominated during the early stages but gradually gave way to mixed positive and negative emotions. Active guidance of psychological growth may therefore promote physical and mental recovery in COVID-19 patients."
+  ],
+  "affiliation": [
+    "Humanities Teaching and Research Office, School of Nursing, Henan University of Science and Technology, The First Affiliated Hospital of Henan University of Science and Technology, Luoyang, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pandemic",
+        "Patients",
+        "Emergencies",
+        "Qualitative Study",
+        "Psychological Experience",
+        "Coronavirus Disease 2019"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jad.2020.08.040"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7444461"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7444461?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-19"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-28"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-24"
+  ],
+  "firstPublicationDate": [
+    "2020-08-24"
+  ]
+}

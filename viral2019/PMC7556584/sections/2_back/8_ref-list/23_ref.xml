@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Dijkman</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Jebbink</surname>
+    <given-names>MF</given-names>
+   </name>
+   <name>
+    <surname>El Idrissi</surname>
+    <given-names>NB</given-names>
+   </name>
+   <name>
+    <surname>Pyrc</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Müller</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Kuijpers</surname>
+    <given-names>TW</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Human coronavirus NL63 and 229E seroconversion in children</article-title>
+  <source>J Clin Microbiol</source>
+  <year>2008</year>
+  <volume>46</volume>
+  <issue>7</issue>
+  <fpage>2368</fpage>
+  <lpage>2373</lpage>
+  <pub-id pub-id-type="doi">10.1128/JCM.00533-08</pub-id>
+  <?supplied-pmid 18495857?>
+  <pub-id pub-id-type="pmid">18495857</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,343 @@
+{
+  "id": [
+    "32905055"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32905055"
+  ],
+  "pmcid": [
+    "PMC7462755"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7462755"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.bsheal.2020.08.005"
+  ],
+  "title": [
+    "Influenza activity during the outbreak of coronavirus disease 2019 in mainland China."
+  ],
+  "authorString": [
+    "Liu M, Deng L, Wang D, Jiang T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Jiangsu Institute of Clinical Immunology & Jiangsu Key Laboratory of Clinical Immunology, First Affiliated Hospital of Soochow University, Suzhou 215006, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deng L"
+          ],
+          "firstName": [
+            "Lizong"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100005; Suzhou Institute of Systems Medicine, Suzhou 215123, Jiangsu, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dayan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, China CDC, Beijing102206, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang T"
+          ],
+          "firstName": [
+            "Taijiao"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100005; Suzhou Institute of Systems Medicine, Suzhou 215123, Jiangsu, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3006268"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biosafety and health"
+          ],
+          "ISOAbbreviation": [
+            "Biosaf Health"
+          ],
+          "medlineAbbreviation": [
+            "Biosaf Health"
+          ],
+          "NLMid": [
+            "101768009"
+          ],
+          "ISSN": [
+            "2590-0536"
+          ],
+          "ESSN": [
+            "2590-0536"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Since coronavirus disease 2019 (COVID-19) might circulate in the following seasons, it is essential to understand how COVID-19 influences other respiratory diseases, especially influenza. In this study, we analyzed the influenza activity from mid-November 2019 to March 2020 in mainland China and found that the influenza season ended much earlier than previous seasons for all subtypes and lineages, which may have resulted from the circulation of COVID-19 and measures such as travel control and personal protection. These findings provide rudimentary knowledge of the co-circulation patterns of the two types of viruses."
+  ],
+  "affiliation": [
+    "Jiangsu Institute of Clinical Immunology & Jiangsu Key Laboratory of Clinical Immunology, First Affiliated Hospital of Soochow University, Suzhou 215006, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Influenza",
+        "Mainland China",
+        "Covid-19",
+        "Biosafety Measures"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.bsheal.2020.08.005"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7462755"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7462755?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-09"
+  ],
+  "firstIndexDate": [
+    "2020-09-10"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-04"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-02"
+  ],
+  "firstPublicationDate": [
+    "2020-09-02"
+  ]
+}

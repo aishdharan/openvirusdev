@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR48">
+ <label>48.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lai</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Bergna</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Caucci</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Clementi</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Vicenti</surname>
+    <given-names>I</given-names>
+   </name>
+   <name>
+    <surname>Dragoni</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Molecular tracing of SARS-CoV-2 in Italy in the first three months of the epidemic</article-title>
+  <source>Viruses.</source>
+  <year>2020</year>
+  <volume>12</volume>
+  <issue>8</issue>
+  <fpage>E798</fpage>
+  <pub-id pub-id-type="doi">10.3390/v12080798</pub-id>
+  <?supplied-pmid 32722343?>
+  <pub-id pub-id-type="pmid">32722343</pub-id>
+ </element-citation>
+</ref>

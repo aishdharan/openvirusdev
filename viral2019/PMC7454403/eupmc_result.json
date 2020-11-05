@@ -1,0 +1,558 @@
+{
+  "id": [
+    "32803216"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32803216"
+  ],
+  "pmcid": [
+    "PMC7454403"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7454403"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1093/cid/ciaa1186"
+  ],
+  "title": [
+    "Epidemiological, virological and serological features of COVID-19 cases in people living with HIV in Wuhan City: A population-based cohort study."
+  ],
+  "authorString": [
+    "Huang J, Xie N, Hu X, Yan H, Ding J, Liu P, Ma H, Ruan L, Li G, He N, Wei S, Wang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huang J"
+          ],
+          "firstName": [
+            "Jiao"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, State Key Laboratory of Environmental Health (Incubating), School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xie N"
+          ],
+          "firstName": [
+            "Nianhua"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department for HIV/AIDS Prevention and Control, Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu X"
+          ],
+          "firstName": [
+            "Xuejiao"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department for HIV/AIDS Prevention and Control, Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yan H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department for HIV/AIDS Prevention and Control, Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ding J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department for HIV/AIDS Prevention and Control, Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu P"
+          ],
+          "firstName": [
+            "Pulin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department for HIV/AIDS Prevention and Control, Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma H"
+          ],
+          "firstName": [
+            "Hongfei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department for HIV/AIDS Prevention and Control, Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ruan L"
+          ],
+          "firstName": [
+            "Lianguo"
+          ],
+          "lastName": [
+            "Ruan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Jin Yin-tan Hospital, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li G"
+          ],
+          "firstName": [
+            "Gang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He N"
+          ],
+          "firstName": [
+            "Na"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology, School of Public Health, and The Key Laboratory of Public Health Safety of Ministry of Education, Fudan University, Shanghai, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Epidemiology and Biostatistics, State Key Laboratory of Environmental Health (Incubating), School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xia"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department for HIV/AIDS Prevention and Control, Wuhan Center for Disease Prevention and Control, Wuhan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2989241"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America"
+          ],
+          "ISOAbbreviation": [
+            "Clin Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Clin Infect Dis"
+          ],
+          "NLMid": [
+            "9203213"
+          ],
+          "ISSN": [
+            "1537-6591"
+          ],
+          "ESSN": [
+            "1537-6591"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "BACKGROUND:We aimed to describe the epidemiological, virological and serological features of coronavirus disease 2019 (COVID-19) cases in people living with HIV (PLWH). METHODS:This population-based cohort study identified all COVID-19 cases among the whole PLWH in Wuhan city, China, by April 16, 2020. The epidemiological, virological and serological features were analyzed based on the demographic data, temporal profile of nucleic acid test for SARS-CoV-2 during the disease, and SARS-CoV-2-specific IgM and IgG after recovery. RESULTS:From January 1 to April 16, 2020, 35 of 6001 PLWH have experienced COVID-19, with the cumulative incidence of COVID-19 to be 0.58% (95%CI: 0.42%-0.81%). Among the COVID-19 cases, 15 (42.86%) had severe illness, with 2 deaths. The incidence, case-severity and case-fatality of COVID-19 in PLWH were comparable to that in the entire population in Wuhan. 197 persons had cART discontinuation, of whom 4 persons experienced COVID-19. Risk factors for COVID-19 were age ≥50 years old and cART discontinuation. The median duration of SARS-CoV-2 viral shedding among confirmed COVID-19 cases in PLWH was 30 (IQR: 20-46) days. Cases with high HIV viral load (≥20 copies/ml) had lower IgM and IgG levels than those with low HIV viral load (<20 copies/ml) (median S/CO for IgM, 0.03 vs. 0.11, P<0.001; median S/CO for IgG, 10.16 vs. 17.04, P=0.069). CONCLUSIONS:Efforts need to maintain the persistent supply of antiretroviral treatment to elderly PLWH aged 50 years or above during the COVID-19 epidemic. The coinfection of HIV and SARS-CoV-2 might change the progression and prognosis of COVID-19 patients in PLWH."
+  ],
+  "affiliation": [
+    "Department of Epidemiology and Biostatistics, State Key Laboratory of Environmental Health (Incubating), School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibody",
+        "HIV",
+        "epidemiology",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/cid/ciaa1186"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7454403"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7454403?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-18"
+  ],
+  "firstIndexDate": [
+    "2020-08-18"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-02"
+  ],
+  "dateOfRevision": [
+    "2020-09-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-17"
+  ],
+  "firstPublicationDate": [
+    "2020-08-17"
+  ]
+}

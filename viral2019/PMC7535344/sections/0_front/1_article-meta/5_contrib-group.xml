@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chowdhury</surname>
+   <given-names>Promit Barua</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="AFN1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hossain</surname>
+   <given-names>Sorif</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="AFN1">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Biswas</surname>
+   <given-names>Raaj Kishore</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="AFN1">
+   <sup>*</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <label>1</label>Institute of Statistical Research and Training, University of Dhaka, Bangladesh
+ </aff>
+ <aff id="aff2">
+  <label>2</label>Transport and Road Safety (TARS) Research Centre, School of Aviation, University of New South Wales, Australia
+ </aff>
+</contrib-group>

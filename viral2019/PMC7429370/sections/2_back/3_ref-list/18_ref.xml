@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Colizza</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Barrat</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Barthélemy</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Vespignani</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>The role of the airline transportation network in the prediction and predictability of global epidemics</article-title>
+  <source>Proc Natl Acad Sci USA</source>
+  <year>2006</year>
+  <volume>103</volume>
+  <issue>7</issue>
+  <fpage>2015</fpage>
+  <lpage>2020</lpage>
+  <pub-id pub-id-type="pmid">16461461</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,222 @@
+{
+  "id": [
+    "PPR221540"
+  ],
+  "source": [
+    "PPR"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PPR221540"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1101/2020.09.27.20202739"
+  ],
+  "title": [
+    "COVID-19 era, Preventive effect of no going out against co-infection of the seasonal influenza virus and SARS-CoV-2"
+  ],
+  "authorString": [
+    "Hayashi T, Yaegashi N, Konishi I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hayashi T"
+          ],
+          "firstName": [
+            "Takuma"
+          ],
+          "lastName": [
+            "Hayashi"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Yaegashi N"
+          ],
+          "firstName": [
+            "Nobuo"
+          ],
+          "lastName": [
+            "Yaegashi"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Konishi I"
+          ],
+          "firstName": [
+            "Ikuo"
+          ],
+          "lastName": [
+            "Konishi"
+          ],
+          "initials": [
+            "I"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Abstract In the situation where expansion of coronavirus infectious disease-2019 (COVID-19) does not stop, there is concern about co-infection of people with the seasonal influenza infections from late autumn to winter 2020. Therefore, the importance of supplying vaccines against the seasonal influenza has been pointed out all over the world. As an example in Japan, the number of people infected with the seasonal influenza, hand-foot-and-mouth disease (HFMD), epidemic keratoconjunctivitis, and pharyngoconjunctival fever (PCF), which are the seasonal infectious diseases in the 2020 season, has decreased remarkably compared to the number of people infected each year. It is believed that the significant reduction in the number of people infected with these seasonal infectious diseases is a result of the pervasive hand washing, wearing masks and maintaining social distance in COVID-19 rea. To examine the correlation between the three factors of the number of people with each seasonal infectious disease, the mask wearing rate, and the outing rate, we created a three-dimensional scatter plot based on these three factors using principal component analysis. Our research findings demonstrated preventive effect of no going out against co-infection with the seasonal influenza and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)."
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Preprint"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "medRxiv"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1101/2020.09.27.20202739"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/article/PPR/PPR221540"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/api/fulltextRepo?pprId=PPR221540&type=FILE&fileName=EMS97394-pdf.pdf&mimeType=application/pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-04"
+  ],
+  "firstIndexDate": [
+    "2020-10-10"
+  ],
+  "fullTextReceivedDate": [
+    "2020-11-02"
+  ],
+  "firstPublicationDate": [
+    "2020-10-02"
+  ]
+}

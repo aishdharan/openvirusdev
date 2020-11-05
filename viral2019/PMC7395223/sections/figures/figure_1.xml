@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Incidence of dengue in the State of Sao Paulo. 
+   <bold>(A)</bold> Incidence of dengue in the State of Sao Paulo, Brazil between 2015 and 2020 according to epidemiological week and year. After the 10th epidemiological week in March 2020, there was a sharp decrease in the number of dengue notifications, coinciding with the intensification of COVID-19 epidemic and, subsequently, the country's measures to control it. 
+   <bold>(B)</bold> Sao Paulo State highway network and dengue occurrence. In the 20 km buffer around the main highways dengue occurs throughout the year in 87 of the 109 municipalities (about 80%). It clusters of high incidence of dengue are located along large state highways, indicating that human mobility plays an important role in the spread of dengue within the State.
+  </p>
+ </caption>
+ <alt-text id="alttext0010">Fig. 1</alt-text>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

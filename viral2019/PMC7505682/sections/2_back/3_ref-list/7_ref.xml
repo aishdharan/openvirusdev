@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Biscayart</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Angeleri</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Lloveras</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Chaves</surname>
+    <given-names>TDSS</given-names>
+   </name>
+   <name>
+    <surname>Schlagenhauf</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Rodríguez-Morales</surname>
+    <given-names>AJ</given-names>
+   </name>
+  </person-group>
+  <article-title>The next big threat to global health? 2019 novel coronavirus (2019-nCoV): What advice can we give to travellers? - Interim recommendations January 2020, from the Latin-American society for Travel Medicine (SLAMVI)</article-title>
+  <source>Travel Med Infect Dis</source>
+  <year>2020</year>
+  <month>1</month>
+  <volume>33</volume>
+  <fpage>101567</fpage>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/32006657" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </comment>
+  <pub-id pub-id-type="doi">10.1016/j.tmaid.2020.101567</pub-id>
+  <pub-id pub-id-type="medline">32006657</pub-id>
+  <!--<pub-id pub-id-type="pii">S1477-8939(20)30017-X</pub-id>-->
+  <!--<pub-id pub-id-type="pmcid">PMC7128745</pub-id>-->
+  <pub-id pub-id-type="pmid">32006657</pub-id>
+ </element-citation>
+</ref>

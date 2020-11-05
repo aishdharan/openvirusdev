@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The biting rate (
+ <italic>a</italic>) of the adult female mosquitoes is modeled to be temperature dependent as previously estimated by [
+ <xref rid="pntd.0008679.ref015" ref-type="bibr">15</xref>] and [
+ <xref rid="pntd.0008679.ref036" ref-type="bibr">36</xref>]. The biting rate increases linearly with temperature as specified by a linear equation for an optimal temperature range of 21°
+ <italic>C</italic> &lt; 
+ <italic>T</italic> &gt; 32°
+ <italic>C</italic> and a defined temperature threshold (i.e. if 
+ <italic>T</italic> ≤ 12.4 
+ <italic>or T</italic> ≥ 37°
+ <italic>C</italic>, then 
+ <italic>a</italic> = 0). The extrinsic incubation period (
+ <italic>γ</italic>
+ <sub>
+  <italic>v</italic>
+ </sub>) is modeled to be temperature-dependent, modified from [
+ <xref rid="pntd.0008679.ref050" ref-type="bibr">50</xref>]. Using a linear temperature function, specified by a slope (
+ <italic>γ</italic>
+ <sub>
+  <italic>vs</italic>
+ </sub>), the rate near the midpoint of the plausible temperatures range for vectorial capacity (set at 22.5°C), and a defined lower temperature threshold (i.e. if 
+ <italic>T</italic> ≤ 10°
+ <italic>C</italic> then 
+ <italic>γ</italic>
+ <sub>
+  <italic>v</italic>
+ </sub> = 0). Mortality rate (
+ <italic>μ</italic>
+ <sub>
+  <italic>v</italic>
+ </sub>) for mosquitoes were modeled as a function of temperature using a mechanistic thermal response curve as described in [
+ <xref rid="pntd.0008679.ref013" ref-type="bibr">13</xref>]. They fitted their data as a complex polynomial resulting in a basin-shaped curve, with optimal temperature for mosquito’s survival set at a range of 15°
+ <italic>C</italic> &gt; 
+ <italic>T</italic> &lt; 30°
+ <italic>C</italic>. Based on preliminary exploration of changes to the mortality function, we modified the fitted polynomial to a piecewise linear curve with fixed, minimal mortality in the same temperature range. Mortality rate then increases quickly and linearly at temperatures outside this lower and upper bound, as specified by the function slope (
+ <italic>μ</italic>
+ <sub>
+  <italic>vs</italic>
+ </sub>).
+</p>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl1">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th/>
+    <th align="left">
+     <bold>Clinic group (n=446)</bold>
+    </th>
+    <th align="left">
+     <bold>Hybrid group (n=442)</bold>
+    </th>
+    <th align="left">
+     <bold>Community group (n=427)</bold>
+    </th>
+    <th align="left">
+     <bold>Total (N=1315)</bold>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="6" align="left">Gender</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Men</td>
+    <td align="left">230 (52%)</td>
+    <td align="left">217 (49%)</td>
+    <td align="left">219 (51%)</td>
+    <td align="left">666 (51%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Women</td>
+    <td align="left">216 (48%)</td>
+    <td align="left">225 (51%)</td>
+    <td align="left">208 (49%)</td>
+    <td align="left">649 (49%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">Age, years</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">18–29</td>
+    <td align="left">150 (34%)</td>
+    <td align="left">179 (40%)</td>
+    <td align="left">158 (37%)</td>
+    <td align="left">487 (37%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">30–49</td>
+    <td align="left">264 (59%)</td>
+    <td align="left">230 (52%)</td>
+    <td align="left">234 (55%)</td>
+    <td align="left">728 (55%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">≥50</td>
+    <td align="left">32 (7%)</td>
+    <td align="left">33 (7%)</td>
+    <td align="left">35 (8%)</td>
+    <td align="left">100 (8%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">Education</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Primary</td>
+    <td align="left">136/439 (31%)</td>
+    <td align="left">144/431 (33%)</td>
+    <td align="left">123/412 (30%)</td>
+    <td align="left">403/1282 (31%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Secondary</td>
+    <td align="left">289/439 (66%)</td>
+    <td align="left">275/431 (64%)</td>
+    <td align="left">272/412 (66%)</td>
+    <td align="left">836/1282 (65%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Tertiary</td>
+    <td align="left">14/439 (3%)</td>
+    <td align="left">12/431 (3%)</td>
+    <td align="left">17/412 (4%)</td>
+    <td align="left">43/1282 (3%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Employed</td>
+    <td align="left">177 (40%)</td>
+    <td align="left">190 (43%)</td>
+    <td align="left">176 (41%)</td>
+    <td align="left">543 (41%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">Study household size</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">1</td>
+    <td align="left">425 (95%)</td>
+    <td align="left">424 (96%)</td>
+    <td align="left">407 (95%)</td>
+    <td align="left">1256 (96%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">2</td>
+    <td align="left">21 (5%)</td>
+    <td align="left">18 (4%)</td>
+    <td align="left">20 (5%)</td>
+    <td align="left">59 (4%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">In relationship</td>
+    <td align="left">276 (62%)</td>
+    <td align="left">285 (64%)</td>
+    <td align="left">279 (65%)</td>
+    <td align="left">840 (64%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">Number of current sexual partners</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">0</td>
+    <td align="left">37/440 (8%)</td>
+    <td align="left">40/439 (9%)</td>
+    <td align="left">34/426 (8%)</td>
+    <td align="left">111/1305 (9%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">1</td>
+    <td align="left">331/440 (75%)</td>
+    <td align="left">332/439 (76%)</td>
+    <td align="left">326/426 (77%)</td>
+    <td align="left">989/1305 (76%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">≥2</td>
+    <td align="left">72/440 (16%)</td>
+    <td align="left">67/439 (15%)</td>
+    <td align="left">66/426 (15%)</td>
+    <td align="left">205/1305 (16%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Condom used at last sex</td>
+    <td align="left">108/439 (25%)</td>
+    <td align="left">94/435 (22%)</td>
+    <td align="left">93/422 (22%)</td>
+    <td align="left">295/1296 (23%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Circumcised if male</td>
+    <td align="left">54/230 (23%)</td>
+    <td align="left">43/217 (20%)</td>
+    <td align="left">47/219 (21%)</td>
+    <td align="left">144/666 (22%)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Patient aware of nearby HIV clinic</td>
+    <td align="left">436 (98%)</td>
+    <td align="left">436/441 (99%)</td>
+    <td align="left">415 (97%)</td>
+    <td align="left">1287/1314 (98%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">WHO stage</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Stage 1</td>
+    <td align="left">395 (89%)</td>
+    <td align="left">399 (90%)</td>
+    <td align="left">382 (89%)</td>
+    <td align="left">1176 (89%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Stage 2</td>
+    <td align="left">40 (9%)</td>
+    <td align="left">36 (8%)</td>
+    <td align="left">40 (9%)</td>
+    <td align="left">116 (9%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">Stage 3</td>
+    <td align="left">11 (2%)</td>
+    <td align="left">7 (2%)</td>
+    <td align="left">5 (1%)</td>
+    <td align="left">23 (2%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">CD4 cell count, cells per μL</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">100–349</td>
+    <td align="left">150 (34%)</td>
+    <td align="left">143 (32%)</td>
+    <td align="left">160 (37%)</td>
+    <td align="left">453 (34%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">350–499</td>
+    <td align="left">106 (24%)</td>
+    <td align="left">107 (24%)</td>
+    <td align="left">110 (26%)</td>
+    <td align="left">323 (25%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">≥500</td>
+    <td align="left">190 (43%)</td>
+    <td align="left">192 (43%)</td>
+    <td align="left">157 (37%)</td>
+    <td align="left">539 (41%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">Creatinine, μmol/L</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">&lt;106</td>
+    <td align="left">418 (94%)</td>
+    <td align="left">417 (94%)</td>
+    <td align="left">408 (96%)</td>
+    <td align="left">1243 (95%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">106–133</td>
+    <td align="left">28 (6%)</td>
+    <td align="left">25 (6%)</td>
+    <td align="left">19 (4%)</td>
+    <td align="left">72 (5%)</td>
+   </tr>
+   <tr>
+    <td colspan="6" align="left">Dried blood spot viral load, copies per mL</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">20–999</td>
+    <td align="left">89/404 (22%)</td>
+    <td align="left">96/404 (24%)</td>
+    <td align="left">79/396 (20%)</td>
+    <td align="left">264/1204 (22%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">1000–9999</td>
+    <td align="left">156/404 (39%)</td>
+    <td align="left">145/404 (36%)</td>
+    <td align="left">175/396 (44%)</td>
+    <td align="left">476/1204 (40%)</td>
+   </tr>
+   <tr>
+    <td/>
+    <td align="left">≥10 000</td>
+    <td align="left">159/404 (39%)</td>
+    <td align="left">163/404 (40%)</td>
+    <td align="left">142/396 (36%)</td>
+    <td align="left">464/1204 (39%)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>Data are n (%). Data are for the modified intention-to-treat population.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R9">
+ <label>9. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Manica</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Guzzetta</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Poletti</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Filipponi</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Solimini</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Caputo</surname>
+   <given-names>B</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>Transmission dynamics of the ongoing chikungunya outbreak in Central Italy: from coastal areas to the metropolitan city of Rome, summer 2017.</article-title>
+  <source>Euro Surveill</source>. 
+  <year>2017</year>;
+  <volume>22</volume>:
+  <fpage>17</fpage>–
+  <lpage>00685</lpage>. 
+  <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2017.22.44.17-00685</pub-id>
+  <?supplied-pmid 29113629?>
+  <pub-id pub-id-type="pmid">29113629</pub-id>
+ </mixed-citation>
+</ref>

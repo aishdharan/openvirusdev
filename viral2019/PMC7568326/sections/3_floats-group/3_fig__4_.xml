@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig04" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 4.</label>
+ <caption>
+  <p>Summary of prospects for achieving herd immunity. (
+   <italic>A</italic>) The peak hospital burden (shown on a log scale) is highly sensitive to the reproductive number. There is a narrow window of reproductive number values (shaded) where either 1) the number of COVID-19 cases requiring hospitalization does not overwhelm hospital capacity (modeled at the average hospital burden for April, 17,800 beds) or 2) circulation is suppressed. This window depends subtly on the exact age-specific social distancing configuration; however, all strategies studied fall between the two curves shown. (
+   <italic>B</italic>) None of the simulated control scenarios shown in 
+   <xref ref-type="fig" rid="fig02">Figs. 2</xref> and 
+   <xref ref-type="fig" rid="fig03">3</xref> achieved herd immunity while also keeping cases below hospital capacity. For the parameters considered, a hospital capacity in excess of 300,000 is required for this to be possible—almost 3 times the total UK NHS hospital beds (around 125,000 beds; see 
+   <xref ref-type="sec" rid="s3">
+    <italic>Materials and Methods</italic>
+   </xref>), and around 15 times the average hospital burden of April.
+  </p>
+ </caption>
+ <graphic id="gra4" xlink:href="pnas.2008087117fig04" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

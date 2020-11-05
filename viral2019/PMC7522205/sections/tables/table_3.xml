@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Effects of HIV-1 genotype on mortality before antiretroviral therapy among newly diagnosed HIV patients.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">HIV-1 genotype</th>
+    <th align="left">Patients, no</th>
+    <th align="left">Death, no</th>
+    <th align="left">Person-years</th>
+    <th align="left">Deaths/100 person-years (95% CI)</th>
+    <th align="left">HR (95% CI)</th>
+    <th align="left">
+     <italic>P</italic>
+    </th>
+    <th align="left">AHR (95% CI)</th>
+    <th align="left">
+     <italic>P</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Total</td>
+    <td align="left">2845</td>
+    <td align="left">451</td>
+    <td char="." align="char">1614.2</td>
+    <td char="–" align="char">31.8 (29.0–34.9)</td>
+    <td align="left"/>
+    <td char="." align="char"/>
+    <td align="left"/>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">CRF01_AE</td>
+    <td align="left">1687</td>
+    <td align="left">324</td>
+    <td char="." align="char">760.4</td>
+    <td char="–" align="char">42.6 (38.1–47.5)</td>
+    <td align="left">1.00</td>
+    <td char="." align="char"/>
+    <td align="left">1.00</td>
+    <td char="." align="char"/>
+   </tr>
+   <tr>
+    <td align="left">CRF07_BC</td>
+    <td align="left">254</td>
+    <td align="left">24</td>
+    <td char="." align="char">145.7</td>
+    <td char="–" align="char">16.5 (10.6–24.5)</td>
+    <td align="left">0.42 (0.28–0.63)</td>
+    <td char="." align="char"> &lt; 0.001</td>
+    <td align="left">0.55 (0.36–0.85)</td>
+    <td char="." align="char">0.006</td>
+   </tr>
+   <tr>
+    <td align="left">CRF08_BC</td>
+    <td align="left">728</td>
+    <td align="left">91</td>
+    <td char="." align="char">415.2</td>
+    <td char="–" align="char">21.9 (17.6–26.9)</td>
+    <td align="left">0.56 (0.44–0.71)</td>
+    <td char="." align="char"> &lt; 0.001</td>
+    <td align="left">0.67 (0.52–0.85)</td>
+    <td char="." align="char">0.001</td>
+   </tr>
+   <tr>
+    <td align="left">Others</td>
+    <td align="left">176</td>
+    <td align="left">12</td>
+    <td char="." align="char">95.0</td>
+    <td char="–" align="char">12.6 (6.5–22.1)</td>
+    <td align="left">0.33 (0.18–0.58)</td>
+    <td char="." align="char"> &lt; 0.001</td>
+    <td align="left">0.52 (0.29–0.94)</td>
+    <td char="." align="char">0.030</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>HR (Hazard ratios) were calculated by means of both univariate and multivariate Cox regression analysis, adjusted for age at diagnosis, sex, marital status, ethnicity, education level, occupation, transmission route, year of HIV infection diagnosis, and baseline CD4+ cell count per 100 increment.</p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,332 @@
+{
+  "id": [
+    "32633829"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32633829"
+  ],
+  "pmcid": [
+    "PMC7361212"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7361212"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1002/jmv.26269"
+  ],
+  "title": [
+    "Coinfection, coepidemics of COVID-19, and dengue in dengue-endemic countries: A serious health concern."
+  ],
+  "authorString": [
+    "Miah MA, Husna A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Miah MA"
+          ],
+          "firstName": [
+            "Md Asaduzzaman"
+          ],
+          "lastName": [
+            "Miah"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2966-249X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Entomology, Patuakhali Science and Technology University, Patuakhali, Bangladesh."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Husna A"
+          ],
+          "firstName": [
+            "Asmaul"
+          ],
+          "lastName": [
+            "Husna"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1281-2669",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Entomology, Patuakhali Science and Technology University, Patuakhali, Bangladesh."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Mycology Division, School of Biological Sciences, University Sains Malaysia, George Town, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2966-249X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1281-2669",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2972464"
+      ],
+      "dateOfPublication": [
+        "2020 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of medical virology"
+          ],
+          "ISOAbbreviation": [
+            "J. Med. Virol."
+          ],
+          "medlineAbbreviation": [
+            "J Med Virol"
+          ],
+          "NLMid": [
+            "7705876"
+          ],
+          "ISSN": [
+            "0146-6615"
+          ],
+          "ESSN": [
+            "1096-9071"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "affiliation": [
+    "Department of Entomology, Patuakhali Science and Technology University, Patuakhali, Bangladesh."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/jmv.26269"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7361212"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7361212?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-07-08"
+  ],
+  "firstIndexDate": [
+    "2020-07-08"
+  ],
+  "fullTextReceivedDate": [
+    "2020-07-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-07-07"
+  ],
+  "firstPublicationDate": [
+    "2020-07-07"
+  ]
+}

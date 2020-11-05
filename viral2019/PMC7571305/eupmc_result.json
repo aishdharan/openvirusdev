@@ -1,0 +1,347 @@
+{
+  "id": [
+    "33074475"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33074475"
+  ],
+  "pmcid": [
+    "PMC7571305"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7571305"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s12250-020-00300-8"
+  ],
+  "title": [
+    "Hantavirus Infection during Pregnancy."
+  ],
+  "authorString": [
+    "Lu DH, Jiang H, Lian JQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lu DH"
+          ],
+          "firstName": [
+            "Deng-Hui"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Center of Diagnosis and Treatment of Infectious Diseases, The Second Affiliated Hospital, Air Force Medical University, Xi'an, 710038, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Center of Diagnosis and Treatment of Infectious Diseases, The Second Affiliated Hospital, Air Force Medical University, Xi'an, 710038, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lian JQ"
+          ],
+          "firstName": [
+            "Jian-Qi"
+          ],
+          "lastName": [
+            "Lian"
+          ],
+          "initials": [
+            "JQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5549-7590",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Center of Diagnosis and Treatment of Infectious Diseases, The Second Affiliated Hospital, Air Force Medical University, Xi'an, 710038, China. lianjq@fmmu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5549-7590",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3028514"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virologica Sinica"
+          ],
+          "ISOAbbreviation": [
+            "Virol Sin"
+          ],
+          "medlineAbbreviation": [
+            "Virol Sin"
+          ],
+          "NLMid": [
+            "101514185"
+          ],
+          "ISSN": [
+            "1674-0769"
+          ],
+          "ESSN": [
+            "1995-820X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Hantavirus infection is a global health challenge, causing widespread public concern. In recent years, cases of hantavirus infection in pregnant women have been reported in many countries. The infected pregnant women and their fetuses appear to have more severe clinical symptoms and worse clinical outcomes. Hence, to study the prevalence of hantavirus infection in pregnant women, this study will focus on the epidemiological distribution of the virus, different virus species penetrating the placental barrier, and factors affecting the incidence and clinical outcome of the infection in pregnant women and their fetuses. In addition, this review will also discuss the diagnostic tools and treatments for pregnant patients and provide an overview of the relevant future research."
+  ],
+  "affiliation": [
+    "The Center of Diagnosis and Treatment of Infectious Diseases, The Second Affiliated Hospital, Air Force Medical University, Xi'an, 710038, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pregnancy",
+        "Hantavirus",
+        "Hps",
+        "HFRS",
+        "Hantaan Virus (htnv)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s12250-020-00300-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7571305"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7571305?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-19"
+  ],
+  "firstIndexDate": [
+    "2020-10-20"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-19"
+  ],
+  "firstPublicationDate": [
+    "2020-10-19"
+  ]
+}

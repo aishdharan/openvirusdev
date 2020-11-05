@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>Inspection of genomic variability of SARS-CoV-2 AP66 and SARS-CoV-2 GZ69 isolates. 
+   <bold>a</bold> A colour-coded scheme of the SARS-CoV-2 genetic regions, annotated as in the reference genome NC_045512.2. ORF1ab domains where mutations in SARS-CoV-2 AP66 and SARS-CoV-2 GZ69 occurred are indicated with square brackets. Numbers indicate nucleotide (nt) positions. 
+   <bold>b</bold> Sequence variability detected in SARS-CoV-2 AP66 (upper green graph) and SARS-CoV-2 GZ69 (lower red graph). Vertical axis represents the  % of reads displaying mutations in comparison to the reference sequence NC_045512.2 at each nt position detected, as assessed by Next Generation Sequencing. Nt positions in the SARS-CoV-2 genome are reported in the horizontal axis. The central table displays nt positions where a substitution in SARS-CoV-2 AP66 and SARS-CoV-2 GZ69 in comparison to NC_045512.2 occurs (Numbers within the light green box). Nt substitutions in non-coding regions are in blue; silent substitutions are in orange; non-synonymous nt substitutions and the correspondent amino acid changes are highlighted in yellow
+  </p>
+ </caption>
+ <graphic xlink:href="12967_2020_2535_Fig4_HTML" id="MO4" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

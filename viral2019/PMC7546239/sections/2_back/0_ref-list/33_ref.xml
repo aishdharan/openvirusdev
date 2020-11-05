@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b33">
+ <element-citation publication-type="journal" id="sb33">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Prasse</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Van Mieghem</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Network reconstruction and prediction of epidemic outbreaks for general group-based compartmental epidemic models</article-title>
+  <source>IEEE Transactions on Network Science and Engineering</source>
+  <year>2020</year>
+  <comment>(in press). URL 
+   <ext-link ext-link-type="uri" xlink:href="https://ieeexplore.ieee.org/document/9069319" id="interref22" xmlns:xlink="http://www.w3.org/1999/xlink">https://ieeexplore.ieee.org/document/9069319</ext-link>
+  </comment>
+ </element-citation>
+</ref>

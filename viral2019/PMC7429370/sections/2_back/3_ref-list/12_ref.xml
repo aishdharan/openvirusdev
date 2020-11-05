@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pastor-Satorras</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Vespignani</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemic spreading in scale-free networks</article-title>
+  <source>Phys Rev Lett</source>
+  <year>2001</year>
+  <volume>86</volume>
+  <issue>14</issue>
+  <fpage>3200</fpage>
+  <pub-id pub-id-type="pmid">11290142</pub-id>
+ </element-citation>
+</ref>

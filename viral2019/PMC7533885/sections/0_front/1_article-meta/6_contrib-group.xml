@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2646-196X</contrib-id>
+  <name>
+   <surname>Métras</surname>
+   <given-names>Raphaëlle</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9179-2917</contrib-id>
+  <name>
+   <surname>Edmunds</surname>
+   <given-names>W. John</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Youssouffi</surname>
+   <given-names>Chouanibou</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1688-6689</contrib-id>
+  <name>
+   <surname>Dommergues</surname>
+   <given-names>Laure</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">
+   <sup>f</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6998-1201</contrib-id>
+  <name>
+   <surname>Fournié</surname>
+   <given-names>Guillaume</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">
+   <sup>g</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0023-3985</contrib-id>
+  <name>
+   <surname>Camacho</surname>
+   <given-names>Anton</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff8">
+   <sup>h</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2842-3406</contrib-id>
+  <name>
+   <surname>Funk</surname>
+   <given-names>Sebastian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3434-3541</contrib-id>
+  <name>
+   <surname>Cardinale</surname>
+   <given-names>Eric</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff9">
+   <sup>i</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Le Godais</surname>
+   <given-names>Gilles</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">
+   <sup>j</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Combo</surname>
+   <given-names>Soihibou</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">
+   <sup>j</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Filleul</surname>
+   <given-names>Laurent</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff11">
+   <sup>k</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Youssouf</surname>
+   <given-names>Hassani</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff11">
+   <sup>k</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="fn1">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Subiros</surname>
+   <given-names>Marion</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff11">
+   <sup>k</sup>
+  </xref>
+  <xref ref-type="author-notes" rid="fn1">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <sup>a</sup>INSERM, 
+  <institution>Sorbonne Université</institution>, Institut Pierre Louis d'Épidémiologie et de Santé Publique (Unité Mixte de Recherche en Santé 1136), 75012 Paris, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff2">
+  <sup>b</sup>Centre de Coopération Internationale en Recherche Agronomique pour le Développement, 
+  <institution>UMR Animal, Santé, Territoires, Risques, et Écosystèmes</institution>, Campus International de Baillarguet, 34398 Montpellier, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff3">
+  <sup>c</sup>Animal, Santé, Territoires, Risques, et Écosystèmes, I site Montpellier Université d'Excellence (I-MUSE), Centre de Coopération Internationale en Recherche Agronomique pour le Développement, Institut national de recherche pour l'agriculture, l'alimentation et l'environnement, 34398 Montpellier, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff4">
+  <sup>d</sup>Centre for the Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, 
+  <institution>London School of Hygiene and Tropical Medicine</institution>, London WC1E 7HT, 
+  <country>United Kingdom</country>;
+ </aff>
+ <aff id="aff5">
+  <sup>e</sup>Groupement de Défense Sanitaire Mayotte - Coopérative des Eleveurs Mahorais, Division Santé Animale, 97670 Coconi, Mayotte, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff6">
+  <sup>f</sup>La Coopération Agricole, Division Santé Animale, F-75538 Paris, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff7">
+  <sup>g</sup>Veterinary Epidemiology, Economics and Public Health Group, Department of Pathobiology and Population Sciences, 
+  <institution>The Royal Veterinary College</institution>, Hatfield AL9 7TA, 
+  <country>United Kingdom</country>;
+ </aff>
+ <aff id="aff8">
+  <sup>h</sup>Epicentre, Research Department, 75019 Paris, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff9">
+  <sup>i</sup>Centre de Coopération Internationale en Recherche Agronomique pour le Développement, 
+  <institution>UMR Animal, Santé, Territoires, Risques, et Écosystèmes</institution>, F-97490 Sainte Clotilde, La Réunion, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff10">
+  <sup>j</sup>Direction de l’Alimentation, 
+  <institution>de l’Agriculture et de la Forêt de Mayotte</institution>, Service de l'Alimentation, 97600 Mamoudzou, 
+  <country>France</country>;
+ </aff>
+ <aff id="aff11">
+  <sup>k</sup>Santé Publique France, Cellule Mayotte de Santé publique France, 97600 Mamoudzou, 
+  <country>France</country>
+ </aff>
+</contrib-group>

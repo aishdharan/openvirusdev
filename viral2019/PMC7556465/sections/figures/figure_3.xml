@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0240013.g003" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0240013.g003</object-id>
+ <label>Fig 3</label>
+ <caption>
+  <title>Epidemic curve of COVID-19 confirmed cases and deaths associated with COVID-19.</title>
+  <p>Epidemic curve of COVID-19 cases (gray) and deaths associated with COVID-19 (red) showing a 12-day phase shift between their peaks (log scale). The blue curve shows their smoothed shapes.</p>
+ </caption>
+ <graphic xlink:href="pone.0240013.g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

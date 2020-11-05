@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0241269.ref044">
+ <label>44</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Nguyen</surname>
+   <given-names>LT</given-names>
+  </name>, 
+  <name>
+   <surname>Schmidt</surname>
+   <given-names>HA</given-names>
+  </name>, 
+  <name>
+   <surname>von Haeseler</surname>
+   <given-names>A</given-names>
+  </name>, 
+  <name>
+   <surname>Minh</surname>
+   <given-names>BQ</given-names>
+  </name> (
+  <year>2015</year>) 
+  <article-title>IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies</article-title>. 
+  <source>Mol Biol Evol</source>
+  <volume>32</volume>: 
+  <fpage>268</fpage>–
+  <lpage>274</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/molbev/msu300</pub-id>
+  <?supplied-pmid 25371430?>
+  <pub-id pub-id-type="pmid">25371430</pub-id>
+ </mixed-citation>
+</ref>

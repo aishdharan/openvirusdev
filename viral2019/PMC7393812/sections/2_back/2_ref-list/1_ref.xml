@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR1">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Abbott</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Baker</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Sutherland</surname>
+    <given-names>GR</given-names>
+   </name>
+   <name>
+    <surname>McCaughan</surname>
+    <given-names>GW</given-names>
+   </name>
+  </person-group>
+  <article-title>Genomic organization, exact localization, and tissue expression of the human CD26 (dipeptidyl peptidase IV) gene</article-title>
+  <source>Immunogenetics</source>
+  <year>1994</year>
+  <volume>40</volume>
+  <fpage>331</fpage>
+  <lpage>338</lpage>
+  <?supplied-pmid 7927537?>
+  <pub-id pub-id-type="pmid">7927537</pub-id>
+ </element-citation>
+</ref>

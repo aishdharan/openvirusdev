@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="vaccines-08-00531-t004" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">vaccines-08-00531-t004_Table 4</object-id>
+ <label>Table 4</label>
+ <caption>
+  <p>Evolving strategies for ASFV genetically engineered vaccines.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sequence Source</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Gene/Protein</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Vector/System</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Adjuvant</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Specific Antibodies</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Neutralizing Antibody</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Cellular Immunity</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Protection</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td colspan="9" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Protein-based subunit vaccines</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">E75CV</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">HA (CD2v)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Baculovirus</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Freund’s</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous protection (3/3) 
+     <break/>Dose dependent
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B87-vaccines-08-00531" ref-type="bibr">87</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">E75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p54,p30</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Baculovirus</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Freund’s</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Partial protection (3/6),</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B88-vaccines-08-00531" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">E75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p54/p30 chimera</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Baculovirus</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Freund’s</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Homologous protection (2/2) 
+     <break/>Mild clinical symptoms
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B89-vaccines-08-00531" ref-type="bibr">89</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Pr4</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p54,p30,p72,p22</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Baculovirus</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Freund’s</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No (0/6) 
+     <break/>Delayed clinical disease 
+     <break/>Reduced viremia
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B90-vaccines-08-00531" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">E70</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group1:p158,p327,p14,p220 
+     <break/>Group3:p30,p72
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Synthetic peptides</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Freund’s</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No; Group1&amp;3 
+     <break/>Increased average survival 
+     <break/>Reduced mean viral titers
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B95-vaccines-08-00531" ref-type="bibr">95</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="9" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">DNA vaccines</td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" colspan="1">E75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p54/p30 fusion</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">pCMV</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No (0/4)</td>
+    <td rowspan="2" align="center" valign="middle" colspan="1">[
+     <xref rid="B92-vaccines-08-00531" ref-type="bibr">92</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p54/p30/SLA-II fusion</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">pCMV</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">T cell response</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No (0/4) 
+     <break/>Viremia enhancement
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" colspan="1">E75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">sHA/p54/p30 fusion</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">pCMV</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes (p54;p30)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">IFN-γ</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No (0/6);</td>
+    <td rowspan="2" align="center" valign="middle" colspan="1">[
+     <xref rid="B93-vaccines-08-00531" ref-type="bibr">93</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">sHA/p54/p30/Ub fusion</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">pCMV</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Strong CTL 
+     <break/>IFN-γ
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Partial protection (2/6) 
+     <break/>The absence of viremia
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">E75</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80 ORFs fragments/Ub fusion</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">DNA expression library</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Partial protection (6/10) 
+     <break/>Reduced virus titers
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B94-vaccines-08-00531" ref-type="bibr">94</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td colspan="9" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Virus-vectored vaccines</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">E75</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">sHA 
+     <sup>1</sup>/p54/p30fusion
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">BacMam</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">IFN-γ</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Partial protection (4/6) 
+     <break/>The absence of viremia
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B97-vaccines-08-00531" ref-type="bibr">97</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia 2007/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p30,p54,pp62,p72</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Adenovirus</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">BioMize</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Strong</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">IFN-γand CTL</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B98-vaccines-08-00531" ref-type="bibr">98</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia 2007/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">A151R,B119L,B602L,EP402R∆PRR,B438L,K205R,A104R</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Adenovirus</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">BioMize; 
+     <break/>ZTS-01
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Strong</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">IFN-γ</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B96-vaccines-08-00531" ref-type="bibr">96</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Georgia 2007/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Ad-ASFV-I: A151R,B119L,B602L,EP402R∆PRR,B438L,K205R,A104R,pp62,p72</td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Adenovirus</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">BioMize</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Strong</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">IFN-γ</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No 
+     <break/>Immune-response dependent enhancement of disease
+    </td>
+    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">[
+     <xref rid="B96-vaccines-08-00531" ref-type="bibr">96</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Ad-ASFV-II: p30,p54,pp62,p72,pp220 (p37-34-14,p150-I,p150-II)</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">BioMize</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Higher</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">IFN-γ</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Partial protection: (2/10)</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ZTS-01</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lower</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IFN-γ</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Partial protection: (5/9) 
+     <break/>Lower clinical score 
+     <break/>The absence of viremia
+    </td>
+   </tr>
+   <tr>
+    <td colspan="9" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Combined vaccination strategy</td>
+   </tr>
+   <tr>
+    <td rowspan="3" align="center" valign="middle" colspan="1">Georgia 2007/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p72, p54, p12</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">HEK 293cell</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">TS6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Less T Cell response</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td rowspan="3" align="center" valign="middle" colspan="1">[
+     <xref rid="B104-vaccines-08-00531" ref-type="bibr">104</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p72, C-type Lectin (EP153R), CD2v</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">MVA 
+     <sup>2</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">TS6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">T Cell response</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p72, C-type Lectin (EP153R), CD2v</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">r VACV 
+     <sup>3</sup> prime + protein boost
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">TS6</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">T Cell response 
+     <break/>IFN-γ
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia 2007/1</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">47 antigens</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DNA prime + r VACV boost</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">CpG oligo</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">T Cell response</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No 
+     <break/>Reduced viral load 
+     <break/>Higher clinical scores
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B105-vaccines-08-00531" ref-type="bibr">105</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">E70;Ba71V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DNA:CD2v,p30,p72,CP312R; 
+     <break/>Proteins: p15, p35, p54, p72, CD2v-E (s HA)
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DNA+ Protein</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ISA25</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">20%; 10%</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Some</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B102-vaccines-08-00531" ref-type="bibr">102</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Georgia 2007/1; Ba71V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DNA:CD2v, p72, p30, +/-p17; 
+     <break/>Proteins: p15, p35, p54, +/-p17
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">DNA+ protein</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">ISA25</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Some</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Challenge: Armenia 2007 
+     <break/>No 
+     <break/>Disease enhancement
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B103-vaccines-08-00531" ref-type="bibr">103</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2" align="center" valign="middle" colspan="1">Ba71V</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p30, p54, p72, s HA/p72</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Alphavirus RPs 
+     <sup>4</sup>
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td rowspan="2" align="center" valign="middle" colspan="1">[
+     <xref rid="B100-vaccines-08-00531" ref-type="bibr">100</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">p30 (Ba71V) + OURT88/3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Alphavirus RP prime + LAV boost</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" rowspan="1" colspan="1">OUR T88/3</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">A151R, p72, C129R, p30, p54, E146L, I215L, I73R, 
+     <break/>L8L, M448R, MGF110-4 L, MGF110-5 L
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">r Ad prime + MVA boost</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1"> </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Yes</td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">Challenge: OUR T88/1 
+     <break/>No 
+     <break/>Reduced and delayed clinical signs; Reduced viremia and viral load
+    </td>
+    <td align="center" valign="middle" rowspan="1" colspan="1">[
+     <xref rid="B49-vaccines-08-00531" ref-type="bibr">49</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">OUR T88/3 
+     <break/>Benin 97/1
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">p72, p30, p54, E183L, E199L, EP153R, F317L, MGF505-5R</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">r Ad prime + MVA boost</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes (Expect:B646L,E183L,EP153R)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Some (E183L,CP204L)</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">IFN-γ </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Challenge: OUR T88/1 
+     <break/>Exp.2 (6/6) 
+     <break/>Reduced Viremia 
+     <break/>Infectious virus persisted 
+     <break/>Exp.1 (2/6)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B42-vaccines-08-00531" ref-type="bibr">42</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <sup>1</sup> sHA = Extracellular domain of ASFV hemagglutinin; 
+    <sup>2</sup> MVA = Modified vaccinia virus Ankara; 
+    <sup>3</sup> VACV = Vaccinia virus; 
+    <sup>4</sup> RPs = Replicon particles.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

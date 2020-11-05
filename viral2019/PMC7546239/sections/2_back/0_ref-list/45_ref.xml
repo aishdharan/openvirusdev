@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b45">
+ <element-citation publication-type="journal" id="sb45">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Si</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>A review of recurrent neural networks: LSTM cells and network architectures</article-title>
+  <source>Neural Computation</source>
+  <volume>31</volume>
+  <issue>7</issue>
+  <year>2019</year>
+  <fpage>1235</fpage>
+  <lpage>1270</lpage>
+  <pub-id pub-id-type="doi">10.1162/neco_a_01199</pub-id>
+  <comment>PMID: 31113301</comment>
+  <pub-id pub-id-type="pmid">31113301</pub-id>
+ </element-citation>
+</ref>

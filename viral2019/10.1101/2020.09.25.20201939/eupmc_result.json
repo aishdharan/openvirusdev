@@ -1,0 +1,311 @@
+{
+  "id": [
+    "PPR219213"
+  ],
+  "source": [
+    "PPR"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PPR219213"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1101/2020.09.25.20201939"
+  ],
+  "title": [
+    "Inferred resolution through herd immmunity of first COVID-19 wave in Manaus, Brazilian Amazon"
+  ],
+  "authorString": [
+    "Prowse TAA, Purcell T, Baía-da-Silva DC, Sampaio V, Monteiro WM, Wood J, Mueller I, McVernon J, Lacerda MVG, Ross JV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Prowse TAA"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Prowse"
+          ],
+          "initials": [
+            "TAA"
+          ]
+        },
+        {
+          "fullName": [
+            "Purcell T"
+          ],
+          "lastName": [
+            "Purcell"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Baía-da-Silva DC"
+          ],
+          "firstName": [
+            "Djane"
+          ],
+          "lastName": [
+            "Baía-da-Silva"
+          ],
+          "initials": [
+            "DC"
+          ]
+        },
+        {
+          "fullName": [
+            "Sampaio V"
+          ],
+          "lastName": [
+            "Sampaio"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Monteiro WM"
+          ],
+          "firstName": [
+            "Wuelton"
+          ],
+          "lastName": [
+            "Monteiro"
+          ],
+          "initials": [
+            "WM"
+          ]
+        },
+        {
+          "fullName": [
+            "Wood J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Wood"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Mueller I"
+          ],
+          "lastName": [
+            "Mueller"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "McVernon J"
+          ],
+          "firstName": [
+            "Jodie"
+          ],
+          "lastName": [
+            "McVernon"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Lacerda MVG"
+          ],
+          "firstName": [
+            "Marcus"
+          ],
+          "lastName": [
+            "Lacerda"
+          ],
+          "initials": [
+            "MVG"
+          ]
+        },
+        {
+          "fullName": [
+            "Ross JV"
+          ],
+          "firstName": [
+            "Joshua"
+          ],
+          "lastName": [
+            "Ross"
+          ],
+          "initials": [
+            "JV"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Abstract Background As in many other settings, peak excess mortality preceded the officially reported ‘first wave’ peak of the COVID-19 epidemic in Manaus, Brazil, reflecting delayed case recognition and limited initial access to diagnostic testing. Methods and Findings To avoid early information bias, we used detailed age and gender stratified death certificate and hospitalisation data to evaluate the epidemic’s trajectory and infer the cause of its decline using a stochastic model. Our results are consistent with heterogenous transmission reducing from mid-April 2020 due to the development of herd immunity. Relative to a baseline model that assumed homogenous mixing across Manaus, a model that permitted a self-isolated population fraction reduced the population-wide attack rate required to drop the effective reproduction number below one from 62 % to 47 %, and reduced the final attack rate from 86% to 65%. In the latter scenario, a substantial proportion of vulnerable, older individuals remained susceptible to infection. Conclusions Our models indicate that the development of herd immunity amongst the mixing proportion of the Manaus population had effectively halted the COVID-19 epidemic by late July 2020. Given uncertainties regarding the distancing behaviours of population subgroups with different social and economic characteristics, and the duration of sterilising or transmission-modifying immunity in exposed individuals, we conclude that the potential for epidemic outbreaks remains, but that future waves of infection are likely to be much less pronounced than that already experienced."
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Preprint"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "medRxiv"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1101/2020.09.25.20201939"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/article/PPR/PPR219213"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/api/fulltextRepo?pprId=PPR219213&type=FILE&fileName=EMS96448-pdf.pdf&mimeType=application/pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-28"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-22"
+  ],
+  "firstPublicationDate": [
+    "2020-09-27"
+  ]
+}

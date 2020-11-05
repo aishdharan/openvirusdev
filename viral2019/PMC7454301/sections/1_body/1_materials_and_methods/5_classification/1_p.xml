@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The research uses two types of classifiers: the 
+ <italic>k</italic>-nearest neighbor (KNN) algorithm and trainable cascade-forward back propagation neural network for the classification step.
+</p>

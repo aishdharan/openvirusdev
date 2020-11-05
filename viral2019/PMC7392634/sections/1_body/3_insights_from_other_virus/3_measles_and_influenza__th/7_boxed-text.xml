@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="B2" position="float" orientation="portrait">
+ <label>Box 2</label>
+ <caption>
+  <title>On the use of mathematical models during epidemics</title>
+ </caption>
+ <p> A dominant way of studying the transmission dynamics of an infectious disease such as COVID-19, and predicting the amplitude and peak of the epidemic in a population (city, province, country) and analysing the effect of control measures is using mathematical models. Based on available data and several assumptions, a model attempts to predict the course of the epidemic, the expected number of infections, clinical cases and deaths over time. Critical is the effective reproductive number (Rt). When Rt &gt;1, the number of cases in a population increases; when Rt &lt;1, the number of cases decreases. A relatively simple and widely used model is the susceptible-exposed-infectious-recovered model, as used in the two papers recently published in 
+  <italic>BMJ Global Health</italic> on COVID-19 in Africa.
+  <xref rid="R67" ref-type="bibr">67 89</xref> There are many more types of models, with varying degrees of complexity.
+ </p>
+ <p> The use of such models has strengths and limitations. Building a mathematical model implies trade-offs between accuracy, transparency, flexibility and timeliness. A difficulty, in general, is that the parameters on which the model is based, the so-called assumptions are frequently uncertain (
+  <xref rid="T7" ref-type="table">table 7</xref>) and predictions can vary widely if any of the parameters are modestly different. This uncertainty is captured in a sensitivity analysis, leading to various possible quantitative outcomes, usually expressed as a range of plausible possibilities, between ‘worst-case’ and ‘best-case’ scenarios.
+ </p>
+ <p> With a new disease such as COVID-19, certainly at the start of the outbreak, the parameters had to be based on very limited data from a particular context. However, many variables can widely differ across communities as they critically depend on contextual factors (
+  <xref rid="T2" ref-type="table">table 2</xref>). In mathematical models, all such uncertainties and unknowns are somehow hidden in the complex formulae of the model, as a quasi ‘black box’. Few people have the knowledge and skill to ‘open up the black box’.
+ </p>
+ <p> As uncertainties in COVID-19 are large, the range of possibilities produced by a model is wide, with the worst-case scenario typically predicting catastrophic numbers of cases and deaths. Such predictions are often misunderstood by journalists, practitioners and policy-makers, with worst-case estimates getting the most attention,
+  <xref rid="R68" ref-type="bibr">68</xref> not specifying the huge uncertainties.
+ </p>
+</boxed-text>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="par0055">We used the Bayesian birth-death skyline (BDSKY) model (
+ <xref rid="bib0230" ref-type="bibr">Stadler et al., 2013</xref>) to estimate time-varying rates of epidemic spread, measured as changes in 
+ <italic>R
+  <sub>e</sub>
+ </italic>, denoted as 
+ <italic>R
+  <sub>e</sub>
+ </italic> (
+ <italic>t</italic>) (
+ <xref rid="bib0230" ref-type="bibr">Stadler et al., 2013</xref>), and implemented in BEAST v2.6.1 (
+ <xref rid="bib0015" ref-type="bibr">Bouckaert et al., 2019</xref>). The nucleotide substitution process was modeled under HKY (
+ <xref rid="bib0125" ref-type="bibr">Kimura, 1980</xref>) with a proportion of invariable sites, and evolutionary rates were estimated using an UCLN model (
+ <xref rid="bib0060" ref-type="bibr">Drummond et al., 2006</xref>). We employed lognormal distribution with a mean of 0 and standard deviation of 1.0 for 
+ <italic>R
+  <sub>e</sub>
+ </italic>, which placed most weight below 5.18 (95 % quantile). The selected number of intervals for 
+ <italic>R
+  <sub>e</sub>
+ </italic> was 5 with equidistant intervals per step. We used a normal distribution with a mean of 48.7 and standard deviation of 15 (corresponding to a 95 % credible interval from 19.3–78.1) for the rate of becoming uninfectious (denoted as 
+ <italic>δ</italic>), which placed most weight below 73.4 (95 % quantile). These values are expressed as units per year and reflect the inverse of the time of infectiousness (mean = 7.49 d, 95 % credible interval: 4.67–18.91 d) according to previous study (
+ <xref rid="bib0155" ref-type="bibr">Li et al., 2020a</xref>). We used a beta distribution with parameters 
+ <italic>α</italic> = 1.0 and 
+ <italic>β</italic> = 9 999 for the sampling proportion (denoted as 
+ <italic>s</italic>), corresponding to a minority of sampled cases (95 % credible interval: 2.53 × 10
+ <sup>−6</sup>–3.69 × 10
+ <sup>−4</sup>). The origin of the epidemic was estimated using a normal distribution with a mean of 0.25 and standard deviation of 0.05 units per year. Bayesian analysis was run for 500 million MCMC steps and sampled every 50 000 steps. Mixing of the MCMC chains was visually inspected using Tracer v1.7.1 (
+ <xref rid="bib0205" ref-type="bibr">Rambaut et al., 2018</xref>), with an effective sample size of &gt;200 for each parameter. We used the bdskytools package in R (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/laduplessis/bdskytools" id="intr0025" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/laduplessis/bdskytools</ext-link>) to plot the BDSKY results.
+</p>

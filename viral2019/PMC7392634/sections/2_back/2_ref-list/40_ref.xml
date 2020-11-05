@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R40">
+ <label>40</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Adels</surname>
+    <given-names>BR</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>FRANCIS</surname>
+    <given-names>JE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Gajdusek</surname>
+    <given-names>DC</given-names>
+   </name>
+  </person-group>
+  <article-title>Measles in Australasian indigenes</article-title>. 
+  <source>Am J Dis Child</source>
+  <year>1962</year>;
+  <volume>103</volume>:
+  <fpage>255</fpage>–
+  <lpage>61</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/archpedi.1962.02080020267015</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/13859385?>
+  <pub-id pub-id-type="pmid">13859385</pub-id>
+ </mixed-citation>
+</ref>

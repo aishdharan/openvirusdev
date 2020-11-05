@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>PLHIV50 +</term>
+   <def>
+    <p id="Par5">The people living with HIV aged 50 years and over</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CRFs</term>
+   <def>
+    <p id="Par6">Circulating recombinant forms</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IDUs</term>
+   <def>
+    <p id="Par7">Injecting drug users</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>LANL</term>
+   <def>
+    <p id="Par8">Los Alamos National Laboratory</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MCMC</term>
+   <def>
+    <p id="Par9">Bayesian Markov chain Monte Carlo</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SDRM</term>
+   <def>
+    <p id="Par10">Surveillance drug resistance mutations (SDRM)</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SH</term>
+   <def>
+    <p id="Par11">Shimodaira-Hasegawa</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>tMRCA</term>
+   <def>
+    <p id="Par12">The most recent common ancestor</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HPD</term>
+   <def>
+    <p id="Par13">Highest posterior density</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PP</term>
+   <def>
+    <p id="Par14">Posterior probability</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

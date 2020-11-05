@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yu</surname>
+    <given-names>WB</given-names>
+   </name>
+   <name>
+    <surname>Tang</surname>
+    <given-names>GD</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Corlett</surname>
+    <given-names>RT</given-names>
+   </name>
+  </person-group>
+  <article-title>Decoding the evolution and transmissions of the novel pneumonia coronavirus (SARS-CoV-2/HCoV-19) using whole genomic data</article-title>
+  <source>Zool. Res.</source>
+  <year>2020</year>
+  <volume>41</volume>
+  <fpage>247</fpage>
+  <lpage>257</lpage>
+  <pub-id pub-id-type="doi">10.24272/j.issn.2095-8137.2020.022</pub-id>
+  <?supplied-pmid 32351056?>
+  <pub-id pub-id-type="pmid">32351056</pub-id>
+ </element-citation>
+</ref>

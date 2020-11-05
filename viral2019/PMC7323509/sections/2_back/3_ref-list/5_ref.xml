@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Stramer</surname>
+   <given-names>SL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Collins</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Nugent</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Wang</surname>
+   <given-names>X</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Fuschino</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Heitman</surname>
+   <given-names>JW</given-names>
+  </string-name>, 
+  <etal>et al.</etal>; 
+  <collab>NHLBI Retrovirus Epidemiology Donor Study-II (REDS-II)</collab>. 
+  <article-title>Sensitive detection assays for influenza RNA do not reveal viremia in US blood donors.</article-title>
+  <source>J Infect Dis</source>. 
+  <year>2012</year>;
+  <volume>205</volume>:
+  <fpage>886</fpage>–
+  <lpage>94</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/infdis/jir863</pub-id>
+  <?supplied-pmid 22293429?>
+  <pub-id pub-id-type="pmid">22293429</pub-id>
+ </mixed-citation>
+</ref>

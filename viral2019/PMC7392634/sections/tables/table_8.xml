@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T8" orientation="portrait" position="float">
+ <label>Table 8</label>
+ <caption>
+  <p>Questions and considerations in case a COVID-19 vaccine is developed</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Question</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Considerations</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">If a vaccine is developed?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>What type of vaccine will it be (live/non-live, classic killed, DNA, or recombinant)?</p>
+      </list-item>
+      <list-item>
+       <p>Will it need special manufacture and transport conditions (such as cold chain)?</p>
+      </list-item>
+      <list-item>
+       <p>How robust will be vaccine-acquired immunity? After how many doses?</p>
+      </list-item>
+      <list-item>
+       <p>How protective will it be against infection?</p>
+      </list-item>
+      <list-item>
+       <p>For how long will vaccine-acquired immunity last? And hence: how often will the vaccine have to be administered? Only once? Or yearly?</p>
+      </list-item>
+      <list-item>
+       <p>Will there be any adverse effects?</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Acquired immunity is not very strong; hence, what is the consequence regarding herd immunity?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>To achieve herd immunity, how efficient will the vaccine need to be?</p>
+      </list-item>
+      <list-item>
+       <p>What proportion of the population (critical population) will need to be vaccinated?</p>
+      </list-item>
+      <list-item>
+       <p>How long will it take to effectively vaccinate the critical population?</p>
+      </list-item>
+      <list-item>
+       <p>Will vaccination be acceptable in the population? Or will vaccine hesitancy reduce uptake?</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">What are the socioeconomic implications?</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Which countries will get the vaccine first (implications for LICs/LMICs)?</p>
+      </list-item>
+      <list-item>
+       <p>How expensive will the vaccine be?</p>
+      </list-item>
+      <list-item>
+       <p>Will vaccination be made mandatory, especially for international travel?</p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="T8_FN1">
+   <p>LICs/LMICs, low and lower middle income countries.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

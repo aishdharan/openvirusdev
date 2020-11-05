@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kim</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Hong</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Yoon</surname>
+    <given-names>SH</given-names>
+   </name>
+  </person-group>
+  <article-title>Diagnostic performance of CT and reverse transcriptase-polymerase chain reaction for coronavirus disease 2019: a meta-analysis</article-title>
+  <source>Radiology</source>
+  <year>2020</year>
+  <volume>296</volume>
+  <issue>3</issue>
+  <fpage>E145</fpage>
+  <lpage>E155</lpage>
+  <pub-id pub-id-type="doi">10.1148/radiol.2020201343</pub-id>
+  <pub-id pub-id-type="pmid">32301646</pub-id>
+ </element-citation>
+</ref>

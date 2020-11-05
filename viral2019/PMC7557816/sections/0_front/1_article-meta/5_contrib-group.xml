@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Calvez</surname>
+   <given-names>Elodie</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+  <xref rid="c1-pathogens-09-00728" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pommelet</surname>
+   <given-names>Virginie</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-pathogens-09-00728">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Somlor</surname>
+   <given-names>Somphavanh</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1110-9039</contrib-id>
+  <name>
+   <surname>Pompon</surname>
+   <given-names>Julien</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-pathogens-09-00728">3</xref>
+  <xref ref-type="aff" rid="af4-pathogens-09-00728">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Viengphouthong</surname>
+   <given-names>Souksakhone</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bounmany</surname>
+   <given-names>Phaithong</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chindavong</surname>
+   <given-names>Thep Aksone</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xaybounsou</surname>
+   <given-names>Thonglakhone</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Prasayasith</surname>
+   <given-names>Phoyphaylinh</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Keosenhom</surname>
+   <given-names>Sitsana</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brey</surname>
+   <given-names>Paul T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-pathogens-09-00728">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9473-8406</contrib-id>
+  <name>
+   <surname>Telle</surname>
+   <given-names>Olivier</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-pathogens-09-00728">6</xref>
+  <xref ref-type="aff" rid="af7-pathogens-09-00728">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5187-6390</contrib-id>
+  <name>
+   <surname>Choisy</surname>
+   <given-names>Marc</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-pathogens-09-00728">8</xref>
+  <xref ref-type="aff" rid="af9-pathogens-09-00728">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0425-6228</contrib-id>
+  <name>
+   <surname>Marcombe</surname>
+   <given-names>Sébastien</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-pathogens-09-00728">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grandadam</surname>
+   <given-names>Marc</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00728">1</xref>
+  <xref ref-type="aff" rid="af10-pathogens-09-00728">10</xref>
+ </contrib>
+</contrib-group>

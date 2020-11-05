@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff9">
+ <label>9</label>
+ <institution content-type="department">Experimental Medicine, Department of Medicine</institution>, 
+ <institution>University of British Columbia</institution>, 
+ <addr-line content-type="city">Vancouver</addr-line>, 
+ <addr-line content-type="state">BC</addr-line>, 
+ <country>Canada</country>
+</aff>

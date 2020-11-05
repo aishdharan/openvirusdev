@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="viruses-12-01062-f002" orientation="portrait" position="float">
+ <label>Figure 2</label>
+ <caption>
+  <p>Time-calibrated phylogeny of the Lassa virus strains, gathering 41 sequences belonging to lineages IV and V (i.e., represented by “South Mali/North CIV”) and showing the new one from Kissidougou (in pink). The trees show the complete glycoprotein precursor and nucleoprotein in a linked model (
+   <bold>A</bold>), and the complete polymerase (
+   <bold>B</bold>). The trees were inferred by using the Bayesian Markov chain Monte Carlo method, with GTR + gamma model, strict clock, constant population size and partitioning into codon positions 1, 2, 3. Posterior probabilities are coded as follows: 0.7, green dots; 0.80 to &lt; 0.85, purple-blue dots; &gt; 0.97, red dots. Geographical origins are noted on the right of each tree, and scale axis represents the time in years.
+  </p>
+ </caption>
+ <graphic xlink:href="viruses-12-01062-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

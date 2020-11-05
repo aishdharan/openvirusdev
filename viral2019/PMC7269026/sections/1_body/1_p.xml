@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To quantitatively investigate the impact of population movement on the spread of 2019-nCoV, and estimate the effect of travel bans, we explored the relationship between population flux from Wuhan and cases in other cities one week later. We collected the number of laboratory confirmed cases from the daily official reports of the health commission of 34 provincial-level administrative units and 341 city-level units, from the time of the outbreak to 14 February 2020. And we used de-identified and aggregated real-time domestic population movement data (2019–2020) in China derived from Baidu Qianxi (
+ <ext-link ext-link-type="uri" xlink:href="http://qianxi.baidu.com" xmlns:xlink="http://www.w3.org/1999/xlink">http://qianxi.baidu.com</ext-link>). We assumed that confirmed cases in other cities between January 24 and 30 were imported from Wuhan based on the mean incubation period of one week [
+ <xref rid="CIT0003" ref-type="bibr">3</xref>], and thus correlated with the influx from Wuhan between January 17 and 23.
+</p>

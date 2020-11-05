@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinical presentation, morbidity and mortality in sows and piglets following the introduction of PEDV in the holding. Abbreviations: pp.: post partum, pn: post natum, ap: ante partum, wk.: week</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Group</th>
+    <th>Sows (morbidity; diarrhea)</th>
+    <th>Piglets (morbidity; diarrhea)</th>
+    <th>Suckling piglet losses (mortality, total)</th>
+    <th>Piglet rearing losses (mortality, total)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2">
+     <bold>1 (wk 15/2019)</bold>
+    </td>
+    <td>
+     <bold>approx. 60%</bold>
+    </td>
+    <td>
+     <bold>approx. 70%</bold>
+    </td>
+    <td>
+     <bold>10%</bold>
+    </td>
+    <td>
+     <bold>approx. 5%</bold>
+    </td>
+   </tr>
+   <tr>
+    <td>disease about 10 days pp</td>
+    <td>disease about 14 days pn</td>
+    <td>increased proportion of puny little animals or rather underweight weaners</td>
+    <td/>
+   </tr>
+   <tr>
+    <td rowspan="2">
+     <bold>2 (wk 17/2019)</bold>
+    </td>
+    <td>
+     <bold>approx. 80–90%</bold>
+    </td>
+    <td>
+     <bold>approx. 100%</bold>
+    </td>
+    <td>
+     <bold>29.2%</bold>
+    </td>
+    <td>
+     <bold>approx. 10%</bold>
+    </td>
+   </tr>
+   <tr>
+    <td>disease about 0–1 days pp. (bradytocia)</td>
+    <td>disease approx. 3 days pn (tend to have more weak live suckling piglets than usual)</td>
+    <td>increased proportion of puny little animals respectively underweight weaners</td>
+    <td/>
+   </tr>
+   <tr>
+    <td rowspan="2">
+     <bold>3 (wk 20/2019)</bold>
+    </td>
+    <td>
+     <bold>approx. 70%</bold>
+    </td>
+    <td>
+     <bold>approx. 80%</bold>
+    </td>
+    <td>
+     <bold>20.2%</bold>
+    </td>
+    <td>
+     <bold>approx. 8%</bold>
+    </td>
+   </tr>
+   <tr>
+    <td>diarrhea in the waiting stable, disease approx. 1–2 weeks ap</td>
+    <td>disease approx. 3–5 days pn</td>
+    <td>increased proportion of puny little animals respectively underweight weaners</td>
+    <td/>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

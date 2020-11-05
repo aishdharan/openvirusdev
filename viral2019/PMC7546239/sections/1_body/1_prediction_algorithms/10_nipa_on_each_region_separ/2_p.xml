@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2301">As a benchmark model, we apply NIPA on each region separately, which we name 
+ <italic>NIPA separate</italic>. NIPA separate is a machine-learning method based on the SIR model, but does not consider the interaction between different regions.
+</p>

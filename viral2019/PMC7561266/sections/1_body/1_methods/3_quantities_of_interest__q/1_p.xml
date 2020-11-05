@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We simulated the model under default starting conditions (see 
+ <xref ref-type="supplementary-material" rid="pntd.0008679.s007">S1 File</xref>) and given that a simulation evolves into an epidemic (defined as (
+ <italic>I</italic>
+ <sub>
+  <italic>h</italic>
+ </sub> &gt; 2), after the virus introduction), we analyze for the following quantities of interest (QOI): the epidemic peak size (maximum human infected (
+ <italic>maxI</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>) at any given point during the simulation); time to peak infection in humans (time from introduction to 
+ <italic>maxI</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>, as 
+ <italic>tmaxI</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>); the final epidemic size, which represents a measure of epidemic suitability (cumulative proportion of humans infected, 
+ <italic>cumI</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>/
+ <italic>N</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>, at the final time step).
+</p>

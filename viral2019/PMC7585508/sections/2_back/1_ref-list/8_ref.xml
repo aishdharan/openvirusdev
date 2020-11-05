@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0008">
+ <label>8.</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Baud</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Greub</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Favre</surname>
+   <given-names>G</given-names>
+  </string-name>, et al. 
+  <article-title>Second-Trimester Miscarriage in a Pregnant Woman With SARS-CoV-2 Infection</article-title>. 
+  <source>
+   <italic toggle="yes">JAMA</italic>
+  </source>. 
+  <year>2020</year>;
+  <volume>323</volume>(
+  <issue>21</issue>):
+  <fpage>2198</fpage>–
+  <lpage>2200</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1001/jama.2020.7233</pub-id>
+  <pub-id pub-id-type="pmid">32352491</pub-id>
+ </mixed-citation>
+</ref>

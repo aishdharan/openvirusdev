@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T4" orientation="portrait" position="float">
+ <label>Table 4</label>
+ <caption>
+  <title>Status of confirmed patients in Korea by age
+   <xref rid="B27" ref-type="bibr">27</xref>
+  </title>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="jkms-35-e317-i004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="rows">
+   <col width="25%" span="1"/>
+   <col width="25%" span="1"/>
+   <col width="25%" span="1"/>
+   <col width="25%" span="1"/>
+   <thead>
+    <tr>
+     <th valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Age, yr</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Confirmed case</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Dead</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Fatality rate, %</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">≥ 80</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">488 (4.52)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">120 (47.62)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">24.59</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">70–79</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">710 (6.57)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">76 (30.16)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">10.7</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">60–69</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">1,353 (12.53)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">36 (14.29)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">2.66</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">50–59</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">1,956 (18.11)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">15 (5.95)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">0.77</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">40–49</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">1,435 (13.29)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">3 (1.19)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">0.21</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">30–39</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">1,164 (10.78)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">2 (0.79)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">0.17</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">20–29</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">2,964 (27.44)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">0 (0.00)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">10–19</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">591 (5.47)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">0 (0.00)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">-</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">0–9</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">140 (1.3)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">0 (0.00)</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <p>Data are presented as number (%).</p>
+ </table-wrap-foot>
+</table-wrap>

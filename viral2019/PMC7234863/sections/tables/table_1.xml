@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <?Table Small?>
+ <label>Table 1</label>
+ <caption>
+  <title>Current influenza epidemic in Korea by Korea Centers for Disease Control and Prevention
+   <xref rid="B5" ref-type="bibr">5</xref>
+   <xref rid="B11" ref-type="bibr">11</xref>
+   <xref rid="B12" ref-type="bibr">12</xref>
+   <xref rid="B13" ref-type="bibr">13</xref>
+   <xref rid="B14" ref-type="bibr">14</xref>
+  </title>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="jkms-35-e182-i001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="rows">
+   <col width="11.22%" span="1"/>
+   <col width="27.68%" span="1"/>
+   <col width="23.39%" span="1"/>
+   <col width="12.17%" span="1"/>
+   <col width="25.54%" span="1"/>
+   <thead>
+    <tr>
+     <th valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Season</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Criteria for influenza epidemic
+      <sup>a</sup>
+     </th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Period</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Duration</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Circulating influenza viruses</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td valign="top" align="left" rowspan="2" colspan="1">2019–2020</td>
+     <td valign="top" align="center" rowspan="2" colspan="1">5.9</td>
+     <td valign="top" align="center" rowspan="2" colspan="1">15 Nov 2019–27 Mar 2020</td>
+     <td valign="top" align="center" rowspan="2" colspan="1">19 wk 1 day</td>
+     <td valign="top" align="left" rowspan="1" colspan="1">A(H1N1)pdm09, 70.6%</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">A(H3N2), 25.4%
+      <sup>b</sup>
+     </td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">2018–2019</td>
+     <td valign="top" align="center" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">6.3</td>
+     <td valign="top" align="center" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">16 Nov 2018–21 Jun 2019</td>
+     <td valign="top" align="center" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">31 wk 1 day</td>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">A(H1N1)pdm09, 41.9%</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">B, 37.2%</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="2" colspan="1">2017–2018</td>
+     <td valign="top" align="center" rowspan="2" colspan="1">6.6</td>
+     <td valign="top" align="center" rowspan="2" colspan="1">1 Dec 2017–25 May 2018</td>
+     <td valign="top" align="center" rowspan="2" colspan="1">25 wk 1 day</td>
+     <td valign="top" align="left" rowspan="1" colspan="1">B, 54.7%</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">A(H3N2), 38.3%</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">2016–2017</td>
+     <td valign="top" align="center" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">8.9</td>
+     <td valign="top" align="center" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">8 Dec 2016–2 Jun 2017</td>
+     <td valign="top" align="center" rowspan="2" colspan="1" style="background-color:rgb(224,224,241)">25 wk 2 day</td>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">A(H3N2), 72.9%</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">B, 26.6%</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <p>ILI = influenza-like illness.</p>
+  <p>
+   <sup>a</sup>No. of ILI patients/1,000 outpatients; 
+   <sup>b</sup>Data from 1 Sep 2019 to 18 Apr 2020.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

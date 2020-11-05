@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Menachery</surname>
+    <given-names>VD</given-names>
+   </name>
+   <name>
+    <surname>Yount</surname>
+    <given-names>BL</given-names>
+   </name>
+   <name>
+    <surname>Debbink</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Agnihothram</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gralinski</surname>
+    <given-names>LE</given-names>
+   </name>
+   <name>
+    <surname>Plante</surname>
+    <given-names>JA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence</article-title>
+  <source> Nature Medicine</source>
+  <year>2015</year>
+  <volume>21</volume>
+  <issue>12</issue>
+  <fpage>1508</fpage>
+  <lpage>13</lpage>
+ </element-citation>
+</ref>

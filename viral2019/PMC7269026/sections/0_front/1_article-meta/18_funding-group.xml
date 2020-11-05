@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group>
+  <funding-source>
+   <named-content content-type="funder-name">National Key R&amp;D Program of China</named-content>
+   <named-content content-type="funder-identifier">10.13039/501100012149</named-content>
+  </funding-source>
+  <award-id>2020YFC0840900</award-id>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <named-content content-type="funder-name">National Natural Science Foundation of China</named-content>
+   <named-content content-type="funder-identifier">10.13039/501100001809</named-content>
+  </funding-source>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <named-content content-type="funder-name">Shenzhen Science and Technology Program</named-content>
+   <named-content content-type="funder-identifier">10.13039/501100010877</named-content>
+  </funding-source>
+  <award-id>KQTD20180411143323605</award-id>
+ </award-group>
+ <award-group>
+  <funding-source>
+   <named-content content-type="funder-name">Guangdong Frontier and Key Tech Innovation Program</named-content>
+   <named-content content-type="funder-identifier">10.13039/100012540</named-content>
+  </funding-source>
+ </award-group>
+ <funding-statement>This work was supported by the National Key Research and Development Program of China under Grant [2020YFC0840900]; National Natural Science Foundation of China under Grant [31970643 &amp; 81961128002]; Shenzhen Science and Technology Program under Grant [KQTD20180411143323605]; and Guangdong Frontier and Key Tech Innovation Program under Grant [2019B020228001 &amp; 2019B111103001].</funding-statement>
+</funding-group>

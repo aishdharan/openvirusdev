@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig2">
+ <label>Figure 2</label>
+ <caption>
+  <p>Neurotrauma operative cases. The average number of neurotrauma operative cases between 2016 and 2019 was 29.25, with 17.0 in March and 12.25 in April. There were 12 neurotrauma surgeries in March 2020, which was not significantly lower than the previous year average (
+   <italic>P</italic> = 0.135, Poisson analysis). There were 2 neurotrauma surgeries in April 2020, which was significantly lower than the previous year average (
+   <italic>P</italic> = 0.0004, Poisson analysis). COVID-19, coronavirus disease 2019.
+  </p>
+ </caption>
+ <graphic xlink:href="gr2_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

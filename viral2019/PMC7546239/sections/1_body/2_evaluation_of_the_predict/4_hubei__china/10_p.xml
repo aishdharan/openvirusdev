@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3417"> Another interesting topic is 
+ <italic>forecast bias</italic>: The tendency to systematically overestimate or underestimate the true number of infected cases. Using the Percentage Error (PE) we estimate the bias for all prediction algorithms for region 
+ <inline-formula>
+  <math id="d1e3425" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> at time 
+ <inline-formula>
+  <math id="d1e3430" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula>. The surface error plots in 
+ <xref rid="fig3" ref-type="fig">Fig. 3</xref> show the Percentage Error as a function of time for a 4-days ahead prediction. The logistic function and LSTM show the largest deviation around the mean, especially around February 1, which is in agreement with 
+ <xref rid="fig2" ref-type="fig">Fig. 2</xref>. Furthermore, 
+ <xref rid="fig3" ref-type="fig">Fig. 3</xref> illustrates that the logistic function and LSTM systematically underestimate the true number of cases. On the other hand, NIPA static prior appears to overestimate the true number of cases. A possible reason is the following. The static network is taken to be proportional to the traffic flow before the lockdown measures. When the lockdown is introduced, the static prior remains constant, so the algorithm overestimates the true result. After some time, the newly collected data shows evidence that the prior is not very accurate, so NIPA static prior ignores the prior and uses the data instead, which improves the forecast accuracy again.
+</p>

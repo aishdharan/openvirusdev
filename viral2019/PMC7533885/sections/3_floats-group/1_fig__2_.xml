@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="figure" id="fig02" orientation="portrait" position="float">
+ <label>Fig. 2.</label>
+ <caption>
+  <p>Model diagram. The livestock population is stratified in 10 yearly age groups. Humans are exposed to RVFV through infectious livestock. The farming population can get infected by direct contact or vector transmission, and the nonfarming population acquires infection only by vector-mediated transmission. Notations, equations, and assumptions on viral transmission are presented in 
+   <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2004468117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <italic>SI Appendix</italic>, 
+    <italic>Methods</italic> and Tables S1 and S2
+   </ext-link>.
+  </p>
+ </caption>
+ <graphic id="gra2" xlink:href="pnas.2004468117fig02" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

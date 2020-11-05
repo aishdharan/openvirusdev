@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref43">
+ <label>43.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Huang</surname>
+    <given-names>Z</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Leng</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Analysis of Hu’s moment invariants on image scaling and rotation</chapter-title> In: 
+  <source>Proceedings of 2010 2nd International Conference on Computer Engineering and Technology (ICCET)</source>, 
+  <publisher-loc>Chengdu, China</publisher-loc>
+  <publisher-name>IEEE</publisher-name>, 
+  <year>2010</year>, DOI: 
+  <pub-id pub-id-type="doi">10.1109/ICCET.2010.5485542</pub-id>.
+ </mixed-citation>
+</ref>

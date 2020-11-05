@@ -1,0 +1,495 @@
+{
+  "id": [
+    "33116999"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33116999"
+  ],
+  "pmcid": [
+    "PMC7585508"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7585508"
+      ]
+    }
+  ],
+  "doi": [
+    "10.2147/rmhp.s261821"
+  ],
+  "title": [
+    "The Prevention and Control Experience of Maternal Health Care from Chengu, China During the COVID-19 Epidemic."
+  ],
+  "authorString": [
+    "Li C, Tang L, Luo Y, Lai T, Gu L, Wang Y, Yang L, Ran L, Wen R, Lin Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chunrong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Luo Y"
+          ],
+          "firstName": [
+            "Yingjuan"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lai T"
+          ],
+          "firstName": [
+            "Ting"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gu L"
+          ],
+          "firstName": [
+            "Lingling"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yumei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Liu"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ran L"
+          ],
+          "firstName": [
+            "Longrong"
+          ],
+          "lastName": [
+            "Ran"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wen R"
+          ],
+          "firstName": [
+            "Rongkang"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin Y"
+          ],
+          "firstName": [
+            "Yonghong"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2911713"
+      ],
+      "dateOfPublication": [
+        "2020"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Risk management and healthcare policy"
+          ],
+          "ISOAbbreviation": [
+            "Risk Manag Healthc Policy"
+          ],
+          "medlineAbbreviation": [
+            "Risk Manag Healthc Policy"
+          ],
+          "NLMid": [
+            "101566264"
+          ],
+          "ISSN": [
+            "1179-1594"
+          ],
+          "ESSN": [
+            "1179-1594"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2213-2217"
+  ],
+  "abstractText": [
+    "Four months after the first case of COVID-19 was diagnosed in Wuhan, the national epidemic has been effectively controlled in China. In Chengdu, the capital city of Sichuan Province, several management measures, which have been proven to be effective, are taken to prevent pregnant women from being infected with COVID-19. Firstly, Chengdu formulated and issued the \"Working Opinions on the Management of Maternal Women during the Epidemic Period of COVID-19 Infection\" immediately after the outbreak. Secondly, some basic information of pregnant women returning from high-risk areas and countries is requested to be reported on a daily basis. Thirdly, a group of experts in Obstetrics, Pediatrics and Hospital Infection Management supervise the implementation of the COVID-19 health care services for pregnant women in primary care institutes. Fourthly, the list of health institutes providing services for confirmed and suspected cases was determined and announced to the public by the government promptly. Additionally, the prevention of mother to infant transmission of HIV is continually strictly practiced during the period of the COVID-19 epidemic. Lastly, all inpatients in the health facilities of Chengdu, including maternity hospitals, are required to have a COVID-19 RT-PCR test to further prevent nosocomial infection. Now, many people living in high-risk countries are coming to Chengdu, and it is therefore necessary to make the prevention and control measures a long-term process."
+  ],
+  "affiliation": [
+    "Chengdu Women's and Children's Central Hospital, School of Medicine, University of Electronic Science and Technology of China, Chengdu, Sichuan, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "discussion",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pregnant women",
+        "Control measures",
+        "Covid-19",
+        "Effectively"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/RMHP.S261821"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7585508"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7585508?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-29"
+  ],
+  "firstIndexDate": [
+    "2020-10-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-29"
+  ],
+  "dateOfRevision": [
+    "2020-10-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-19"
+  ],
+  "firstPublicationDate": [
+    "2020-10-19"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b2">
+ <label>2</label>
+ <element-citation publication-type="book" id="sb2">
+  <person-group person-group-type="author">
+   <name>
+    <surname>World Health Organization</surname>
+   </name>
+  </person-group>
+  <chapter-title>Coronavirus disease (COVID-2019) situation reports</chapter-title>
+  <year>2020</year>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/" id="interref1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/</ext-link>. Visited: 31st July 2020
+  </comment>
+ </element-citation>
+</ref>

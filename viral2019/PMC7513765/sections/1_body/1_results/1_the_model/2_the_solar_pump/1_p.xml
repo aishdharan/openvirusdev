@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0070">In our equations (see Methods in 
+ <xref rid="appsec1" ref-type="fn">Supplementary Information</xref>), the solar-pump forcing term is introduced as an infra-day (minutes/hours) attenuation factor for the reproductive number R
+ <sub>t</sub> and modeled by following the sun radiation curves as a function of the Earth's latitude, day of the year, and time of the day. Solar curves (
+ <xref rid="fig1" ref-type="fig">Figure 1</xref>, and onsets of 
+ <xref rid="fig2" ref-type="fig">Figure 2</xref> ) are functions of the solar height angle α (complement to the Zenith angle: i.e. α = 90° at local noon) that, in turn, depends on the Earth's latitude ϕ, sun's declination δ, day of the year 
+ <italic>d</italic>, and time of the day 
+ <italic>h</italic>. Solar curves modulate daily with sin(α) and have maximum amplitudes and widths that depend on ϕ, 
+ <italic>d</italic>, and 
+ <italic>h</italic>, as shown in 
+ <xref rid="fig1" ref-type="fig">Figure 1</xref>, where the R
+ <sub>t</sub> attenuation factor (1 – ε sin(α)) is plotted as a function of 
+ <italic>h</italic> (see figure's caption for details).
+</p>

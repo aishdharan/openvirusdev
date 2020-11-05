@@ -1,0 +1,495 @@
+{
+  "id": [
+    "33116151"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33116151"
+  ],
+  "pmcid": [
+    "PMC7595211"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7595211"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1038/s41598-020-74558-z"
+  ],
+  "title": [
+    "Current and historic HIV-1 molecular epidemiology in paediatric and adult population from Kinshasa in the Democratic Republic of Congo."
+  ],
+  "authorString": [
+    "Rubio-Garrido M, González-Alba JM, Reina G, Ndarabu A, Barquín D, Carlos S, Galán JC, Holguín Á."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rubio-Garrido M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Rubio-Garrido"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "HIV-1 Molecular Epidemiology Laboratory, Microbiology and Parasitology Department, Hospital Ramón y Cajal-IRYCIS and CIBEREsp-RITIP, 28034, Madrid, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "González-Alba JM"
+          ],
+          "firstName": [
+            "José María"
+          ],
+          "lastName": [
+            "González-Alba"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Virology Section, Microbiology and Parasitology Department, Hospital Ramón y Cajal-IRYCIS and CIBEREsp, 28034, Madrid, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reina G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Reina"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbiology Department, Clínica Universidad de Navarra, Navarra Institute for Health Research (IdiSNA), Institute of Tropical Health, Universidad de Navarra (ISTUN), 31008, Pamplona, Spain. gabi@unav.es."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ndarabu A"
+          ],
+          "firstName": [
+            "Adolphe"
+          ],
+          "lastName": [
+            "Ndarabu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Monkole Hospital, Kinshasa, Democratic Republic of the Congo."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Barquín D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Barquín"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Microbiology Department, Clínica Universidad de Navarra, Navarra Institute for Health Research (IdiSNA), Institute of Tropical Health, Universidad de Navarra (ISTUN), 31008, Pamplona, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Carlos S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Carlos"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Preventive Medicine and Public Health, Navarra Institute for Health Research (IdiSNA), Institute of Tropical Health, Universidad de Navarra (ISTUN), Pamplona, 31008, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Galán JC"
+          ],
+          "firstName": [
+            "Juan Carlos"
+          ],
+          "lastName": [
+            "Galán"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Virology Section, Microbiology and Parasitology Department, Hospital Ramón y Cajal-IRYCIS and CIBEREsp, 28034, Madrid, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Holguín Á"
+          ],
+          "firstName": [
+            "África"
+          ],
+          "lastName": [
+            "Holguín"
+          ],
+          "initials": [
+            "Á"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "HIV-1 Molecular Epidemiology Laboratory, Microbiology and Parasitology Department, Hospital Ramón y Cajal-IRYCIS and CIBEREsp-RITIP, 28034, Madrid, Spain. africa.holguin@salud.madrid.org."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "3032300"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "18461"
+  ],
+  "abstractText": [
+    "HIV-1 diversity may impact monitoring and vaccine development. We describe the most recent data of HIV-1 variants and their temporal trends in the Democratic Republic of Congo (DRC) from 1976 to 2018 and in Kinshasa from 1983-2018. HIV-1 pol sequencing from dried blood collected in Kinshasa during 2016-2018 was done in 340 HIV-infected children/adolescents/adults to identify HIV-1 variants by phylogenetic reconstructions. Recombination events and transmission clusters were also analyzed. Variant distribution and genetic diversity were compared to historical available pol sequences from the DRC in Los Alamos Database (LANL). We characterized 165 HIV-1 pol variants circulating in Kinshasa (2016-2018) and compared them with 2641 LANL sequences from the DRC (1976-2012) and Kinshasa (1983-2008). During 2016-2018 the main subtypes were A (26.7%), G (9.7%) and C (7.3%). Recombinants accounted for a third of infections (12.7%/23.6% Circulant/Unique Recombinant Forms). We identified the first CRF47_BF reported in Africa and four transmission clusters. A significant increase of subtype A and sub-subtype F1 and a significant reduction of sub-subtype A1 and subtype D were observed in Kinshasa during 2016-2018 compared to variants circulating in the city from 1983 to 2008. We provide unique and updated information related to HIV-1 variants currently circulating in Kinshasa, reporting the temporal trends of subtypes/CRF/URF during 43 years in the DRC, and providing the most extensive data on children/adolescents."
+  ],
+  "affiliation": [
+    "HIV-1 Molecular Epidemiology Laboratory, Microbiology and Parasitology Department, Hospital Ramón y Cajal-IRYCIS and CIBEREsp-RITIP, 28034, Madrid, Spain."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PI16/01908"
+          ],
+          "agency": [
+            "Instituto de Salud Carlos III"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "045-2015"
+          ],
+          "agency": [
+            "Departamento de Educación, Gobierno de Navarra"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-020-74558-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7595211"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7595211?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-29"
+  ],
+  "firstIndexDate": [
+    "2020-10-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-31"
+  ],
+  "dateOfRevision": [
+    "2020-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-28"
+  ],
+  "firstPublicationDate": [
+    "2020-10-28"
+  ]
+}

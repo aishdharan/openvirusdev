@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff2">
+ <label>2</label>
+ <institution content-type="department">Internal Medicine</institution>, 
+ <institution>Detroit Medical Center</institution>, 
+ <addr-line content-type="city">Detroit</addr-line>, 
+ <addr-line content-type="state">Michigan</addr-line>, 
+ <country>USA</country>
+</aff>

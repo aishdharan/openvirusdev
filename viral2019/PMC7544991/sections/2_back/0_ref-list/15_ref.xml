@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B15">
+ <label>15.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Juno</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>HX</given-names>
+   </name>
+   <name>
+    <surname>Lee</surname>
+    <given-names>WS</given-names>
+   </name>
+   <name>
+    <surname>Reynaldi</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Kelly</surname>
+    <given-names>HG</given-names>
+   </name>
+   <name>
+    <surname>Wragg</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Humoral and circulating follicular helper T cell responses in recovered patients with COVID-19</article-title>. 
+  <source>Nat Med</source>. (
+  <year>2020</year>) 
+  <volume>26</volume>:
+  <fpage>1428</fpage>–
+  <lpage>34</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41591-020-0995-0</pub-id>
+  <?supplied-pmid 32661393?>
+  <pub-id pub-id-type="pmid">32661393</pub-id>
+ </mixed-citation>
+</ref>

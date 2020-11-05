@@ -1,0 +1,260 @@
+{
+  "id": [
+    "PMC7543942"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7543942"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7543942"
+      ]
+    }
+  ],
+  "title": [
+    "COVID-19 pandemic, health risks, and economic consequences: Evidence from China"
+  ],
+  "authorString": [
+    "Zhao B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "64"
+      ],
+      "journalIssueId": [
+        "3039748"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "China Economic Review"
+          ],
+          "ISSN": [
+            "1043-951X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "101561-101561"
+  ],
+  "abstractText": [
+    "This paper introduces the Susceptible-Infectious-Recovered model into the Bewley-type incomplete market model and uses it to study the impact of the coronavirus disease (COVID-19) pandemic on China's macroeconomics. The calibrated model predicts that the average propensity to consume household wealth will decline, while the demand for money will increase, and these predictions are consistent with the data. Monetary policy is effective because it provides enough liquidity for households to buffer health risks. Monetary stimulus is more effective in an economy with greater health risks and consumption uncertainty. Counterfactual experiments show that abandoning the containment policy too early would avoid a sharp drop in output and employment in the short term, but it would greatly increase mortality and ultimately lead to a decline in social welfare. Highlights • The paper quantifies the impact of the COVID-19 pandemic on China's macroeconomics using Bewley-type incomplete market model.• Monetary stimulus is more effective in an economy with greater health risks and consumption uncertainty• Abandoning the containment policy too early would greatly increase mortality and lead to a decline in social welfare."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Health Risks",
+        "Covid-19",
+        "Containment Policy",
+        "Bewley Model"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543942/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543942/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7543942"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7543942?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-12"
+  ],
+  "firstIndexDate": [
+    "2020-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-12"
+  ],
+  "dateOfRevision": [
+    "2020-10-21"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-08"
+  ],
+  "firstPublicationDate": [
+    "2020-10-08"
+  ]
+}

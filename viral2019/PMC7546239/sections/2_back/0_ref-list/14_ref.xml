@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b14">
+ <element-citation publication-type="journal" id="sb14">
+  <person-group person-group-type="author">
+   <name>
+    <surname>He</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Peng</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>K.</given-names>
+   </name>
+  </person-group>
+  <article-title>SEIR modeling of the COVID-19 and its dynamics</article-title>
+  <source>Nonlinear Dynamics</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1007/s11071-020-05743-y</pub-id>
+ </element-citation>
+</ref>

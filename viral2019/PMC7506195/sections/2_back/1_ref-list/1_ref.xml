@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rudan</surname>
+    <given-names>I</given-names>
+   </name>
+  </person-group>
+  <article-title>Answering the initial 20 questions on COVID-19 (January-February 2020).</article-title>
+  <source>J Glob Health</source>. 
+  <year>2020</year>;
+  <volume>10</volume>:
+  <elocation-id>010106</elocation-id>. 
+  <pub-id pub-id-type="doi">10.7189/jogh.10.010106</pub-id>
+  <?supplied-pmid 32566149?>
+  <pub-id pub-id-type="pmid">32566149</pub-id>
+ </mixed-citation>
+</ref>

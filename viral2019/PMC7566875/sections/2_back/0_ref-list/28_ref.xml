@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b28">
+ <label>28</label>
+ <element-citation publication-type="book" id="sb28">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Byambasuren</surname>
+    <given-names>Oyungerel</given-names>
+   </name>
+   <name>
+    <surname>Cardona</surname>
+    <given-names>Magnolia</given-names>
+   </name>
+   <name>
+    <surname>Bell</surname>
+    <given-names>Katy</given-names>
+   </name>
+   <name>
+    <surname>Clark</surname>
+    <given-names>Justin</given-names>
+   </name>
+   <name>
+    <surname>McLaws</surname>
+    <given-names>Mary-Louise</given-names>
+   </name>
+   <name>
+    <surname>Glasziou</surname>
+    <given-names>Paul</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Estimating the extent of true asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis</chapter-title>
+  <year>2020</year>
+  <comment>Available at SSRN 3586675</comment>
+ </element-citation>
+</ref>

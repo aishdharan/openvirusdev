@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b9">
+ <label>9</label>
+ <element-citation publication-type="journal" id="sb9">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grigorieva</surname>
+    <given-names>E.V.</given-names>
+   </name>
+   <name>
+    <surname>Khailov</surname>
+    <given-names>E.N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Optimal vaccination, treatment, and preventive campaigns in regard to the SIR epidemic model</article-title>
+  <source>Math. Model. Nat. Phenom.</source>
+  <volume>9</volume>
+  <issue>4</issue>
+  <year>2014</year>
+  <fpage>105</fpage>
+  <lpage>121</lpage>
+ </element-citation>
+</ref>

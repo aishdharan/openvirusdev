@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The differential equations of the SIR model are given as:
+ <disp-formula id="deqn01">
+  <label>(1)</label>
+  <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{eqnarray*} &amp;&amp; \frac{\mathrm{d}S(t)}{\mathrm{d}t}=-\beta S(t)\frac{I(t)}{N},\frac{\mathrm{d}I(t)}{\mathrm{d}t}=\beta S(t)\frac{I(t)}{N}-\gamma I(t),\frac{\mathrm{d}R(t)}{\mathrm{d}t} \nonumber\\ &amp;&amp; \qquad \,\ = \gamma I(t),S(t)+I(t)+R(t)=N, \end{eqnarray*}\end{document}</tex-math>
+ </disp-formula> where 
+ <inline-formula>
+  <tex-math id="M2">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}$S(t)$\end{document}</tex-math>
+ </inline-formula>, 
+ <inline-formula>
+  <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}$I(t)$\end{document}</tex-math>
+ </inline-formula> and 
+ <inline-formula>
+  <tex-math id="M4">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}$R(t)$\end{document}</tex-math>
+ </inline-formula> are the number of susceptible, infected and removed people. 
+ <inline-formula>
+  <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}$\beta$\end{document}</tex-math>
+ </inline-formula> is the infection rate, and 
+ <inline-formula>
+  <tex-math id="M6">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}$\gamma$\end{document}</tex-math>
+ </inline-formula> is the remove rate which is the inverse of infectious period. The basic reproduction number, 
+ <inline-formula>
+  <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}${R}_0$\end{document}</tex-math>
+ </inline-formula>, is the average number of the secondary individuals in a complete susceptible population infected by a single infected person during its spreading life. When 
+ <inline-formula>
+  <tex-math id="M8">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}${R}_0&gt;1$\end{document}</tex-math>
+ </inline-formula>, the virus spreads through the population, and when 
+ <inline-formula>
+  <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}${R}_0&lt;1$\end{document}</tex-math>
+ </inline-formula> the outbreak will stop due to decreasing the number of new cases. 
+ <inline-formula>
+  <tex-math id="M10">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}${R}_0$\end{document}</tex-math>
+ </inline-formula> can be calculated as the following:
+ <disp-formula id="deqn02">
+  <label>(2)</label>
+  <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{eqnarray*} &amp;&amp; \frac{\mathrm{d}I(t)}{\mathrm{d}t}&gt;0\Rightarrow \beta S(t)\frac{I(t)}{N}-\gamma I(t)&gt;0\Rightarrow I(t)\ \left(\beta \frac{S(t)}{N}-\gamma \right)\nonumber\\ &amp;&amp; \,\ \qquad &gt; 0\overset{S(t)\approx N}{\Rightarrow }I(t)\ \left(\beta -\gamma \right) \Rightarrow \beta -\gamma &gt;0\Rightarrow \beta &gt;\gamma \Rightarrow \frac{\beta }{\gamma }\nonumber \\ &amp;&amp; \,\ \qquad &gt;1\Rightarrow{R}_0=\frac{\beta }{\gamma } \end{eqnarray*}\end{document}</tex-math>
+ </disp-formula>
+</p>

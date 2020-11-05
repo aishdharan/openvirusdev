@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>[1]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Curtiss</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Strazzulla</surname>
+    <given-names>LC</given-names>
+   </name>
+   <name>
+    <surname>Friedman-Kien</surname>
+    <given-names>AE</given-names>
+   </name>
+  </person-group>
+  <article-title>An update on Kaposi's sarcoma: epidemiology, pathogenesis and treatment</article-title>. 
+  <source>Dermatol Ther (Heidelb)</source>
+  <year>2016</year>;
+  <volume>6</volume>:
+  <fpage>465</fpage>–
+  <lpage>70</lpage>.
+  <pub-id pub-id-type="pmid">27804093</pub-id>
+ </mixed-citation>
+</ref>

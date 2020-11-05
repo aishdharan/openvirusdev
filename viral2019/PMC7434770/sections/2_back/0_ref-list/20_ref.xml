@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib20">
+ <label>20</label>
+ <element-citation publication-type="journal" id="sref20">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chevance</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Gourion</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Hoertel</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Llorca</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Thomas</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Bocher</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Ensuring mental health care during the SARS-CoV-2 epidemic in France: a narrative review</article-title>
+  <source>Encephale</source>
+  <volume>46</volume>
+  <year>2020</year>
+  <fpage>193</fpage>
+  <lpage>201</lpage>
+  <pub-id pub-id-type="pmid">32370982</pub-id>
+ </element-citation>
+</ref>

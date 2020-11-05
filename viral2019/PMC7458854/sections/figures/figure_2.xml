@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" fig-type="figure" orientation="portrait" position="float">
+ <?Figure Large?>
+ <label>Fig. 2</label>
+ <caption>
+  <title>Results of the Susceptible-Exposed-Infected-Recovered-Dead model for normal infection. (
+   <bold>A</bold>) λ
+   <sub>I</sub> = −0.1 days for Seoul is calculated as the difference between the actual epidemic peak 
+   <italic>d</italic>
+   <sub>I.a</sub> = 53 days and the modeled epidemic peak 
+   <italic>d</italic>
+   <sub>I.m</sub> = 53.1 days. (
+   <bold>B</bold>) λ
+   <sub>I</sub> = 0.1 days for Gyeonggi is calculated as the difference between the actual epidemic peak 
+   <italic>d</italic>
+   <sub>I.a</sub> = 50 days and the modeled epidemic peak 
+   <italic>d</italic>
+   <sub>I.m</sub> = 49.9 days.
+  </title>
+ </caption>
+ <graphic xlink:href="jkms-35-e317-g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b20">
+ <label>20</label>
+ <element-citation publication-type="journal" id="sb20">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Diekmann</surname>
+    <given-names>Odo</given-names>
+   </name>
+   <name>
+    <surname>Heesterbeek</surname>
+    <given-names>J.A.P.</given-names>
+   </name>
+   <name>
+    <surname>Roberts</surname>
+    <given-names>Michael G.</given-names>
+   </name>
+  </person-group>
+  <article-title>The construction of next-generation matrices for compartmental epidemic models</article-title>
+  <source>J. R. Soc. Interface</source>
+  <volume>7</volume>
+  <issue>47</issue>
+  <year>2010</year>
+  <fpage>873</fpage>
+  <lpage>885</lpage>
+  <pub-id pub-id-type="pmid">19892718</pub-id>
+ </element-citation>
+</ref>

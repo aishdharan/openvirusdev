@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F2" orientation="portrait" position="float">
+ <label>Figure 2.
+  <span xml:space="preserve" class="x" xmlns="http://www.w3.org/1999/xhtml"> </span>
+ </label>
+ <caption>
+  <title>Chronology of treatment and detection of reverse transcriptase-PCR on throat swabs, sputum swabs and anal swabs.</title>
+  <p>The box with an internal red cross means admission to the hospital; the box with an internal green cross means quarantined in the hotel or in the hospital for 2 weeks.</p>
+  <p>+: Positive result; -: Negative result; ND: No detection.</p>
+ </caption>
+ <graphic xlink:href="figure2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

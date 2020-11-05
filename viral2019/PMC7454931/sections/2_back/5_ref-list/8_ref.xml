@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib8">
+ <label>8</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Tuite</surname>
+    <given-names>AR</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ng</surname>
+    <given-names>V</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Rees</surname>
+    <given-names>E</given-names>
+   </name>
+   <etal>et al</etal>.
+  </person-group>
+  <article-title>Estimation of the COVID-19 burden in Egypt through exported case detection</article-title>. 
+  <source>Lancet Infect Dis</source>. 
+  <year>2020</year>:
+  <volume>20</volume>(
+  <issue>8</issue>):
+  <fpage>894</fpage>.
+ </mixed-citation>
+</ref>

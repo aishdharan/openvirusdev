@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B14">
+ <label>14.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Trifinopoulos</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Nguyen</surname>
+    <given-names>LT</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>von Haeseler</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Minh</surname>
+    <given-names>BQ</given-names>
+   </name>
+  </person-group>
+  <year>2016</year>
+  <article-title>W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis</article-title>. 
+  <source>Nucleic Acids Res</source>
+  <volume>44</volume>:
+  <fpage>W232</fpage>–
+  <lpage>W235</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1093/nar/gkw256</pub-id>.
+  <pub-id pub-id-type="pmid">27084950</pub-id>
+ </mixed-citation>
+</ref>

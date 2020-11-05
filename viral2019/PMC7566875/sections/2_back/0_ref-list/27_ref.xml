@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b27">
+ <label>27</label>
+ <element-citation publication-type="book" id="sb27">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baqaee</surname>
+    <given-names>David</given-names>
+   </name>
+   <name>
+    <surname>Farhi</surname>
+    <given-names>Emmanuel</given-names>
+   </name>
+   <name>
+    <surname>Mina</surname>
+    <given-names>Michael</given-names>
+   </name>
+   <name>
+    <surname>Stock</surname>
+    <given-names>James H.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Reopening Scenarios: NBER Working Paper No. w27244</chapter-title>
+  <year>2020</year>
+  <comment>Available at SSRN: 
+   <ext-link ext-link-type="uri" xlink:href="https://ssrn.com/abstract%3D3609697" id="interref7" xmlns:xlink="http://www.w3.org/1999/xlink">https://ssrn.com/abstract=3609697</ext-link>
+  </comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The infection trend predicted in the SEIRD model
+ <xref rid="B10" ref-type="bibr">10</xref>
+ <xref rid="B11" ref-type="bibr">11</xref> was greatly influenced by the transmission rate and incubation period, and these two variables were dominant factors in the actual infection trend. As a result, actual and predicted infection trends had morphological similarities. Therefore, it is easy to compare actual and predicted infection trends based on infection peaks. On the other hand, recovery trend prediction was affected by the recovery rate and fatality rate, but it was not easy to apply the values of these variables to any region or country to predict. Actually, for COVID-19, the recovery rates investigated in several studies
+ <xref rid="B12" ref-type="bibr">12</xref>
+ <xref rid="B14" ref-type="bibr">14</xref>
+ <xref rid="B15" ref-type="bibr">15</xref>
+ <xref rid="B16" ref-type="bibr">16</xref>
+ <xref rid="B18" ref-type="bibr">18</xref>
+ <xref rid="B21" ref-type="bibr">21</xref>
+ <xref rid="B24" ref-type="bibr">24</xref> had the largest minimum-to-maximum ratio compared to other variables. In addition, the recovery trend, unlike the infection trend, had no characteristic points that can be used as a reference point. For this reason, in the comparison of recovery trends, the difference in the number of recoverers was used, not the time (day).
+</p>

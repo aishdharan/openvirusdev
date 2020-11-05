@@ -1,0 +1,357 @@
+{
+  "id": [
+    "32317436"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32317436"
+  ],
+  "pmcid": [
+    "PMC7350463"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7350463"
+      ]
+    }
+  ],
+  "doi": [
+    "10.4103/ijo.ijo_626_20"
+  ],
+  "title": [
+    "Epidemic Keratoconjunctivitis in India: Trend Analysis and Implications for Viral Outbreaks."
+  ],
+  "authorString": [
+    "Das AV, Basu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Das AV"
+          ],
+          "firstName": [
+            "Anthony V"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9692-2621",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of eyeSmart EMR and AEye, L V Prasad Eye Institute; Indian Health Outcomes Public Health and Economics Research Centre (IHOPE), L V Prasad Eye Institute, Hyderabad, Telangana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Basu S"
+          ],
+          "firstName": [
+            "Sayan"
+          ],
+          "lastName": [
+            "Basu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5030-5003",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Cornea Institute; Center for Ocular Regeneration (CORE), L V Prasad Eye Institute, Hyderabad, Telangana, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9692-2621",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5030-5003",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "68"
+      ],
+      "journalIssueId": [
+        "2945555"
+      ],
+      "dateOfPublication": [
+        "2020 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of ophthalmology"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Ophthalmol"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Ophthalmol"
+          ],
+          "NLMid": [
+            "0405376"
+          ],
+          "ISSN": [
+            "0301-4738"
+          ],
+          "ESSN": [
+            "1998-3689"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "732-736"
+  ],
+  "abstractText": [
+    "Purpose:To describe the correlation between the temporal pattern of presentation of acute epidemic keratoconjunctivitis (EKC) of presumed adenoviral etiology with meteorological parameters such as environmental temperature, rainfall, humidity, and wind speed. Methods:This cross-sectional hospital-based study included 2,408,819 patients presenting between August 2010 and February 2020. Patients with a clinical diagnosis of EKC in at least one eye were included as cases. A smaller cohort of patients with acute (≤1 week) presentation hailing from the district of Hyderabad during the calendar years 2016-2019 was used to perform correlation analysis with the local environmental temperature, rainfall, humidity, and wind speed (data obtained from the Telangana State Development and Planning Society). Results:Overall, 21,196 (0.87%) patients were diagnosed with EKC, of which 19,203 (90.6%) patients had acute onset; among which the cohort from the district of Hyderabad included 1,635 (8.51%) patients. The mean monthly prevalence in this cohort was 0.89% with a peak prevalence in April (1.09%). The environmental parameters of rainfall (r2 = 0.47/P = 0.0131), humidity (r2 = 0.65/P = 0.0014), and wind speed (r2 = 0.56/P = 0.0047) were significantly negatively correlated with the temporal pattern of EKC in the population. There was no visible trend or significant correlation seen with temperature (r2 = 0.08/P = 0.3793). Conclusion:Contrary to popular belief, epidemic viral infections like EKC may not be affected by temperature, but rather by a complex interplay of other environmental factors such as humidity, rainfall, and wind speed. An increase in rainfall, wind speed, and humidity contributes to a lower prevalence of EKC cases during the year."
+  ],
+  "affiliation": [
+    "Department of eyeSmart EMR and AEye, L V Prasad Eye Institute; Indian Health Outcomes Public Health and Economics Research Centre (IHOPE), L V Prasad Eye Institute, Hyderabad, Telangana, India."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Adenovirus",
+        "Trend analysis",
+        "Epidemic Keratoconjunctivitis",
+        "Adenoviral Keratoconjunctivitis",
+        "Adenoviral Conjunctivitis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/ijo.IJO_626_20"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7350463"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "32317437"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Indian J Ophthalmol. 2020 May;68(5):736-737"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-04-23"
+  ],
+  "firstIndexDate": [
+    "2020-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-07-17"
+  ],
+  "dateOfRevision": [
+    "2020-09-11"
+  ],
+  "firstPublicationDate": [
+    "2020-05-01"
+  ]
+}

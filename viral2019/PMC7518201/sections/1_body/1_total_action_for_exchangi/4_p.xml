@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0040">Firstly, let us introduce the action of the regional manifold which could be written similar to the acton of strings and is given by (
+ <xref rid="bib5" ref-type="bibr">Grignani et al., 2017</xref>):
+ <disp-formula id="fd1">
+  <label>(1)</label>
+  <math id="M1" display="block" altimg="si1.svg" alttext="Equation 1.">
+   <mtable columnalign="left">
+    <mtr>
+     <mtd>
+      <mrow>
+       <msub>
+        <mi>S</mi>
+        <mrow>
+         <mi>P</mi>
+         <mi>e</mi>
+         <mi>n</mi>
+         <mi>d</mi>
+         <mi>a</mi>
+         <mi>m</mi>
+         <mi>i</mi>
+         <mi>c</mi>
+         <mo linebreak="badbreak">−</mo>
+         <mi>C</mi>
+         <mi>O</mi>
+         <mi>V</mi>
+         <mi>I</mi>
+         <mi>D</mi>
+         <mn>19</mn>
+        </mrow>
+       </msub>
+       <mo linebreak="badbreak">=</mo>
+       <mo linebreak="badbreak">−</mo>
+       <mo>∫</mo>
+       <msup>
+        <mi>d</mi>
+        <mi>n</mi>
+       </msup>
+       <mi>y</mi>
+       <msqrt>
+        <mrow>
+         <mo>−</mo>
+         <mi>det</mi>
+         <mrow>
+          <mo stretchy="true">(</mo>
+          <mrow>
+           <msub>
+            <mrow>
+             <mover accent="true">
+              <mi>γ</mi>
+              <mo>¯</mo>
+             </mover>
+            </mrow>
+            <mrow>
+             <mi>a</mi>
+             <mi>b</mi>
+            </mrow>
+           </msub>
+           <mo linebreak="badbreak">+</mo>
+           <mrow>
+            <mo stretchy="true">[</mo>
+            <mn>2</mn>
+            <mi>π</mi>
+            <msubsup>
+             <mi>l</mi>
+             <mi>P</mi>
+             <mn>2</mn>
+            </msubsup>
+            <mo stretchy="true">]</mo>
+           </mrow>
+           <mi>C</mi>
+           <mi>O</mi>
+           <msub>
+            <mi>V</mi>
+            <mrow>
+             <mi>a</mi>
+             <mi>b</mi>
+            </mrow>
+           </msub>
+          </mrow>
+          <mo stretchy="true">)</mo>
+         </mrow>
+        </mrow>
+       </msqrt>
+       <mo>,</mo>
+      </mrow>
+     </mtd>
+    </mtr>
+    <mtr>
+     <mtd>
+      <mrow>
+       <msub>
+        <mrow>
+         <mover accent="true">
+          <mi>γ</mi>
+          <mo>¯</mo>
+         </mover>
+        </mrow>
+        <mrow>
+         <mi>a</mi>
+         <mi>b</mi>
+        </mrow>
+       </msub>
+       <mo linebreak="badbreak">=</mo>
+       <msub>
+        <mi>g</mi>
+        <mrow>
+         <mi>μ</mi>
+         <mi>ν</mi>
+        </mrow>
+       </msub>
+       <msub>
+        <mo>∂</mo>
+        <mi>a</mi>
+       </msub>
+       <msup>
+        <mi>P</mi>
+        <mi>μ</mi>
+       </msup>
+       <msub>
+        <mo>∂</mo>
+        <mi>b</mi>
+       </msub>
+       <msup>
+        <mi>P</mi>
+        <mi>ν</mi>
+       </msup>
+       <mo>,</mo>
+      </mrow>
+     </mtd>
+    </mtr>
+    <mtr>
+     <mtd>
+      <mrow>
+       <mi>C</mi>
+       <mi>O</mi>
+       <msub>
+        <mi>V</mi>
+        <mrow>
+         <mi>a</mi>
+         <mi>b</mi>
+        </mrow>
+       </msub>
+       <mo linebreak="badbreak">=</mo>
+       <msub>
+        <mo>∂</mo>
+        <mi>a</mi>
+       </msub>
+       <msub>
+        <mi>C</mi>
+        <mi>b</mi>
+       </msub>
+       <mo linebreak="badbreak">−</mo>
+       <msub>
+        <mo>∂</mo>
+        <mi>b</mi>
+       </msub>
+       <msub>
+        <mi>C</mi>
+        <mi>a</mi>
+       </msub>
+      </mrow>
+     </mtd>
+    </mtr>
+   </mtable>
+  </math>
+ </disp-formula>where y is the space-time coordinate for each country or region, 
+ <inline-formula>
+  <math id="M2" altimg="si2.svg">
+   <mrow>
+    <msub>
+     <mi>C</mi>
+     <mi>b</mi>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> is the COVID19 field, 
+ <inline-formula>
+  <math id="M3" altimg="si3.svg">
+   <mrow>
+    <mi>C</mi>
+    <mi>O</mi>
+    <msub>
+     <mi>V</mi>
+     <mrow>
+      <mi>a</mi>
+      <mi>b</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> is the field strength related to it, 
+ <inline-formula>
+  <math id="M4" altimg="si4.svg">
+   <mrow>
+    <msup>
+     <mi>P</mi>
+     <mi>μ</mi>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula> is the pandemic function for this disease, 
+ <inline-formula>
+  <math id="M5" altimg="si5.svg">
+   <mrow>
+    <msub>
+     <mi>g</mi>
+     <mrow>
+      <mi>μ</mi>
+      <mi>ν</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> is the metric and 
+ <inline-formula>
+  <math id="M6" altimg="si6.svg">
+   <mrow>
+    <msub>
+     <mi>l</mi>
+     <mi>s</mi>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> is the pandemic length. Also, indices (a,b 
+ <inline-formula>
+  <math id="M7" altimg="si7.svg">
+   <mrow>
+    <mi>μ</mi>
+    <mi>ν</mi>
+   </mrow>
+  </math>
+ </inline-formula>) correspond to the countries. For example, for a country like China, we can put (
+ <inline-formula>
+  <math id="M8" altimg="si8.svg">
+   <mrow>
+    <mi>μ</mi>
+    <mo>,</mo>
+    <mi>ν</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1,1</mn>
+   </mrow>
+  </math>
+ </inline-formula>), while for Italy ((
+ <inline-formula>
+  <math id="M9" altimg="si9.svg">
+   <mrow>
+    <mi>μ</mi>
+    <mo>,</mo>
+    <mi>ν</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>3,2</mn>
+   </mrow>
+  </math>
+ </inline-formula>)). By using these indices, we can associate a number to each country, and consider the regional dependency of transmission risk factors. Substituting 
+ <inline-formula>
+  <math id="M10" altimg="si10.svg">
+   <mrow>
+    <msup>
+     <mi>P</mi>
+     <mn>0</mn>
+    </msup>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi>t</mi>
+   </mrow>
+  </math>
+ </inline-formula> and doing some mathematical calculations, the action of the regional manifold in equation 
+ <xref rid="fd1" ref-type="disp-formula">(1)</xref> is given by:
+ <disp-formula id="fd2">
+  <label>(2)</label>
+  <math id="M11" display="block" altimg="si11.svg" alttext="Equation 2.">
+   <mrow>
+    <msub>
+     <mi>S</mi>
+     <mrow>
+      <mi>P</mi>
+      <mi>e</mi>
+      <mi>n</mi>
+      <mi>d</mi>
+      <mi>a</mi>
+      <mi>m</mi>
+      <mi>i</mi>
+      <mi>c</mi>
+      <mo linebreak="badbreak">−</mo>
+      <mi>C</mi>
+      <mi>O</mi>
+      <mi>V</mi>
+      <mi>I</mi>
+      <mi>D</mi>
+      <mn>19</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="badbreak">=</mo>
+    <mo linebreak="goodbreak">−</mo>
+    <mo>∫</mo>
+    <msup>
+     <mi>d</mi>
+     <mi>n</mi>
+    </msup>
+    <mi>y</mi>
+    <msqrt>
+     <mrow>
+      <mn>1</mn>
+      <mo linebreak="badbreak">+</mo>
+      <msub>
+       <mi>g</mi>
+       <mrow>
+        <mi>i</mi>
+        <mi>j</mi>
+       </mrow>
+      </msub>
+      <msub>
+       <mo>∂</mo>
+       <mi>a</mi>
+      </msub>
+      <msup>
+       <mi>P</mi>
+       <mi>i</mi>
+      </msup>
+      <msup>
+       <mo>∂</mo>
+       <mi>a</mi>
+      </msup>
+      <msup>
+       <mi>P</mi>
+       <mi>j</mi>
+      </msup>
+      <mo linebreak="badbreak">−</mo>
+      <mn>4</mn>
+      <msup>
+       <mi>π</mi>
+       <mn>2</mn>
+      </msup>
+      <msubsup>
+       <mi>l</mi>
+       <mi>P</mi>
+       <mn>4</mn>
+      </msubsup>
+      <mi>C</mi>
+      <msub>
+       <mi>O</mi>
+       <mrow>
+        <mi>a</mi>
+        <mi>b</mi>
+       </mrow>
+      </msub>
+      <mi>C</mi>
+      <msup>
+       <mi>O</mi>
+       <mrow>
+        <mi>a</mi>
+        <mi>b</mi>
+       </mrow>
+      </msup>
+     </mrow>
+    </msqrt>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

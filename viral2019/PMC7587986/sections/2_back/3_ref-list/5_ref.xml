@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B5">
+ <label>5</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Riley</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Transmission Dynamics of the Etiological Agent of SARS in Hong Kong: Impact of Public Health Interventions</article-title>
+  <source> Science</source>
+  <year>2003</year>
+  <volume>300</volume>
+  <issue>5627</issue>
+  <fpage>1961</fpage>
+  <lpage>6</lpage>
+  <pub-id pub-id-type="pmid">12766206</pub-id>
+ </element-citation>
+</ref>

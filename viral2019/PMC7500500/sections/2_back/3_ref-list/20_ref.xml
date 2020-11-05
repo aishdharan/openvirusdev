@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hani</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Trieu</surname>
+    <given-names>NH</given-names>
+   </name>
+   <name>
+    <surname>Saab</surname>
+    <given-names>I</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>COVID-19 pneumonia: a review of typical CT findings and differential diagnosis</article-title>
+  <source>Diagn Interv Imaging</source>
+  <year>2020</year>
+  <volume>101</volume>
+  <issue>5</issue>
+  <fpage>263</fpage>
+  <lpage>268</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.diii.2020.03.014</pub-id>
+  <?supplied-pmid 32291197?>
+  <pub-id pub-id-type="pmid">32291197</pub-id>
+ </element-citation>
+</ref>

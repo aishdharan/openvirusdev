@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par12">A common approach for explaining and analyzing real-world phenomena is to establish epidemiological models based on real-world observation data. These epidemiological models are always nonlinear dynamical models with high parameter dimension, which is often presented as a set of ordinary differential equations (ODEs) or discrete-time equations containing a large volume of unknown parameters [
+ <xref ref-type="bibr" rid="CR40">40</xref>]. The identification of a large volume of unknown parameters from historical observation data is critical for judging the performance of an epidemiological model. The method for identifying unknown parameters can be classified as “reverse engineering techniques,” which usually formulate the problem of parameter identification into a nonlinear optimization problem that minimizes an objective function representing the fitness of the model with respect to the observation data [
+ <xref ref-type="bibr" rid="CR23">23</xref>, 
+ <xref ref-type="bibr" rid="CR24">24</xref>]. The identification results are highly dependent on the optimization algorithm. Due to the simplicity and ease of use, evolutionary algorithms are widely utilized to identify unknown parameters of nonlinear dynamic models [
+ <xref ref-type="bibr" rid="CR41">41</xref>–
+ <xref ref-type="bibr" rid="CR44">44</xref>]. However, for nonlinear dynamical systems with high parameter dimension, the objective function is always complicated and has tremendous local minima. Parameter estimation algorithms face a high possibility of converging at local optima but not global minima [
+ <xref ref-type="bibr" rid="CR45">45</xref>]. Additionally, one parameter identification trial always required tens of hours computation time [
+ <xref ref-type="bibr" rid="CR46">46</xref>, 
+ <xref ref-type="bibr" rid="CR47">47</xref>]. Therefore, the parameter estimation problem is still a challenging task and even a bottleneck for nonlinear dynamical models with high parameter dimension. Evolutionary algorithms have been extensively used in nonlinear optimization problems and shown that can provide satisfying results [
+ <xref ref-type="bibr" rid="CR25">25</xref>–
+ <xref ref-type="bibr" rid="CR27">27</xref>, 
+ <xref ref-type="bibr" rid="CR48">48</xref>]. In this article, a new pseudocoevolutionary algorithm is proposed to solve this hard engineering problem, and the more detail information about hard engineering can be found in [
+ <xref ref-type="bibr" rid="CR49">49</xref>–
+ <xref ref-type="bibr" rid="CR52">52</xref>].
+</p>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Throughout our analysis, we used 
+ <inline-formula>
+  <math id="i36">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>2.3</mn>
+  </math>
+ </inline-formula>, broadly in line with most early estimates; however, some estimates were higher. We repeated our analysis using 
+ <inline-formula>
+  <math id="i37">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>5.7</mn>
+  </math>
+ </inline-formula> (
+ <xref rid="r27" ref-type="bibr">27</xref>), finding that, as might be expected, the range of intervention parameters that led to successful suppression was reduced (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2008087117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Fig. S5
+ </ext-link>). However, our main finding was reinforced: Higher values of 
+ <inline-formula>
+  <math id="i38">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> narrow the window for successful mitigation (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2008087117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Fig. S6
+ </ext-link>).
+</p>

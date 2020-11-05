@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>After removing the duplicate sequences from the same individuals, sequences from these two sources formed the combined dataset. Having considered the number of different HIV genome regions sequences (
+ <xref ref-type="supplementary-material" rid="pone.0241269.s007">S2 Table</xref>) from the FSU countries, we decided to focus our analysis on the HIV-1 
+ <italic>pol</italic> gene sequences; this allowed maintaining a balance between (i) sequences availability for the maximum number of regional samples, and (ii) optimal length of sequences to avoid sacrificing nucleic acid substitution information. Based on these criteria, a total of 152 sequences from ten FSU countries with collection dates 1997–2019 were selected. After excluding seven low-quality sequences, only 145 sequences were subsequently used; six CRF03_AB 
+ <italic>pol</italic> sequences from non-FSU countries (Spain, China and United Kingdom) were additionally included (all or part) into phylodynamic and phylogeographic analyses. GenBank Accession numbers, origin information and date of HIV-1 sequences sampling used in this study are present in 
+ <xref ref-type="supplementary-material" rid="pone.0241269.s008">S3 Table</xref>. After sequence alignmenting with MAFFT [
+ <xref rid="pone.0241269.ref042" ref-type="bibr">42</xref>], trimming and removing all codons associated with major drug-resistance mutations [
+ <xref rid="pone.0241269.ref043" ref-type="bibr">43</xref>], the total length of the alignment was 954 nucleotides which covered the entire protease (PR) and partial reverse transcriptase (RT) regions (positions 2253–3551, HXB2-numbering).
+</p>

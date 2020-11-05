@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Results of a comprehensive retrospective cohort study of close contacts in Shenzhen, China, were used to impute the serial interval distribution (mean = 6.3 days, SD = 4.2) [
+ <xref rid="pone.0240013.ref015" ref-type="bibr">15</xref>]. Computations were conducted in the R packages “incidence” and “epitrix” [
+ <xref rid="pone.0240013.ref016" ref-type="bibr">16</xref>]. The reproduction numbers were calculated with the R package “incidence,” which fits two exponential models to incidence data, of the form: log(y) = r*t+b where ‘y’ is the incidence, ‘t’ is time (in days), ‘r’ is the growth rate, and ‘b’ is the origin. This package will fit one model by default, but can also fit two models on either side of a splitting date (typically the peak of the epidemic). Then, the R package “epitrix” converted the growth rate (r) into a reproduction number (R). The function r2R0 was used to transform a growth rate (r) into a reproduction number estimate (R), given a generation time distribution, with the corresponding credible intervals [
+ <xref rid="pone.0240013.ref017" ref-type="bibr">17</xref>]. The averted number of confirmed COVID-19 cases, and the averted number of deaths associated with COVID-19, were estimated with a Gompertz model parametrized as y = N*exp(-exp(-a*(t-b))), using the nsl and forecast functions in R. Data through the peak of each curve were included to estimate projections [
+ <xref rid="pone.0240013.ref018" ref-type="bibr">18</xref>].
+</p>

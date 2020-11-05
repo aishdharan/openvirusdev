@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ack0001">
+ <sec id="sec0011">
+  <title>Acknowledgments</title>
+  <p id="para0045">We thank Professor Andrew Philips and the HIV Modelling Consortium for helpful discussions that contributed to this analysis.</p>
+ </sec>
+ <sec id="sec0012">
+  <title>Funding</title>
+  <p id="para0046">BLJ, JAS, and TBH acknowledge funding from the Bill &amp; Melinda Gates Foundation. The MRC Centre for Global Infectious Disease Analysis is supported by the 
+   <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.13039/100007472" id="interref0001" xmlns:xlink="http://www.w3.org/1999/xlink">UK</ext-link> Medical Research Council (MRC) and the UK Department for International Development (DFID) under the MRC/DFID Concordat agreement and is also part of the EDCTP2 programme supported by the European Union.
+  </p>
+ </sec>
+</ack>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0085">For the time-series analyses, Poisson regression models within GAMs were performed which were data-driven method designed to estimate the non-linear relation between explanative factors and dependent variables. Briefly, the model was demonstrated as follows:
+ <disp-formula id="ufd1">Log [E(Y
+  <sub>t,i</sub>)] = α + β × pollutant
+  <sub>i</sub> + s (date
+  <sub>t</sub>, df
+  <sub>1</sub>) + log [(Y
+  <sub>t-1,i</sub>)+ 1] + s (temperature
+  <sub>t,i</sub>, df
+  <sub>2</sub>) + dewpoint temperature
+  <sub>t,i</sub> + dow
+  <sub>t</sub> + lockdown
+  <sub>t</sub> + city
+  <sub>i</sub>
+ </disp-formula>
+</p>

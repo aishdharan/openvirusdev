@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0241269.g002" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0241269.g002</object-id>
+ <label>Fig 2</label>
+ <caption>
+  <title>Bayesian time-scaled maximum clade credibility tree of 151 HIV-1 CRF03_AB recombinant 
+   <italic>pol</italic> sequences from former Soviet Union and neighboring states.
+  </title>
+  <p>Tree was rooted using FSU HIV-1 A6 sequences as outgroup (presented in collapsed form). The branch support (Posterior probability) is mapped with the circles using a grey color gradient/size (greater value, darker grey/greater circle). Concentric circles show the geographical regions of origin patient, symbols indicate the transmission route. Countries and separate cities (regions) are mapped on the inner and external concentric circle, receptively, using a color code as indicated in the legend. Branch lengths of Bayesian tree are drawn to scale with the concentric circles indicating calendar years. Abbreviation: BY, Belarus; ES, Spain; KZ, Kazakhstan; LT, Lithuania; OT, Other (countries with 2 or less available sequences; 
+   <xref rid="pone.0241269.t001" ref-type="table">Table 1</xref>); RU, Russia; TJ, Tajikistan; Chr, Cherepovets; Eka, Ekaterinburg; Kal, Kaliningrad; Krs, Krasnodar; Oth, Other (cities with 2 or less available sequences; 
+   <xref rid="pone.0241269.t001" ref-type="table">Table 1</xref>); Prm, Perm’; Spb, Saint-Petersburg; Tym, Tyumen’; Yam, Yamalo-Nenets Autonomous district; HSX, heterosexual contacts; IDU, injection drug users; MSM, men who have sex with men; MTC, mother-to-child transmission.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0241269.g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

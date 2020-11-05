@@ -1,0 +1,615 @@
+{
+  "id": [
+    "32977629"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32977629"
+  ],
+  "pmcid": [
+    "PMC7598168"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7598168"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/v12101062"
+  ],
+  "title": [
+    "A Sporadic and Lethal Lassa Fever Case in Forest Guinea, 2019."
+  ],
+  "authorString": [
+    "Magassouba N, Koivogui E, Conde S, Kone M, Koropogui M, Soropogui B, Kekoura I, Hinzmann J, Günther S, Keita S, Duraffour S, Fichet-Calvet E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Magassouba N"
+          ],
+          "firstName": [
+            "N'Faly"
+          ],
+          "lastName": [
+            "Magassouba"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratoire des Fièvres Hémorragiques en Guinée, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Koivogui E"
+          ],
+          "firstName": [
+            "Enogo"
+          ],
+          "lastName": [
+            "Koivogui"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Agence Nationale de Sécurité Sanitaire, Ministry of Health, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Conde S"
+          ],
+          "firstName": [
+            "Sory"
+          ],
+          "lastName": [
+            "Conde"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7223-244X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Agence Nationale de Sécurité Sanitaire, Ministry of Health, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kone M"
+          ],
+          "firstName": [
+            "Moussa"
+          ],
+          "lastName": [
+            "Kone"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Agence Nationale de Sécurité Sanitaire, Ministry of Health, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Koropogui M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Koropogui"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratoire des Fièvres Hémorragiques en Guinée, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Soropogui B"
+          ],
+          "firstName": [
+            "Barrè"
+          ],
+          "lastName": [
+            "Soropogui"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratoire des Fièvres Hémorragiques en Guinée, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kekoura I"
+          ],
+          "firstName": [
+            "Ifono"
+          ],
+          "lastName": [
+            "Kekoura"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratoire des Fièvres Hémorragiques en Guinée, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hinzmann J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Hinzmann"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Virology Department, Bernhard Nocht Institute for Tropical Medicine, 20359 Hamburg, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Virology Department, German Center for Infection Research (DZIF), partner site Hamburg-Lübeck-Borstel-Riems, 20359 Hamburg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Günther S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Günther"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Virology Department, Bernhard Nocht Institute for Tropical Medicine, 20359 Hamburg, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Virology Department, German Center for Infection Research (DZIF), partner site Hamburg-Lübeck-Borstel-Riems, 20359 Hamburg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Keita S"
+          ],
+          "firstName": [
+            "Sakoba"
+          ],
+          "lastName": [
+            "Keita"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Agence Nationale de Sécurité Sanitaire, Ministry of Health, Conakry, Guinea."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Duraffour S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Duraffour"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Virology Department, Bernhard Nocht Institute for Tropical Medicine, 20359 Hamburg, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Virology Department, German Center for Infection Research (DZIF), partner site Hamburg-Lübeck-Borstel-Riems, 20359 Hamburg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fichet-Calvet E"
+          ],
+          "firstName": [
+            "Elisabeth"
+          ],
+          "lastName": [
+            "Fichet-Calvet"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Virology Department, Bernhard Nocht Institute for Tropical Medicine, 20359 Hamburg, Germany."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Virology Department, German Center for Infection Research (DZIF), partner site Hamburg-Lübeck-Borstel-Riems, 20359 Hamburg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7223-244X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "3020922"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Viruses"
+          ],
+          "ISOAbbreviation": [
+            "Viruses"
+          ],
+          "medlineAbbreviation": [
+            "Viruses"
+          ],
+          "NLMid": [
+            "101509722"
+          ],
+          "ISSN": [
+            "1999-4915"
+          ],
+          "ESSN": [
+            "1999-4915"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Lassa fever is a rodent-borne disease caused by Lassa virus (LASV). It causes fever, dizziness, vertigo, fatigue, coughing, diarrhea, internal bleeding and facial edema. The disease has been known in Guinea since 1960 but only anectodical acute cases have been reported to date. In January 2019, a 35-year-old man, a wood merchant from Kissidougou, Forest Guinea, presented himself at several health centers with persistent fever, frequent vomiting and joint pain. He was repeatedly treated for severe malaria, and died three weeks later in Mamou regional hospital. Differential diagnosis identified LASV as the cause of death. No secondary cases were reported. The complete LASV genome was obtained using next-generation sequencing. Phylogenetic analysis showed that this strain, namely the Kissidougou strain, belongs to the clade IV circulating in Guinea and Sierra Leone, and is thought to have emerged some 150 years ago. Due to the similarity of symptoms with malaria, Lassa fever is still a disease that is difficult to recognize and that may remain undiagnosed in health centers in Guinea."
+  ],
+  "affiliation": [
+    "Laboratoire des Fièvres Hémorragiques en Guinée, Conakry, Guinea."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phylogeny",
+        "Guinea",
+        "Lassa Fever",
+        "Kissidougou",
+        "Lassa Genome"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/v12101062"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7598168"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7598168?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-26"
+  ],
+  "firstIndexDate": [
+    "2020-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-11-01"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-23"
+  ],
+  "firstPublicationDate": [
+    "2020-09-23"
+  ]
+}

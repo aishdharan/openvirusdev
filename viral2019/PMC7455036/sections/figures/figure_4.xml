@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0238411.g004" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0238411.g004</object-id>
+ <label>Fig 4</label>
+ <caption>
+  <title>Impact of intensive community screening on Wuhan city and China excluding Hubei province.</title>
+  <p>(A) The 
+   <italic>φ</italic> values from February 11 to February 15 (before intensive community screening) were fitted to predict the 
+   <italic>φ</italic> values for Wuhan city from February 16 to March 11 without intensive community screening. (B) The 
+   <italic>α</italic> values from February 6 to February 15 (before intensive community screening) were fitted to predict the 
+   <italic>α</italic> values for Wuhan city from February 16 to March 10 without intensive community screening. (C) The predicted 
+   <italic>α</italic> values and 
+   <italic>φ</italic> values were used to calculate the numbers of infections in Wuhan city from February 16 to March 11. (D) The 
+   <italic>φ</italic> values from February 11 to February 15 (before intensive community screening) were fitted to predict the 
+   <italic>φ</italic> values for China excluding Hubei Province from February 16 to March 11 without intensive community screening. (E) The 
+   <italic>α</italic> values for China excluding Hubei Province from February 6 to February 15 were used to predict the 
+   <italic>α</italic> values for China excluding Hubei Province from February 16 to March 10 without intensive community screening. (F) The predicted 
+   <italic>α</italic> values and 
+   <italic>φ</italic> values were used to calculate the numbers of infections in China excluding Hubei Province from February 16 to March 11.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0238411.g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

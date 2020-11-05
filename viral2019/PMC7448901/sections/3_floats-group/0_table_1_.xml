@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T0001" orientation="portrait" position="float">
+ <label>Table 1.</label>
+ <caption>
+  <title>Demographic characteristics of imported COVID-19 cases.</title>
+ </caption>
+ <!--OASIS TABLE HERE-->
+ <table frame="hsides" rules="groups">
+  <colgroup>
+   <col width="1*"/>
+   <col width="1*"/>
+  </colgroup>
+  <thead valign="bottom">
+   <tr>
+    <th align="left">Study population</th>
+    <th align="center">No. (%)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">No. of patients</td>
+    <td align="char" char="(">58</td>
+   </tr>
+   <tr>
+    <td align="left">Sex, male</td>
+    <td align="char" char="(">31 (53.4)</td>
+   </tr>
+   <tr>
+    <td align="left">Age, median (IQR), y</td>
+    <td align="char" char="(">29 (20-44)</td>
+   </tr>
+   <tr>
+    <td align="left"> &lt;65</td>
+    <td align="char" char="(">56 (96.6)</td>
+   </tr>
+   <tr>
+    <td align="left"> ≥65</td>
+    <td align="char" char="(">2 (3.4)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Ethnic</td>
+   </tr>
+   <tr>
+    <td align="left"> Asian</td>
+    <td align="char" char="(">50 (86.2)</td>
+   </tr>
+   <tr>
+    <td align="left"> White</td>
+    <td align="char" char="(">7 (12.1)</td>
+   </tr>
+   <tr>
+    <td align="left"> Latino</td>
+    <td align="char" char="(">1 (1.7)</td>
+   </tr>
+   <tr>
+    <td align="left">Highest patient temperature, median (IQR), °C</td>
+    <td align="char" char="(">37.4 (36.8-37.9)</td>
+   </tr>
+   <tr>
+    <td align="left"> &lt;37.3</td>
+    <td align="char" char="(">28 (48.3)</td>
+   </tr>
+   <tr>
+    <td align="left"> 37.3–39</td>
+    <td align="char" char="(">27 (46.6)</td>
+   </tr>
+   <tr>
+    <td align="left"> ≥39</td>
+    <td align="char" char="(">3 (5.2)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Case exposure</td>
+   </tr>
+   <tr>
+    <td align="left"> Confirmed COVID-19</td>
+    <td align="char" char="(">11 (19.0)</td>
+   </tr>
+   <tr>
+    <td align="left"> Suspicious</td>
+    <td align="char" char="(">22 (37.9)</td>
+   </tr>
+   <tr>
+    <td align="left"> Unkown</td>
+    <td align="char" char="(">25 (43.1)</td>
+   </tr>
+   <tr>
+    <td align="left">Time from onset to confirmation, median (IQR), d</td>
+    <td align="char" char="(">3 (1-6)</td>
+   </tr>
+   <tr>
+    <td align="left"> ≤3</td>
+    <td align="char" char="(">35 (60.3)</td>
+   </tr>
+   <tr>
+    <td align="left"> &gt;3</td>
+    <td align="char" char="(">23 (39.7)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Initial common symptoms</td>
+   </tr>
+   <tr>
+    <td align="left"> Fever</td>
+    <td align="char" char="(">29 (50.0)</td>
+   </tr>
+   <tr>
+    <td align="left"> Cough</td>
+    <td align="char" char="(">24 (41.4)</td>
+   </tr>
+   <tr>
+    <td align="left"> Nasopharyngeal irritation</td>
+    <td align="char" char="(">11 (19.0)</td>
+   </tr>
+   <tr>
+    <td align="left"> Dyspnea</td>
+    <td align="char" char="(">2 (3.4)</td>
+   </tr>
+   <tr>
+    <td align="left"> Fatigue or myalgia</td>
+    <td align="char" char="(">6 (10.3)</td>
+   </tr>
+   <tr>
+    <td align="left"> Headache</td>
+    <td align="char" char="(">6 (10.3)</td>
+   </tr>
+   <tr>
+    <td align="left"> Diarrhea</td>
+    <td align="char" char="(">4 (6.9)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Chest imaging, infiltrate</td>
+   </tr>
+   <tr>
+    <td align="left"> Normal</td>
+    <td align="char" char="(">24 (41.4)</td>
+   </tr>
+   <tr>
+    <td align="left"> Pure GGO* (
+     <italic toggle="yes">n </italic>= 34)
+    </td>
+    <td align="char" char="(">24 (70.6)</td>
+   </tr>
+   <tr>
+    <td align="left"> GGO with reticular and/or interlobular septal thickening (
+     <italic toggle="yes">n </italic>= 34)
+    </td>
+    <td align="char" char="(">12 (35.3)</td>
+   </tr>
+   <tr>
+    <td align="left"> GGO with consolidation (
+     <italic toggle="yes">n </italic>= 34)
+    </td>
+    <td align="char" char="(">6 (17.6)</td>
+   </tr>
+   <tr>
+    <td align="left"> Consolidation (
+     <italic toggle="yes">n </italic>= 34)
+    </td>
+    <td align="char" char="(">6 (17.6)</td>
+   </tr>
+   <tr>
+    <td align="left"> Air bronchogram (
+     <italic toggle="yes">n </italic>= 34)
+    </td>
+    <td align="char" char="(">9 (26.5)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Comorbidities</td>
+   </tr>
+   <tr>
+    <td align="left"> Hypertension</td>
+    <td align="char" char="(">7 (12.1)</td>
+   </tr>
+   <tr>
+    <td align="left"> Diabetes</td>
+    <td align="char" char="(">4 (6.9)</td>
+   </tr>
+   <tr>
+    <td align="left"> Mood disorder</td>
+    <td align="char" char="(">2 (3.4)</td>
+   </tr>
+   <tr>
+    <td align="left"> Cardiovascular disease</td>
+    <td align="char" char="(">3 (3.4)</td>
+   </tr>
+   <tr>
+    <td align="left"> Chronic lung disease</td>
+    <td align="char" char="(">4 (3.4)</td>
+   </tr>
+   <tr>
+    <td align="left"> Other</td>
+    <td align="char" char="(">3 (5.2)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left">Initial treatment</td>
+   </tr>
+   <tr>
+    <td align="left"> Oxygen therapy</td>
+    <td align="char" char="(">7 (12.1)</td>
+   </tr>
+   <tr>
+    <td align="left">  Nasal cannula</td>
+    <td align="char" char="(">8 (12.1)</td>
+   </tr>
+   <tr>
+    <td align="left">  NMV</td>
+    <td align="char" char="(">0 (0)</td>
+   </tr>
+   <tr>
+    <td align="left">  IMV**</td>
+    <td align="char" char="(">0 (0)</td>
+   </tr>
+   <tr>
+    <td align="left"> Glucocorticoid</td>
+    <td align="char" char="(">0 (0)</td>
+   </tr>
+   <tr>
+    <td colspan="2" align="left"> Therapy</td>
+   </tr>
+   <tr>
+    <td align="left">  Antibiotic</td>
+    <td align="char" char="(">5 (8.6)</td>
+   </tr>
+   <tr>
+    <td align="left">  Antiviral</td>
+    <td align="char" char="(">0 (0)</td>
+   </tr>
+   <tr>
+    <td align="left">  Hydroxychloroquine</td>
+    <td align="char" char="(">57 (98.3)</td>
+   </tr>
+   <tr>
+    <td align="left">  Thymalfasin</td>
+    <td align="char" char="(">21 (36.2)</td>
+   </tr>
+   <tr>
+    <td align="left">  Vitamin C</td>
+    <td align="char" char="(">40 (69.0)</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>*GGO, ground-glass opacity; **IMV, invasive mechanical ventilation.</p>
+ </table-wrap-foot>
+</table-wrap>

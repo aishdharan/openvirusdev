@@ -1,0 +1,350 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="brief-report"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><?covid-19-tdm?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Virol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1096-9071</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7228357</article-id><article-id pub-id-type="doi">10.1002/jmv.25723</article-id><article-id pub-id-type="publisher-id">JMV25723</article-id><article-categories><subj-group subj-group-type="overline"><subject>Short Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Short Communications</subject></subj-group></article-categories><title-group><article-title>Early phylogenetic estimate of the effective reproduction number of SARS&#x02010;CoV&#x02010;2</article-title><alt-title alt-title-type="left-running-head">LAI <sc>et al.</sc></alt-title></title-group><contrib-group><contrib id="jmv25723-cr-0001" contrib-type="author"><name><surname>Lai</surname><given-names>Alessia</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3174-5721</contrib-id><xref ref-type="aff" rid="jmv25723-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv25723-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv25723-cr-0002" contrib-type="author"><name><surname>Bergna</surname><given-names>Annalisa</given-names></name><xref ref-type="aff" rid="jmv25723-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv25723-cr-0003" contrib-type="author"><name><surname>Acciarri</surname><given-names>Carla</given-names></name><xref ref-type="aff" rid="jmv25723-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jmv25723-cr-0004" contrib-type="author"><name><surname>Galli</surname><given-names>Massimo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8887-6215</contrib-id><xref ref-type="aff" rid="jmv25723-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv25723-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv25723-cr-0005" contrib-type="author" corresp="yes"><name><surname>Zehender</surname><given-names>Gianguglielmo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1886-2915</contrib-id><xref ref-type="aff" rid="jmv25723-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv25723-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jmv25723-aff-0003">
+<sup>3</sup>
+</xref><address><email>gianguglielmo.zehender@unimi.it</email></address></contrib></contrib-group><aff id="jmv25723-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biomedical and Clinical Sciences "L. Sacco"</named-content>
+<institution>University of Milan</institution>
+<city>Milano</city>
+<country country="IT">Italy</country>
+</aff><aff id="jmv25723-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Coordinated Research Center "EpiSoMI"</named-content>
+<institution>University of Milan</institution>
+<city>Milano</city>
+<country country="IT">Italy</country>
+</aff><aff id="jmv25723-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Romeo ed Enrica Invernizzi Pediatric Research Center</named-content>
+<institution>University of Milan</institution>
+<city>Milano</city>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Gianguglielmo Zehender, Via G.B. Grassi 74, 20157 Milano, Italy.<break/>
+Email: <email>gianguglielmo.zehender@unimi.it</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>3</month><year>2020</year></pub-date><elocation-id>10.1002/jmv.25723</elocation-id><history><date date-type="received"><day>14</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>21</day><month>2</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 Wiley Periodicals, Inc.</copyright-statement><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JMV-9999-na.pdf"/><abstract><title>Abstract</title><p>To reconstruct the evolutionary dynamics of the 2019 novel&#x02010;coronavirus recently causing an outbreak in Wuhan, China, 52 SARS&#x02010;CoV&#x02010;2 genomes available on 4 February 2020 at Global Initiative on Sharing All Influenza Data were analyzed. The two models used to estimate the reproduction number (coalescent&#x02010;based exponential growth and a birth&#x02010;death skyline method) indicated an estimated mean evolutionary rate of 7.8&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4</sup> subs/site/year (range, 1.1&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4</sup>&#x02010;15&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4</sup>) and a mean tMRCA of the tree root of 73 days. The estimated <italic>R</italic> value was 2.6 (range, 2.1&#x02010;5.1), and increased from 0.8 to 2.4 in December 2019. The estimated mean doubling time of the epidemic was between 3.6 and 4.1 days. This study proves the usefulness of phylogeny in supporting the surveillance of emerging new infections even as the epidemic is growing.</p></abstract><abstract abstract-type="highlights"><title>Highlights</title><p>
+<list list-type="bullet"><list-item><p>The aim of this study was to investigate the temporal origin, rate of viral evolution and population dynamics of SARS&#x02010;CoV&#x02010;2.</p></list-item><list-item><p>The Bayesian approach used indicated a most probable origin of the epidemic between October and November 2019.</p></list-item><list-item><p>The estimated effective reproductive number increased from 0.8 to 2.4 in December 2019 when the mean doubling time was about 4 days.</p></list-item><list-item><p>This study proves the usefulness of phylogeny in supporting the surveillance of emerging new infections.</p></list-item></list>
+</p></abstract><kwd-group><kwd id="jmv25723-kwd-0001">evolutionary dynamics</kwd><kwd id="jmv25723-kwd-0002">reproductive number</kwd><kwd id="jmv25723-kwd-0003">SARS&#x02010;CoV&#x02010;2</kwd></kwd-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="5"/><word-count count="3307"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>edited-state</meta-name><meta-value>corrected-proof</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.0 mode:remove_FC converted:15.04.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="jmv25723-cit-0019">
+<string-name>
+<surname>Lai</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bergna</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Acciarri</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Galli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zehender</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Early phylogenetic estimate of the effective reproduction number of SARS&#x02010;CoV&#x02010;2</article-title>. <source xml:lang="en">J Med Virol</source>. <year>2020</year>;<fpage>1</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1002/jmv.25723</pub-id>
+<pub-id pub-id-type="pmid">31502247</pub-id></mixed-citation>
+</p><fn-group><fn id="jmv25723-note-0001"><p>In memory of Li Wenliang, Carlo Urbani, and of all the doctors and health workers who endangered their lives in the fight against epidemics.</p></fn></fn-group></notes></front><body><sec id="jmv25723-sec-0010"><label>1</label><title>INTRODUCTION</title><p>On 30 January 2020, the World Health Organization declared that the outbreak of an infection due to a novel&#x02010;coronavirus (SARS&#x02010;CoV&#x02010;2) was a &#x0201c;Public Health Emergency of International Concern&#x0201d; (<ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-nCoV)">https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-nCoV)</ext-link>). Emerging as a human pathogen in the Chinese city of Wuhan, SARS&#x02010;CoV&#x02010;2 (<ext-link ext-link-type="uri" xlink:href="https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf?sfvrsn=20a99c10_4">https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200121-sitrep-1-2019-ncov.pdf?sfvrsn=20a99c10_4</ext-link>) has caused a widespread outbreak of febrile respiratory illness and, as of 13 February 2020, there were 60&#x02009;349 confirmed cases (including 527 outside mainland China) and a total of 1360 fatalities (<ext-link ext-link-type="uri" xlink:href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6</ext-link>).</p><p>Belonging to the <italic>&#x003b2;&#x02010;coronavirus</italic> genus of the <italic>Coronaviridae</italic> family, SARS&#x02010;CoV&#x02010;2 is closely related to SARS&#x02010;CoV as there is more than 70% nucleotide similarity in their approximately 30&#x02009;kb long genomes.<xref rid="jmv25723-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> A recent study has supported the view that, like other <italic>&#x003b2;&#x02010;coronaviruses</italic> causing human infections such as SARS&#x02010;CoV and MERS&#x02010;CoV, SARS&#x02010;CoV&#x02010;2 originated from bats, and reported 96% genomic identity with a previously detected SARS&#x02010;like bat coronavirus.<xref rid="jmv25723-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="jmv25723-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> However, it remains unclear whether the spillover also involved a different intermediary animal host.</p><p>In the case of such an epidemic, it is important to make as reliable as possible an estimate of the basic reproductive number (R<sub>0</sub>, the number of cases generated from a single infected person) and the dynamics of transmission. The aim of this study was to investigate the temporal origin, rate of viral evolution and population dynamics of SARS&#x02010;CoV&#x02010;2 using 52 full genomes of viral strains sampled in different countries on known sampling dates available at the moment when the study was performed.</p></sec><sec sec-type="materials-and-methods" id="jmv25723-sec-0020"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jmv25723-sec-0030"><label>2.1</label><title>Sequence dataset</title><p>The analysis was based on 52 SARS&#x02010;CoV&#x02010;2 sequences publicly available at Global Initiative on Sharing All Influenza Data (GISAID) on 4 February 2020 (<ext-link ext-link-type="uri" xlink:href="https://www.gisaid.org/">https://www.gisaid.org/</ext-link>). The accession IDs, sampling dates and locations are summarized in Table S1.</p><p>The sequences were aligned using the ClustalW Multiple Alignment programs included in the accessory application of Bioedit software, manually controlled, and cropped to a final length of 29&#x02009;774&#x02009;bp using BioEdit v.7.2.6.1 (<ext-link ext-link-type="uri" xlink:href="http://www.mbio.ncsu.edu/bioedit/bioedit.html">http://www.mbio.ncsu.edu/bioedit/bioedit.html</ext-link>.</p></sec><sec id="jmv25723-sec-0040"><label>2.2</label><title>Phylodynamic analysis</title><p>The simplest evolutionary model best fitting the sequence data were selected using software JmodelTest v.2.1.7 software,<xref rid="jmv25723-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> and proved to be the Hasegawa&#x02010;Kishino&#x02010;Yano (HKY) model.</p><p>The virus' phylogeny, evolutionary rates, times of the most recent common ancestor (tMRCA) and demographic growth were coestimated in a Bayesian framework using a Markov chain Monte Carlo (MCMC) method implemented in v.1.8.4 of the BEAST package.<xref rid="jmv25723-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>
+</p><p>Different coalescent priors and molecular clock models (constant population size, exponential growth, and a Bayesian skyline plot [BSP]) were tested using strict and relaxed molecular clock models. Given the large credibility interval (CI) and high level of uncertainty due to very close sampling dates, all the estimates were made using days as the unit of time and a normal prior with substitution rates obtained from our preliminary estimates (mean rate 2.2&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;6</sup>&#x02009;subs/site/day, with a standard deviation of 1.1&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;6</sup>).</p><p>The MCMC analysis was run until convergence with sampling every 100&#x02009;000 generations. Convergence was assessed by estimating the effective sampling size (ESS) after 10% burn&#x02010;in using Tracer v.1.7 software (<ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/tracer/">http://tree.bio.ed.ac.uk/software/tracer/</ext-link>), and accepting ESS values of 300 or more. The uncertainty of the estimates is indicated by 95% highest marginal likelihoods estimated<xref rid="jmv25723-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> by path sampling (PS)/stepping stone (SS) methods.<xref rid="jmv25723-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>
+</p><p>The final trees were summarized by selecting the tree with the maximum product of posterior probabilities (pp) (maximum clade credibility) after a 10% burn&#x02010;in using Tree Annotator v.1.8.4 (included in the BEAST package) and were visualized using FigTree v.1.4.2 (<ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/figtree/">http://tree.bio.ed.ac.uk/software/figtree/</ext-link>).</p><p>The basic reproductive number (<italic>R</italic>
+<sub>0</sub>) was calculated on the basis of the exponential growth rate (<italic>r</italic>) using the equation <italic>R</italic>
+<sub>0</sub>&#x02009;=&#x02009;<italic>rD</italic>&#x02009;+&#x02009;1, where <italic>D</italic> is the average duration of infectiousness estimated as described below.<xref rid="jmv25723-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> The doubling time of the epidemic was directly estimated setting the tree before the coalescent exponential growth analysis with doubling time parameterization.</p></sec><sec id="jmv25723-sec-0050"><label>2.3</label><title>Birth&#x02010;death skyline estimates of the effective reproductive number (<italic>R</italic>
+<sub>e</sub>)</title><p>The birth&#x02010;death skyline model implemented in Beast 2.48 was used to infer changes in the effective reproductive number (<italic>R</italic>
+<sub>e</sub>), and other epidemiological parameters such as the death/recovery rate (<italic>&#x003b4;</italic>), the transmission rate (<italic>&#x003bb;</italic>), the origin of the epidemic, and the sampling proportion (<italic>&#x003c1;</italic>).<xref rid="jmv25723-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> Given that the samples were collected during a short period of time, a &#x0201c;birth&#x02010;death contemporary&#x0201d; model was used.</p><p>The analyses were based on the previously selected HKY substitution model and the evolutionary rate was set to the value of 8.0&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4</sup>&#x02009;subs/site/year, which corresponds to the mean substitution rate estimated using a relaxed clock under the exponential coalescent model as transformed into units per year.</p><p>For the birth&#x02010;death analysis, one and two intervals and a lognormal prior to <italic>R</italic>
+<sub>e</sub>, with a mean (<italic>M</italic>) of 0.0 and a variance (<italic>S</italic>) of 1.0 were chosen, which allows the <italic>R</italic>
+<sub>e</sub> values to change between less than 1 (0.193) and more than 5. A normal prior with <italic>M</italic>&#x02009;=&#x02009;48.7 and <italic>S</italic>&#x02009;=&#x02009;15 (corresponding to a 95% interval from 24.0 to 73.4) was used for the rate of becoming uninfectious. These values are expressed as units per year and reflect the inverse of the time of infectiousness (5.3&#x02010;19 days; mean, 7.5) according to the serial interval estimated by Li et al.<xref rid="jmv25723-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> Sampling probability (<italic>&#x003c1;</italic>) was estimated assuming a prior &#x003b2; (&#x003b1;&#x02009;=&#x02009;1.0 and &#x003b2;&#x02009;=&#x02009;999), corresponding to a minority of the sampled cases (between 10<sup>&#x02212;5</sup> and 10<sup>&#x02212;3</sup>). The origin of the epidemic was estimated using a normal prior with <italic>M</italic>&#x02009;=&#x02009;0.1 and <italic>S</italic>&#x02009;=&#x02009;0.05&#x02009;in units per year.</p><p>The MCMC analyses were run for 30 million generations and sampled every 3000 steps.</p><p>Convergence was assessed on the basis of ESS values (ESS&#x02009;&#x0003e;&#x02009;200). Uncertainty in the estimates was indicated by 95% highest posterior density (HPD) intervals.</p><p>The mean growth rate was calculated on the basis of the birth and recovery rates (<italic>r</italic>&#x02009;=&#x02009;<italic>&#x003bb;</italic>&#x02009;&#x02212;&#x02009;<italic>&#x003b4;</italic>), and the doubling time was estimated by the equation: doubling time&#x02009;=&#x02009;ln(2)/<italic>r</italic>.<xref rid="jmv25723-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>
+</p></sec></sec><sec sec-type="results" id="jmv25723-sec-0060"><label>3</label><title>RESULTS</title><p>The sequence analyses under a relaxed (uncorrelated lognormal) or strict molecular clock showed that the former performed better as assessed by using BF with PS and SS (strict vs relaxed molecular clock BF(PS)&#x02009;=&#x02009;&#x02212;8.66 and BF(SS)&#x02009;=&#x02009;&#x02212;10.7 for relaxed clock). Comparison of the different demographic models showed that the BSP model best fitted the data (BSP vs exponential growth BF(PS)&#x02009;=&#x02009;7.3 and BF(SS)&#x02009;=&#x02009;8.78 for BSP; BSP vs constant population size BF(PS)=&#x02009;8.3; and BF(SS)&#x02009;=&#x02009;10.7 for BSP).</p><p>The estimated mean evolutionary rate was 2.15&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;6</sup>&#x02009;subs/site/day (95% HPD, 3.22&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;7</sup>&#x02010;4.18&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;6</sup>), corresponding to 7.8&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4</sup>&#x02009;subs/site/year (95% HPD, 1.1&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4</sup>&#x02010;15&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;4</sup>).</p><p>The estimated mean tMRCA corresponding to the root of the tree dated 73 days before the end of January 2020 (95% HPD, 32.5&#x02010;142.3), corresponding to 18 November 2019 (95% HPD, 10 September 2019&#x02010;28 December 2019).</p><p>The Bayesian tree showed three main significant clades. The largest clade (pp&#x02009;=&#x02009;.84) encompassed 10 sequences and consisted of two significant subclades (pp&#x02009;=&#x02009;.9 and pp&#x02009;=&#x02009;1). Overall, this cluster included fewer recent isolates than the other two clusters, and dated back to 47.5 days ago (95% HPD, 25.5&#x02010;76.6), corresponding to 13 December 2019. The second (pp&#x02009;=&#x02009;.99) and third significant clusters (pp&#x02009;=&#x02009;.95) dated back to 29.2 (95% HPD, 0.7&#x02010;47.45) and 21.9 (95% HPD 3.6&#x02010;54.7) days ago, corresponding to 1 to 8 January 2020.</p><p>The BSP showed a rapid increase in the number of infections in a period between approximately 45 and 30 days before the end of January 2020 (Figure&#x000a0;<xref rid="jmv25723-fig-0001" ref-type="fig">1A</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jmv25723-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A, Bayesian skyline plot of the SARS&#x02010;CoV&#x02010;2 outbreak. The <italic>y</italic>&#x02010;axis indicates Ne and <italic>x</italic>&#x02010;axis shows the time in year units (0&#x02009;=&#x02009;30 January; 18.2 days; 36.5 days; 54.7 days; and 73 days before). The thick solid line represents the median value of the estimates, and the gray area the 95% HPD. B, Birth&#x02010;death skyline plot of the SARS&#x02010;CoV&#x02010;2 outbreak allowing two <italic>R</italic>
+<sub>e</sub> intervals. The curve and the orange area show the mean <italic>R</italic>
+<sub>e</sub> values and their 95% confidence intervals. The <italic>y</italic> and <italic>x</italic>&#x02010;axes, respectively, represent <italic>R</italic> values and time in days. HPD, highest posterior density</p></caption><graphic id="nlm-graphic-1" xlink:href="JMV-9999-na-g001"/></fig><p>The IDs and available data of the sequences involved in the clades are shown in Table S1.</p><p>The estimated growth rate under the exponential growth model was 0.218 days<sup>&#x02212;1</sup>, corresponding to an <italic>R</italic>
+<sub>0</sub> estimation of 2.6 (CI, 2.1&#x02010;5.1). The direct estimation of the doubling time of the epidemic gave a mean of 3.6 days (varying from 1.0 to 7.7). Figure&#x000a0;<xref rid="jmv25723-fig-0001" ref-type="fig">1B</xref> shows the Bayesian birth&#x02010;death skyline plot of the <italic>R</italic>
+<sub>e</sub> estimates with 95% HPD and indicates that <italic>R</italic>
+<sub>e</sub> increased from less than 1 (mean, 0.8; 95% HPD, 0.3&#x02010;1.3) to a mean value of 2.4 (95% HPD, 1.5&#x02010;3.5) in December 2019, and has since remained at this value. The estimation allowing a single <italic>R</italic>
+<sub>e</sub> gave a mean value of 1.85 (95% HPD, 1.37&#x02010;2.4).</p><p>Table&#x000a0;<xref rid="jmv25723-tbl-0001" ref-type="table">1</xref> shows the parameters estimated using the birth&#x02010;death skyline plot. The epidemic originated an estimated mean of 3.7 months (CI, 3&#x02010;4) before the present (BP), corresponding to October to November 2019, before the root tree (3.6 months BP). The estimated recovery rate (the time to becoming noninfectious) was 7.3 days (CI, 4.7&#x02010;16.5 days), whereas the transmission rate (<italic>&#x003bb;</italic>) increased from 40.5 to 112.4 in units per year in December 2019. On the basis of these values, the growth rate in the second period is <italic>r</italic>&#x02009;=&#x02009;0.17 (0.16&#x02010;0.19), corresponding to a mean doubling time of 4.1 days (range, 3.9&#x02010;4.3).</p><table-wrap id="jmv25723-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Epidemiological parameters estimated by birth&#x02010;death skyline analysis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th valign="bottom" rowspan="1" colspan="1">Parameter</th><th valign="bottom" rowspan="1" colspan="1">Mean estimate</th><th valign="bottom" rowspan="1" colspan="1">95% HPD low</th><th valign="bottom" rowspan="1" colspan="1">95% HPD up</th></tr></thead><tbody valign="top"><tr><td valign="top" rowspan="1" colspan="1">
+<italic>R</italic>
+<sub>e</sub>1</td><td valign="top" rowspan="1" colspan="1">0.8</td><td valign="top" rowspan="1" colspan="1">0.29</td><td valign="top" rowspan="1" colspan="1">1.3</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<italic>R</italic>
+<sub>e</sub>2</td><td valign="top" rowspan="1" colspan="1">2.4</td><td valign="top" rowspan="1" colspan="1">1.5</td><td valign="top" rowspan="1" colspan="1">3.5</td></tr><tr><td valign="top" rowspan="1" colspan="1">Origin</td><td valign="top" rowspan="1" colspan="1">0.304</td><td valign="top" rowspan="1" colspan="1">0.24</td><td valign="top" rowspan="1" colspan="1">0.36</td></tr><tr><td valign="top" rowspan="1" colspan="1">Become uninfectious<xref ref-type="fn" rid="jmv25723-tbl1-note-0002">
+<sup>a</sup>
+</xref>
+</td><td valign="top" rowspan="1" colspan="1">49.8</td><td valign="top" rowspan="1" colspan="1">22.1</td><td valign="top" rowspan="1" colspan="1">78.3</td></tr><tr><td valign="top" rowspan="1" colspan="1">Birth1<xref ref-type="fn" rid="jmv25723-tbl1-note-0003">
+<sup>b</sup>
+</xref>
+</td><td valign="top" rowspan="1" colspan="1">40.46</td><td valign="top" rowspan="1" colspan="1">7.9</td><td valign="top" rowspan="1" colspan="1">73.8</td></tr><tr><td valign="top" rowspan="1" colspan="1">Birth2</td><td valign="top" rowspan="1" colspan="1">112.4</td><td valign="top" rowspan="1" colspan="1">82.3</td><td valign="top" rowspan="1" colspan="1">142.9</td></tr><tr><td valign="top" rowspan="1" colspan="1">
+<italic>&#x003c1;</italic>
+</td><td valign="top" rowspan="1" colspan="1">0.0044</td><td valign="top" rowspan="1" colspan="1">0.00087</td><td valign="top" rowspan="1" colspan="1">0.0086</td></tr><tr><td valign="top" rowspan="1" colspan="1">Tree root tMRCA</td><td valign="top" rowspan="1" colspan="1">0.296</td><td valign="top" rowspan="1" colspan="1">0.24</td><td valign="top" rowspan="1" colspan="1">0.35</td></tr></tbody></table><table-wrap-foot><fn id="jmv25723-tbl1-note-0001"><p>Abbreviations: HPD, high posterior density; <italic>R</italic>
+<sub>e</sub>, recovery rate; <italic>&#x003c1;</italic>, sampling probability.</p></fn><fn id="jmv25723-tbl1-note-0002"><label><sup>a</sup></label><p>Transmission rate.</p></fn><fn id="jmv25723-tbl1-note-0003"><label><sup>b</sup></label><p>Effective reproductive number.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions></table-wrap></sec><sec sec-type="discussion" id="jmv25723-sec-0070"><label>4</label><title>DISCUSSION</title><p>The SARS&#x02010;CoV&#x02010;2 epidemic is unique in the history of human infectious diseases not only because it is caused by a novel virus, but also because of the immediate availability of epidemiological and genomic data (the first entire genome was published on 24 December 2019). The prompt availability of research data on internet platforms such as the GISAID has allowed us and other research groups to make a phylogenetic reconstruction of the origin of SARS&#x02010;CoV&#x02010;2 and to share these findings with other scientists.</p><p>The temporal reconstruction of the SARS&#x02010;CoV&#x02010;2 phylogeny obtained in the present study is in line with previous estimates and suggests that the epidemic originated between October and November 2019, several weeks before the first cases were described. This was confirmed by means of coalescent analysis and the birth&#x02010;death method of estimating the origin of the epidemic. The estimated evolutionary rate is also in line with that of SARS and MERS viruses,<xref rid="jmv25723-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="jmv25723-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> and the recent estimates concerning SARS&#x02010;CoV&#x02010;2 (<ext-link ext-link-type="uri" xlink:href="http://virological.org/t/phylodynamic-analysis-67-genomes-08-feb-2020/356">http://virological.org/t/phylodynamic-analysis-67-genomes-08-feb-2020/356</ext-link>).</p><p>One of the most important epidemiological parameters when monitoring an epidemic is <italic>R</italic>
+<sub>0</sub> (ie, the number of secondary cases induced by a single infected individual in a totally susceptible population) because it is fundamental to assess the potential spread of a microorganism. Its value changes during an epidemic being called the effective reproduction number (<italic>R</italic>
+<sub>e</sub>). <italic>R</italic>
+<sub>0</sub> is usually estimated on the basis of the growth rate of the number of cases. The available epidemiological estimates of SARS&#x02010;CoV&#x02010;2 <italic>R</italic>
+<sub>0</sub> range from 2.2 to 2.9, although they changed from 1.4 to more than 7 during the first phases of the epidemic.<xref rid="jmv25723-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="jmv25723-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>
+</p><p>Recently developed evolutionary models have made it possible to estimate epidemiological parameters on the basis of phylogenesis,<xref rid="jmv25723-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="jmv25723-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> and a coalescent and birth&#x02010;death methods were used to estimate <italic>R</italic>
+<sub>0</sub> and the changes in the <italic>R</italic>
+<sub>e</sub> of the SARS&#x02010;CoV&#x02010;2 epidemic during a short period of time. This has allowed us to make a preliminary estimate that mean&#x000a0;<italic>R</italic>
+<sub>0</sub> from the beginning of the epidemic to the first days of February 2020 was 2.2 (range, 3.6&#x02010;5.8), and the birth&#x02010;death skyline analysis showed an increase in <italic>R</italic>
+<sub>e</sub> from less than 1 to 2.4 (CI, 1.5&#x02010;3.5) during December 2019. This agrees with the BSP analysis showing an increase in the number of infections in the same period of time. Commonly, the <italic>R</italic>
+<sub>e</sub> decreases during an epidemic because the decrease in the number of susceptible individuals. However, an increase in <italic>R</italic>
+<sub>e</sub> could be due to an increase in the transmissibility of the virus or in the contact rates within the population.<xref rid="jmv25723-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> It is, therefore, possible to hypothesize, on the basis of our data, that the first passage of the virus from animal to human occurred through rather inefficient and still unknown transmission modes causing relatively few cases in the early times (before December). In December, the virus acquired a more efficient mode of human&#x02010;to&#x02010;human transmission (ie, through droplets), causing exponential growth also detected by the skyline.</p><p>On the same basis, the estimated epidemic doubling time was 3.6 days with a CI between 1 and 7 days. We also tried to calculate it on the basis of the transmission (<italic>&#x003bb;</italic>) and recovery rate (<italic>&#x003b4;</italic>) estimated using the birth&#x02010;death model, which lead to an estimated mean doubling time of 4.1 days, with the most probable values falling between 3.9 and 4.3 days. Previous studies have suggested that the doubling time during the early phases of the epidemic was approximately 7.4 days.<xref rid="jmv25723-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> The difference in the estimate here obtained, may be due to the increased epidemic growth rate observed during the last days of January, or the initial delay in recognizing and reporting new cases.</p><p>This preliminary study has some limitations. The R values and doubling times were estimated phylogenetically using all of the whole genomes available in a public database at the time the study was carried out (<ext-link ext-link-type="uri" xlink:href="https://www.gisaid.org/">https://www.gisaid.org/</ext-link>). Given the small number of sequences and the relatively short sampling period, the CIs are wide and limit the precision of the estimates. Moreover, the analysis included isolates collected outside mainland China as it is assumed that they all belong to the same epidemic originating in Wuhan.</p><p>Serial intervals were used to estimate the duration of infectiousness, although we do not yet have any information concerning the possible existence and duration of a latent (preinfectious) period that would contribute to the serial interval.</p><p>More detailed and accurate analyses can be made when a larger number of genomes and more precise data on the infectious period become available. However, although the <italic>R</italic>
+<sub>0</sub> calculated on the basis of the direct observation of the number of infected individuals may be affected by omissions or delayed notifications of cases,<xref rid="jmv25723-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> a phylogenetic estimate of the same parameter may be more reliable.</p><p>This became particularly evident recently (on 12 February 2020) when the change in diagnosis classification led to a sudden increase in the reported cases by Hubei, China (<ext-link ext-link-type="uri" xlink:href="https://myemail.constantcontact.com/COVID-19-Updates---Feb-12.html?soid=1107826135286&#x00026;aid=Kdg8a0rBTAk">https://myemail.constantcontact.com/COVID-19-Updates---Feb-12.html?soid=1107826135286&#x00026;aid=Kdg8a0rBTAk</ext-link>).</p><p>In conclusion, these results allowed us to make a phylogenetic estimate of the <italic>R</italic>
+<sub>0</sub> of SARS&#x02010;CoV&#x02010;2 infection that is similar to that obtained using conventional epidemiological methods<xref rid="jmv25723-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> (<ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(SARS-CoV-2)">https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(SARS-CoV-2)</ext-link>, and a possibly shorter estimated doubling time of the number of subjects involved at least during the early phases of the epidemic. They also support the usefulness of phylodynamic as an important complement to classic approaches to the surveillance and monitoring of an emerging infection, even during the course of an epidemic.</p></sec><sec sec-type="COI-statement" id="jmv25723-sec-0090"><title>CONFLICT OF INTERESTS</title><p>The authors declare that there are no conflict of interests.</p></sec><sec id="jmv25723-sec-0100"><title>AUTHOR CONTRIBUTIONS</title><p>AL, GZ, and MG conceived and designed the study. AB, CA, and AL collected data and prepared the datasets. GZ, AL, and AB participated to phylogenetic analyses. AL, GZ, AB, and MG wrote the first draft of the manuscript. All authors contributed to manuscript revision, read, and approved the submitted version.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary information</p></caption><media xlink:href="JMV-9999-na-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary information</p></caption><media xlink:href="JMV-9999-na-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jmv25723-sec-0080"><title>ACKNOWLEDGMENT</title><p>We acknowledge the authors, originating and submitting laboratories of the sequences from GISAID.</p></ack><ref-list id="jmv25723-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="jmv25723-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jmv25723-cit-0001">
+<string-name>
+<surname>Lu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding</article-title>. <source xml:lang="en">Lancet</source>. <year>2020</year>;<volume>395</volume>:<fpage>565</fpage>&#x02010;<lpage>574</lpage>.<pub-id pub-id-type="pmid">32007145</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jmv25723-cit-0002">
+<string-name>
+<surname>Paraskevis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kostaki</surname>
+<given-names>EG</given-names>
+</string-name>, <string-name>
+<surname>Magiorkinis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Panayiotakopoulos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sourvinos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Tsiodras</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Full&#x02010;genome evolutionary analysis of the novel corona virus (2019&#x02010;nCoV) rejects the hypothesis of emergence as a result of a recent recombination event</article-title>. <source xml:lang="en">Infect Genet Evol</source>. <year>2020</year>;<volume>79</volume>:<elocation-id>104212</elocation-id>.<pub-id pub-id-type="pmid">32004758</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jmv25723-cit-0003">
+<string-name>
+<surname>Zhou</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X&#x02010;G</given-names>
+</string-name>, et al. <article-title>A pneumonia outbreak associated with a new coronavirus of probable bat origin</article-title>. <source xml:lang="en">Nature</source>. <year>2020</year>
+<pub-id pub-id-type="doi">10.1038/s41586-020-2012-7</pub-id>
+</mixed-citation></ref><ref id="jmv25723-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jmv25723-cit-0004">
+<string-name>
+<surname>Posada</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>jModelTest: phylogenetic model averaging</article-title>. <source xml:lang="en">Mol Biol Evol</source>. <year>2008</year>;<volume>25</volume>(<issue>7</issue>):<fpage>1253</fpage>&#x02010;<lpage>1256</lpage>.<pub-id pub-id-type="pmid">18397919</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jmv25723-cit-0005">
+<string-name>
+<surname>Drummond</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Suchard</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rambaut</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Bayesian phylogenetics with BEAUti and the BEAST 1.7</article-title>. <source xml:lang="en">Mol Biol Evol</source>. <year>2012</year>;<volume>29</volume>(<issue>8</issue>):<fpage>1969</fpage>&#x02010;<lpage>1973</lpage>.<pub-id pub-id-type="pmid">22367748</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jmv25723-cit-0006">
+<string-name>
+<surname>Suchard</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Sinsheimer</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Bayesian selection of continuous&#x02010;time Markov chain evolutionary models</article-title>. <source xml:lang="en">Mol Biol Evol</source>. <year>2001</year>;<volume>18</volume>(<issue>6</issue>):<fpage>1001</fpage>&#x02010;<lpage>1013</lpage>.<pub-id pub-id-type="pmid">11371589</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jmv25723-cit-0007">
+<string-name>
+<surname>Baele</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lemey</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bedford</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Rambaut</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Suchard</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Alekseyenko</surname>
+<given-names>AV</given-names>
+</string-name>. <article-title>Improving the accuracy of demographic and molecular clock model comparison while accommodating phylogenetic uncertainty</article-title>. <source xml:lang="en">Mol Biol Evol</source>. <year>2012</year>;<volume>29</volume>(<issue>9</issue>):<fpage>2157</fpage>&#x02010;<lpage>2167</lpage>.<pub-id pub-id-type="pmid">22403239</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jmv25723-cit-0008">
+<string-name>
+<surname>Pybus</surname>
+<given-names>OG</given-names>
+</string-name>, <string-name>
+<surname>Charleston</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rambaut</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Harvey</surname>
+<given-names>PH</given-names>
+</string-name>. <article-title>The epidemic behavior of the hepatitis C virus</article-title>. <source xml:lang="en">Science</source>. <year>2001</year>;<volume>292</volume>(<issue>5525</issue>):<fpage>2323</fpage>&#x02010;<lpage>2325</lpage>.<pub-id pub-id-type="pmid">11423661</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jmv25723-cit-0009">
+<string-name>
+<surname>Stadler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kuhnert</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bonhoeffer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Drummond</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Birth&#x02010;death skyline plot reveals temporal changes of epidemic spread in HIV and hepatitis C virus (HCV)</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2013</year>;<volume>110</volume>(<issue>1</issue>):<fpage>228</fpage>&#x02010;<lpage>233</lpage>.<pub-id pub-id-type="pmid">23248286</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jmv25723-cit-0010">
+<string-name>
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Early transmission dynamics in Wuhan, China, of novel coronavirus&#x02010;infected pneumonia</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2020</year>.</mixed-citation></ref><ref id="jmv25723-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jmv25723-cit-0011">
+<string-name>
+<surname>Walker</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Pybus</surname>
+<given-names>OG</given-names>
+</string-name>, <string-name>
+<surname>Rambaut</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>
+<given-names>EC</given-names>
+</string-name>. <article-title>Comparative population dynamics of HIV&#x02010;1 subtypes B and C: subtype&#x02010;specific differences in patterns of epidemic growth</article-title>. <source xml:lang="en">Infect Genet Evol</source>. <year>2005</year>;<volume>5</volume>(<issue>3</issue>):<fpage>199</fpage>&#x02010;<lpage>208</lpage>.<pub-id pub-id-type="pmid">15737910</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jmv25723-cit-0012">
+<string-name>
+<surname>Lipsitch</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Transmission dynamics and control of severe acute respiratory syndrome</article-title>. <source xml:lang="en">Science</source>. <year>2003</year>;<volume>300</volume>(<issue>5627</issue>):<fpage>1966</fpage>&#x02010;<lpage>1970</lpage>.<pub-id pub-id-type="pmid">12766207</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jmv25723-cit-0013">
+<string-name>
+<surname>Assiri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McGeer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Perl</surname>
+<given-names>TM</given-names>
+</string-name>, et al. <article-title>Hospital outbreak of Middle East respiratory syndrome coronavirus</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2013</year>;<volume>369</volume>(<issue>5</issue>):<fpage>407</fpage>&#x02010;<lpage>416</lpage>.<pub-id pub-id-type="pmid">23782161</pub-id></mixed-citation></ref><ref id="jmv25723-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jmv25723-cit-0014">
+<string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Transmission dynamics of 2019 novel coronavirus (2019&#x02010;nCoV)</article-title>. <source xml:lang="en">bioRxiv</source>. <year>2020</year>;<volume>2020</volume>(<issue>2001</issue>):<fpage>2025</fpage>.</mixed-citation></ref><ref id="jmv25723-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jmv25723-cit-0015">
+<string-name>
+<surname>Veo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Della Ventura</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Evolutionary dynamics of the lineage 2 West Nile virus that caused the largest European epidemic: Italy 2011&#x02010;2018</article-title>. <source xml:lang="en">Viruses</source>. <year>2019</year>;<volume>11</volume>(<issue>9</issue>):<fpage>814</fpage>.</mixed-citation></ref><ref id="jmv25723-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jmv25723-cit-0016">
+<string-name>
+<surname>Towers</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Patterson&#x02010;Lomba</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Castillo&#x02010;Chavez</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Temporal variations in the effective reproduction number of the 2014 west Africa ebola outbreak</article-title>. <source xml:lang="en">PLoS Currents</source>. <year>2014</year>;<volume>6</volume>, <pub-id pub-id-type="doi">10.1371/currents.outbreaks.9e4c4294ec8ce1adad283172b16bc908</pub-id>
+</mixed-citation></ref><ref id="jmv25723-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jmv25723-cit-0017">
+<string-name>
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Musa</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Estimating the unreported number of novel coronavirus (2019&#x02010;nCoV) cases in China in the first half of January 2020: a data&#x02010;driven modelling analysis of the early outbreak</article-title>. <source xml:lang="en">J Clin Med</source>. <year>2020</year>;<volume>9</volume>(<issue>2</issue>):<fpage>388</fpage>.</mixed-citation></ref><ref id="jmv25723-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jmv25723-cit-0018">
+<string-name>
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Ran</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Preliminary estimation of the basic reproduction number of novel coronavirus (2019&#x02010;nCoV) in China, from 2019 to 2020: a data&#x02010;driven analysis in the early phase of the outbreak</article-title>. <source xml:lang="en">Int J Infect Dis</source>. <year>2020</year>;<volume>92</volume>:<fpage>214</fpage>&#x02010;<lpage>217</lpage>.<pub-id pub-id-type="pmid">32007643</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="pntd.0008658.s002">
+ <label>S2 Fig</label>
+ <caption>
+  <title>Association between detection of yellow fever virus (YFV) in the liver of non-human primate carcasses with each bimester within the yellow fever epidemic and non-epidemic periods.</title>
+  <p>YFV ND: yellow fever virus RNA non-detectable. YFV pos: yellow fever virus RNA detectable. Pearson residuals (standardized) were extracted from the chi-square function and plotted. In each cell, the circle’s size is proportional to the amount of cell contribution, and colors indicate positive residuals (blue) or negative residuals (red). The vertical bars indicate Pearson residuals values. Analyses were run in R software v.3.6.0.</p>
+  <p>(TIF)</p>
+ </caption>
+ <media xlink:href="pntd.0008658.s002.tif" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

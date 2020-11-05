@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5546-9111</contrib-id>
+  <name>
+   <surname>Bae</surname>
+   <given-names>Tae Wuk</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2417-1256</contrib-id>
+  <name>
+   <surname>Kwon</surname>
+   <given-names>Kee Koo</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6285-5926</contrib-id>
+  <name>
+   <surname>Kim</surname>
+   <given-names>Kyu Hyung</given-names>
+  </name>
+  <xref ref-type="aff" rid="A1"/>
+ </contrib>
+</contrib-group>

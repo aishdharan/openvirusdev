@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We model epidemic spreading in the period from 21 February 2020 to 2 May 2020 using reported data by MoHME.
+ <xref rid="ref2" ref-type="bibr">
+  <sup>2</sup>
+ </xref> The Runge–Kutta method is used to solve the ordinary differential equations in MATLAB. As shown in 
+ <xref rid="f1" ref-type="fig">Figure 1</xref>, we estimated the 
+ <inline-formula>
+  <tex-math id="M12">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}${R}_0$\end{document}</tex-math>
+ </inline-formula> to be 4.86 in the first week of the outbreak which is significantly higher than that reported for many other regions.
+ <xref rid="ref4" ref-type="bibr">
+  <sup>4</sup>
+ </xref> Iran suffered from inadequate testing kits in the early stages and had to conduct tests in a few laboratories in Tehran. Hence obtaining the test results was delayed. However, as of 28 March 2020, 90 labs were capable of conducting tests every day.
+ <xref rid="ref5" ref-type="bibr">
+  <sup>5</sup>
+ </xref>
+</p>

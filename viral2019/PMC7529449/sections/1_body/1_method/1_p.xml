@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>This is a randomized controlled trial (RCT) that served as a basis for the development of a dynamic cohort model with Markov states to compare the standard treatment (isolated medical visits) for HIV-infected people 
+ <italic>versus</italic> the alternative strategy (medical visits and sending text messages). The Markov model is indicated for use in dynamic models of transmission of infectious diseases, since this model is capable of simulating interactions among human beings and how these interactions affect the spread of a disease, HIV in the case of this study, throughout time
+ <sup>(</sup>
+ <xref rid="B16" ref-type="bibr">16</xref>
+ <sup>)</sup>. In addition, this model allows for the inclusion of details relevant to the spread of these diseases, such as different mortality rates, birth rates, and probability of infection according to the severity of the pathology
+ <sup>(</sup>
+ <xref rid="B16" ref-type="bibr">16</xref>
+ <sup>)</sup>.
+</p>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR43">
+ <label>43.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kusov</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Tan</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Alvarez</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Enjuanes</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Hilgenfeld</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>A G-quadruplex-binding macrodomain within the “SARS-unique domain” is essential for the activity of the SARS-coronavirus replication–transcription complex</article-title>
+  <source>Virology</source>
+  <year>2015</year>
+  <volume>484</volume>
+  <fpage>313</fpage>
+  <lpage>322</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.virol.2015.06.016</pub-id>
+  <?supplied-pmid 26149721?>
+  <pub-id pub-id-type="pmid">26149721</pub-id>
+ </element-citation>
+</ref>

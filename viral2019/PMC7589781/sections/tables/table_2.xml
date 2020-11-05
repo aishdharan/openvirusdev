@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="microorganisms-08-01620-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">microorganisms-08-01620-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Principal studies evaluating the correlation between rhinovirus bronchiolitis and preschool wheezing or asthma.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Study,
+     <break/>Year,
+     <break/>Country
+    </th>
+    <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Study Design,
+     <break/>Study Population
+    </th>
+    <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Period of Study Enrollment</th>
+    <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Age Group</th>
+    <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sample Size
+     <break/>Number of Cases
+    </th>
+    <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Outcome—Measure of Interest</th>
+    <th align="center" valign="top" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Results (
+     <italic>p</italic>-Value)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Koponen P et al.,
+     <break/>2011,
+     <break/>Finland
+     <break/>[
+     <xref rid="B45-microorganisms-08-01620" ref-type="bibr">45</xref>]
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis
+     <break/>with a follow-up at 5-6 years of age
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Dec 2001–May 2002 and
+     <break/>Oct 2002–May 2004
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;6 months</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">166 infants:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 117/166 (70.5%)
+     <break/>- RV 21/166 (12.7%)
+     <break/>- Others 28/166 (16.9%)
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Current asthma, defined as a continuous maintenance medication for asthma,
+     <break/>doctor-diagnosed wheezing or prolonged
+     <break/>(4 weeks) cough apart from an infection,
+     <break/>during the preceding year and BHR in ECT
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Previous non-RSV bronchiolitis associated with more frequent current asthma in preschool-age than RSV bronchiolitis
+     <break/>(24% vs. 8.2%,
+     <break/>
+     <italic>p</italic> = 0.01),
+     <break/>but no single virus (nor RV) was predominant in the “former non-RSV bronchiolitis” group with current asthma
+     <break/>
+     <break/>At the adjusted multivariate analysis, non-RSV bronchiolitis resulted as an independent risk factor for preschool asthma
+     <break/>(aOR 3.74,
+     <break/>95% CI 1.28–10.99)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Midulla F et al.,
+     <break/>2014,
+     <break/>Italy
+     <break/>[
+     <xref rid="B46-microorganisms-08-01620" ref-type="bibr">46</xref>]
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center, hospitalized children with a clinical diagnosis of bronchiolitis with yearly follow-up for 3 years since discharge</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 2004–May 2008</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">230 infants,
+     <break/>134 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 99/134 (73.9%)
+     <break/>- RV 20/134 (14.9%)
+     <break/>- Others 29/134 (21.6%)
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Recurrence of wheezing
+     <break/>(3 groups:
+     <break/>no wheezing, occasional wheezing
+     <break/>(≥2 episodes of wheezing in 3 years), recurrent wheezing
+     <break/>(≥2 episodes of wheezing in a year for3 years))
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">RV bronchiolitis associated with recurrent wheezing than other viral groups at multivariate analysis
+     <break/>(OR 3.2,
+     <break/>95% CI 1.1-9.6,
+     <break/>
+     <italic>p</italic> = 0.03)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Amat et al.,
+     <break/>2018,
+     <break/>France
+     <break/>[
+     <xref rid="B47-microorganisms-08-01620" ref-type="bibr">47</xref>]
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective single-center,
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis with follow-up for 3 years after discharge
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Oct 2011–May 2012</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">154 infants:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 117/154 (76%)
+     <break/>- RV 44/154 (28.6%)
+     <break/>- Others 108/154 (70.1%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 54/154 (35.1%)
+     <break/>N.B. frequency of RV + RSV infection not specified
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Diagnosis of recurrent wheezing
+     <break/>
+     <break/>Sensitization (IgE rate) to aeroallergens
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant differences in the frequency of recurrent wheezing among single and mixed viral groups,
+     <break/>but initial RV-RSV co-infected bronchiolitis associated with the risk of sensitization to aeroallergens at 3 years at multivariate analysis
+     <break/>(OR 3.88,
+     <break/>95% CI 1.24–12.1,
+     <break/>
+     <italic>p</italic> = 0.02)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Bergroth E et al.,
+     <break/>2019,
+     <break/>Finland
+     <break/>[
+     <xref rid="B36-microorganisms-08-01620" ref-type="bibr">36</xref>]
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter cohort study (MARC-30),
+     <break/>hospitalized children with a clinical diagnosis of bronchiolitis with follow-up 4 years after discharge
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Nov 2008–Mar 2010</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">349 children,
+     <break/>302 virus-positive cases:
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 145/302 (48%)
+     <break/>- RV 101/302 (33.4%)
+     <break/>- Others 51/302 (16.9%)
+     <break/>
+     <break/>Co-infections
+     <break/>- RSV + RV 8/302 (2.6%)
+     <break/>N.B. frequency of global co-infections not specified
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Use of asthma control medication 4 years after bronchiolitis</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">RV infection associated with higher use of asthma control medication in the last year than RSV infection
+     <break/>(47% vs. 15%, aOR 3.67,
+     <break/>95% CI 1.88–7.19,
+     <break/>
+     <italic>p</italic> &lt; 0.001)
+     <break/>
+     <break/>At the multivariable analysis, RV-C was specifically associated with a higher risk for the use of asthma control medication 4 years after severe bronchiolitis
+     <break/>(aOR 3.72,
+     <break/>95% CI 1.80–7.66,
+     <break/>
+     <italic>p</italic> &lt; 0.001)
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Hunderi JOG et al.,
+     <break/>2020,
+     <break/>Norway
+     <break/>[
+     <xref rid="B48-microorganisms-08-01620" ref-type="bibr">48</xref>]
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter,
+     <break/>hospitalized children with a clinical diagnosis of moderate-severe bronchiolitis (based on a 10-pointed CSI) with follow-up 2 years after discharge
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">2010–2011</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;2 years</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">294 children,
+     <break/>129 virus-positive cases
+     <break/>
+     <break/>Viral types
+     <break/>- RSV 107/129 (82.9%)
+     <break/>- RV 45/129 (34.9%)
+     <break/>- RV-A/B 12/45 (26.7%)
+     <break/>- RV-C 33/45 (73.3%)
+     <break/>- high RV genomic load
+     <break/>8/45 (17.8%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 170/266 (63.9%)
+     <break/>N.B. frequency of RV + RSV infection not specified
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Recurrent wheeze at 2 years (defined as ≥3 episodes, including the bronchiolitis at the enrollment)</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Recurrent wheeze by 2 years of age was neither significantly associated with RV or RSV nor with rates of high viral load during acute infant bronchiolitis</td>
+   </tr>
+   <tr>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Mansbach et al.,
+     <break/>2020,
+     <break/>USA
+     <break/>[
+     <xref rid="B49-microorganisms-08-01620" ref-type="bibr">49</xref>]
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Prospective multicenter cohort study (MARC-35), hospitalized children with a clinical diagnosis of bronchiolitis with follow-up 2 years after discharge with a focus on delayed viral clearance (detection of the same virus in nasal swab 3 weeks after the discharge) and sequential infection (detection of a new RSV type or RV genotype)</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">2011–2014
+     <break/>(winter seasons)
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">&lt;1 year</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">673 infants:
+     <break/>
+     <break/>Viral typed
+     <break/>- RSV 107/673 (15.9%)
+     <break/>- RV 122/673 (18.1%)
+     <break/>
+     <break/>Co-infections
+     <break/>- Coinfect. 170/266 (63.9%)
+     <break/>N.B. frequency of RV + RSV infection not directly specified
+    </td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">Recurrent wheezing by age 3 years (defined as having ≥2 corticosteroid-requiring exacerbations in 6 months or ≥4 wheezing episodes in 1 year that last ≥1 day and affect sleep)</td>
+    <td align="center" valign="top" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant association between RSV DC, RSV SI, RV DC, RV SI, and a higher risk of recurrent wheezing
+     <break/>
+     <break/>Among infants with RV at hospitalization, those with a new RV SI had a higher risk of recurrent wheezing compared to children without a new RV SI
+     <break/>(HR 2.49,
+     <break/>95% CI 1.22–5.06,
+     <break/>
+     <italic>p</italic> = 0.01)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>aOR = adjusted odds ratio; BHR = bronchial hyper responsiveness; CI = confidence interval; CSI = clinical score index; DC = delayed clearance; ECT = exercise challenge test; HR = hazard ratio; IgE = immunoglobulin E; MARC = Multicenter Airway Research Collaboration; mo = month; RSV = respiratory syncytial virus; RV = rhinovirus; SI = sequential infection; y = year.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

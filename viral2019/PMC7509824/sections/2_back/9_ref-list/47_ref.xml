@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR47">
+ <label>47.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ye</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>West</surname>
+    <given-names>AMV</given-names>
+   </name>
+   <name>
+    <surname>Silletti</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Corbett</surname>
+    <given-names>KD</given-names>
+   </name>
+  </person-group>
+  <article-title>Architecture and self-assembly of the SARS-CoV-2 nucleocapsid protein</article-title>
+  <source>Protein Sci</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1002/pro.3909.10.1002/pro.3909</pub-id>
+  <?supplied-pmid 32654247?>
+  <pub-id pub-id-type="pmid">32654247</pub-id>
+ </element-citation>
+</ref>

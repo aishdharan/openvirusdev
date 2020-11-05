@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="TB3" ref-type="table">Table 3</xref> is created using the above values. Note that, the results are perfect in the two cases (two-class and multi-class classifications) for the KNN classifier. That is clear from the calculated parameter values shown in the table. In the three classification systems, the KNN classifier gives 100% accuracy, 0 error rate, 1 MCC and 100% F1 score. But for the cascade-forward NN, it gets these typical results only in the COVID-19/SARS-CoV classification process. In COVID-19/MERS-CoV classification process, it gives 98.33% accuracy, 0.0166 error rates, 0.9672 MCC and 98.36% F1 score besides 98.89% accuracy, 0.0111 error rate, 0.9754 MCC and 98.34% F1 score in the overall classification system.
+</p>

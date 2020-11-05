@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R87">
+ <label>87</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <collab>Writing Committee of the WHO Consultation on Clinical Aspects of Pandemic (H1N1) 2009 Influenza</collab>, 
+   <name name-style="western">
+    <surname>Bautista</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chotpitayasunondh</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Clinical aspects of pandemic 2009 influenza A (H1N1) virus infection</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2010</year>;
+  <volume>362</volume>:
+  <fpage>1708</fpage>–
+  <lpage>19</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMra1000449</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20445182?>
+  <pub-id pub-id-type="pmid">20445182</pub-id>
+ </mixed-citation>
+</ref>

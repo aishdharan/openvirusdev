@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5152-6545</contrib-id>
+  <name>
+   <surname>Unger</surname>
+   <given-names>Jean-Pierre</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1-0020731420946590">1</xref>
+  <xref ref-type="corresp" rid="corresp1-0020731420946590"/>
+ </contrib>
+ <aff id="aff1-0020731420946590">
+  <label>1</label>Visiting Professor, Institute of Population Health Sciences, University of Newcastle, Newcastle upon Tyne NE2 4AX, United Kingdom
+ </aff>
+</contrib-group>

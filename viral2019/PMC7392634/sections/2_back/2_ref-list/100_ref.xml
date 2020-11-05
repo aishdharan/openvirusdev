@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R100">
+ <label>100</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Docherty</surname>
+    <given-names>AB</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Harrison</surname>
+    <given-names>EM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Green</surname>
+    <given-names>CA</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study</article-title>. 
+  <source>BMJ</source>
+  <year>2020</year>;
+  <volume>369</volume>:
+  <elocation-id>m1985</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1136/bmj.m1985</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32444460?>
+  <pub-id pub-id-type="pmid">32444460</pub-id>
+ </mixed-citation>
+</ref>

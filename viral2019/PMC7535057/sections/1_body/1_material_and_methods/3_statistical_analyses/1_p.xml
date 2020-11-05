@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For statistical analyses, samples were subdivided into different groups according to the period of sampling: (
+ <italic>i</italic>) epidemic (December-May) and non-epidemic (June-November) periods; (
+ <italic>ii</italic>) bimester within epidemic (December/January, February/March, and April/May) and within non-epidemic periods (June/July, August/September, and October/November); (
+ <italic>iii</italic>) NHP genera: 
+ <italic>Callithrix</italic>, 
+ <italic>Callicebus</italic>, and 
+ <italic>Alouatta</italic> (
+ <italic>Sapajus</italic> was not included due to the low number of specimens); (
+ <italic>iv</italic>) environment: rural, urban-rural interface, and rural areas; and (
+ <italic>v</italic>) environment together with NHP genera: urban 
+ <italic>Callithrix</italic>, urban-rural 
+ <italic>Callithrix</italic>, rural 
+ <italic>Callithrix</italic>, rural 
+ <italic>Callicebus</italic>, and rural 
+ <italic>Alouatta</italic> (given the low number of specimens, 
+ <italic>Alouatta</italic> and 
+ <italic>Callicebu</italic>s from urban and urban-rural interface were not included in the analyses). The comparison of proportions of YFV-positive carcasses within groups was performed using chi-square and chi-square for trend. The Kruskal-Wallis test and multiple pairwise-comparisons between groups by Wilcoxon rank-sum test were used to compare the (median) Cq values observed for the positive samples within each group. Median Cq values were compared only using data from carcasses in good and intermediate conservation status (see 
+ <xref ref-type="sec" rid="sec009">Results</xref>). Statistical analyses were run in R v.3.6.0 (
+ <ext-link ext-link-type="uri" xlink:href="https://www.r-project.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.r-project.org/</ext-link>) and Epitools (
+ <ext-link ext-link-type="uri" xlink:href="http://epitools.ausvet.com.au/" xmlns:xlink="http://www.w3.org/1999/xlink">http://epitools.ausvet.com.au/</ext-link>). Bonferroni correction for multiple comparisons was applied, with differences considered statistically significant at p&lt; 0.0125.
+</p>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bi</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Wu</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Mei</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study</article-title>
+  <source>Lancet Infect Dis</source>
+  <year>2020</year>
+  <volume>20</volume>
+  <issue>8</issue>
+  <fpage>911</fpage>
+  <lpage>919</lpage>
+  <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30287-5</pub-id>
+  <pub-id pub-id-type="pmid">32353347</pub-id>
+ </element-citation>
+</ref>

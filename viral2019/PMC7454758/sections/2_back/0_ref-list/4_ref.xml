@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Olsen</surname>
+    <given-names>SJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chang</surname>
+    <given-names>HL</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Cheung</surname>
+    <given-names>TY</given-names>
+   </name>
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Transmission of the severe acute respiratory syndrome on aircraft</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2003</year>; 
+  <volume>349</volume>:
+  <fpage>2416</fpage>–
+  <lpage>22</lpage>.
+  <pub-id pub-id-type="pmid">14681507</pub-id>
+ </mixed-citation>
+</ref>

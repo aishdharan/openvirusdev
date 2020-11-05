@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e9755">We emphasize finally that although the two control strategies represented by 
+ <xref rid="fig3" ref-type="fig">Fig. 3</xref>, 
+ <xref rid="fig4" ref-type="fig">Fig. 4</xref> each represent a solution to the optimal control problem 
+ <xref rid="fd16" ref-type="disp-formula">(16)</xref>, they are by no means equivalent. The ‘bang–bang’ control strategy (high 
+ <inline-formula>
+  <math id="d1e9766" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>) comes with a much lower economic cost (lower 
+ <inline-formula>
+  <math id="d1e9781" display="inline" altimg="si198.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">J</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">i</mi>
+     <mi mathvariant="bold-fraktur">n</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>). Therefore, subject to the model assumptions and the framework of the optimal control problem 
+ <xref rid="fd14" ref-type="disp-formula">(14)</xref>, an eradication strategy is far preferable to a containment strategy.
+</p>

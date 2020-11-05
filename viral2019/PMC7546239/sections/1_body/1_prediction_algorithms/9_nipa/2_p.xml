@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2227">Network-based approaches take into account the interactions between different regions. However, the contact network 
+ <inline-formula>
+  <math id="d1e2230" display="inline" altimg="si1.svg">
+   <mi>G</mi>
+  </math>
+ </inline-formula> is unknown (and consequently also the infection probability matrix 
+ <inline-formula>
+  <math id="d1e2235" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula>) and must be inferred from the epidemic outbreak. The Network Inference-based Prediction Algorithm (NIPA) was originally proposed in 
+ <xref rid="b33" ref-type="bibr">Prasse and Van Mieghem (2020a)</xref>, and we applied an adaption of NIPA to the spread of COVID-19 in Hubei, China (
+ <xref rid="b31" ref-type="bibr">Prasse, Achterberg, Ma et al., 2020</xref>) and Italy (
+ <xref rid="b30" ref-type="bibr">Pizzuti, Socievole, Prasse, &amp; Van Mieghem, 2020</xref>). NIPA consists of two steps. First, the underlying infection matrix 
+ <inline-formula>
+  <math id="d1e2255" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula> is inferred from the epidemic outbreak. Second, the infection matrix 
+ <inline-formula>
+  <math id="d1e2260" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula> and the estimated curing rates 
+ <inline-formula>
+  <math id="d1e2266" display="inline" altimg="si76.svg">
+   <msub>
+    <mrow>
+     <mi>δ</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> for every node 
+ <inline-formula>
+  <math id="d1e2276" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> are used to forecast the outbreak by iterating the Susceptible-Infected-Removed (SIR) model on the estimated infection matrix 
+ <inline-formula>
+  <math id="d1e2281" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula>. Even though NIPA successfully forecasted the spread of COVID-19 in the Chinese province Hubei, the underlying infection matrix 
+ <inline-formula>
+  <math id="d1e2286" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula> cannot be inferred (
+ <xref rid="b34" ref-type="bibr">Prasse &amp; Van Mieghem, 2020b</xref>).
+</p>

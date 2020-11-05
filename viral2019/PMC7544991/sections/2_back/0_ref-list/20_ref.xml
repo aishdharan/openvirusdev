@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B20">
+ <label>20.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hu</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Shi</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>L</given-names>
+   </name>
+  </person-group>. 
+  <article-title>Less expression of CD4(+) and CD8(+) T cells might reflect the severity of infection and predict worse prognosis in patients with COVID-19: evidence from a pooled analysis</article-title>. 
+  <source>Clin Chim Acta</source>. (
+  <year>2020</year>) 
+  <volume>510</volume>:
+  <fpage>1</fpage>–
+  <lpage>4</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.cca.2020.06.040</pub-id>
+  <?supplied-pmid 32598880?>
+  <pub-id pub-id-type="pmid">32598880</pub-id>
+ </mixed-citation>
+</ref>

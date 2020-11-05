@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our sensitivity analysis further characterizes the variability of the epidemic dynamics to other parameters in our model. Beyond the arrival date of an infected human and temperature seasonality, the quantities of interest were also sensitive to transmission rates, mosquito mortality rate, and mosquito population size. This is consistent with other modeling studies that highlight the importance of the mosquito dynamics on epidemic outcomes [
+ <xref rid="pntd.0008679.ref028" ref-type="bibr">28</xref>, 
+ <xref rid="pntd.0008679.ref058" ref-type="bibr">58</xref>, 
+ <xref rid="pntd.0008679.ref059" ref-type="bibr">59</xref>]. Our sensitivity analysis went a step further to characterize the interaction effects of our model parameters. An example is the interaction term between mean temperature and the mosquito population size as demonstrated in other previous models (e.g. [
+ <xref rid="pntd.0008679.ref013" ref-type="bibr">13</xref>, 
+ <xref rid="pntd.0008679.ref019" ref-type="bibr">19</xref>, 
+ <xref rid="pntd.0008679.ref060" ref-type="bibr">60</xref>]). Though this was not the focus of our analysis, it can be useful in improving understanding of the complex processes that interact to determine epidemic dynamics. Likewise, from a control and mitigation perspective, the interaction term effects are useful to understand how the implementation of a specific control strategy can have dramatic effects on the mosquito life-history traits and in turn the overall epidemic dynamics. A cautionary note, our sensitivity analysis varied only the mosquito portion of the transmission cycle and does not account for the variance in the human transmission and its combined influence on the epidemic dynamics.
+</p>

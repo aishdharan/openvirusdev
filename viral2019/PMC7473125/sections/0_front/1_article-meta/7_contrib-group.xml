@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7604-5139</contrib-id>
+  <name>
+   <surname>Shen</surname>
+   <given-names>Yinzhong</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zheng</surname>
+   <given-names>Fang</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Danfeng</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ling</surname>
+   <given-names>Yun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3850-4875</contrib-id>
+  <name>
+   <surname>Chen</surname>
+   <given-names>Jun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Feng</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF4">d</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Tao</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF5">e</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Qian</surname>
+   <given-names>Zhiping</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF6">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Yuyi</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF6">f</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Qingnian</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF7">g</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Li</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Qin</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF3">c</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shan</surname>
+   <given-names>Fei</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF8">h</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Lie</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Jun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF2">b</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhu</surname>
+   <given-names>Zhaoqin</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF9">i</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Song</surname>
+   <given-names>Zhigang</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF10">j</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Shenyang</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF11">k</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shi</surname>
+   <given-names>Yuxin</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF8">h</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Jianliang</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF12">l</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6087-4960</contrib-id>
+  <name>
+   <surname>Wu</surname>
+   <given-names>Xueyun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mendelsohn</surname>
+   <given-names>Joshua B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF13">m</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhu</surname>
+   <given-names>Tongyu</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF14">n</xref>
+  <xref ref-type="corresp" rid="cor2"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8308-5534</contrib-id>
+  <name>
+   <surname>Lu</surname>
+   <given-names>Hongzhou</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF1">a</xref>
+  <xref ref-type="corresp" rid="cor1"/>
+ </contrib>
+ <aff id="AF1">
+  <label>a</label>
+  <institution>Department of Infection and Immunity, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF2">
+  <label>b</label>
+  <institution>Department of Medical Affairs, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF3">
+  <label>c</label>
+  <institution>Department of Infection, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF4">
+  <label>d</label>
+  <institution>Department of Respiratory Medicine, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF5">
+  <label>e</label>
+  <institution>Department of Tuberculosis, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF6">
+  <label>f</label>
+  <institution>Department of Severe Liver Disease, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>China</country>
+ </aff>
+ <aff id="AF7">
+  <label>g</label>
+  <institution>Department of Traditional Chinese Medicine, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF8">
+  <label>h</label>
+  <institution>Department of Radiology, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF9">
+  <label>i</label>
+  <institution>Clinical Laboratory, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF10">
+  <label>j</label>
+  <institution>P3 Laboratory, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF11">
+  <label>k</label>
+  <institution>Data Management Center, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF12">
+  <label>l</label>
+  <institution>Department of Gastroenterology, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+ <aff id="AF13">
+  <label>m</label>
+  <institution>College of Health Professions, Pace University</institution>, 
+  <city>New York</city>, 
+  <state>NY</state>, 
+  <country>USA</country>
+ </aff>
+ <aff id="AF14">
+  <label>n</label>
+  <institution>Department of Urology, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People’s Republic of China</country>
+ </aff>
+</contrib-group>

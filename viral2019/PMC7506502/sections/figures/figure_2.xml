@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig0002">
+ <label>Fig. 2</label>
+ <caption>
+  <p>Graph of the spectral radius of the Jacobiam matrix associated to the finite-difference scheme 
+   <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref> at the equilibrium point 
+   <italic>C</italic>
+   <sub>2</sub>.The fitted and estimated parameters of 
+   <xref rid="tbl0002" ref-type="table">Table 2</xref> were used, and the spectral radius was obtained for various temporal step-sizes 
+   <italic>τ</italic> in [0, 1000].
+  </p>
+ </caption>
+ <alt-text id="at0002">Fig. 2</alt-text>
+ <graphic xlink:href="gr2_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

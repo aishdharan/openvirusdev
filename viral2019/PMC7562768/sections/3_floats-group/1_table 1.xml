@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Showing the number of cases, initial percentage of susceptible (S
+   <sub>0</sub>), attack rate (AR) and reproduction number (R
+   <sub>0</sub>) of different regions affected with 2019-CoV
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Country</th>
+    <th align="left">Total population</th>
+    <th align="left">Total cases</th>
+    <th align="left">So %</th>
+    <th align="left">Attack rate %</th>
+    <th align="left">Ro</th>
+    <th align="left">1/Ro</th>
+    <th align="left">(1–1/Ro)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">USA</td>
+    <td char="." align="char">1,43,93,23,776</td>
+    <td char="." align="char">7,13,002</td>
+    <td char="." align="char">0.051</td>
+    <td char="." align="char">0.2154</td>
+    <td char="." align="char">1.621</td>
+    <td char="." align="char">0.617</td>
+    <td char="." align="char">0.383</td>
+   </tr>
+   <tr>
+    <td align="left">Spain</td>
+    <td char="." align="char">6,04,61,826</td>
+    <td char="." align="char">1,91,726</td>
+    <td char="." align="char">0.331</td>
+    <td char="." align="char">0.4101</td>
+    <td char="." align="char">0.970</td>
+    <td char="." align="char">1.031</td>
+    <td char="." align="char">-0.031</td>
+   </tr>
+   <tr>
+    <td align="left">Italy</td>
+    <td char="." align="char">33,10,02,651</td>
+    <td char="." align="char">1,72,434</td>
+    <td char="." align="char">0.053</td>
+    <td char="." align="char">0.2852</td>
+    <td char="." align="char">1.708</td>
+    <td char="." align="char">0.586</td>
+    <td char="." align="char">0.414</td>
+   </tr>
+   <tr>
+    <td align="left">France</td>
+    <td char="." align="char">4,67,54,778</td>
+    <td char="." align="char">1,47,969</td>
+    <td char="." align="char">0.329</td>
+    <td char="." align="char">0.2267</td>
+    <td char="." align="char">0.835</td>
+    <td char="." align="char">1.198</td>
+    <td char="." align="char">-0.198</td>
+   </tr>
+   <tr>
+    <td align="left">Germany</td>
+    <td char="." align="char">8,37,83,942</td>
+    <td char="." align="char">1,42,569</td>
+    <td char="." align="char">0.178</td>
+    <td char="." align="char">0.1702</td>
+    <td char="." align="char">1.027</td>
+    <td char="." align="char">0.974</td>
+    <td char="." align="char">0.026</td>
+   </tr>
+   <tr>
+    <td align="left">UK</td>
+    <td char="." align="char">8,39,92,949</td>
+    <td char="." align="char">1,14,217</td>
+    <td char="." align="char">0.145</td>
+    <td char="." align="char">0.1682</td>
+    <td char="." align="char">1.104</td>
+    <td char="." align="char">0.905</td>
+    <td char="." align="char">0.095</td>
+   </tr>
+   <tr>
+    <td align="left">China</td>
+    <td char="." align="char">6,52,73,511</td>
+    <td char="." align="char">82,719</td>
+    <td char="." align="char">0.127</td>
+    <td char="." align="char">0.0057</td>
+    <td char="." align="char">1.031</td>
+    <td char="." align="char">0.970</td>
+    <td char="." align="char">0.030</td>
+   </tr>
+   <tr>
+    <td align="left">Iran</td>
+    <td char="." align="char">86,54,622</td>
+    <td char="." align="char">80,868</td>
+    <td char="." align="char">0.992</td>
+    <td char="." align="char">0.0963</td>
+    <td char="." align="char">0.459</td>
+    <td char="." align="char">2.181</td>
+    <td char="." align="char">-1.181</td>
+   </tr>
+   <tr>
+    <td align="left">Turkey</td>
+    <td char="." align="char">5,12,69,185</td>
+    <td char="." align="char">78,546</td>
+    <td char="." align="char">0.157</td>
+    <td char="." align="char">0.0931</td>
+    <td char="." align="char">1.016</td>
+    <td char="." align="char">0.984</td>
+    <td char="." align="char">0.016</td>
+   </tr>
+   <tr>
+    <td align="left">Belgium</td>
+    <td char="." align="char">6,78,86,011</td>
+    <td char="." align="char">37,183</td>
+    <td char="." align="char">0.058</td>
+    <td char="." align="char">0.3208</td>
+    <td char="." align="char">1.717</td>
+    <td char="." align="char">0.583</td>
+    <td char="." align="char">0.417</td>
+   </tr>
+   <tr>
+    <td align="left">Russia</td>
+    <td char="." align="char">1,71,34,872</td>
+    <td char="." align="char">36,793</td>
+    <td char="." align="char">0.243</td>
+    <td char="." align="char">0.0252</td>
+    <td char="." align="char">0.825</td>
+    <td char="." align="char">1.213</td>
+    <td char="." align="char">-0.213</td>
+   </tr>
+   <tr>
+    <td align="left">Brazil</td>
+    <td char="." align="char">90,06,398</td>
+    <td char="." align="char">34,485</td>
+    <td char="." align="char">0.466</td>
+    <td char="." align="char">0.0162</td>
+    <td char="." align="char">0.627</td>
+    <td char="." align="char">1.595</td>
+    <td char="." align="char">-0.595</td>
+   </tr>
+   <tr>
+    <td align="left">Canada</td>
+    <td char="." align="char">1,15,89,623</td>
+    <td char="." align="char">32,412</td>
+    <td char="." align="char">0.289</td>
+    <td char="." align="char">0.0859</td>
+    <td char="." align="char">0.800</td>
+    <td char="." align="char">1.250</td>
+    <td char="." align="char">-0.250</td>
+   </tr>
+   <tr>
+    <td align="left">Netherlands</td>
+    <td char="." align="char">54,21,241</td>
+    <td char="." align="char">31,589</td>
+    <td char="." align="char">0.630</td>
+    <td char="." align="char">0.1844</td>
+    <td char="." align="char">0.604</td>
+    <td char="." align="char">1.655</td>
+    <td char="." align="char">-0.655</td>
+   </tr>
+   <tr>
+    <td align="left">Switzerland</td>
+    <td char="." align="char">1,01,96,709</td>
+    <td char="." align="char">27,404</td>
+    <td char="." align="char">0.276</td>
+    <td char="." align="char">0.3166</td>
+    <td char="." align="char">0.966</td>
+    <td char="." align="char">1.035</td>
+    <td char="." align="char">-0.035</td>
+   </tr>
+   <tr>
+    <td align="left">Portugal</td>
+    <td char="." align="char">1,00,99,265</td>
+    <td char="." align="char">19,685</td>
+    <td char="." align="char">0.204</td>
+    <td char="." align="char">0.1931</td>
+    <td char="." align="char">0.990</td>
+    <td char="." align="char">1.010</td>
+    <td char="." align="char">-0.010</td>
+   </tr>
+   <tr>
+    <td align="left">India</td>
+    <td char="." align="char">2,54,99,884</td>
+    <td char="." align="char">14,792</td>
+    <td char="." align="char">0.060</td>
+    <td char="." align="char">0.0011</td>
+    <td char="." align="char">1.302</td>
+    <td char="." align="char">0.768</td>
+    <td char="." align="char">0.232</td>
+   </tr>
+   <tr>
+    <td align="left">Austria</td>
+    <td char="." align="char">3,77,42,154</td>
+    <td char="." align="char">14,671</td>
+    <td char="." align="char">0.040</td>
+    <td char="." align="char">0.1629</td>
+    <td char="." align="char">1.661</td>
+    <td char="." align="char">0.602</td>
+    <td char="." align="char">0.398</td>
+   </tr>
+   <tr>
+    <td align="left">Ireland</td>
+    <td char="." align="char">21,25,59,417</td>
+    <td char="." align="char">13,980</td>
+    <td char="." align="char">0.007</td>
+    <td char="." align="char">0.2831</td>
+    <td char="." align="char">2.856</td>
+    <td char="." align="char">0.350</td>
+    <td char="." align="char">0.650</td>
+   </tr>
+   <tr>
+    <td align="left">Sweden</td>
+    <td char="." align="char">86,55,535</td>
+    <td char="." align="char">13,822</td>
+    <td char="." align="char">0.180</td>
+    <td char="." align="char">0.1369</td>
+    <td char="." align="char">0.996</td>
+    <td char="." align="char">1.004</td>
+    <td char="." align="char">-0.004</td>
+   </tr>
+   <tr>
+    <td align="left">Peru</td>
+    <td char="." align="char">3,23,65,999</td>
+    <td char="." align="char">13,489</td>
+    <td char="." align="char">0.042</td>
+    <td char="." align="char">0.0409</td>
+    <td char="." align="char">1.480</td>
+    <td char="." align="char">0.675</td>
+    <td char="." align="char">0.325</td>
+   </tr>
+   <tr>
+    <td align="left">Israel</td>
+    <td char="." align="char">57,92,202</td>
+    <td char="." align="char">13,107</td>
+    <td char="." align="char">0.231</td>
+    <td char="." align="char">0.1514</td>
+    <td char="." align="char">0.914</td>
+    <td char="." align="char">1.094</td>
+    <td char="." align="char">-0.094</td>
+   </tr>
+   <tr>
+    <td align="left">S. Korea</td>
+    <td char="." align="char">8,43,39,067</td>
+    <td char="." align="char">10,653</td>
+    <td char="." align="char">0.013</td>
+    <td char="." align="char">0.0208</td>
+    <td char="." align="char">1.952</td>
+    <td char="." align="char">0.512</td>
+    <td char="." align="char">0.488</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

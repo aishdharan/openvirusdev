@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Ji</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Hao</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Dai</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Asymptomatic and human-to-human transmission of SARS-CoV-2 in a 2-family cluster, Xuzhou, China</article-title>. 
+  <source>Emerg Infect Dis.</source> (
+  <year>2020</year>) 
+  <volume>26</volume>:
+  <fpage>1626</fpage>-
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.3201/eid2607.200718</pub-id>
+  <?supplied-pmid 32228809?>
+  <pub-id pub-id-type="pmid">32228809</pub-id>
+ </mixed-citation>
+</ref>

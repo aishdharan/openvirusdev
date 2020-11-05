@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ijd15189-bib-0002">
+ <label>2</label>
+ <mixed-citation publication-type="journal" id="ijd15189-cit-0002">
+  <string-name>
+   <surname>Guan</surname>
+   <given-names>Wei‐jie</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ni</surname>
+   <given-names>Zheng‐yi</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hu</surname>
+   <given-names>Yu</given-names>
+  </string-name>, 
+  <italic>et al</italic>
+  <article-title>Clinical characteristics of Coronavirus Disease 2019 in China</article-title>. 
+  <source xml:lang="en">N Engl J Med</source>
+  <year>2020</year>; 
+  <volume>382</volume>(
+  <issue>18</issue>): 
+  <fpage>1708</fpage>–
+  <lpage>1720</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa2002032</pub-id>
+  <pub-id pub-id-type="pmid">32109013</pub-id>
+ </mixed-citation>
+</ref>

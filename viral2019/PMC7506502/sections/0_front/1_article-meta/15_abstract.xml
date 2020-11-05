@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="absh001">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="lst0003">
+   <list-item id="lstitem0001">
+    <label>•</label>
+    <p id="p0001">Mathematical considerations of a SEIQR model to describe the propagation of COVID-19 are proposed.</p>
+   </list-item>
+   <list-item id="lstitem0002">
+    <label>•</label>
+    <p id="p0002">We derive analytically the reproductive number and the equilibria with and without COVID-19.</p>
+   </list-item>
+   <list-item id="lstitem0003">
+    <label>•</label>
+    <p id="p0003">Necessary and sufficient conditions for the stability of the equilibria are mathematically established.</p>
+   </list-item>
+   <list-item id="lstitem0004">
+    <label>•</label>
+    <p id="p0004">An efficient nonstandard method to solve the continuous problem is proposed and analyzed.</p>
+   </list-item>
+   <list-item id="lstitem0005">
+    <label>•</label>
+    <p id="p0005">The numerical simulations confirm the analytical and numerical results derived in this work.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

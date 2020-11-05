@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par3">Scholars from various disciplines have participated in the research on epidemic transmission and control. The epidemic spreading model can be traced back to the analysis of smallpox by Daniel Bernoulli in 1760 [
+ <xref ref-type="bibr" rid="CR8">8</xref>], while the most classic epidemic spreading model is the Susceptible–Infected–Removed (SIR) model proposed by Kermack and McKendrich in 1927 [
+ <xref ref-type="bibr" rid="CR9">9</xref>]. Based on the SIR model, scholars found that there exists an epidemic threshold depended on the infection and recovery rate. If the infection rate is greater than a threshold, epidemics will spread on a large scale in the population. In 1932, Kermack and McKendrich established the Susceptible–Infected–Susceptible (SIS) model [
+ <xref ref-type="bibr" rid="CR10">10</xref>], which is similar to the SIR model, except that infected individuals would return to a susceptible state instead of an immune state after recovery. In 1992, for infectious diseases with a limited immune period, J. Mena-Lorca and et al. improved and proposed a more complex Susceptible–Infected–Removed–Susceptible (SIRS) model [
+ <xref ref-type="bibr" rid="CR11">11</xref>]. Inspired by these pioneering studies, a lot of efforts have been devoted to investigating epidemic spreading under various circumstances [
+ <xref ref-type="bibr" rid="CR12">12</xref>, 
+ <xref ref-type="bibr" rid="CR13">13</xref>]. One of the basic problems in theoretical epidemiology is to study the epidemic threshold of classic epidemic spreading models, e.g., SIR, SIS, and SEIR, in various networks, such as scale-free network and its extension [
+ <xref ref-type="bibr" rid="CR12">12</xref>, 
+ <xref ref-type="bibr" rid="CR13">13</xref>], complex heterogeneous networks [
+ <xref ref-type="bibr" rid="CR14">14</xref>], the real-world Oregon graph [
+ <xref ref-type="bibr" rid="CR15">15</xref>, 
+ <xref ref-type="bibr" rid="CR16">16</xref>], adaptive networks [
+ <xref ref-type="bibr" rid="CR17">17</xref>], and the complete worldwide air travel network [
+ <xref ref-type="bibr" rid="CR18">18</xref>]. Previous literature has unveiled that the epidemic threshold is highly related to the spectral radius of the adjacent matrix of the network [
+ <xref ref-type="bibr" rid="CR19">19</xref>, 
+ <xref ref-type="bibr" rid="CR20">20</xref>]. Other researches focused on developing epidemic spreading models in different scenarios and the temporal evolution [
+ <xref ref-type="bibr" rid="CR21">21</xref>, 
+ <xref ref-type="bibr" rid="CR22">22</xref>]. However, to our best knowledge, few of them focus on developing models to describe and predict the dynamic of real epidemic spreading cases.
+</p>

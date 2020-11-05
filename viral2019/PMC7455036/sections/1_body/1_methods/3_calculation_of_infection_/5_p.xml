@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Substituting 
+ <italic>β</italic> = 
+ <italic>λ</italic>×
+ <italic>p</italic> into (6) gives 
+ <disp-formula id="pone.0238411.e008">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e008.jpg" id="pone.0238411.e008g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M8">
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <msup>
+     <mrow>
+      <mi>e</mi>
+     </mrow>
+     <mrow>
+      <mo>(</mo>
+      <mi>λ</mi>
+      <mi>p</mi>
+      <mo>−</mo>
+      <mi>μ</mi>
+      <mo>)</mo>
+      <mi>t</mi>
+     </mrow>
+    </msup>
+    <mo>.</mo>
+   </math>
+  </alternatives>
+  <label>(7)</label>
+ </disp-formula>
+</p>

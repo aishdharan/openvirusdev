@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula>
+ <alternatives>
+  <math id="m4">
+   <mstyle scriptlevel="+1">
+    <mfrac>
+     <mrow>
+      <mi>d</mi>
+      <mi>R</mi>
+      <mfenced separators="|">
+       <mrow>
+        <mi>t</mi>
+       </mrow>
+      </mfenced>
+     </mrow>
+     <mrow>
+      <mi>d</mi>
+      <mi>t</mi>
+     </mrow>
+    </mfrac>
+    <mi> </mi>
+    <mo>=</mo>
+    <mi> </mi>
+    <mfenced separators="|">
+     <mrow>
+      <mn>1</mn>
+      <mo>−</mo>
+      <mi>α</mi>
+     </mrow>
+    </mfenced>
+    <mi> </mi>
+    <mo>×</mo>
+    <mi> </mi>
+    <mi>γ</mi>
+    <mi> </mi>
+    <mo>×</mo>
+    <mi> </mi>
+    <mi>I</mi>
+    <mfenced separators="|">
+     <mrow>
+      <mi>t</mi>
+     </mrow>
+    </mfenced>
+   </mstyle>
+  </math>
+  <graphic xlink:href="jkms-35-e317-e004.jpg" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </alternatives>
+ <label>(4)</label>
+</disp-formula>

@@ -1,0 +1,292 @@
+{
+  "id": [
+    "32957108"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32957108"
+  ],
+  "pmcid": [
+    "PMC7573891"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7573891"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1159/000511192"
+  ],
+  "title": [
+    "The Causal Relationship between Eating Animals and Viral Epidemics."
+  ],
+  "authorString": [
+    "Reddy BL, Saier MHJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Reddy BL"
+          ],
+          "firstName": [
+            "Bhaskara L"
+          ],
+          "lastName": [
+            "Reddy"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Biological Sciences, Department of Molecular Biology, University of California at San Diego, La Jolla, California, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Saier MHJ"
+          ],
+          "firstName": [
+            "Milton H Jr"
+          ],
+          "lastName": [
+            "Saier"
+          ],
+          "initials": [
+            "MHJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Biological Sciences, Department of Molecular Biology, University of California at San Diego, La Jolla, California, USA, msaier@ucsd.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3016182"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial physiology"
+          ],
+          "ISOAbbreviation": [
+            "Microb Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Microb Physiol"
+          ],
+          "NLMid": [
+            "101758692"
+          ],
+          "ISSN": [
+            "2673-1673"
+          ],
+          "ESSN": [
+            "2673-1673"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-7"
+  ],
+  "abstractText": [
+    "For decades it has been known that infectious agents including pathogenic protozoans, bacteria, and viruses, adapted to a particular animal host, can mutate to gain the ability to infect another host, and the mechanisms involved have been studied in great detail. Although an infectious agent in one animal can alter its host range with relative ease, no example of a plant virus changing its host organism to an animal has been documented. One prevalent pathway for the transmission of infectious agents between hosts involves ingestion of the flesh of one organism by another. In this article we document numerous examples of viral and prion diseases transmitted by eating animals. We suggest that the occurrence of cross-species viral epidemics can be substantially reduced by shifting to a more vegetarian diet and enforcing stricter laws that ban the slaughter and trade of wild and endangered species."
+  ],
+  "affiliation": [
+    "Division of Biological Sciences, Department of Molecular Biology, University of California at San Diego, La Jolla, California, USA."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Viral diseases",
+        "Coronaviruses",
+        "Prion Diseases",
+        "Viral Transmission",
+        "Dietary Restrictions",
+        "Animal Consumption And Use"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1159/000511192"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7573891"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7573891?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-21"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-21"
+  ],
+  "firstPublicationDate": [
+    "2020-09-21"
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b13">
+ <label>13</label>
+ <element-citation publication-type="book" id="sb13">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bryson</surname>
+    <given-names>Arthur Earl</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Applied Optimal Control: Optimization, Estimation and Control</chapter-title>
+  <year>1975</year>
+  <publisher-name>CRC Press</publisher-name>
+ </element-citation>
+</ref>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e449">Unfortunately, just as weather forecasts, the prediction of epidemic outbreaks is subject to fundamental limits (
+ <xref rid="b28" ref-type="bibr">Moran et al., 2016</xref>). One aspect is the limited availability of data, because epidemic time series are relatively short and carrying out medical tests on a large scale is challenging. Also, the final number of infected cases is highly sensitive to initial perturbations (
+ <xref rid="b32" ref-type="bibr">Prasse, Achterberg &amp; Van Mieghem, 2020</xref>). Nonetheless, many methods have been developed and applied to forecast the spread of COVID-19. Perhaps the simplest approach is based on fitting the number of infections to a sigmoid curve, such as the logistic function (
+ <xref rid="b36" ref-type="bibr">Roosa et al., 2020</xref>, 
+ <xref rid="b39" ref-type="bibr">Verhulst, 1845</xref>), Hill function (
+ <xref rid="b16" ref-type="bibr">Hill, 1910</xref>) or Gompertz function (
+ <xref rid="b12" ref-type="bibr">Gompertz, 1825</xref>). Using nonlinear regression, the parameters of the sigmoid curve can be estimated. For the comparison of prediction algorithms in this work, we evaluate the prediction based on the logistic function. The logistic function is of particular interest, because the logistic function is the (approximate) solution for the number of infected cases (
+ <xref rid="b38" ref-type="bibr">Van Mieghem, 2016</xref>) in the Susceptible-Infected-Susceptible (SIS) epidemic model and the number of removed cases in the Susceptible-Infected-Removed (SIR) epidemic model (
+ <xref rid="b21" ref-type="bibr">Kermack and McKendrick, 1927</xref>, 
+ <xref rid="b32" ref-type="bibr">Prasse, Achterberg and Van Mieghem, 2020</xref>).
+</p>

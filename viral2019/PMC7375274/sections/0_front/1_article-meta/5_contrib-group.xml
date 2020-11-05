@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Rana</surname>
+   <given-names>Muhammad Suleman</given-names>
+  </name>
+  <email>ranavirologist@gmail.com</email>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Ikram</surname>
+   <given-names>Aamer</given-names>
+  </name>
+  <email>maahin1@yahoo.com</email>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Alam</surname>
+   <given-names>Muhammad Masroor</given-names>
+  </name>
+  <email>ursmasroor@yahoo.com</email>
+ </contrib>
+ <contrib contrib-type="author" id="au4">
+  <name>
+   <surname>Salman</surname>
+   <given-names>Muhammad</given-names>
+  </name>
+  <email>salman14m@gmail.com</email>
+ </contrib>
+ <aff id="aff1">National Institute of Health, Islamabad, Pakistan</aff>
+</contrib-group>

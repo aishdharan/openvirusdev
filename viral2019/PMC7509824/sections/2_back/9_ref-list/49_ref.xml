@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR49">
+ <label>49.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Surjit</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Kumar</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Mishra</surname>
+    <given-names>RN</given-names>
+   </name>
+   <name>
+    <surname>Reddy</surname>
+    <given-names>MK</given-names>
+   </name>
+   <name>
+    <surname>Chow</surname>
+    <given-names>VTK</given-names>
+   </name>
+   <name>
+    <surname>Lal</surname>
+    <given-names>SK</given-names>
+   </name>
+  </person-group>
+  <article-title>The severe acute respiratory syndrome coronavirus nucleocapsid protein is phosphorylated and localizes in the cytoplasm by 14-3-3-mediated translocation</article-title>
+  <source>J Virol</source>
+  <year>2005</year>
+  <volume>79</volume>
+  <issue>17</issue>
+  <fpage>11476</fpage>
+  <lpage>11486</lpage>
+  <pub-id pub-id-type="doi">10.1128/JVI.79.17.11476-11486.2005</pub-id>
+  <?supplied-pmid 16103198?>
+  <pub-id pub-id-type="pmid">16103198</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref23">
+ <label>23.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Basu</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mitra</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Saha</surname>
+    <given-names>N</given-names>
+   </name>
+  </person-group>
+  <article-title>Deep learning for screening COVID-19 using chest X-ray images</article-title>. 
+  <source>arXiv</source>:2020:2004:10507. 
+  <comment>preprint</comment>.
+ </mixed-citation>
+</ref>

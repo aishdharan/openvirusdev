@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>If 
+ <inline-formula>
+  <math id="i101">
+   <mo>≥</mo>
+  </math>
+ </inline-formula>60-y-old individuals are shielded (contact rates reduced to zero), the 
+ <inline-formula>
+  <math id="i102">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60-y-old susceptible population is depleted at the fastest rate if the epidemic is allowed to grow unimpeded until the hospital burden (as defined above) reaches the hospital capacity, 
+ <inline-formula>
+  <math id="i103">
+   <msub>
+    <mrow>
+     <mi>H</mi>
+    </mrow>
+    <mrow>
+     <mi>c</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. At this point, contact rates are reduced to maintain hospital burden at hospital capacity. Mathematically, this translates into setting the reduction in contacts, 
+ <inline-formula>
+  <math id="i104">
+   <mi>q</mi>
+   <mrow>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula>, such that 
+ <xref ref-type="disp-formula" rid="eq2">Eqs. 
+  <bold>2</bold>
+ </xref>–
+ <xref ref-type="disp-formula" rid="eq5">
+  <bold>5</bold>
+ </xref> all equal 0. Solving for 
+ <inline-formula>
+  <math id="i105">
+   <mi>q</mi>
+   <mrow>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> gives
+ <disp-formula id="eq9">
+  <math id="me9">
+   <mi>q</mi>
+   <mrow>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+   </mrow>
+   <mo>=</mo>
+   <mfenced open="{" close="">
+    <mrow>
+     <mtable align="axis" equalrows="false" columnlines="none" equalcolumns="false" class="array">
+      <mtr>
+       <mtd columnalign="left">
+        <mn>1</mn>
+        <mo>−</mo>
+        <mn>1</mn>
+        <mo>/</mo>
+        <msubsup>
+         <mrow>
+          <mi>R</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">ff</mi>
+         </mrow>
+         <mrow>
+          <mi>u</mi>
+         </mrow>
+        </msubsup>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>t</mi>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+       </mtd>
+       <mtd columnalign="left">
+        <mtext>if</mtext>
+        <mi>H</mi>
+        <mo>≥</mo>
+        <msub>
+         <mrow>
+          <mi>H</mi>
+         </mrow>
+         <mrow>
+          <mi>c</mi>
+         </mrow>
+        </msub>
+        <mtext>and</mtext>
+        <msubsup>
+         <mrow>
+          <mi>R</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">ff</mi>
+         </mrow>
+         <mrow>
+          <mi>u</mi>
+         </mrow>
+        </msubsup>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <mi>t</mi>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <mo>&gt;</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd columnalign="left">
+        <mn>0</mn>
+       </mtd>
+       <mtd columnalign="left">
+        <mtext mathvariant="normal">otherwise</mtext>
+        <mo>.</mo>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </mfenced>
+  </math>
+  <label>[9]</label>
+ </disp-formula>where 
+ <inline-formula>
+  <math id="i106">
+   <msubsup>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="normal">e</mi>
+     <mi mathvariant="normal">ff</mi>
+    </mrow>
+    <mrow>
+     <mi>u</mi>
+    </mrow>
+   </msubsup>
+   <mrow>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+   </mrow>
+   <mo>=</mo>
+   <mi>γ</mi>
+   <msub>
+    <mrow>
+     <mi>N</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+   <mo>/</mo>
+   <mrow>
+    <mo>(</mo>
+    <mrow>
+     <mi>β</mi>
+     <msubsup>
+      <mrow>
+       <mi>c</mi>
+      </mrow>
+      <mrow>
+       <mn>0,0</mn>
+      </mrow>
+      <mrow>
+       <mrow>
+        <mo>(</mo>
+        <mrow>
+         <mn>2</mn>
+        </mrow>
+        <mo>)</mo>
+       </mrow>
+      </mrow>
+     </msubsup>
+     <msub>
+      <mrow>
+       <mi>S</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>t</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> is the effective reproductive number without contact reduction by 
+ <inline-formula>
+  <math id="i107">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60-y-olds. Substituting 
+ <xref ref-type="disp-formula" rid="eq9">Eq. 
+  <bold>9</bold>
+ </xref> into 
+ <xref ref-type="disp-formula" rid="eq1">Eq. 
+  <bold>1</bold>
+ </xref> and solving gives an expression for the control duration, 
+ <inline-formula>
+  <math id="i108">
+   <msub>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mrow>
+     <mi>d</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. For the parameters considered, there is limited susceptible depletion prior to hospital capacity being reached, and so
+ <disp-formula id="eq10">
+  <math id="me10">
+   <msub>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mrow>
+     <mi>d</mi>
+    </mrow>
+   </msub>
+   <mo>≈</mo>
+   <mfrac>
+    <mrow>
+     <mi>d</mi>
+     <msub>
+      <mrow>
+       <mi>h</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+     <msub>
+      <mrow>
+       <mi>N</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+    </mrow>
+    <mrow>
+     <msub>
+      <mrow>
+       <mi>H</mi>
+      </mrow>
+      <mrow>
+       <mi>c</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mfrac>
+   <mfenced open="(" close=")">
+    <mrow>
+     <mn>1</mn>
+     <mo>−</mo>
+     <mfrac>
+      <mrow>
+       <mi>γ</mi>
+      </mrow>
+      <mrow>
+       <mi>β</mi>
+       <msubsup>
+        <mrow>
+         <mi>c</mi>
+        </mrow>
+        <mrow>
+         <mn>0,0</mn>
+        </mrow>
+        <mrow>
+         <mrow>
+          <mo>(</mo>
+          <mrow>
+           <mn>2</mn>
+          </mrow>
+          <mo>)</mo>
+         </mrow>
+        </mrow>
+       </msubsup>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mfenced>
+   <mo>.</mo>
+  </math>
+  <label>[10]</label>
+ </disp-formula>
+</p>

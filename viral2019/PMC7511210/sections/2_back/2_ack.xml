@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ack0005">
+ <title>Acknowledgments</title>
+ <p id="par0070">This work was supported by the French Government under the “Investments for the Future” program managed by the 
+  <funding-source id="gs0005">National Agency for Research (ANR)</funding-source>, Méditerranée-Infection 10-IAHU-03 and was also supported by Région Provence Alpes Côte d’Azur and European funding 
+  <funding-source id="gs0010">
+   <institution-wrap>
+    <institution-id institution-id-type="doi">10.13039/501100008530</institution-id>
+    <institution>FEDER</institution>
+   </institution-wrap>
+  </funding-source>
+  <funding-source id="gs0015">PRIMMI</funding-source> (Fonds Européen de Développement Régional-Plateformes de Recherche et d'Innovation Mutualisées Méditerranée Infection), FEDER PA 0000320 PRIMMI. We are very grateful to Laurence Thomas, Elsa Prudent and Céline Gazin for their technical help.
+ </p>
+</ack>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b5">
+ <element-citation publication-type="book" id="sb5">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chang</surname>
+    <given-names>S.Y.</given-names>
+   </name>
+   <name>
+    <surname>Pierson</surname>
+    <given-names>E.</given-names>
+   </name>
+   <name>
+    <surname>Koh</surname>
+    <given-names>P.W.</given-names>
+   </name>
+   <name>
+    <surname>Gerardin</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Redbird</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Grusky</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Leskovec</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Mobility network modeling explains higher SARS-CoV-2 infection rates among disadvantaged groups and informs reopening strategies</chapter-title>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1101/2020.06.15.20131979</pub-id>
+ </element-citation>
+</ref>

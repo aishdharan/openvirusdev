@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>The stratified estimation of seven distinguished areas of RRs and 95% CIs of daily COVID-19 confirmed cases associated with per IQR increase in pollutant concentration (AQI, NO
+   <sub>2</sub>, PM
+   <sub>2.5</sub>, PM
+   <sub>10</sub>, CO, SO
+   <sub>2</sub>, O
+   <sub>3</sub>) in single-lag models. Note: the ∗ of SO
+   <sub>2</sub> in Hubei Province was 8.43 (95%CI: 5.76–12.34). L1-L5 related to Lag 0–5, Lag 0–10, Lag 0–15, Lag 0–20, Lag 0–25 respectively.
+  </p>
+ </caption>
+ <alt-text id="alttext0035">Fig. 4</alt-text>
+ <graphic xlink:href="gr4_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

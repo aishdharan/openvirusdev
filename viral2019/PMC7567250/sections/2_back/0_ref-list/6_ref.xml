@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Sun</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>W-T</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Lai</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Ji</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Zhai</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>COVID-19: Epidemiology, evolution, and cross-disciplinary perspectives</article-title>
+  <source>Trends Mol Med</source>
+  <year>2020</year>
+  <volume>26</volume>
+  <fpage>483</fpage>
+  <lpage>95</lpage>
+  <pub-id pub-id-type="pmid">32359479</pub-id>
+ </element-citation>
+</ref>

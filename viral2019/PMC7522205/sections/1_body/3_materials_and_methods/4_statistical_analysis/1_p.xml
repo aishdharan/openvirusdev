@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par23">We analyzed differences between the various genotypes using χ
+ <sup>2</sup> tests (for categorical data) and non-parametric Wilcoxon tests (for continuous data). We estimated the median baseline CD4+ cell count by genotype among newly diagnosed HIV patients using univariate and multivariable median regression. Mortality was calculated based on Poisson distributions, in units of mortality per 100 person-years of follow-up. We performed both univariate and multivariate Cox proportional hazard models to evaluate the effects of HIV-1 genotype on mortality before and after ART among newly diagnosed HIV patients, respectively. To control for potential bias and avoid the influences of other variables, the baseline characteristics of age at diagnosis, sex, marital status, ethnicity, education level, occupation, transmission route, year of HIV infection diagnosis, and baseline CD4+ cell count were included as control variables in the multivariate median regression model and multivariate Cox proportional hazard model
+ <sup>
+  <xref ref-type="bibr" rid="CR23">23</xref>,
+  <xref ref-type="bibr" rid="CR47">47</xref>,
+  <xref ref-type="bibr" rid="CR48">48</xref>
+ </sup>.
+</p>

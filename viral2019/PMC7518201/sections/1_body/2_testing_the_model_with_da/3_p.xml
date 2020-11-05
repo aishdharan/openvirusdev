@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0065">Substituting the definition of P in equation 
+ <xref rid="fd3" ref-type="disp-formula">(3)</xref> into equation 
+ <xref rid="fd10" ref-type="disp-formula">(10)</xref> and using equations 
+ <xref rid="fd1" ref-type="disp-formula">(1)</xref>, 
+ <xref rid="fd2" ref-type="disp-formula">(2)</xref>, 
+ <xref rid="fd3" ref-type="disp-formula">(3)</xref>, 
+ <xref rid="fd4" ref-type="disp-formula">(4)</xref>, 
+ <xref rid="fd5" ref-type="disp-formula">(5)</xref>, 
+ <xref rid="fd6" ref-type="disp-formula">(6)</xref>, 
+ <xref rid="fd7" ref-type="disp-formula">(7)</xref>, 
+ <xref rid="fd8" ref-type="disp-formula">(8)</xref>, we can obtain the approximate solutions for the death parameter as:
+ <disp-formula id="fd11">
+  <label>(11)</label>
+  <math id="M21" display="block" altimg="si21.svg" alttext="Equation 11.">
+   <mrow>
+    <msup>
+     <mi>D</mi>
+     <mi>i</mi>
+    </msup>
+    <mo linebreak="goodbreak">∼</mo>
+    <msup>
+     <mi>e</mi>
+     <mrow>
+      <mo>−</mo>
+      <mo>∫</mo>
+      <mi>d</mi>
+      <mi>t</mi>
+      <mi>G</mi>
+      <mrow>
+       <mo stretchy="true">[</mo>
+       <mi>t</mi>
+       <mo>,</mo>
+       <msub>
+        <mi>t</mi>
+        <mrow>
+         <mn>0</mn>
+         <mo linebreak="badbreak">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <msub>
+        <mi>t</mi>
+        <mrow>
+         <mn>0</mn>
+         <mo linebreak="badbreak">−</mo>
+         <mn>2</mn>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <mo>…</mo>
+       <msub>
+        <mi>t</mi>
+        <mrow>
+         <mn>0</mn>
+         <mo linebreak="badbreak">−</mo>
+         <mi>n</mi>
+         <mo linebreak="badbreak">+</mo>
+         <mi>m</mi>
+         <mo linebreak="badbreak">−</mo>
+         <mi>i</mi>
+        </mrow>
+       </msub>
+       <mo stretchy="true">]</mo>
+      </mrow>
+     </mrow>
+    </msup>
+    <mi>R</mi>
+    <mrow>
+     <mo stretchy="true">[</mo>
+     <mi>t</mi>
+     <mo>,</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mo>…</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mi>n</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>m</mi>
+       <mo linebreak="badbreak">−</mo>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+     <mo stretchy="true">]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>where
+ <disp-formula id="ufd1">
+  <math id="M22" altimg="si22.svg">
+   <mrow>
+    <mi>G</mi>
+    <mrow>
+     <mo stretchy="true">[</mo>
+     <mi>t</mi>
+     <mo>,</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo>-</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo>-</mo>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mo>…</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo>-</mo>
+       <mi>n</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>m</mi>
+       <mo>-</mo>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+     <mo stretchy="true">]</mo>
+    </mrow>
+    <mo>∼</mo>
+    <msubsup>
+     <mi>Π</mi>
+     <mrow>
+      <mi>j</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+      <mi>n</mi>
+      <mo linebreak="badbreak">+</mo>
+      <mn>2</mn>
+      <mi>m</mi>
+     </mrow>
+    </msubsup>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mi>F</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo linebreak="badbreak">+</mo>
+        <mi>m</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo stretchy="true">(</mo>
+       <mrow>
+        <msub>
+         <mi>t</mi>
+         <mi>i</mi>
+        </msub>
+       </mrow>
+       <mo stretchy="true">)</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <msub>
+       <mi>F</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo linebreak="badbreak">+</mo>
+        <mi>m</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo stretchy="true">(</mo>
+       <mi>t</mi>
+       <mo stretchy="true">)</mo>
+      </mrow>
+      <mo>-</mo>
+      <msub>
+       <mi>F</mi>
+       <mrow>
+        <mi>n</mi>
+        <mo linebreak="badbreak">+</mo>
+        <mi>m</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo stretchy="true">(</mo>
+       <mrow>
+        <msub>
+         <mi>t</mi>
+         <mi>i</mi>
+        </msub>
+       </mrow>
+       <mo stretchy="true">)</mo>
+      </mrow>
+     </mrow>
+    </mfrac>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="fd12">
+  <label>(12)</label>
+  <math id="M23" display="block" altimg="si23.svg" alttext="Equation 12.">
+   <mrow>
+    <mi>R</mi>
+    <mrow>
+     <mo stretchy="true">[</mo>
+     <mi>t</mi>
+     <mo>,</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mo>…</mo>
+     <msub>
+      <mi>t</mi>
+      <mrow>
+       <mn>0</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mi>n</mi>
+       <mo linebreak="badbreak">+</mo>
+       <mi>m</mi>
+       <mo linebreak="badbreak">−</mo>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+     <mo stretchy="true">]</mo>
+    </mrow>
+    <mo linebreak="goodbreak">∼</mo>
+    <msup>
+     <mrow>
+      <mo stretchy="true">[</mo>
+      <mn>1</mn>
+      <mo linebreak="badbreak">+</mo>
+      <msubsup>
+       <mi>Σ</mi>
+       <mrow>
+        <mi>j</mi>
+        <mo linebreak="badbreak">=</mo>
+        <mn>1</mn>
+       </mrow>
+       <mi>i</mi>
+      </msubsup>
+      <msup>
+       <mi>G</mi>
+       <mi>j</mi>
+      </msup>
+      <mo stretchy="true">]</mo>
+     </mrow>
+     <mrow>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </disp-formula>
+</p>

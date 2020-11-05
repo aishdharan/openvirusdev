@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Bin</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="fn1" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Libin</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="fn1" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Guanghai</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">c</xref>
+  <xref rid="fn1" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au4">
+  <name>
+   <surname>Duan</surname>
+   <given-names>Wenshuai</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au5">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Feng</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au6">
+  <name>
+   <surname>Cui</surname>
+   <given-names>Chunmao</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au7">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Zhijun</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au8">
+  <name>
+   <surname>Du</surname>
+   <given-names>Wei</given-names>
+  </name>
+  <email>2393350136@qq.com</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor2" ref-type="corresp">∗∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au9">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Xinhua</given-names>
+  </name>
+  <email>13987286915@139.com</email>
+  <xref rid="aff4" ref-type="aff">d</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Department of Radiology, Yunlong County People's Hospital, Dali, Yunnan 672700, China
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Oncology, People's Hospital of Chuxiong Yi Autonomous Prefecture, Chuxiong, Yunnan 675000, China
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Department of Cardiology, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China
+ </aff>
+</contrib-group>

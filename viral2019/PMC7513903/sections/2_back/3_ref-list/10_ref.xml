@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Woo</surname>
+    <given-names>PC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Molecular diversity of coronaviruses in bats</article-title>
+  <source>Virology</source>
+  <year>2006</year>
+  <volume>351</volume>
+  <fpage>180</fpage>
+  <lpage>187</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.virol.2006.02.041</pub-id>
+  <?supplied-pmid 16647731?>
+  <pub-id pub-id-type="pmid">16647731</pub-id>
+ </element-citation>
+</ref>

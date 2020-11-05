@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the two-class (COVID-19/SARS-CoV and COVID-19/MERS-CoV) classifications, some effective evaluation parameters are calculated. They are accuracy (ACC), error rate, Matthews correlation coefficient (MCC) [
+ <xref rid="ref53" ref-type="bibr">53</xref>] and F1 score (the coordinated mean of precision and sensitivity) [
+ <xref rid="ref54" ref-type="bibr">54</xref>, 
+ <xref rid="ref55" ref-type="bibr">55</xref>] as follows:
+ <disp-formula id="deqn15">
+  <label>(15)</label>
+  <tex-math id="M15">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} \mathrm{ACC}=\frac{\mathrm{Tp}+\mathrm{Tn}}{\mathrm{Tn}+\mathrm{Tn}+\mathrm{Fp}+\mathrm{Fn}}\times 100\% \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

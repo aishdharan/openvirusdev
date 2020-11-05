@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR101">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shirato</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kawase</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Matsuyama</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Wild-type human coronaviruses prefer cell-surface TMPRSS2 to endosomal cathepsins for cell entry</article-title>
+  <source>Virology</source>
+  <year>2018</year>
+  <volume>517</volume>
+  <fpage>9</fpage>
+  <lpage>15</lpage>
+  <?supplied-pmid 29217279?>
+  <pub-id pub-id-type="pmid">29217279</pub-id>
+ </element-citation>
+</ref>

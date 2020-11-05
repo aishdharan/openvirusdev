@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">The Reproduction Number is used to determine the secondary transmition of disease in a population. Further, used to determine the proportion of population that should be immunized through vaccination to get rid of the infectious disease. In general, when R
+ <sub>o</sub> &gt; 1 the infection will jerk spreading in a population, else not, the larger the R
+ <sub>o</sub>, the tougher to control the epidemic. In simple models (work in progress), the value (1 − 1/R
+ <sub>o</sub>) indicate the fraction of the population that desires to be effectively vaccinated (meaning not susceptible to infection) to avoid sustained spread of the infection. Conversely, 1/R
+ <sub>o</sub> is the fraction of the population that remains susceptible to infection in the endemic equilibrium (Table 
+ <xref rid="Tab1" ref-type="table">1</xref>).
+</p>

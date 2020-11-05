@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Ngugi</surname>
+    <given-names>EN</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Roth</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mastin</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Female sex workers in Africa: epidemiology overview, data gaps, ways forward</article-title>. 
+  <source>Sahara J</source>
+  <year>2012</year>;
+  <volume>9</volume>:
+  <fpage>148</fpage>–
+  <lpage>53</lpage>. 
+  <pub-id pub-id-type="doi">10.1080/17290376.2012.743825</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23237069?>
+  <pub-id pub-id-type="pmid">23237069</pub-id>
+ </mixed-citation>
+</ref>

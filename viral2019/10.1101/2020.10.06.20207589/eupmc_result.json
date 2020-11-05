@@ -1,0 +1,264 @@
+{
+  "id": [
+    "PPR222071"
+  ],
+  "source": [
+    "PPR"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PPR222071"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1101/2020.10.06.20207589"
+  ],
+  "title": [
+    "Epidemic characteristics of respiratory viruses in hospitals in a Chinese city during the SARS-CoV-2 epidemic"
+  ],
+  "authorString": [
+    "Yang W, Chen J, Xu M, Wang J, Li H, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang W"
+          ],
+          "firstName": [
+            "Weihua"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Xu M"
+          ],
+          "firstName": [
+            "Mingjie"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Huanjie"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yunshan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Abstract The SARS-CoV-2 virus first broke out in China in early 2020. The early symptoms of COVID-19 are similar to those of influenza. Therefore, during the epidemic, patients with similar symptoms will be tested for multiple pathogens at the same time. In order to control the spread of SARS-CoV-2, China has taken many measures. Under this special situation, have the types and epidemic characteristics of respiratory viruses changed? The nucleic acid test results of influenza A virus, influenza B virus and respiratory syncytial virus, as well as the antibody test results of 8 common respiratory viruses of Jinan Central Hospital were collected before and after the occurrence of SARS-CoV-2, and age distribution and time distribution characteristics were statisticed. Furthermore the epidemiological characteristics of this new virus before and after the SARS-CoV-2 epidemic was compared. In the early stage of the SARS-CoV-2 epidemic, influenza A, influenza B and respiratory syncytial virus nucleic acid test samples were large, and the positive rate of the three viruses was high. After that, the sample size and positive rate decreased significantly. No co-infection of SARS-CoV-2 and other viruses was found in our hospital. The sample size before the SARS-CoV-2 outbreak was larger than that after the outbreak, but the positive rate of the outbreak was lower than that after the outbreak. And the infection rate of children decreased in the middle and late stages of the epidemic. This is because since January 23, in order to prevent the spread of the new crown epidemic, my country has adopted measures such as wearing masks, not gathering together, and quarantining at home. This not only prevents the spread of the new crown virus, but also prevents the common respiratory tract. The spread of the virus has reduced the incidence of residents."
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Preprint"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "medRxiv"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1101/2020.10.06.20207589"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/article/PPR/PPR222071"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/api/fulltextRepo?pprId=PPR222071&type=FILE&fileName=EMS97501-pdf.pdf&mimeType=application/pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "N"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-07"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-11-03"
+  ],
+  "firstPublicationDate": [
+    "2020-10-06"
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b5">
+ <label>5</label>
+ <element-citation publication-type="book" id="sb5">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Djidjou-Demasse</surname>
+    <given-names>Ramses</given-names>
+   </name>
+   <name>
+    <surname>Michalakis</surname>
+    <given-names>Yannis</given-names>
+   </name>
+   <name>
+    <surname>Choisy</surname>
+    <given-names>Marc</given-names>
+   </name>
+   <name>
+    <surname>Sofonea</surname>
+    <given-names>Micea T.</given-names>
+   </name>
+   <name>
+    <surname>Alizon</surname>
+    <given-names>Samuel</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Optimal COVID-19 epidemic control until vaccine deployment</chapter-title>
+  <year>2020</year>
+  <comment>medRxiv</comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The basic reproductive number (
+ <italic>R</italic>
+ <sub>0</sub>) was calculated on the basis of the exponential growth rate (
+ <italic>r</italic>) using the equation 
+ <italic>R</italic>
+ <sub>0</sub> = 
+ <italic>rD</italic> + 1, where 
+ <italic>D</italic> is the average duration of infectiousness estimated as described below.
+ <xref rid="jmv25723-bib-0008" ref-type="ref">
+  <sup>8</sup>
+ </xref> The doubling time of the epidemic was directly estimated setting the tree before the coalescent exponential growth analysis with doubling time parameterization.
+</p>

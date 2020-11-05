@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the sample calculation, α = 0.05, β = 0.2, q1 = 0.25; q2 = 0.25, q0 = 0.5, P0 = 0.85, and P1 = 0.6 were considered, using the following formula: 
+ <inline-formula>
+  <math id="e01">
+   <mrow>
+    <mstyle mathsize="12.0pt">
+     <mi>A</mi>
+     <mo>=</mo>
+     <mi>Za</mi>
+     <msqrt>
+      <mrow>
+       <mi>P</mi>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>1</mn>
+         <mo>−</mo>
+         <mi>P</mi>
+        </mrow>
+       </mfenced>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>1</mn>
+         <mo>/</mo>
+         <mi>q</mi>
+         <mn>1</mn>
+         <mo>+</mo>
+         <mn>1</mn>
+         <mo>/</mo>
+         <mi>q</mi>
+         <mn>0</mn>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </msqrt>
+     <mo>=</mo>
+     <mn>1</mn>
+     <mi>.</mi>
+     <mn>750</mn>
+     <mi>;</mi>
+     <mspace/>
+     <mi>B</mi>
+     <mo>=</mo>
+     <mi>Z</mi>
+     <mo>β</mo>
+     <msqrt>
+      <mrow>
+       <mi>P</mi>
+       <mn>1</mn>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>1</mn>
+         <mo>−</mo>
+         <mi>P</mi>
+         <mn>1</mn>
+        </mrow>
+       </mfenced>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>1</mn>
+         <mo>−</mo>
+         <mi>q</mi>
+         <mn>1</mn>
+        </mrow>
+       </mfenced>
+       <mo>+</mo>
+       <mi>P</mi>
+       <mn>0</mn>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>1</mn>
+         <mo>−</mo>
+         <mi>P</mi>
+         <mn>0</mn>
+        </mrow>
+       </mfenced>
+       <mfenced close=")" open="(">
+        <mrow>
+         <mn>1</mn>
+         <mo>/</mo>
+         <mi>q</mi>
+         <mn>0</mn>
+        </mrow>
+       </mfenced>
+      </mrow>
+     </msqrt>
+     <mo>=</mo>
+     <mn>0</mn>
+     <mi>.</mi>
+     <mn>722</mn>
+     <mi>;</mi>
+     <mspace/>
+     <mi>C</mi>
+     <mo>=</mo>
+     <mfenced close=")" open="(">
+      <mrow>
+       <mi>P</mi>
+       <mn>1</mn>
+       <mo>−</mo>
+       <mi>P</mi>
+       <mn>0</mn>
+      </mrow>
+     </mfenced>
+     <mn>2</mn>
+     <mo>=</mo>
+     <mn>0</mn>
+     <mi>.</mi>
+     <mn>063</mn>
+     <mi>;</mi>
+     <mspace/>
+     <mi>Total</mi>
+     <mspace/>
+     <mi>Pop</mi>
+     <mi>.</mi>
+     <mo>=</mo>
+     <mi>N</mi>
+     <mo>=</mo>
+     <mfenced close=")" open="(">
+      <mrow>
+       <mi>A</mi>
+       <mo>+</mo>
+       <mi>B</mi>
+       <mo>+</mo>
+       <mi>C</mi>
+      </mrow>
+     </mfenced>
+     <mn>2</mn>
+     <mo>/</mo>
+     <mi>C</mi>
+     <mo>=</mo>
+     <mn>147</mn>
+     <mi>.</mi>
+    </mstyle>
+   </mrow>
+  </math>
+ </inline-formula>. When the formula was applied, a minimum total population of 147 participants was obtained. The selection of participants was carried out in a randomized way by simple draw.
+</p>

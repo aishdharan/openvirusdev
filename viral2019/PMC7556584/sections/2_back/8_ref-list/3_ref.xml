@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR3">
+ <label>3.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nobel</surname>
+    <given-names>YR</given-names>
+   </name>
+   <name>
+    <surname>Phipps</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Zucker</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Lebwohl</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>TC</given-names>
+   </name>
+   <name>
+    <surname>Sobieszczyk</surname>
+    <given-names>ME</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Gastrointestinal symptoms and coronavirus disease 2019: a case-control study from the United States</article-title>
+  <source>Gastroenterology.</source>
+  <year>2020</year>
+  <volume>159</volume>
+  <issue>1</issue>
+  <fpage>373</fpage>
+  <lpage>375</lpage>
+  <pub-id pub-id-type="doi">10.1053/j.gastro.2020.04.017</pub-id>
+  <?supplied-pmid 32294477?>
+  <pub-id pub-id-type="pmid">32294477</pub-id>
+ </element-citation>
+</ref>

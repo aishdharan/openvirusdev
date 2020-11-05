@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b26">
+ <label>26</label>
+ <element-citation publication-type="book" id="sb26">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Health Protection Surveillance Centre</surname>
+   </name>
+  </person-group>
+  <chapter-title>Epidemiology of COVID-19 in Ireland</chapter-title>
+  <year>2020</year>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/epidemiologyofcovid-19inireland/COVID-19%5FDaily%5Fepidemiology%5Freport%5F%28NPHET%29%5F06062020%5Ffinal%5Fwebsite.pdf" id="interref6" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/epidemiologyofcovid-19inireland/COVID-19_Daily_epidemiology_report_(NPHET)_06062020_final_website.pdf</ext-link>. Visited: 15th June 2020
+  </comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We built a multivariate logistic regression model with variables that were statistically significant on univariate logistic regression and the laboratory parameters that were significantly associated with the outcome on univariate analysis. After adjusting for age, gender, hemoglobin levels, platelet count, and creatinine, sepsis remained a significant independent predictor of mortality (Table 
+ <xref rid="T4" ref-type="table">4</xref>). The multivariable logistic regression model was a good predictor of mortality with an area under the curve of 0.98. The model was also a good fit according to the Hosmer–Lameshow goodness of fit test (
+ <italic>P</italic> = .96). In addition, there was no multicollinearity of the variables in the model, with a mean variance inflation factor of 1.36 (highest = 1.57, lowest = 1.13).
+</p>

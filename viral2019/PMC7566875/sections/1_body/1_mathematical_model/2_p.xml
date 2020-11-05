@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2427">In this work, we develop an optimal control theory based on a deterministic compartmental model of epidemiology. Therefore, in this section we introduce an appropriate multi-compartment susceptible–exposed–infectious–removed (SEIR) model. The model is tailored to COVID-19, and is based on prior works 
+ <xref rid="b16" ref-type="bibr">[16]</xref>, 
+ <xref rid="b17" ref-type="bibr">[17]</xref>. Thus, the model includes specific compartments for susceptible individuals 
+ <inline-formula>
+  <math id="d1e2434" display="inline" altimg="si2.svg">
+   <mi mathvariant="bold-fraktur">S</mi>
+  </math>
+ </inline-formula>, exposed (but not yet infectious) individuals 
+ <inline-formula>
+  <math id="d1e2439" display="inline" altimg="si3.svg">
+   <mi mathvariant="bold-fraktur">E</mi>
+  </math>
+ </inline-formula>, and three separate infectious classes: infectious-pre-symptomatic (
+ <inline-formula>
+  <math id="d1e2446" display="inline" altimg="si4.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">P</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>), infectious-asymptomatic (
+ <inline-formula>
+  <math id="d1e2457" display="inline" altimg="si5.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">A</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>), and infectious-symptomatic (
+ <inline-formula>
+  <math id="d1e2468" display="inline" altimg="si6.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">S</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>) individuals. Removed cases (
+ <inline-formula>
+  <math id="d1e2480" display="inline" altimg="si7.svg">
+   <mi mathvariant="bold-fraktur">R</mi>
+  </math>
+ </inline-formula>) are considered also in a standard fashion. Finally, in order to fit the model to existing data, further compartments are introduced to the model to enable the recording of confirmed cases and deaths. In this way, we arrive at the following model. Time is measured in days. 
+ <disp-formula-group id="fd1">
+  <disp-formula id="fd1a">
+   <label>(1a)</label>
+   <math id="d1e2493" display="block" altimg="si8.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e2545" linebreak="goodbreak">=</mo>
+     <mo linebreak="goodbreak">−</mo>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">c</mi>
+       <mi mathvariant="bold-fraktur">S</mi>
+       <mfenced open="(" close=")">
+        <mrow>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">q</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">P</mi>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">P</mi>
+          </mrow>
+         </msub>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">q</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">A</mi>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">A</mi>
+          </mrow>
+         </msub>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">q</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+        </mrow>
+       </mfenced>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">N</mi>
+      </mrow>
+     </mfrac>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1b">
+   <label>(1b)</label>
+   <math id="d1e2573" display="block" altimg="si9.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">E</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e2625" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e2545">=</mo>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">c</mi>
+       <mi mathvariant="bold-fraktur">S</mi>
+       <mfenced open="(" close=")">
+        <mrow>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">q</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">P</mi>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">P</mi>
+          </mrow>
+         </msub>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">q</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">A</mi>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">A</mi>
+          </mrow>
+         </msub>
+         <mo linebreak="badbreak">+</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">q</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+        </mrow>
+       </mfenced>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">N</mi>
+      </mrow>
+     </mfrac>
+     <mo linebreak="goodbreak">−</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">E</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mi mathvariant="bold-fraktur">E</mi>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1c">
+   <label>(1c)</label>
+   <math id="d1e2667" display="block" altimg="si10.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">P</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e2724" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e2545">=</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">E</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mi mathvariant="bold-fraktur">E</mi>
+     <mo linebreak="goodbreak">−</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+         <mi mathvariant="bold-fraktur">P</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">P</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1d">
+   <label>(1d)</label>
+   <math id="d1e2730" display="block" altimg="si11.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">A</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e2787" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e2545">=</mo>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">f</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+         <mi mathvariant="bold-fraktur">P</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">P</mi>
+      </mrow>
+     </msub>
+     <mo linebreak="goodbreak">−</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">A</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1e">
+   <label>(1e)</label>
+   <math id="d1e2798" display="block" altimg="si12.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">S</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e2855" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e2545">=</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mi mathvariant="bold-fraktur">f</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+         <mi mathvariant="bold-fraktur">P</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">P</mi>
+      </mrow>
+     </msub>
+     <mo linebreak="goodbreak">−</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1f">
+   <label>(1f)</label>
+   <math id="d1e2870" display="block" altimg="si13.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">R</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e2923" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e2545">=</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">A</mi>
+      </mrow>
+     </msub>
+     <mo linebreak="goodbreak">+</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mi mathvariant="bold-fraktur">g</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo>.</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+ </disp-formula-group> Additional, non-standard compartments are introduced to allow for comparison with recorded data: 
+ <disp-formula-group id="d1e2941">
+  <disp-formula id="fd1g">
+   <label>(1g)</label>
+   <math id="d1e2945" display="block" altimg="si14.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mrow>
+      <mo>(</mo>
+      <mtext>Ailing</mtext>
+      <mo>)</mo>
+     </mrow>
+     <mo id="mmlalignd1e3002" linebreak="goodbreak">=</mo>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">g</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo linebreak="goodbreak">−</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">D</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mrow>
+      <mo>(</mo>
+      <mtext>Ailing</mtext>
+      <mo>)</mo>
+     </mrow>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1h">
+   <label>(1h)</label>
+   <math id="d1e3011" display="block" altimg="si15.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">D</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e3063" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e3002">=</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">D</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mrow>
+      <mo>(</mo>
+      <mtext>Ailing</mtext>
+      <mo>)</mo>
+     </mrow>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1i">
+   <label>(1i)</label>
+   <math id="d1e3051" display="block" altimg="si16.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mrow>
+      <mo>(</mo>
+      <mtext>Awaiting Test</mtext>
+      <mo>)</mo>
+     </mrow>
+     <mo id="mmlalignd1e3108" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e3002">=</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+       <mo linebreak="badbreak">−</mo>
+       <mi mathvariant="bold-fraktur">f</mi>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+         <mi mathvariant="bold-fraktur">P</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">P</mi>
+      </mrow>
+     </msub>
+     <mo linebreak="goodbreak">−</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">T</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mrow>
+      <mo>(</mo>
+      <mtext>Awaiting Test</mtext>
+      <mo>)</mo>
+     </mrow>
+     <mo>,</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+  <disp-formula id="fd1j">
+   <label>(1j)</label>
+   <math id="d1e3123" display="block" altimg="si17.svg">
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">C</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">d</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </mfrac>
+     <mo id="mmlalignd1e3175" linebreak="goodbreak" indentalign="id" indenttarget="mmlalignd1e3002">=</mo>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">T</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mrow>
+      <mo>(</mo>
+      <mtext>Awaiting Test</mtext>
+      <mo>)</mo>
+     </mrow>
+     <mo>.</mo>
+    </mrow>
+   </math>
+  </disp-formula>
+ </disp-formula-group> Here, cases in the ‘Ailing’ compartment die and enter the 
+ <inline-formula>
+  <math id="d1e3164" display="inline" altimg="si18.svg">
+   <mi mathvariant="bold-fraktur">D</mi>
+  </math>
+ </inline-formula>-compartment at a rate 
+ <inline-formula>
+  <math id="d1e3169" display="inline" altimg="si357.svg">
+   <msub>
+    <mrow>
+     <mi>τ</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">D</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. Also, it is assumed that all individuals entering the symptomatic compartment are tested — these cases enter the ‘Awaiting Test’ compartment, wait on average 
+ <inline-formula>
+  <math id="d1e3180" display="inline" altimg="si356.svg">
+   <msub>
+    <mrow>
+     <mi>τ</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> days for a test; results are subsequently reported and attributed to the 
+ <inline-formula>
+  <math id="d1e3190" display="inline" altimg="si21.svg">
+   <mi mathvariant="bold-fraktur">C</mi>
+  </math>
+ </inline-formula>-compartment. Including deaths in the model is important, as it enables us to fit the model to a wider range of epidemiological data involving both confirmed cases and deaths, thereby improving the fit of the model. Also, it opens up the possibility of performing optimal control on the model in such a way as to control or even limit the number of deaths over the course of the epidemic.
+</p>

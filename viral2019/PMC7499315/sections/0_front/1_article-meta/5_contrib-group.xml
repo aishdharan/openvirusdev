@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Telles-Garcia</surname>
+   <given-names>Nelson</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zahrli</surname>
+   <given-names>Tyler</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8180-9287</contrib-id>
+  <name>
+   <surname>Aggarwal</surname>
+   <given-names>Gaurav</given-names>
+  </name>
+  <xref ref-type="aff" rid="I3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bansal</surname>
+   <given-names>Sakshi</given-names>
+  </name>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Richards</surname>
+   <given-names>Leonard</given-names>
+  </name>
+  <xref ref-type="aff" rid="I2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3059-1193</contrib-id>
+  <name>
+   <surname>Aggarwal</surname>
+   <given-names>Saurabh</given-names>
+  </name>
+  <email>drsaurabhaggarwal@gmail.com</email>
+  <xref ref-type="aff" rid="I1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+</contrib-group>

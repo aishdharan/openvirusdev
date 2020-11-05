@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e1355">Before introducing the different prediction methods, we emphasise that this work focusses on 
+ <italic>short-term</italic> point forecasts. The long-term epidemic behaviour is very random, and providing forecast intervals is essential to give a complete picture of the long-term viral spread (
+ <xref rid="b6" ref-type="bibr">Cirillo &amp; Taleb, 2020</xref>). Extending the point forecast methods in this work to prediction intervals is outside the scope of this work. Nonetheless, we consider it valuable to conceptually discuss an extension of the SIR Eqs. 
+ <xref rid="fd1" ref-type="disp-formula">(1)</xref> to allow for the computation of prediction intervals. Any real epidemic does not follow the SIR model 
+ <xref rid="fd1" ref-type="disp-formula">(1)</xref> exactly. Instead, the infection state 
+ <inline-formula>
+  <math id="d1e1375" display="inline" altimg="si32.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="script">I</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> evolves from time 
+ <inline-formula>
+  <math id="d1e1393" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula> to 
+ <inline-formula>
+  <math id="d1e1398" display="inline" altimg="si42.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">+</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula> as 
+ <disp-formula id="fd4">
+  <label>(4)</label>
+  <math id="d1e1415" display="block" altimg="si43.svg">
+   <mrow>
+    <msub id="mmlalignd1e1406">
+     <mrow>
+      <mi mathvariant="script">I</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>+</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mrow>
+     <mo>(</mo>
+     <mn>1</mn>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi>δ</mi>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="script">I</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mspace width="1em" id="mmlalignd1e1458"/>
+    <mo linebreak="goodbreak">+</mo>
+    <mspace width="0.16667em"/>
+    <mrow>
+     <mo>(</mo>
+     <mn>1</mn>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="script">I</mi>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>[</mo>
+      <mi>k</mi>
+      <mo>]</mo>
+     </mrow>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="script">R</mi>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>[</mo>
+      <mi>k</mi>
+      <mo>]</mo>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+    <munderover>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </munderover>
+    <msub>
+     <mrow>
+      <mi>β</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="script">I</mi>
+     </mrow>
+     <mrow>
+      <mi>j</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak">+</mo>
+    <msub>
+     <mrow>
+      <mi>w</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="d1e1578" display="inline" altimg="si44.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>w</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> denotes the 
+ <italic>model error</italic> of region 
+ <inline-formula>
+  <math id="d1e1599" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> at time 
+ <inline-formula>
+  <math id="d1e1605" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula>, see also Appendix A. The Eqs. 
+ <xref rid="fd4" ref-type="disp-formula">(4)</xref> can be used as a basis for prediction intervals with a Monte Carlo approach. Define the 
+ <inline-formula>
+  <math id="d1e1614" display="inline" altimg="si47.svg">
+   <mrow>
+    <mi>N</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula> error vector as 
+ <inline-formula>
+  <math id="d1e1624" display="inline" altimg="si48.svg">
+   <mrow>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msup>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mrow>
+         <mi>w</mi>
+        </mrow>
+        <mrow>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>,</mo>
+       <mo>…</mo>
+       <mo>,</mo>
+       <msub>
+        <mrow>
+         <mi>w</mi>
+        </mrow>
+        <mrow>
+         <mi>N</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mi>T</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula> and the 
+ <inline-formula>
+  <math id="d1e1684" display="inline" altimg="si47.svg">
+   <mrow>
+    <mi>N</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula> infection vector as 
+ <inline-formula>
+  <math id="d1e1694" display="inline" altimg="si50.svg">
+   <mrow>
+    <mi mathvariant="script">I</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msup>
+     <mrow>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">I</mi>
+        </mrow>
+        <mrow>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>,</mo>
+       <mo>…</mo>
+       <mo>,</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="script">I</mi>
+        </mrow>
+        <mrow>
+         <mi>N</mi>
+        </mrow>
+       </msub>
+       <mrow>
+        <mo>[</mo>
+        <mi>k</mi>
+        <mo>]</mo>
+       </mrow>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mi>T</mi>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula> for all times 
+ <inline-formula>
+  <math id="d1e1753" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula>. Then, based on Eq. 
+ <xref rid="fd4" ref-type="disp-formula">(4)</xref>, the past observations 
+ <inline-formula>
+  <math id="d1e1764" display="inline" altimg="si52.svg">
+   <mrow>
+    <mi mathvariant="script">I</mi>
+    <mrow>
+     <mo>[</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi mathvariant="script">I</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>n</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and the errors 
+ <inline-formula>
+  <math id="d1e1792" display="inline" altimg="si53.svg">
+   <mrow>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi>w</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>n</mi>
+     <mo>−</mo>
+     <mn>1</mn>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, point forecast algorithms provide an estimate of the viral state 
+ <inline-formula>
+  <math id="d1e1824" display="inline" altimg="si54.svg">
+   <mrow>
+    <mi mathvariant="script">I</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> at future times 
+ <inline-formula>
+  <math id="d1e1837" display="inline" altimg="si55.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mi>n</mi>
+   </mrow>
+  </math>
+ </inline-formula>.
+</p>

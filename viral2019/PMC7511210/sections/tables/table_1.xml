@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0005">
+ <label>Table 1</label>
+ <caption>
+  <p>Number of cases per age group for all patients tested for SARS-CoV-2 or for endemic coronaviruses, and proportion of all tested patients per age group.</p>
+ </caption>
+ <alt-text id="at0015">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Age group</th>
+    <th colspan="4" align="left">SARS-CoV-2
+     <hr/>
+    </th>
+    <th colspan="4" align="left">Endemic CoV
+     <hr/>
+    </th>
+    <th align="left">P
+     <xref rid="tblfn0005" ref-type="table-fn">*</xref>
+    </th>
+   </tr>
+   <tr>
+    <th align="left">(years)</th>
+    <th colspan="2" align="left">Tested
+     <hr/>
+    </th>
+    <th colspan="2" align="left">Positive
+     <hr/>
+    </th>
+    <th colspan="2" align="left">Tested
+     <hr/>
+    </th>
+    <th colspan="2" align="left">Positive
+     <hr/>
+    </th>
+    <th align="left"/>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left">N</th>
+    <th align="left">
+     <italic>%</italic>
+     <xref rid="tblfn0010" ref-type="table-fn">**</xref>
+    </th>
+    <th align="left">N</th>
+    <th align="left">
+     <italic>%</italic>
+     <xref rid="tblfn0010" ref-type="table-fn">**</xref>
+    </th>
+    <th align="left">N</th>
+    <th align="left">
+     <italic>%</italic>
+     <xref rid="tblfn0010" ref-type="table-fn">**</xref>
+    </th>
+    <th align="left">N</th>
+    <th align="left">
+     <italic>%</italic>
+     <xref rid="tblfn0010" ref-type="table-fn">**</xref>
+    </th>
+    <th align="left"/>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">0−1</td>
+    <td align="left">796</td>
+    <td align="left">
+     <italic>1.0</italic>
+    </td>
+    <td align="left">32</td>
+    <td align="left">
+     <italic>0.5</italic>
+    </td>
+    <td align="left">2 412</td>
+    <td align="left">
+     <italic>14.6</italic>
+    </td>
+    <td align="left">207</td>
+    <td align="left">
+     <italic>17.9</italic>
+    </td>
+    <td align="left">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left">1−5</td>
+    <td align="left">1 453</td>
+    <td align="left">
+     <italic>1.8</italic>
+    </td>
+    <td align="left">40</td>
+    <td align="left">
+     <italic>0.6</italic>
+    </td>
+    <td align="left">1 661</td>
+    <td align="left">
+     <italic>11.3</italic>
+    </td>
+    <td align="left">217</td>
+    <td align="left">
+     <italic>18.8</italic>
+    </td>
+    <td align="left">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left">5−10</td>
+    <td align="left">1 231</td>
+    <td align="left">
+     <italic>1.5</italic>
+    </td>
+    <td align="left">50</td>
+    <td align="left">
+     <italic>0.7</italic>
+    </td>
+    <td align="left">628</td>
+    <td align="left">
+     <italic>4.9</italic>
+    </td>
+    <td align="left">65</td>
+    <td align="left">
+     <italic>5.6</italic>
+    </td>
+    <td align="left">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left">10−15</td>
+    <td align="left">1 197</td>
+    <td align="left">
+     <italic>1.5</italic>
+    </td>
+    <td align="left">106</td>
+    <td align="left">
+     <italic>1.6</italic>
+    </td>
+    <td align="left">366</td>
+    <td align="left">
+     <italic>3.0</italic>
+    </td>
+    <td align="left">44</td>
+    <td align="left">
+     <italic>3.8</italic>
+    </td>
+    <td align="left">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left">15−18</td>
+    <td align="left">1 090</td>
+    <td align="left">
+     <italic>1.4</italic>
+    </td>
+    <td align="left">118</td>
+    <td align="left">
+     <italic>1.8</italic>
+    </td>
+    <td align="left">202</td>
+    <td align="left">
+     <italic>1.6</italic>
+    </td>
+    <td align="left">12</td>
+    <td align="left">
+     <italic>1</italic>
+    </td>
+    <td align="left">0.051</td>
+   </tr>
+   <tr>
+    <td align="left">18−25</td>
+    <td align="left">6 680</td>
+    <td align="left">
+     <italic>8.3</italic>
+    </td>
+    <td align="left">594</td>
+    <td align="left">
+     <italic>8.8</italic>
+    </td>
+    <td align="left">409</td>
+    <td align="left">
+     <italic>3.9</italic>
+    </td>
+    <td align="left">43</td>
+    <td align="left">
+     <italic>3.7</italic>
+    </td>
+    <td align="left">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left">25−45</td>
+    <td align="left">27 059</td>
+    <td align="left">
+     <italic>33.6</italic>
+    </td>
+    <td align="left">2 184</td>
+    <td align="left">
+     <italic>32.4</italic>
+    </td>
+    <td align="left">1 502</td>
+    <td align="left">
+     <italic>14.9</italic>
+    </td>
+    <td align="left">165</td>
+    <td align="left">
+     <italic>14.3</italic>
+    </td>
+    <td align="left">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left">45−65</td>
+    <td align="left">24 487</td>
+    <td align="left">
+     <italic>30.4</italic>
+    </td>
+    <td align="left">2 257</td>
+    <td align="left">
+     <italic>33.5</italic>
+    </td>
+    <td align="left">2 250</td>
+    <td align="left">
+     <italic>18.3</italic>
+    </td>
+    <td align="left">176</td>
+    <td align="left">
+     <italic>15.2</italic>
+    </td>
+    <td align="left">&lt;0.001</td>
+   </tr>
+   <tr>
+    <td align="left">65−75</td>
+    <td align="left">6 545</td>
+    <td align="left">
+     <italic>8.1</italic>
+    </td>
+    <td align="left">560</td>
+    <td align="left">
+     <italic>8.3</italic>
+    </td>
+    <td align="left">1 419</td>
+    <td align="left">
+     <italic>10.3</italic>
+    </td>
+    <td align="left">79</td>
+    <td align="left">
+     <italic>6.8</italic>
+    </td>
+    <td align="left">0.050</td>
+   </tr>
+   <tr>
+    <td align="left">&gt;75</td>
+    <td align="left">9 986</td>
+    <td align="left">
+     <italic>12.4</italic>
+    </td>
+    <td align="left">794</td>
+    <td align="left">
+     <italic>11.8</italic>
+    </td>
+    <td align="left">2 528</td>
+    <td align="left">
+     <italic>17.2</italic>
+    </td>
+    <td align="left">148</td>
+    <td align="left">
+     <italic>12.8</italic>
+    </td>
+    <td align="left">0.175</td>
+   </tr>
+   <tr>
+    <td align="left">Total</td>
+    <td align="left">80 524</td>
+    <td align="left">
+     <italic>100.0</italic>
+    </td>
+    <td align="left">6 735</td>
+    <td align="left">
+     <italic>100.0</italic>
+    </td>
+    <td align="left">17 673</td>
+    <td align="left">
+     <italic>100.0</italic>
+    </td>
+    <td align="left">1 156</td>
+    <td align="left">
+     <italic>100.0</italic>
+    </td>
+    <td align="left">–</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tblfn0005">
+   <label>*</label>
+   <p id="npar0005">Yates-corrected Chi–square test.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tblfn0010">
+   <label>**</label>
+   <p id="npar0010">Proportion of cases in the age group compared to the total number of cases.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

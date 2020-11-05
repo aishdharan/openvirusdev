@@ -1,0 +1,510 @@
+{
+  "id": [
+    "33027403"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33027403"
+  ],
+  "pmcid": [
+    "PMC7529449"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7529449"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1590/1518-8345.3614.3365"
+  ],
+  "title": [
+    "Economic and epidemiological evaluation of text message-based interventions in patients with the Human Immunodeficiency Virus."
+  ],
+  "authorString": [
+    "Santos WMD, Primeira MR, Paiva LG, Padoin SMM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Santos WMD"
+          ],
+          "firstName": [
+            "Wendel Mombaque Dos"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "WMD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1943-4525",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Empresa Brasileira de Serviços Hospitalares, Hospital Universitário de Santa Maria, Santa Maria, RS, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Primeira MR"
+          ],
+          "firstName": [
+            "Marcelo Ribeiro"
+          ],
+          "lastName": [
+            "Primeira"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9735-6502",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Universidade Federal de Santa Maria, Departamento de Enfermagem, Santa Maria, RS, Brazil."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Scholarship holder at the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Paiva LG"
+          ],
+          "firstName": [
+            "Larissa Garcia de"
+          ],
+          "lastName": [
+            "Paiva"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5471-148X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Universidade Federal de Santa Maria, Departamento de Enfermagem, Santa Maria, RS, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Padoin SMM"
+          ],
+          "firstName": [
+            "Stela Maris de Mello"
+          ],
+          "lastName": [
+            "Padoin"
+          ],
+          "initials": [
+            "SMM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3272-054X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Universidade Federal de Santa Maria, Departamento de Enfermagem, Santa Maria, RS, Brazil."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1943-4525",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9735-6502",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5471-148X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3272-054X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "28"
+      ],
+      "journalIssueId": [
+        "2909492"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Revista latino-americana de enfermagem"
+          ],
+          "ISOAbbreviation": [
+            "Rev Lat Am Enfermagem"
+          ],
+          "medlineAbbreviation": [
+            "Rev Lat Am Enfermagem"
+          ],
+          "NLMid": [
+            "9420934"
+          ],
+          "ISSN": [
+            "0104-1169"
+          ],
+          "ESSN": [
+            "1518-8345"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e3365"
+  ],
+  "abstractText": [
+    "OBJECTIVE:to evaluate the cost-effectiveness ratio and the budget impact of sending text messages associated with medical consultations in order to reduce the viral load of patients infected with the Human Immunodeficiency Virus. METHOD:a randomized clinical trial, basis for the development of a dynamic cohort model with Markov states in order to compare medical appointments for adults infected with the Human Immunodeficiency Virus versus the alternative strategy that associated medical consultations to sending text messages through telephone. RESULTS:156 adults participated in the study. As for the viral load, it was verified that in the control group there was an increase, in the intervention group A (weekly messages) there was a reduction (p = 0.002) and in group B (biweekly messages) there was no statistically significant difference. Sending text messages would prevent 286,538 new infections by the Human Immunodeficiency Virus and 282 deaths in the 20-year period, compared to the standard treatment. The alternative strategy would result in saving R$ 14 billion in treatment costs. CONCLUSION:weekly sending messages in association with the standard treatment can reduce the circulating viral load due to its effect in decreasing new infections, in addition to reducing health costs."
+  ],
+  "affiliation": [
+    "Empresa Brasileira de Serviços Hospitalares, Hospital Universitário de Santa Maria, Santa Maria, RS, Brazil."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Acceptance of Health Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Text Messaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "N"
+          ],
+          "name": [
+            "Nursing journals"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1590/1518-8345.3614.3365"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7529449"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7529449?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-09"
+  ],
+  "dateOfCreation": [
+    "2020-10-07"
+  ],
+  "firstIndexDate": [
+    "2020-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-17"
+  ],
+  "dateOfRevision": [
+    "2020-10-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-22"
+  ],
+  "firstPublicationDate": [
+    "2020-09-22"
+  ]
+}

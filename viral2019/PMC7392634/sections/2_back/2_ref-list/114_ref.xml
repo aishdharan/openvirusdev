@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R114">
+ <label>114</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Ferretti</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wymant</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kendall</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing</article-title>. 
+  <source>Science</source>
+  <year>2020</year>;
+  <volume>368</volume>:
+  <elocation-id>eabb6936</elocation-id>
+  <pub-id pub-id-type="doi">10.1126/science.abb6936</pub-id>
+  <pub-id pub-id-type="pmid">32234805</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used (9) to calculate the value of α, where λ = 5, other parameters are defined by real-world data, and t and t+Δt refer to two consecutive days. We defined the target date as the time point t+Δt, and the 
+ <italic>α</italic> value of t+Δt was defined as the average 
+ <italic>α</italic> value of 
+ <italic>t</italic> and 
+ <italic>t</italic>+Δ
+ <italic>t</italic>. For example, to measure the 
+ <italic>α</italic> trend, we first calculated the true 
+ <italic>α</italic> value of the target day as 
+ <italic>α</italic>
+ <sub>
+  <italic>t</italic>
+ </sub>, then we calculated the 
+ <italic>α</italic> value of the day before the target day as 
+ <italic>α</italic>
+ <sub>
+  <italic>b</italic>
+ </sub>. Finally we took 
+ <italic>α</italic> = (
+ <italic>α</italic>
+ <sub>
+  <italic>b</italic>
+ </sub>+
+ <italic>α</italic>
+ <sub>
+  <italic>t</italic>
+ </sub>)/2 as the target day’s 
+ <italic>α</italic>. We reasoned that this approach might increase fit accuracy
+</p>

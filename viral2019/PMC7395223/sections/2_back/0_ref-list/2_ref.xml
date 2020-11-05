@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib2">
+ <label>2</label>
+ <element-citation publication-type="journal" id="sref2">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Rodriguez-Morales</surname>
+    <given-names>A.J.</given-names>
+   </name>
+   <name>
+    <surname>Gallego</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Escalera-Antezana</surname>
+    <given-names>J.P.</given-names>
+   </name>
+   <name>
+    <surname>Mendez</surname>
+    <given-names>C.A.</given-names>
+   </name>
+   <name>
+    <surname>Zambrano</surname>
+    <given-names>L.I.</given-names>
+   </name>
+   <name>
+    <surname>Franco-Paredes</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Risquez</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <article-title>COVID-19 in Latin America: the implications of the first confirmed case in Brazil</article-title>
+  <source>Trav Med Infect Dis</source>
+  <year>2020</year>
+  <fpage>101613</fpage>
+ </element-citation>
+</ref>

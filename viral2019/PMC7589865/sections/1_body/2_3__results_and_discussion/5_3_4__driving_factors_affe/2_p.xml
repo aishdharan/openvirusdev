@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The difference in spatial regression coefficients between PM
+ <sub>2.5</sub> and various variables reveals the spatial heterogeneity of PM
+ <sub>2.5</sub> concentration. The spatial regression coefficient of the GWR model reflects the degree of influence of each variable on the PM
+ <sub>2.5</sub> concentration (
+ <xref ref-type="fig" rid="ijerph-17-07664-f009">Figure 9</xref>). When the spatial regression coefficient is positive, it means that the variable is positively correlated with the PM
+ <sub>2.5</sub> concentration, and the larger the variable is, the greater the impact on PM
+ <sub>2.5</sub>, and vice versa. From the parameter estimation and validation results of the GWR model (
+ <xref rid="ijerph-17-07664-t001" ref-type="table">Table 1</xref>), coefficients of determination (
+ <inline-formula>
+  <math id="mm50">
+   <mrow>
+    <mrow>
+     <msup>
+      <mi>R</mi>
+      <mn>2</mn>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>) of the six explanatory variables are above 60%, indicating that the GWR model can better fit the relationship between PM
+ <sub>2.5</sub> concentration and each variable.
+</p>

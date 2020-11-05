@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0906-441X</contrib-id>
+  <name>
+   <surname>Brett</surname>
+   <given-names>Tobias S.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7221-3801</contrib-id>
+  <name>
+   <surname>Rohani</surname>
+   <given-names>Pejman</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <sup>a</sup>Odum School of Ecology, 
+  <institution>University of Georgia</institution>, Athens, 
+  <addr-line>GA</addr-line>, 30602;
+ </aff>
+ <aff id="aff2">
+  <sup>b</sup>Center for the Ecology of Infectious Diseases, 
+  <institution>University of Georgia</institution>, Athens, 
+  <addr-line>GA</addr-line>, 30602;
+ </aff>
+ <aff id="aff3">
+  <sup>c</sup>Department of Infectious Diseases, 
+  <institution>University of Georgia</institution>, Athens, 
+  <addr-line>GA</addr-line>, 30602
+ </aff>
+</contrib-group>

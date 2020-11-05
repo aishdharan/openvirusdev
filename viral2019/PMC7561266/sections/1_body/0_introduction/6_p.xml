@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We incorporate a standard deterministic SEI-SEIR transmission model parameterized from existing literature and available field data. The main goals of this model are: (1) to examine the epidemic dynamics in Funchal, Madeira as triggered by the arrival of an infectious individual at different time points during the year; and (2) to examine the influence of seasonal temperature mean and variation on epidemic dynamics. To do this, we employed a different modeling framework from that of [
+ <xref rid="pntd.0008679.ref008" ref-type="bibr">8</xref>], in that our model explicitly accounts for seasonality and temperature dependence in the transmission dynamics. Likewise, we explore epidemiologically relevant outcomes of epidemic size, peak incidence, and time to peak, rather than basic reproduction number or vectorial capacity, which are more complex measures of epidemic dynamics.
+</p>

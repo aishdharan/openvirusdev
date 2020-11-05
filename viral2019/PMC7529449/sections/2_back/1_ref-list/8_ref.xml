@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lima</surname>
+    <given-names>IC</given-names>
+   </name>
+   <name>
+    <surname>Galvao</surname>
+    <given-names>MT</given-names>
+   </name>
+   <name>
+    <surname>Alexandre</surname>
+    <given-names>HO</given-names>
+   </name>
+   <name>
+    <surname>Lima</surname>
+    <given-names>FE</given-names>
+   </name>
+   <name>
+    <surname>Araujo</surname>
+    <given-names>TL</given-names>
+   </name>
+  </person-group>
+  <article-title>Information and communication technologies for adherence to antiretroviral treatment in adults with HIV/AIDS</article-title>
+  <source>Int J Med Inform</source>
+  <year>2016</year>
+  <date-in-citation content-type="access-date">Aug 3, 2019</date-in-citation>
+  <volume>92</volume>
+  <fpage>54</fpage>
+  <lpage>61</lpage>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2016.04.013</pub-id>
+  <pub-id pub-id-type="pmid">27318071</pub-id>
+ </element-citation>
+</ref>

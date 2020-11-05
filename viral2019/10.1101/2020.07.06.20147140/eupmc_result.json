@@ -1,0 +1,514 @@
+{
+  "id": [
+    "PPR184347"
+  ],
+  "source": [
+    "PPR"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PPR184347"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1101/2020.07.06.20147140"
+  ],
+  "title": [
+    "Molecular tracing of SARS-CoV-2 in Italy in the first three months of the epidemic"
+  ],
+  "authorString": [
+    "Lai A, Bergna A, Caucci S, Clementi N, Vicenti I, Dragoni F, Cattelan AM, Menzo S, Pan A, Callegaro A, Tagliabracci A, Caruso A, Caccuri F, Ronchiadin S, Balotta C, Zazzi M, Vaccher E, Clementi M, Galli M, Zehender G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lai A"
+          ],
+          "firstName": [
+            "Alessia"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Bergna A"
+          ],
+          "firstName": [
+            "Annalisa"
+          ],
+          "lastName": [
+            "Bergna"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Caucci S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Caucci"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Clementi N"
+          ],
+          "firstName": [
+            "Nicola"
+          ],
+          "lastName": [
+            "Clementi"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Vicenti I"
+          ],
+          "firstName": [
+            "Ilaria"
+          ],
+          "lastName": [
+            "Vicenti"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4306-2960",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dragoni F"
+          ],
+          "firstName": [
+            "Filippo"
+          ],
+          "lastName": [
+            "Dragoni"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Cattelan AM"
+          ],
+          "firstName": [
+            "Anna Maria"
+          ],
+          "lastName": [
+            "Cattelan"
+          ],
+          "initials": [
+            "AM"
+          ]
+        },
+        {
+          "fullName": [
+            "Menzo S"
+          ],
+          "firstName": [
+            "Stefano"
+          ],
+          "lastName": [
+            "Menzo"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Pan A"
+          ],
+          "firstName": [
+            "Angelo"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Callegaro A"
+          ],
+          "firstName": [
+            "Annapaola"
+          ],
+          "lastName": [
+            "Callegaro"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Tagliabracci A"
+          ],
+          "firstName": [
+            "Adriano"
+          ],
+          "lastName": [
+            "Tagliabracci"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Caruso A"
+          ],
+          "firstName": [
+            "Arnaldo"
+          ],
+          "lastName": [
+            "Caruso"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Caccuri F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Caccuri"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Ronchiadin S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Ronchiadin"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Balotta C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Balotta"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Zazzi M"
+          ],
+          "firstName": [
+            "Maurizio"
+          ],
+          "lastName": [
+            "Zazzi"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Vaccher E"
+          ],
+          "firstName": [
+            "Emanuela"
+          ],
+          "lastName": [
+            "Vaccher"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Clementi M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Clementi"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Galli M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Galli"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Zehender G"
+          ],
+          "firstName": [
+            "Gianguglielmo"
+          ],
+          "lastName": [
+            "Zehender"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4306-2960",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The aim of this study is the characterization and genomic tracing by phylogenetic analyses of 59 new SARS-CoV-2 Italian isolates obtained from patients attending clinical centres in North and Central Italy until the end of April 2020. All but one of the newly characterized genomes belonged to the lineage B.1, the most frequently identified in European countries, including Italy. Only a single sequence was found to belong to lineage B. A mean of 6 nucleotide substitutions per viral genome was observed, without significant differences between synonymous and non-synonymous mutations, indicating genetic drift as a major source for virus evolution. tMRCA estimation confirmed the probable origin of the epidemic between the end of January and the beginning of February with a rapid increase in the number of infections between the end of February and mid-March. Since early February, an effective reproduction number (Re) greater than 1 was estimated, which then increased reaching the peak of 2.3 in early March, confirming the circulation of the virus before the first COVID-19 cases were documented. Continuous use of state-of-the-art methods for molecular surveillance is warranted to trace virus circulation and evolution and inform effective prevention and containment of future SARS-CoV-2 outbreaks."
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Preprint"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "medRxiv"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1101/2020.07.06.20147140"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/article/PPR/PPR184347"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/api/fulltextRepo?pprId=PPR184347&type=FILE&fileName=EMS87410-pdf.pdf&mimeType=application/pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "32722343"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Viruses. \n    2020 Jul;12(8):"
+          ],
+          "type": [
+            "Preprint of"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gisaid"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-07-08"
+  ],
+  "firstIndexDate": [
+    "2020-07-08"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-06"
+  ],
+  "firstPublicationDate": [
+    "2020-07-07"
+  ]
+}

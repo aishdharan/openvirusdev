@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0014">
+ <label>14</label>
+ <element-citation publication-type="journal" id="sbref0011">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ahmed</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Ali</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Rafiq</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Khan</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Nisar</surname>
+    <given-names>K.S.</given-names>
+   </name>
+   <name>
+    <surname>Rehman</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Ahmad</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>A numerical efficient splitting method for the solution of two dimensional susceptible infected recovered epidemic model of whooping cough dynamics: applications in bio-medical engineering</article-title>
+  <source>Comput. Methods Programs Biomed.</source>
+  <volume>190</volume>
+  <year>2020</year>
+  <fpage>105350</fpage>
+  <pub-id pub-id-type="pmid">32078958</pub-id>
+ </element-citation>
+</ref>

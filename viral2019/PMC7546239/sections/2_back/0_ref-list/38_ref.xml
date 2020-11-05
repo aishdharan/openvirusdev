@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b38">
+ <element-citation publication-type="journal" id="sb38">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Van Mieghem</surname>
+    <given-names>P.</given-names>
+   </name>
+  </person-group>
+  <article-title>Approximate formula and bounds for the time-varying susceptible-infected-susceptible prevalence in networks</article-title>
+  <source>Physical Review E</source>
+  <volume>93</volume>
+  <year>2016</year>
+  <object-id pub-id-type="publisher-id">052312</object-id>
+  <pub-id pub-id-type="doi">10.1103/PhysRevE.93.052312</pub-id>
+  <comment>URL 
+   <ext-link ext-link-type="uri" xlink:href="https://link.aps.org/doi/10.1103/PhysRevE.93.052312" id="interref27" xmlns:xlink="http://www.w3.org/1999/xlink">https://link.aps.org/doi/10.1103/PhysRevE.93.052312</ext-link>
+  </comment>
+ </element-citation>
+</ref>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <label>6.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Casado</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Monsalvo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Fontecha</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Vizcarra</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Rodriguez</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Vivancos</surname>
+    <given-names>MJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Dolutegravir plus rilpivirine as dual regimen in virologically suppressed HIV-1 infected patients in a clinical setting</article-title>
+  <source>HIV Res Clin Pract</source>
+  <year>2019</year>
+  <volume>20</volume>
+  <issue>2</issue>
+  <fpage>64</fpage>
+  <lpage>72</lpage>
+  <pub-id pub-id-type="doi">10.1080/15284336.2019.1628460</pub-id>
+  <?supplied-pmid 31303142?>
+  <pub-id pub-id-type="pmid">31303142</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0240013.g005" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0240013.g005</object-id>
+ <label>Fig 5</label>
+ <caption>
+  <title>Gompertz model estimates of averted COVID-19 cases deaths.</title>
+  <p>COVID-19 deaths (dots) from March 17 through March 26 (n = 20) were used to fit a Gompertz model (red line) to estimate the expected number of deaths (n = 354), compared with the observed deaths (green line), through May 31 (n = 143).</p>
+ </caption>
+ <graphic xlink:href="pone.0240013.g005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

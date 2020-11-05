@@ -1,0 +1,367 @@
+{
+  "id": [
+    "32946724"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32946724"
+  ],
+  "pmcid": [
+    "PMC7510690"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7510690"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3201/eid2610.191538"
+  ],
+  "title": [
+    "Human Adenovirus B7d-Associated Urethritis after Suspected Sexual Transmission, Japan."
+  ],
+  "authorString": [
+    "Hanaoka N, Ito S, Nojiri N, Konagaya M, Yasuda M, Deguchi T, Fujimoto T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hanaoka N"
+          ],
+          "firstName": [
+            "Nozomu"
+          ],
+          "lastName": [
+            "Hanaoka"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Ito S"
+          ],
+          "firstName": [
+            "Shin"
+          ],
+          "lastName": [
+            "Ito"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Nojiri N"
+          ],
+          "firstName": [
+            "Naomi"
+          ],
+          "lastName": [
+            "Nojiri"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Konagaya M"
+          ],
+          "firstName": [
+            "Masami"
+          ],
+          "lastName": [
+            "Konagaya"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Yasuda M"
+          ],
+          "firstName": [
+            "Mitsuru"
+          ],
+          "lastName": [
+            "Yasuda"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Deguchi T"
+          ],
+          "firstName": [
+            "Takashi"
+          ],
+          "lastName": [
+            "Deguchi"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Fujimoto T"
+          ],
+          "firstName": [
+            "Tsuguto"
+          ],
+          "lastName": [
+            "Fujimoto"
+          ],
+          "initials": [
+            "T"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "3014104"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Infect Dis"
+          ],
+          "NLMid": [
+            "9508155"
+          ],
+          "ISSN": [
+            "1080-6040"
+          ],
+          "ESSN": [
+            "1080-6059"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2444-2447"
+  ],
+  "abstractText": [
+    "Outbreaks of acute respiratory disease associated with human adenovirus (HAdV) B7d have been reported, including fatal cases in the United States. In 2018, we detected HAdV-B7d in a patient with urethritis, probably transmitted through sexual contact. Infectious HAdV-B7d was excreted in urine and gargle for >10 days after the disappearance of symptoms."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Viruses",
+        "Japan",
+        "Urethritis",
+        "epidemiology",
+        "Human Adenovirus Infections",
+        "Hadv-b7d"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3201/eid2610.191538"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510690"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510690?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-18"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-02"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

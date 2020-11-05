@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref26">
+ <label>26</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mimouni</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Lakshminrusimha</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Pearlman</surname>
+    <given-names>SA</given-names>
+   </name>
+   <name>
+    <surname>Raju</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Gallagher</surname>
+    <given-names>PG</given-names>
+   </name>
+   <name>
+    <surname>Mendlovic</surname>
+    <given-names>J</given-names>
+   </name>
+  </person-group>
+  <article-title>Perinatal aspects on the covid-19 pandemic: a practical resource for perinatal-neonatal specialists</article-title>
+  <source>J Perinatol</source>
+  <year>2020</year>
+  <month>5</month>
+  <day>10</day>
+  <volume>40</volume>
+  <issue>5</issue>
+  <fpage>820</fpage>
+  <lpage>826</lpage>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/32277162" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </comment>
+  <pub-id pub-id-type="doi">10.1038/s41372-020-0665-6</pub-id>
+  <pub-id pub-id-type="medline">32277162</pub-id>
+  <!--<pub-id pub-id-type="pii">10.1038/s41372-020-0665-6</pub-id>-->
+  <!--<pub-id pub-id-type="pmcid">PMC7147357</pub-id>-->
+  <pub-id pub-id-type="pmid">32277162</pub-id>
+ </element-citation>
+</ref>

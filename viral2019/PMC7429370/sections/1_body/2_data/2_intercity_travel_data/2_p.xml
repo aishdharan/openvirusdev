@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par17">Base on this data, we can construct the 
+ <italic>migration matrix</italic>, which is given as
+ <disp-formula id="Equ1">
+  <label>1</label>
+  <alternatives>
+   <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} {M}(t) = \left[ {\begin{array}{*{20}{c}} {{m_{11}}(t)}&amp;{}{{m_{12}}(t)}&amp;{} \cdots &amp;{}{{m_{1K}}(t)}\\ {{m_{21}}(t)}&amp;{}{{m_{22}}(t)}&amp;{} \cdots &amp;{}{{m_{2K}}(t)}\\ \vdots &amp;{} \vdots &amp;{} \ddots &amp;{} \vdots \\ {{m_{N1}}(t)}&amp;{}{{m_{N2}}(t)}&amp;{} \cdots &amp;{}{{m_{KK}}(t)} \end{array}} \right] , \end{aligned}$$\end{document}</tex-math>
+   <math id="M8" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mi>M</mi>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>=</mo>
+         <mfenced close="]" open="[">
+          <mrow>
+           <mtable>
+            <mtr>
+             <mtd>
+              <mrow>
+               <msub>
+                <mi>m</mi>
+                <mn>11</mn>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mn>12</mn>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mo>⋯</mo>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mn>1</mn>
+                  <mi>K</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mn>21</mn>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mn>22</mn>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mo>⋯</mo>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mn>2</mn>
+                  <mi>K</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mo>⋮</mo>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mo>⋮</mo>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mo>⋱</mo>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mo>⋮</mo>
+              </mrow>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi>N</mi>
+                  <mn>1</mn>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi>N</mi>
+                  <mn>2</mn>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mo>⋯</mo>
+              </mrow>
+             </mtd>
+             <mtd>
+              <mrow>
+               <mrow/>
+               <mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">KK</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mrow>
+             </mtd>
+            </mtr>
+           </mtable>
+          </mrow>
+         </mfenced>
+         <mo>,</mo>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ1.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq4">
+  <alternatives>
+   <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$K=367$$\end{document}</tex-math>
+   <math id="M10">
+    <mrow>
+     <mi>K</mi>
+     <mo>=</mo>
+     <mn>367</mn>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq4.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the number of the cities, and 
+ <inline-formula id="IEq5">
+  <alternatives>
+   <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$m_{ij}(t)$$\end{document}</tex-math>
+   <math id="M12">
+    <mrow>
+     <msub>
+      <mi>m</mi>
+      <mrow>
+       <mi mathvariant="italic">ij</mi>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq5.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the migrant volume from city 
+ <italic>i</italic> to city 
+ <italic>j</italic> at time 
+ <italic>t</italic>. Migration matrix 
+ <italic>M</italic> thus effectively describes the network of cities with human movement constituting the links of the network. Figure 
+ <xref rid="Fig3" ref-type="fig">3</xref> plots the daily total inflow and outflow migration strengths of Wuhan, showing the abrupt decrease in migrant strength after the city shut down all inflow and outflow traffic from February 01, 2020.
+</p>

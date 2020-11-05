@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>MATLAB R2017b is used to execute the proposed system. The 
+ <italic>fitcknn</italic> function is used for creating the 
+ <italic>k</italic>-nearest neighbor network with its default number of neighbors 
+ <italic>k</italic> = 1. The 
+ <italic>cascadeforwardnet</italic> function is used for creating the cascade-forward network (supervised learning machine algorithm). It uses one input layer that has nine neurons equal to the number of features, one hidden layer that has the default number of neurons 
+ <italic>n</italic> = 10 and one output layer that has one neuron according to the resulting class.
+</p>

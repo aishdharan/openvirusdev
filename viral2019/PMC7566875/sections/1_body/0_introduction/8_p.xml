@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2399">This article is organized as follows. In Section 
+ <xref rid="sec2" ref-type="sec">2</xref> we introduce the basic SEIR model and demonstrate how it is fit to epidemiological data for the COVID-19 outbreak in Ireland. In Section 
+ <xref rid="sec3" ref-type="sec">3</xref> we couple the model to economic considerations — we formulate an optimal control problem in which the cost to the economy of the various NPIs is minimized, subject to the satisfaction of certain key state constraints. Results are presented in Section 
+ <xref rid="sec4" ref-type="sec">4</xref>, and conclusions are presented in Section 
+ <xref rid="sec5" ref-type="sec">5</xref>.
+</p>

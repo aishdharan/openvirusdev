@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0005">
+ <label>1</label>
+ <element-citation publication-type="journal" id="sbref0005">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Woolhouse</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Scott</surname>
+    <given-names>F.</given-names>
+   </name>
+   <name>
+    <surname>Hudson</surname>
+    <given-names>Z.</given-names>
+   </name>
+   <name>
+    <surname>Howey</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Chase-Topping</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Human viruses: Discovery and emergence</article-title>
+  <source>Philos Trans R Soc B Biol Sci</source>
+  <volume>367</volume>
+  <year>2012</year>
+  <fpage>2864</fpage>
+  <lpage>2871</lpage>
+  <pub-id pub-id-type="doi">10.1098/rstb.2011.0354</pub-id>
+ </element-citation>
+</ref>

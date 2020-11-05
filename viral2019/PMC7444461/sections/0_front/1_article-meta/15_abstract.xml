@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0001">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="celist0001">
+   <list-item id="celistitem0001">
+    <label>•</label>
+    <p id="para0001">COVID-19 patients display negative emotions during the early stages of the disease.</p>
+   </list-item>
+   <list-item id="celistitem0002">
+    <label>•</label>
+    <p id="para0002">As COVID-19 develops, a mixture of positive and negative emotions manifest.</p>
+   </list-item>
+   <list-item id="celistitem0003">
+    <label>•</label>
+    <p id="para0003">Timely psychological interventions can prevent physical and mental harm.</p>
+   </list-item>
+   <list-item id="celistitem0004">
+    <label>•</label>
+    <p id="para0004">Culture affects both mental and social coping strategies.</p>
+   </list-item>
+   <list-item id="celistitem0005">
+    <label>•</label>
+    <p id="para0005">Active guidance of psychological growth can promote patient recovery.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

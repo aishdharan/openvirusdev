@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B19">
+ <label>19</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Christopoulos</surname>
+    <given-names>KA</given-names>
+   </name>
+   <name>
+    <surname>Riley</surname>
+    <given-names>ED</given-names>
+   </name>
+   <name>
+    <surname>Tulsky</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Carrico</surname>
+    <given-names>AW</given-names>
+   </name>
+   <name>
+    <surname>Moskowitz</surname>
+    <given-names>JT</given-names>
+   </name>
+   <name>
+    <surname>Wilson</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A text messaging intervention to improve retention in care and virologic suppression in a U.S. urban safety-net HIV clinic: study protocol for the Connect4Care (C4C) randomized controlled trial</article-title>
+  <source>BMC Infect Dis</source>
+  <year>2014</year>
+  <date-in-citation content-type="access-date">Aug 7, 2019</date-in-citation>
+  <volume>14</volume>
+  <fpage>718</fpage>
+  <lpage>718</lpage>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1186/s12879-014-0718-6</pub-id>
+  <pub-id pub-id-type="pmid">25551175</pub-id>
+ </element-citation>
+</ref>

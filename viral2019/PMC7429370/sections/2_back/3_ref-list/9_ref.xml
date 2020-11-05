@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR9">
+ <label>9.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Kermack</surname>
+    <given-names>WO</given-names>
+   </name>
+   <name>
+    <surname>McKendrick</surname>
+    <given-names>AG</given-names>
+   </name>
+  </person-group>
+  <article-title>Contributions to the mathematical theory of epidemics—I</article-title>
+  <source>Bullet Math Biol</source>
+  <year>1991</year>
+  <volume>53</volume>
+  <issue>1–2</issue>
+  <fpage>33</fpage>
+  <lpage>55</lpage>
+ </element-citation>
+</ref>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au10">
+  <name>
+   <surname>Lemoine</surname>
+   <given-names>Maud</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au20">
+  <name>
+   <surname>Kim</surname>
+   <given-names>Jin Un</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au30">
+  <name>
+   <surname>Ndow</surname>
+   <given-names>Gibril</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au40">
+  <name>
+   <surname>Bah</surname>
+   <given-names>Sulayman</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au50">
+  <name>
+   <surname>Forrest</surname>
+   <given-names>Karen</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au60">
+  <name>
+   <surname>Rwegasha</surname>
+   <given-names>John</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au70">
+  <name>
+   <surname>Bouyou</surname>
+   <given-names>Marielle</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au80">
+  <name>
+   <surname>Napon</surname>
+   <given-names>Delphine</given-names>
+  </name>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au90">
+  <name>
+   <surname>Somda</surname>
+   <given-names>Sosthene</given-names>
+  </name>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au100">
+  <name>
+   <surname>Sawadogo</surname>
+   <given-names>Appolinaire</given-names>
+  </name>
+  <xref rid="aff7" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au110">
+  <name>
+   <surname>Sombie</surname>
+   <given-names>Roger</given-names>
+  </name>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au120">
+  <name>
+   <surname>Shimakawa</surname>
+   <given-names>Yusuke</given-names>
+  </name>
+  <xref rid="aff8" ref-type="aff">h</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Metabolism, Digestion and Reproduction, Section of Hepatology and Gastroenterology, Imperial College London, St Mary's Hospital, London W2 1NY, UK
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Medical Research Council Unit, The Gambia at London School of Hygiene and Tropical Medicine, Fajara, The Gambia
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Hepatology and Gastroenterology, Muhimbili National Hospital, Dar es-Salaam, Tanzania
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Department of Parasitology, Mycology and Tropical Medicine, Université des Sciences de la Santé, Libreville, Gabon
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Département de Médicine, CHU Bodogodo, Ouagadougou, Burkina Faso
+ </aff>
+ <aff id="aff6">
+  <label>f</label>Département d'Hépato-gastroentérologie, CHU Yalgado Ouédraogo, Ouagadougou, Burkina Faso
+ </aff>
+ <aff id="aff7">
+  <label>g</label>Département de Médicine, CHU Souro Sanou, Bobo-Dioulasso, Burkina Faso
+ </aff>
+ <aff id="aff8">
+  <label>h</label>Unité d'Épidémiologie des Maladies Émergentes, Institut Pasteur, Paris, France
+ </aff>
+</contrib-group>

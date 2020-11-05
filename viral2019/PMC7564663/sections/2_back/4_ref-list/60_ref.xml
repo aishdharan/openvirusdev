@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B60-vaccines-08-00531">
+ <label>60.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Banjara</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Shimmon</surname>
+    <given-names>G.L.</given-names>
+   </name>
+   <name>
+    <surname>Dixon</surname>
+    <given-names>L.K.</given-names>
+   </name>
+   <name>
+    <surname>Netherton</surname>
+    <given-names>C.L.</given-names>
+   </name>
+   <name>
+    <surname>Hinds</surname>
+    <given-names>M.G.</given-names>
+   </name>
+   <name>
+    <surname>Kvansakul</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <article-title>Crystal Structure of African Swine Fever Virus A179L with the Autophagy Regulator Beclin</article-title>
+  <source>Viruses</source>
+  <year>2019</year>
+  <volume>11</volume>
+  <elocation-id>789</elocation-id>
+  <pub-id pub-id-type="doi">10.3390/v11090789</pub-id>
+  <?supplied-pmid 31461953?>
+  <pub-id pub-id-type="pmid">31461953</pub-id>
+ </element-citation>
+</ref>

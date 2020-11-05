@@ -1,0 +1,591 @@
+{
+  "id": [
+    "32764126"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32764126"
+  ],
+  "pmcid": [
+    "PMC7412619"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7412619"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1136/bmjgh-2020-002300"
+  ],
+  "title": [
+    "Prevalence and incidence of HIV among female sex workers and their clients: modelling the potential effects of intervention in Rwanda."
+  ],
+  "authorString": [
+    "Nsanzimana S, Mills EJ, Harari O, Mugwaneza P, Karita E, Uwizihiwe JP, Park JJ, Dron L, Condo J, Bucher H, Thorlund K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nsanzimana S"
+          ],
+          "firstName": [
+            "Sabin"
+          ],
+          "lastName": [
+            "Nsanzimana"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Rwanda Biomedical Center, Kigali, Rwanda nsabinco@gmail.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Basel Institute for Clinical Epidemiology and Biostatistics, University of Basel, Basel, Switzerland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mills EJ"
+          ],
+          "firstName": [
+            "Edward J"
+          ],
+          "lastName": [
+            "Mills"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3120-9694",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, Canada, McMaster University, Hamilton, Ontario, Canada."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Real World and Advanced Analytics, Cytel Inc, Vancouver, BC, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Harari O"
+          ],
+          "firstName": [
+            "Ofir"
+          ],
+          "lastName": [
+            "Harari"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Real World and Advanced Analytics, Cytel Inc, Vancouver, BC, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mugwaneza P"
+          ],
+          "firstName": [
+            "Placidie"
+          ],
+          "lastName": [
+            "Mugwaneza"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute for HIV, Diseases Prevention and Control, Rwanda Biomedical Center, Kigali, Rwanda."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Karita E"
+          ],
+          "firstName": [
+            "Etienne"
+          ],
+          "lastName": [
+            "Karita"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Medicine and Hubert Department of Global Health, Rollins School of Public Health, Emory University, Atlanta, United States."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Uwizihiwe JP"
+          ],
+          "firstName": [
+            "Jean Paul"
+          ],
+          "lastName": [
+            "Uwizihiwe"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Medicine and Pharmacy, Department of Primary Health Care, University of Rwanda, Kigali, Rwanda."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Public Health, Center for Global Health, Aarhus University, Aarhus University, Aarhus, Denmark."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park JJ"
+          ],
+          "firstName": [
+            "Jay Jh"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Real World and Advanced Analytics, Cytel Inc, Vancouver, BC, Canada."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Experimental Medicine, Department of Medicine, University of British Columbia, Vancouver, BC, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dron L"
+          ],
+          "firstName": [
+            "Louis"
+          ],
+          "lastName": [
+            "Dron"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Real World and Advanced Analytics, Cytel Inc, Vancouver, BC, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Condo J"
+          ],
+          "firstName": [
+            "Jeanine"
+          ],
+          "lastName": [
+            "Condo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Public Health, University of Rwanda, Kigali, Rwanda."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bucher H"
+          ],
+          "firstName": [
+            "Heiner"
+          ],
+          "lastName": [
+            "Bucher"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Basel Institute for Clinical Epidemiology and Biostatistics, University of Basel, Basel, Switzerland."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thorlund K"
+          ],
+          "firstName": [
+            "Kristian"
+          ],
+          "lastName": [
+            "Thorlund"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, Canada, McMaster University, Hamilton, Ontario, Canada."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Real World and Advanced Analytics, Cytel Inc, Vancouver, BC, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3120-9694",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2992643"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ global health"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Glob Health"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Glob Health"
+          ],
+          "NLMid": [
+            "101685275"
+          ],
+          "ISSN": [
+            "2059-7908"
+          ],
+          "ESSN": [
+            "2059-7908"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "BACKGROUND:Rwanda has identified several targeted HIV prevention strategies, such as promotion of condom use and provision of antiretroviral therapy (ART) and pre-exposure prophylaxis (PrEP) for female sex workers (FSWs). Given this country's limited resources, understanding how the HIV epidemic will be affected by these strategies is crucial. METHODS:We developed a Markov model to estimate the effects of targeted strategies to FSWs on the HIV prevalence/incidence in Rwanda from 2017 to 2027. Our model consists of the six states: HIV-; HIV+ undiagnosed/diagnosed pre-ART; HIV+ diagnosed with/without ART; and death. We considered three populations: FSWs, sex clients and the general population. For the period 2017-2027, the HIV epidemic among each of these population was estimated using Rwanda's demographic, sexual risk behaviour and HIV-associated morbidity and mortality data. RESULTS:Between 2017 and 2027, with no changes in the current condom and ART use, the overall number of people living with HIV is expected to increase from 344,971 to 402,451. HIV incidence will also decrease from 1.36 to 1.20 100 person-years. By 2027, a 30% improvement in consistent condom use among FSWs will result in absolute reduction of HIV prevalence among FSWs, sex clients and the general population by 7.86%, 5.97% and 0.17%, respectively. While recurring HIV testing and improving the ART coverage mildly reduced the prevalence/incidence among FSWs and sex clients, worsening the two (shown by our worst-case scenario) will result in an increase in the HIV prevalence/incidence among FSWs and sex clients. Introduction of PrEP to FSWs in 2019 will reduce the HIV incidence among FSWs by 1.28%. CONCLUSIONS:Continued efforts toward improving condom and ART use will be critical for Rwanda to continue their HIV epidemic control. Implementing a targeted intervention strategy in PrEP for FSWs will reduce the HIV epidemic in this high-risk population."
+  ],
+  "affiliation": [
+    "Rwanda Biomedical Center, Kigali, Rwanda nsabinco@gmail.com."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV",
+        "epidemiology",
+        "Health Economics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "H"
+          ],
+          "name": [
+            "Health administration journals (non-IM)"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjgh-2020-002300"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7412619"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7412619?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-09"
+  ],
+  "firstIndexDate": [
+    "2020-08-10"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-20"
+  ],
+  "dateOfRevision": [
+    "2020-10-20"
+  ],
+  "firstPublicationDate": [
+    "2020-08-01"
+  ]
+}

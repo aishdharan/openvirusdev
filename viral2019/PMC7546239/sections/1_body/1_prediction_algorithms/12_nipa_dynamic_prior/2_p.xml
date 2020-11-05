@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2708">Many countries have imposed some kind of lockdown, in which the free movement of people is significantly restricted. Thus, the true contact network 
+ <inline-formula>
+  <math id="d1e2711" display="inline" altimg="si1.svg">
+   <mi>G</mi>
+  </math>
+ </inline-formula> varies over time. We use a time-varying traffic matrix 
+ <inline-formula>
+  <math id="d1e2716" display="inline" altimg="si99.svg">
+   <mrow>
+    <mi>M</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> as an approximation for the prior infection matrix 
+ <inline-formula>
+  <math id="d1e2729" display="inline" altimg="si100.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>B</mi>
+     </mrow>
+     <mrow>
+      <mtext>prior</mtext>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, whose entries equal 
+ <disp-formula id="fd8">
+  <label>(8)</label>
+  <math id="d1e2754" display="block" altimg="si101.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>B</mi>
+     </mrow>
+     <mrow>
+      <mtext>prior</mtext>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mo class="qopname">diag</mo>
+    <mfenced open="(" close=")">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>c</mi>
+       </mrow>
+       <mrow>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>,</mo>
+      <mo>…</mo>
+      <mo>,</mo>
+      <msub>
+       <mrow>
+        <mi>c</mi>
+       </mrow>
+       <mrow>
+        <mi>N</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfenced>
+    <mi>M</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>for all times 
+ <inline-formula>
+  <math id="d1e2807" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula>. The positive scalars 
+ <inline-formula>
+  <math id="d1e2812" display="inline" altimg="si84.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>c</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi>c</mi>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> are unknown and are set by hold-out validation. We propose a Bayesian approach called 
+ <italic>NIPA dynamic prior</italic> to estimate the true infection matrix 
+ <inline-formula>
+  <math id="d1e2840" display="inline" altimg="si104.svg">
+   <mrow>
+    <mi>B</mi>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> from the time series of infected cases 
+ <inline-formula>
+  <math id="d1e2853" display="inline" altimg="si138.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and the prior infection matrix 
+ <inline-formula>
+  <math id="d1e2871" display="inline" altimg="si100.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>B</mi>
+     </mrow>
+     <mrow>
+      <mtext>prior</mtext>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Using the estimated time-varying infection matrix 
+ <inline-formula>
+  <math id="d1e2889" display="inline" altimg="si107.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>B</mi>
+     </mrow>
+     <mrow>
+      <mtext>posterior</mtext>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and the curing rates 
+ <inline-formula>
+  <math id="d1e2908" display="inline" altimg="si76.svg">
+   <msub>
+    <mrow>
+     <mi>δ</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> for each region 
+ <inline-formula>
+  <math id="d1e2918" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula>, we forecast the outbreak by iterating the SIR model. Appendix D explains the technical details of NIPA dynamic prior.
+</p>

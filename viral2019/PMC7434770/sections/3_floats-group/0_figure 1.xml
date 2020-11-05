@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>Neurotrauma consults. The average number of neurotrauma consults between 2016 and 2019 was 151.5, with 83.5 in March and 68 in April. There were 67 neurotrauma consults in March 2020, which was significantly lower than the previous-year average (
+   <italic>P</italic> = 0.036, Poisson analysis). There were 26 neurotrauma consults in April 2020, which was significantly lower than the previous-year average (
+   <italic>P</italic> = 0.0001, Poisson analysis). COVID-19, coronavirus disease 2019.
+  </p>
+ </caption>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

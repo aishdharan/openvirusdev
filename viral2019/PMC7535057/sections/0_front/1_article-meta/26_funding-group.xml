@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funding-group>
+ <award-group id="award001">
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100004901</institution-id>
+    <institution>Fundação de Amparo à Pesquisa do Estado de Minas Gerais</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>APQ-01574-17</award-id>
+  <principal-award-recipient>
+   <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-4049-4055</contrib-id>
+   <name>
+    <surname>Drumond</surname>
+    <given-names>Betânia Paiva</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award002">
+  <funding-source>
+   <institution>Secretaria de Estado de Saúde de Minas Gerais (SES-MG)/Secretaria de Estado de Planejamento de Minas Gerais (SEPLAG-MG)/Instituto René Rachou/Fundação Oswaldo Cruz (IRR/FIOCRUZ)</institution>
+  </funding-source>
+  <award-id>Yellow fever grant</award-id>
+  <principal-award-recipient>
+   <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-4049-4055</contrib-id>
+   <name>
+    <surname>Drumond</surname>
+    <given-names>Betânia Paiva</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award003">
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100003593</institution-id>
+    <institution>Conselho Nacional de Desenvolvimento Científico e Tecnológico</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>440593/2016-6</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Trindade</surname>
+    <given-names>Giliane de Souza</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award004">
+  <funding-source>
+   <institution>Decit/SCTIE/MoH</institution>
+  </funding-source>
+  <award-id>440593/2016-6.</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Trindade</surname>
+    <given-names>Giliane de Souza</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award005">
+  <funding-source>
+   <institution>European (ERDF/FEDER)</institution>
+  </funding-source>
+  <principal-award-recipient>
+   <name>
+    <surname>de Thoisy</surname>
+    <given-names>Benoit</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award006">
+  <funding-source>
+   <institution>Laboratoire d’Excellence CEBA “Investissement d’Avenir” u</institution>
+  </funding-source>
+  <award-id>ANR-10-LABX-2501</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>de Thoisy</surname>
+    <given-names>Benoit</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award007">
+  <funding-source>
+   <institution>Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG),</institution>
+  </funding-source>
+  <award-id>APQ-01989-18</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Paglia</surname>
+    <given-names>Adriano Pereira</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award008">
+  <funding-source>
+   <institution>Fundação de Amparo à Pesquisa do estado de São Paulo (FAPESP)</institution>
+  </funding-source>
+  <award-id>13/21719-3.</award-id>
+  <principal-award-recipient>
+   <name>
+    <surname>Lacerda Nogueira</surname>
+    <given-names>Maurício</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award009">
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100002322</institution-id>
+    <institution>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</institution>
+   </institution-wrap>
+  </funding-source>
+  <award-id>001</award-id>
+  <principal-award-recipient>
+   <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0001-9716-6899</contrib-id>
+   <name>
+    <surname>Sacchetto</surname>
+    <given-names>Lívia</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <award-group id="award010">
+  <funding-source>
+   <institution-wrap>
+    <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100007375</institution-id>
+    <institution>Pró-Reitoria de Pesquisa, Universidade Federal de Minas Gerais</institution>
+   </institution-wrap>
+  </funding-source>
+  <principal-award-recipient>
+   <name>
+    <surname>de Mendonça</surname>
+    <given-names>Vítor Emídio</given-names>
+   </name>
+  </principal-award-recipient>
+ </award-group>
+ <funding-statement>This work was supported by different agencies. BPD was supported by Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG), under Grant APQ-01574-17, and Secretaria de Estado de Saúde de Minas Gerais (SES-MG)/Secretaria de Estado de Planejamento de Minas Gerais (SEPLAG-MG)/Instituto René Rachou/Fundação Oswaldo Cruz (IRR/FIOCRUZ) under Grant Yellow fever. GST was supported by Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) under grant 440593/2016-6 and Decit/SCTIE/MoH under grant 440593/2016-6. APP was supported by FAPEMIG and Coodernação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). BdT was supported by the RESERVOIRS program supported by European (ERDF/FEDER) funds and assistance from Collectivité Territoriale de la Guyane and Direction Régionale pour la Recherche et la Technologie, and the MicroBIOME project granted by the Laboratoire d’Excellence CEBA “Investissement d’Avenir” under Grant ANR-10-LABX-2501. PAA was supported by FAPEMIG under grant APQ-01989-18. MLN was supported by Fundação de Amparo à Pesquisa do estado de São Paulo (FAPESP) under grant 13/21719-3. LS and IMR were supported by Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)/Brazil under graduate scholarship grant (0001) and NIOS was supported by Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) under graduate scholarship grant, VEM was supported by Pró-Reitoria de Graduação-Universidade Federal de Minas Gerais (UFMG) under graduate scholarship grant. MAS, TAC, and GFGO were supported by CNPq FAPEMIG, and CAPES undergraduate scholarship grants. BPD, APP, GST, EGK, and MLN are CNPq Research Fellows. CNPq: 
+  <ext-link ext-link-type="uri" xlink:href="http://www.cnpq.br/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.cnpq.br/</ext-link> CAPES: 
+  <ext-link ext-link-type="uri" xlink:href="https://www.capes.gov.br/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.capes.gov.br/</ext-link> FAPEMIG: 
+  <ext-link ext-link-type="uri" xlink:href="https://fapemig.br/pt/" xmlns:xlink="http://www.w3.org/1999/xlink">https://fapemig.br/pt/</ext-link> FAPESP: 
+  <ext-link ext-link-type="uri" xlink:href="http://www.fapesp.br/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.fapesp.br/</ext-link> Pró-Reitoria de Graduação-Universidade Federal de Minas Gerais: 
+  <ext-link ext-link-type="uri" xlink:href="https://www2.ufmg.br/prograd/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www2.ufmg.br/prograd/</ext-link> The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+ </funding-statement>
+</funding-group>

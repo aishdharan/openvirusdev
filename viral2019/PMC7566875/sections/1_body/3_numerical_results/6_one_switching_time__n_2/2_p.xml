@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e8496">We start by looking at the structure of the solution of the problem 
+ <xref rid="fd16" ref-type="disp-formula">(16)</xref>, for a range of values of 
+ <inline-formula>
+  <math id="d1e8503" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, and for 
+ <inline-formula>
+  <math id="d1e8517" display="inline" altimg="si200.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>2</mn>
+   </mrow>
+  </math>
+ </inline-formula>. Although switching between different sets of controls only once in the time period 
+ <inline-formula>
+  <math id="d1e8528" display="inline" altimg="si134.svg">
+   <mi mathvariant="bold-fraktur">T</mi>
+  </math>
+ </inline-formula> might be unrealistic, this is a first step that helps with understanding (we investigate 
+ <inline-formula>
+  <math id="d1e8533" display="inline" altimg="si258.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>2</mn>
+   </mrow>
+  </math>
+ </inline-formula> in what follows). As such, we plot the minimum value 
+ <inline-formula>
+  <math id="d1e8543" display="inline" altimg="si198.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">J</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">i</mi>
+     <mi mathvariant="bold-fraktur">n</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> as a function of 
+ <inline-formula>
+  <math id="d1e8557" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> in 
+ <xref rid="fig2" ref-type="fig">Fig. 2</xref>. For large values of 
+ <inline-formula>
+  <math id="d1e8576" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, 
+ <inline-formula>
+  <math id="d1e8590" display="inline" altimg="si262.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mi>≳</mi>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>7</mn>
+   </mrow>
+  </math>
+ </inline-formula>, the optimal control is bang–bang with one switch: the control is enabled at the maximum value 
+ <inline-formula>
+  <math id="d1e8613" display="inline" altimg="si195.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> for between 58 (
+ <inline-formula>
+  <math id="d1e8641" display="inline" altimg="si241.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+   </mrow>
+  </math>
+ </inline-formula>) and 193 days (
+ <inline-formula>
+  <math id="d1e8665" display="inline" altimg="si265.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>71</mn>
+   </mrow>
+  </math>
+ </inline-formula>). The evolution of the infection under these controls is shown in 
+ <xref rid="fig3" ref-type="fig">Fig. 3</xref> – under these bang–bang controls, the epidemic is seen to be suppressed, and the number of infectious cases is zero at the end-time 
+ <inline-formula>
+  <math id="d1e8692" display="inline" altimg="si134.svg">
+   <mi mathvariant="bold-fraktur">T</mi>
+  </math>
+ </inline-formula>. In contrast, for 
+ <inline-formula>
+  <math id="d1e8698" display="inline" altimg="si267.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mi>≲</mi>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>7</mn>
+   </mrow>
+  </math>
+ </inline-formula>, the optimal control is no longer bang–bang. Instead, the optimal control strategy is revealed to be independent of 
+ <inline-formula>
+  <math id="d1e8721" display="inline" altimg="si199.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">u</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">m</mi>
+     <mi mathvariant="bold-fraktur">a</mi>
+     <mi mathvariant="bold-fraktur">x</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>: for an initial time interval, the value 
+ <inline-formula>
+  <math id="d1e8735" display="inline" altimg="si269.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>607</mn>
+   </mrow>
+  </math>
+ </inline-formula> is optimal, during which the boundary of the state constraint 
+ <inline-formula>
+  <math id="d1e8749" display="inline" altimg="si270.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">B</mi>
+   </mrow>
+  </math>
+ </inline-formula> is attained, for some 
+ <inline-formula>
+  <math id="d1e8774" display="inline" altimg="si239.svg">
+   <mi mathvariant="bold-fraktur">t</mi>
+  </math>
+ </inline-formula>. In a second time interval, the value 
+ <inline-formula>
+  <math id="d1e8779" display="inline" altimg="si272.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>468</mn>
+   </mrow>
+  </math>
+ </inline-formula> is optimal, during which time the boundary of the state constraint is again attained. The switching time occurs at 
+ <inline-formula>
+  <math id="d1e8793" display="inline" altimg="si273.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>256</mn>
+    <mo>.</mo>
+    <mn>5</mn>
+    <mspace width="0.16667em"/>
+    <mtext>Days</mtext>
+   </mrow>
+  </math>
+ </inline-formula>. The evolution of the epidemic under this scenario is shown in 
+ <xref rid="fig4" ref-type="fig">Fig. 4</xref>. This scenario corresponds to a ‘containment’ of the epidemic: the number of infectious cases is non-zero at the end-time 
+ <inline-formula>
+  <math id="d1e8831" display="inline" altimg="si134.svg">
+   <mi mathvariant="bold-fraktur">T</mi>
+  </math>
+ </inline-formula>, but the maximum capacity of the hospital system is not breached. Finally, a comparison between a disease outbreak with controls, and one without any controls, is shown in 
+ <xref rid="fig5" ref-type="fig">Fig. 5</xref>. The imposition of controls contains or suppresses the epidemic: specifically, 
+ <inline-formula>
+  <math id="d1e8840" display="inline" altimg="si275.svg">
+   <mrow>
+    <mo class="qopname">max</mo>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>3</mn>
+    <mo>.</mo>
+    <mn>7</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mn>1</mn>
+    <msup>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+     <mrow>
+      <mn>5</mn>
+     </mrow>
+    </msup>
+   </mrow>
+  </math>
+ </inline-formula> with no controls, 
+ <inline-formula>
+  <math id="d1e8877" display="inline" altimg="si276.svg">
+   <mrow>
+    <mo class="qopname">max</mo>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">B</mi>
+    <mo>∕</mo>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mtext>18,750</mtext>
+   </mrow>
+  </math>
+ </inline-formula> with 
+ <inline-formula>
+  <math id="d1e8908" display="inline" altimg="si240.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>7</mn>
+   </mrow>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="d1e8931" display="inline" altimg="si278.svg">
+   <mrow>
+    <mo class="qopname">max</mo>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">I</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">≈</mo>
+    <mn>100</mn>
+   </mrow>
+  </math>
+ </inline-formula> with the optimal control 
+ <inline-formula>
+  <math id="d1e8953" display="inline" altimg="si241.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+   </mrow>
+  </math>
+ </inline-formula>. Comparison between these scenarios and the actual course of the outbreak is shown in 
+ <xref rid="fig6" ref-type="fig">Fig. 6</xref>. The model predictions for the counterfactual scenario of an unmitigated outbreak are consistent with the initial modelling of the epidemiology of COVID-19 elsewhere, e.g. Ref. 
+ <xref rid="b4" ref-type="bibr">[4]</xref>.
+</p>

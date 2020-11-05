@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig7">
+ <label>Fig. 7</label>
+ <caption>
+  <p>Two-dimensional plots of 
+   <inline-formula>
+    <math id="d1e540" display="inline" altimg="si245.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">J</mi>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">u</mi>
+        </mrow>
+        <mrow>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">u</mi>
+        </mrow>
+        <mrow>
+         <mn>2</mn>
+        </mrow>
+       </msub>
+       <mo>,</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">s</mi>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> (
+   <italic>cf.</italic> Eq. 
+   <xref rid="fd20" ref-type="disp-formula">(20)</xref> at fixed 
+   <inline-formula>
+    <math id="d1e585" display="inline" altimg="si246.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> showing the dependence of 
+   <inline-formula>
+    <math id="d1e598" display="inline" altimg="si247.svg">
+     <mi mathvariant="bold-fraktur">J</mi>
+    </math>
+   </inline-formula> on the controls 
+   <inline-formula>
+    <math id="d1e603" display="inline" altimg="si248.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="d1e613" display="inline" altimg="si249.svg">
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mn>2</mn>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>. A local minimum is shown using a square marker in each panel. Solid line: the state constraint 
+   <inline-formula>
+    <math id="d1e623" display="inline" altimg="si250.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">k</mi>
+      <msub>
+       <mrow>
+        <mo class="qopname">max</mo>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>∈</mo>
+        <mrow>
+         <mo>[</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">t</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mi mathvariant="bold-fraktur">T</mi>
+         <mo>]</mo>
+        </mrow>
+       </mrow>
+      </msub>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mi mathvariant="bold-fraktur">B</mi>
+     </mrow>
+    </math>
+   </inline-formula>. Broken line: the state constraint 
+   <inline-formula>
+    <math id="d1e673" display="inline" altimg="si251.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mrow>
+         <mo>(</mo>
+         <mi mathvariant="bold-fraktur">d</mi>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <mo>∕</mo>
+         <mi mathvariant="bold-fraktur">d</mi>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>=</mo>
+        <mi mathvariant="bold-fraktur">T</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+     </mrow>
+    </math>
+   </inline-formula>. The closed regions demarcated by the broken lines correspond to the forbidden regions 
+   <inline-formula>
+    <math id="d1e710" display="inline" altimg="si252.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mrow>
+         <mo>(</mo>
+         <mi mathvariant="bold-fraktur">d</mi>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <mo>∕</mo>
+         <mi mathvariant="bold-fraktur">d</mi>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>)</mo>
+        </mrow>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mo>=</mo>
+        <mi mathvariant="bold-fraktur">T</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+      <mn>0</mn>
+     </mrow>
+    </math>
+   </inline-formula>; regions to the left of the solid lines are forbidden also, and correspond to regimes where the constraint 
+   <inline-formula>
+    <math id="d1e747" display="inline" altimg="si253.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">k</mi>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo>)</mo>
+      </mrow>
+      <mo linebreak="goodbreak" linebreakstyle="after">≤</mo>
+      <mi mathvariant="bold-fraktur">B</mi>
+     </mrow>
+    </math>
+   </inline-formula> is breached.
+  </p>
+ </caption>
+ <graphic xlink:href="gr7_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

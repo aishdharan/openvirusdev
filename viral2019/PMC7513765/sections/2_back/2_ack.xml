@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ack0010">
+ <title>Acknowledgments</title>
+ <p id="p0210">The authors thank an anonymous referee who helped to improve the clarity and quality of the paper substantially. The work presented in this paper has been carried out in the context of the activities promoted by the Italian Government and, in particular, by the Ministries of Health and of University and Research, against the COVID-19 pandemic. Authors are grateful to INAF's President, Prof. N. D'Amico, for the support and for a critical reading of the manuscript. Prof. N. D'Amico, who eagerly wanted his institute to actively contribute to the activities promoted by the Italian Government to understand and defeat the current SARS-CoV-2 pandemics, unexpectedly and prematurely passed away the last 15th of September, only a few days after this paper was formally accepted. We would like to think that this work would never have been realized without the strong encouragement of Prof. D'Amico. Authors are also grateful to Dr. M. Elvis for critically reading the paper and providing useful comments and suggestions. Finally, the authors are grateful to Dr. P. Bonfini, for designing and realizing the graphical abstract of the paper through self-authored original drawings. Two research grants from 
+  <funding-source id="gs2">
+   <institution-wrap>
+    <institution-id institution-id-type="doi">10.13039/501100000781</institution-id>
+    <institution>INAF</institution>
+   </institution-wrap>
+  </funding-source> (project code C72F16000020005) and 
+  <funding-source id="gs1">Falk Renewables S.p.A.</funding-source> partially supported this work.
+ </p>
+ <sec id="sec5">
+  <title>Author Contributions</title>
+  <p id="p0215">F.N. designed the study (together with co-authors P.T., G.P., and M.C.), wrote the program that solves the model's equation and provides the curves of growth of the epidemics, collected and analyzed Italian SARS-CoV-2 data, and wrote the paper. G.S. and M.S. collected, reduced, and analyzed TEMIS data. G.P., M.C., M.T., M.B., and A.B. provided the measurement of the UV lethal dose for COVID-19 and, together with co-authors G.S., J.R.B., E.A., and I.E., derived the action spectrum-folded UV-B/UV-A virus lethal times plotted in 
+   <xref rid="fig3" ref-type="fig">Figures 3</xref>, 
+   <xref rid="fig4" ref-type="fig">4</xref>, 
+   <xref rid="fig5" ref-type="fig">5</xref>, 
+   <xref rid="fig6" ref-type="fig">6</xref>, 
+   <xref rid="fig7" ref-type="fig">7</xref>, 
+   <xref rid="fig8" ref-type="fig">8</xref>, and 
+   <xref rid="fig9" ref-type="fig">9</xref>. All authors contributed equally to the discussion of the results and commented on the manuscript.
+  </p>
+ </sec>
+ <sec sec-type="COI-statement" id="sec6">
+  <title>Declaration of Interests</title>
+  <p id="p0220">The authors declare no competing interests.</p>
+ </sec>
+</ack>

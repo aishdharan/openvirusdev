@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>7. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Bieler</surname>
+   <given-names>GS</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Brown</surname>
+   <given-names>GG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Williams</surname>
+   <given-names>RL</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Brogan</surname>
+   <given-names>DJ</given-names>
+  </string-name>. 
+  <article-title>Estimating model-adjusted risks, risk differences, and risk ratios from complex survey data.</article-title>
+  <source>Am J Epidemiol</source>
+  <year>2010</year>;
+  <volume>171</volume>:
+  <fpage>618</fpage>–
+  <lpage>23</lpage>. 
+  <pub-id pub-id-type="doi">10.1093/aje/kwp440</pub-id>
+  <?supplied-pmid 20133516?>
+  <pub-id pub-id-type="pmid">20133516</pub-id>
+ </mixed-citation>
+</ref>

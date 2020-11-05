@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The SEI component of our model describes the vector population, represented as susceptible (
+ <italic>S</italic>
+ <sub>
+  <italic>v</italic>
+ </sub>), exposed (
+ <italic>E</italic>
+ <sub>
+  <italic>v</italic>
+ </sub>), and infectious (
+ <italic>I</italic>
+ <sub>
+  <italic>v</italic>
+ </sub>). Our models explicitly consider a single vector and a single life stage, i.e. adult females of 
+ <italic>Aedes aegypti</italic>. Mosquitoes enter the susceptible class through a recruitment term, based on observed seasonality patterns from field data in Funchal [
+ <xref rid="pntd.0008679.ref031" ref-type="bibr">31</xref>]. The recruitment term does not explicitly model the aquatic (eggs, larvae, and pupae) stage of mosquitoes and is not linked to the current population size, but explicitly includes seasonality in recruitment to the adult female population. A susceptible mosquito moves into the exposed class (
+ <italic>E</italic>
+ <sub>
+  <italic>v</italic>
+ </sub>), after biting an infectious human and becoming infected with the dengue virus. After a temperature-dependent extrinsic incubation period, surviving mosquitoes get transferred to the infectious class (
+ <italic>I</italic>
+ <sub>
+  <italic>v</italic>
+ </sub>). They remain in the infectious class until death, due to the assumption of the absence of immune response. Mosquitoes leave the system through a temperature-dependent mortality function. We assume the virus infection does not affect the lifespan of the mosquitoes and that there is no significant vertical transmission.
+</p>

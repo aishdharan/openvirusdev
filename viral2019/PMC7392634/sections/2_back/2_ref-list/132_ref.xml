@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R132">
+ <label>132</label>
+ <mixed-citation publication-type="web">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Rambaut</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>Phylogenetic analysis of nCoV-2019 genomes</article-title>, 
+  <year>2020</year> Available: 
+  <uri xlink:href="http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356" xmlns:xlink="http://www.w3.org/1999/xlink">http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356</uri> [Accessed 
+  <comment>15 Apr 2020</comment>].
+ </mixed-citation>
+</ref>

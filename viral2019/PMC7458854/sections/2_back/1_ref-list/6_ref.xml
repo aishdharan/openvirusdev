@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Long</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Shen</surname>
+    <given-names>Q</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Fan</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Diagnosis of the coronavirus disease (COVID-19): rRT-PCR or CT?</article-title>
+  <source>Eur J Radiol</source>
+  <year>2020</year>
+  <volume>126</volume>
+  <elocation-id>108961</elocation-id>
+  <pub-id pub-id-type="pmid">32229322</pub-id>
+ </element-citation>
+</ref>

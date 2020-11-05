@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0030">Our model accounted for several events that could potentially affect transmission dynamics. The model simulated the disease transmission since 10 January 2020, when the diagnosis of COVID-19 was formally established. We assumed that there were 100 000 persons traveling through Hubei province based on the past-year daily travel volume during the Chinese Lunar New Year travel season, or chunyun
+ <italic>.</italic> Since many cities in Hubei were locked down since 23 January 2020 
+ <xref rid="b0045" ref-type="bibr">[9]</xref>, we assumed no transitions between Hubei and other provinces since that time. We calibrated transmission rates before and during the outbreak-control holiday to estimate its impact on epidemic dynamics. We assumed that the disease transmission rate after the outbreak-control holiday returned to the level before the holiday (see 
+ <xref rid="s0095" ref-type="sec">Section S1 in Appendix A</xref> for further model details).
+</p>

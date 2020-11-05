@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Feng</surname>
+   <given-names>Yu</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9508-6593</contrib-id>
+  <name>
+   <surname>Xu</surname>
+   <given-names>Zhiwen</given-names>
+  </name>
+  <address>
+   <email>abtcxzw@126.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhu</surname>
+   <given-names>Ling</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.80510.3c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0185 3134</institution-id>
+   <institution>College of Veterinary Medicine, </institution>
+   <institution>Sichuan Agricultural University, </institution>
+  </institution-wrap>No. 211 Huiming Road, Chengdu, 611130 China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.80510.3c</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 0185 3134</institution-id>
+   <institution>Animal Biology Technology Center, </institution>
+   <institution>Sichuan Agricultural University, </institution>
+  </institution-wrap>Chengdu, China 
+ </aff>
+</contrib-group>

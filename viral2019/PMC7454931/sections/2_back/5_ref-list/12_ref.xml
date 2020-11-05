@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib13">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Hopman</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Allegranzi</surname>
+    <given-names>B</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mehtar</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Managing COVID-19 in low- and middle-income countries</article-title>. 
+  <source>JAMA</source>. 
+  <year>2020</year>;
+  <volume>323</volume>(
+  <issue>16</issue>):
+  <fpage>1549</fpage>–
+  <lpage>50</lpage>.
+  <pub-id pub-id-type="pmid">32176764</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In 2020, Barstugan 
+ <italic>et al.</italic> [
+ <xref rid="ref22" ref-type="bibr">22</xref>] introduced a COVID-19 classification method using different types of abdominal computed tomography (CT) images, five feature extraction methods and support vector machine (SVM) so that the best classification accuracy obtained is 99.6%. Basu 
+ <italic>et al.</italic> [
+ <xref rid="ref23" ref-type="bibr">23</xref>] determined characteristic features from chest X-ray images and used domain extension transfer learning (DETL) for an alternative screening of COVID-19 so that the overall accuracy was measured as 95.3% ± 0.02. Ozturk 
+ <italic>et al.</italic> [
+ <xref rid="ref24" ref-type="bibr">24</xref>] used raw chest X-ray images and the DarkCovidNet model as a classifier to make two types of classification that were binary classification (COVID versus no findings) and multi-class classification (COVID versus no-findings versus pneumonia), and this obtained accuracy of 98.08% for the binary classification and 87.02% for the multi-class case. Elasnaoui 
+ <italic>et al.</italic> [
+ <xref rid="ref25" ref-type="bibr">25</xref>] employed both X-ray and CT images for bacterial pneumonia, coronavirus, COVID-19 and normal cases and used different deep learning models so that the best classification accuracy obtained is 92.18%.
+</p>

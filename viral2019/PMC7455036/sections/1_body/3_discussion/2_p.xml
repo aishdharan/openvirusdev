@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The Chinese government implemented the Wuhan city lockdown and nationwide intensive community screening to enforce social distancing. We were interested in studying the effectiveness of these two measures using an infectious disease model. Based on the classical SIR model in epidemiology, R0 was calculated as 2.80, which is similar to other studies [
+ <xref rid="pone.0238411.ref014" ref-type="bibr">14</xref>–
+ <xref rid="pone.0238411.ref019" ref-type="bibr">19</xref>]. However, this model could not be used to predict the development of an epidemic in which the government adopted drastic measures to promote isolation of infected individuals and their close contact. Therefore, we introduced here the 
+ <italic>α</italic> value into the SIR model, which is a scaling factor of 
+ <italic>i</italic>(
+ <italic>t</italic>), such that 
+ <italic>α</italic>×
+ <italic>i</italic>(
+ <italic>t</italic>) indicates the number of patients who are not quarantined. The results show that this modified SIR model is highly accurate at predicting numbers of infections, based on data from Zhejiang and Guangzhou provinces.
+</p>

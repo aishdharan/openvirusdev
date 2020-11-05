@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>These considerations led to the fitted objective function 
+ <disp-formula id="pone.0238411.e010">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e010.jpg" id="pone.0238411.e010g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M10">
+    <mi>m</mi>
+    <mi>i</mi>
+    <mi>n</mi>
+    <mrow>
+     <munder>
+      <mo stretchy="false">∑</mo>
+      <mrow>
+       <mi>t</mi>
+       <mi>ϵ</mi>
+       <mi>T</mi>
+      </mrow>
+     </munder>
+     <mrow>
+      <msup>
+       <mrow>
+        <mo>(</mo>
+        <msup>
+         <mrow>
+          <mi>e</mi>
+         </mrow>
+         <mrow>
+          <mo>(</mo>
+          <mrow>
+           <mi>β</mi>
+           <mo>−</mo>
+           <mi>μ</mi>
+          </mrow>
+          <mo>)</mo>
+          <mi>t</mi>
+         </mrow>
+        </msup>
+        <mo>−</mo>
+        <mi>I</mi>
+        <mo>(</mo>
+        <mi>t</mi>
+        <mo>)</mo>
+        <mo>)</mo>
+       </mrow>
+       <mrow>
+        <mn>2</mn>
+       </mrow>
+      </msup>
+     </mrow>
+    </mrow>
+   </math>
+  </alternatives>
+ </disp-formula> where 
+ <italic>I</italic> (
+ <italic>t</italic>) is the number of patients on t days after December 8.
+</p>

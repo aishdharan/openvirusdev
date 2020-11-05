@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR32">
+ <label>32.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Autenrieth</surname>
+    <given-names>CS</given-names>
+   </name>
+   <name>
+    <surname>Beck</surname>
+    <given-names>EJ</given-names>
+   </name>
+   <name>
+    <surname>Stelzle</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Mallouris</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Mahy</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Ghys</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Global and regional trends of people living with HIV aged 50 and over: estimates and projections for 2000-2020</article-title>
+  <source>PLoS One</source>
+  <year>2018</year>
+  <volume>13</volume>
+  <issue>11</issue>
+  <fpage>e0207005</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0207005</pub-id>
+  <pub-id pub-id-type="pmid">30496302</pub-id>
+ </element-citation>
+</ref>

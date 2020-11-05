@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0026">For each 
+ <inline-formula>
+  <math id="M54" altimg="si61.svg">
+   <mrow>
+    <mi>N</mi>
+    <mo>∈</mo>
+    <mi mathvariant="double-struck">N</mi>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> define the sets 
+ <inline-formula>
+  <math id="M55" altimg="si62.svg">
+   <mrow>
+    <msub>
+     <mi>I</mi>
+     <mi>N</mi>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mrow>
+     <mo>{</mo>
+     <mn>1</mn>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+     <mi>N</mi>
+     <mo>}</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="M56" altimg="si63.svg">
+   <mrow>
+    <msub>
+     <mover>
+      <mrow>
+       <mi>I</mi>
+      </mrow>
+      <mo stretchy="true">¯</mo>
+     </mover>
+     <mi>N</mi>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mi>I</mi>
+     <mi>N</mi>
+    </msub>
+    <mo>∪</mo>
+    <mrow>
+     <mo>{</mo>
+     <mn>0</mn>
+     <mo>}</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. The present section will be devoted to provide and analyze a nonstandard finite-difference discretization of the model 
+ <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref>. To that end, we let 
+ <inline-formula>
+  <math id="M57" altimg="si64.svg">
+   <mrow>
+    <mi>N</mi>
+    <mo>∈</mo>
+    <mi mathvariant="double-struck">N</mi>
+   </mrow>
+  </math>
+ </inline-formula> and consider a temporal period 
+ <italic>T</italic> &gt; 0. Fix a uniform partition of the temporal interval [0, 
+ <italic>T</italic>] consisting of 
+ <italic>N</italic> subintervals, and let 
+ <inline-formula>
+  <math id="M58" altimg="si65.svg">
+   <mrow>
+    <mi>τ</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <mi>T</mi>
+    <mo linebreak="goodbreak">/</mo>
+    <mi>N</mi>
+   </mrow>
+  </math>
+ </inline-formula>. Define 
+ <inline-formula>
+  <math id="M59" altimg="si66.svg">
+   <mrow>
+    <msub>
+     <mi>t</mi>
+     <mi>n</mi>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mi>n</mi>
+    <mi>τ</mi>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> for each 
+ <inline-formula>
+  <math id="M60" altimg="si67.svg">
+   <mrow>
+    <mi>n</mi>
+    <mo>∈</mo>
+    <msub>
+     <mover>
+      <mrow>
+       <mi>I</mi>
+      </mrow>
+      <mo stretchy="true">¯</mo>
+     </mover>
+     <mi>N</mi>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>. For each 
+ <inline-formula>
+  <math id="M61" altimg="si68.svg">
+   <mrow>
+    <mi>n</mi>
+    <mo>∈</mo>
+    <msub>
+     <mover>
+      <mrow>
+       <mi>I</mi>
+      </mrow>
+      <mo stretchy="true">¯</mo>
+     </mover>
+     <mi>N</mi>
+    </msub>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </inline-formula> we will employ the notations 
+ <italic>S
+  <sup>n</sup>, E
+  <sup>n</sup>, I
+  <sup>n</sup>, Q
+  <sup>n</sup>
+ </italic> and 
+ <italic>R
+  <sup>n</sup>
+ </italic> to represent numerical approximations to the values of the functions 
+ <italic>S, E, I, Q</italic> and 
+ <italic>R</italic>, respectively, at the time 
+ <italic>t
+  <sub>n</sub>
+ </italic>.
+ <statement id="enun0005">
+  <label>Definition 5</label>
+  <p id="p0027">Let 
+   <italic>U</italic> be any of the functions 
+   <italic>S, E, I, Q</italic> or 
+   <italic>R</italic>. We define
+   <disp-formula id="eq0026">
+    <label>(3.1)</label>
+    <math id="M62" altimg="si69.svg">
+     <mrow>
+      <msub>
+       <mi>δ</mi>
+       <mi>t</mi>
+      </msub>
+      <msup>
+       <mi>U</mi>
+       <mi>n</mi>
+      </msup>
+      <mo linebreak="goodbreak">=</mo>
+      <mfrac>
+       <mrow>
+        <msup>
+         <mi>U</mi>
+         <mrow>
+          <mi>n</mi>
+          <mo>+</mo>
+          <mn>1</mn>
+         </mrow>
+        </msup>
+        <mo>−</mo>
+        <msup>
+         <mi>U</mi>
+         <mi>n</mi>
+        </msup>
+       </mrow>
+       <mi>τ</mi>
+      </mfrac>
+      <mo>,</mo>
+      <mspace width="1em"/>
+      <mo>∀</mo>
+      <mi>n</mi>
+      <mo>∈</mo>
+      <msub>
+       <mover>
+        <mrow>
+         <mi>I</mi>
+        </mrow>
+        <mo stretchy="true">¯</mo>
+       </mover>
+       <mrow>
+        <mi>N</mi>
+        <mo>−</mo>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+      <mo>.</mo>
+     </mrow>
+    </math>
+   </disp-formula>
+  </p>
+ </statement>
+</p>

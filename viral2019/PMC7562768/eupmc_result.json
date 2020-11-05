@@ -1,0 +1,327 @@
+{
+  "id": [
+    "33083500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33083500"
+  ],
+  "pmcid": [
+    "PMC7562768"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7562768"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s13337-020-00633-8"
+  ],
+  "title": [
+    "2019-nCoV: a worldwide concern and facts."
+  ],
+  "authorString": [
+    "Sharma R, Akhoury G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sharma R"
+          ],
+          "firstName": [
+            "Rajani"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3474-4433",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Amity Institute of Biotechnology, Amity University Jharkhand, Niwaranpur, Ranchi, 834002 India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Akhoury G"
+          ],
+          "firstName": [
+            "Gargi"
+          ],
+          "lastName": [
+            "Akhoury"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Amity School of Engineering and Technology, Amity University Jharkhand, Niwaranpur, Ranchi, 834002 India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3474-4433",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3040239"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Virusdisease"
+          ],
+          "ISOAbbreviation": [
+            "Virusdisease"
+          ],
+          "medlineAbbreviation": [
+            "Virusdisease"
+          ],
+          "NLMid": [
+            "101624144"
+          ],
+          "ISSN": [
+            "2347-3584"
+          ],
+          "ESSN": [
+            "2347-3517"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-8"
+  ],
+  "abstractText": [
+    "A recent outbreak of endemic disease speeded by a virus whose genome is similar to that of SARS and MERS which outbreak in 2002 and 2012 respectively. All these are zoonotic infection which means these has transmitted from animal to human. Another similarity amongst these infections is that bat is supposed to be primary reservoir for these viruses. 2019-nCoV was reported by WHO on 31 December 2020 which is spreading with alarming rate. WHO has considered this infection as pandemic which means that if the infection is misled then it will spread fear and will cause unnecessary suffering and death. The onset of infection shows general symptoms of flu which later on develops to pneumonia. The main challenge of the infection is that a defined vaccine or medicine is still under trial. Treatment is done on the basis of symptoms and recovery is dependent on the immune response of the patients. This review article is based on meta-analysis of the data where the relation between reproduction number (R0) and infection rate is well depicted. Most of the countries has R0 > 1 which says the infection is epidemic. Symptoms and possible treatment till date is well defined in this paper. Though the COVID-19 virus has changed its strain and came up with asymptomatic infection which is more challenging. Here we present all the relevant information and facts about novel corona virus."
+  ],
+  "affiliation": [
+    "Amity Institute of Biotechnology, Amity University Jharkhand, Niwaranpur, Ranchi, 834002 India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "epidemic",
+        "Pandemic",
+        "Zoonotic Disease",
+        "Reproduction Number",
+        "2019-Ncov"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13337-020-00633-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7562768"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7562768?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-21"
+  ],
+  "firstIndexDate": [
+    "2020-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-18"
+  ],
+  "dateOfRevision": [
+    "2020-10-22"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-16"
+  ],
+  "firstPublicationDate": [
+    "2020-10-16"
+  ]
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e10276">Finally, it can be noted that optimal control solutions are well known to suffer from low robustness. The same caveat applies here — it may be anticipated that the control parameters 
+ <inline-formula>
+  <math id="d1e10279" display="inline" altimg="si149.svg">
+   <mrow>
+    <mo>{</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>}</mo>
+   </mrow>
+  </math>
+ </inline-formula> will vary under small changes in the model parameters (for instance, parameter variations within the bounds of the confidence intervals in 
+ <xref rid="appA" ref-type="sec">Appendix A</xref>). As such, the optimal control parameters are not expected to be prescriptive. Instead, the general trends in the results are more important — in particular, the importance of suppressing any initial sharp rise in cases, such that high-intensity NPIs can be lifted as soon as possible, with a view to minimizing the economic cost of the suppression strategy.
+</p>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Prakash</surname>
+    <given-names>BA</given-names>
+   </name>
+   <name>
+    <surname>Chakrabarti</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Valler</surname>
+    <given-names>NC</given-names>
+   </name>
+   <name>
+    <surname>Faloutsos</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Faloutsos</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Threshold conditions for arbitrary cascade models on arbitrary networks</article-title>
+  <source>Knowl Inf Syst</source>
+  <year>2012</year>
+  <volume>33</volume>
+  <issue>3</issue>
+  <fpage>549</fpage>
+  <lpage>575</lpage>
+ </element-citation>
+</ref>

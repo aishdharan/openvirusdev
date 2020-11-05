@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Girard</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Failure of a human immunodeficiency virus type 1 (HIV-1) subtype B-derived vaccine to prevent infection of chimpanzees by an HIV-1 subtype E strain</article-title>
+  <source>J. Virol.</source>
+  <year>1996</year>
+  <volume>70</volume>
+  <fpage>8229</fpage>
+  <lpage>8233</lpage>
+  <pub-id pub-id-type="doi">10.1128/JVI.70.11.8229-8233.1996</pub-id>
+  <pub-id pub-id-type="pmid">8892959</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In this step, moment invariants are used as features for the classification. They are first introduced by Hu in [
+ <xref rid="ref40" ref-type="bibr">40</xref>]; next of that different researches applied them as in [
+ <xref rid="ref41" ref-type="bibr">41–44</xref>]. The seven moment invariants are defined as six absolute orthogonal invariants and one skew orthogonal invariant. These invariants are constructed using the generalized fundamental theorem of moment invariants (GFTMI) [
+ <xref rid="ref45" ref-type="bibr">45</xref>].
+</p>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1" orientation="portrait" position="float">
+ <label>FIG 1</label>
+ <caption>
+  <p>Maximum likelihood phylogenetic tree of 44 CHIKV genome sequences (excluding 5′ and 3′ UTRs) determined using IQ-TREE v1.6.12 and nucleotide substitution model GTR+F+R2 (
+   <xref rid="B14" ref-type="bibr">14</xref>). Multiple sequence alignments were performed using Multiple Alignment using Fast Fourier Transform (MAFFT) v7.407 with default settings (
+   <xref rid="B15" ref-type="bibr">15</xref>). The phylogenetic tree was drawn with FigTree v1.4.4. The two CHIKV genotypes (Asian and ECSA) are shown, including grouping of 22 Thai sequences from 2018 to 2019 from this study (GenBank accession numbers 
+   <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/MN974203" assigning-authority="genbank" xmlns:xlink="http://www.w3.org/1999/xlink">MN974203</ext-link> to 
+   <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/MN974224" assigning-authority="genbank" xmlns:xlink="http://www.w3.org/1999/xlink">MN974224</ext-link>) (red) within the ECSA genotype.
+  </p>
+ </caption>
+ <graphic xlink:href="MRA.00438-20-f0001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

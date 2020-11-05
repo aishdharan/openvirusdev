@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Xiao</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Rouzine</surname>
+    <given-names>IM</given-names>
+   </name>
+   <name>
+    <surname>Bianco</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Acevedo</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Goldstein</surname>
+    <given-names>EF</given-names>
+   </name>
+   <name>
+    <surname>Farkov</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Brodsky</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Andino</surname>
+    <given-names>R</given-names>
+   </name>
+  </person-group>
+  <article-title>RNA recombination enhances adaptability and is required for virus spread and virulence</article-title>
+  <source>Cell Host Microbe</source>
+  <year>2016</year>
+  <volume>19</volume>
+  <fpage>493</fpage>
+  <lpage>503</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.chom.2016.03.009</pub-id>
+  <pub-id pub-id-type="pmid">27078068</pub-id>
+ </element-citation>
+</ref>

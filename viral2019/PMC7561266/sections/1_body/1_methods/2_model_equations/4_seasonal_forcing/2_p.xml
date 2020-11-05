@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Here, 
+ <italic>T</italic> is temperature in Celsius; 
+ <italic>T</italic>
+ <sub>
+  <italic>max</italic>
+ </sub>, 
+ <italic>T</italic>
+ <sub>
+  <italic>mean</italic>
+ </sub> and 
+ <italic>T</italic>
+ <sub>
+  <italic>max</italic>
+ </sub> are the average daily maximum, mean, and minimum temperatures over the year, (
+ <italic>t</italic>) is time measured in days, and (
+ <italic>ω</italic>) is the phase shift to align the cosine function with the seasonal factors in Funchal. For our temperature model calibration, we extracted a 10 year (2008–2018) historical daily from Weather Underground [
+ <xref rid="pntd.0008679.ref045" ref-type="bibr">45</xref>]. We then calculated the 10-year historical average of the mean, minimum, and maximum for each day of the year (excluding February 29), before estimating temperature seasonality. This provided a range of the average daily temperature over a calendar year for the period. Utilizing the mean, minimum, and maximum annual average temperature, we set estimates for our seasonality parameters. To fit the sinusoidal model, we considered the occurrence of the coldest and hottest day across the years, to determine a good starting point. The occurrence of the coldest day had fewer fluctuations mostly occurring on February 15; hence we set our start point and phase shift to this day, reflecting the long-term average conditions in Funchal, Madeira (
+ <italic>T</italic>
+ <sub>
+  <italic>max</italic>
+ </sub> = 22° C, 
+ <italic>T</italic>
+ <sub>
+  <italic>mean</italic>
+ </sub> = 20°C, 
+ <italic>T</italic>
+ <sub>
+  <italic>min</italic>
+ </sub> = 17°C). 
+ <xref ref-type="supplementary-material" rid="pntd.0008679.s006">S6 Fig</xref> shows a fit of the sinusoidal curve to the historical temperature seasonality.
+</p>

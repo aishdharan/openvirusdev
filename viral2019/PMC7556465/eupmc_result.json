@@ -1,0 +1,602 @@
+{
+  "id": [
+    "33052958"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33052958"
+  ],
+  "pmcid": [
+    "PMC7556465"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7556465"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1371/journal.pone.0240013"
+  ],
+  "title": [
+    "Assessment of early mitigation measures against COVID-19 in Puerto Rico: March 15-May 15, 2020."
+  ],
+  "authorString": [
+    "Valencia M, Becerra JE, Reyes JC, Castro KG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Valencia M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Valencia"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Data Management Operations for COVID-19 Legacy Systems, Puerto Rico Department of Health, San Juan, PR."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Becerra JE"
+          ],
+          "firstName": [
+            "José E"
+          ],
+          "lastName": [
+            "Becerra"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7425-8501",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Graduate School of Public Health, University of Puerto Rico Medical Sciences Campus, San Juan, PR."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Reyes JC"
+          ],
+          "firstName": [
+            "Juan C"
+          ],
+          "lastName": [
+            "Reyes"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Biostatistics and Epidemiology, Graduate School of Public Health, University of Puerto Rico Medical Sciences Campus, San Juan, PR."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Castro KG"
+          ],
+          "firstName": [
+            "Kenneth G"
+          ],
+          "lastName": [
+            "Castro"
+          ],
+          "initials": [
+            "KG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Hubert Department of Global Health & Department of Epidemiology, Rollins School of Public Health, Atlanta, GA, United States of America."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Division of Infectious Diseases, Department of Medicine, School of Medicine, Emory University, Atlanta, GA, United States of America."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7425-8501",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "3033510"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS One"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0240013"
+  ],
+  "abstractText": [
+    "On March 15, 2020 Puerto Rico implemented non-pharmaceutical interventions (NPIs), including a mandatory curfew, as part of a state of emergency declaration to prevent the community transmission of the SARS-CoV-2 virus. The strict enforcement of this curfew was extended through May 25, with a gradual relaxation beginning on May 1. This report summarizes an assessment of these early mitigation measures on the progression of the COVID-19 pandemic in the island. From March 15 to May 15, 2020, 70,656 results of molecular (RT-PCR) tests were reported to the Puerto Rico Department of Health. Of these, 1,704 were positive, corresponding to 1,311 individuals with COVID-19 included in the study. We derived the epidemic growth rates (r) and the corresponding reproductive numbers (R) from the epidemic curve of these 1,311 individuals with laboratory-confirmed diagnosis of COVID-19 using their date of test collection as a proxy for symptoms onset. Through May 31, 2020, there were 143 COVID-19 associated deaths in Puerto Rico, for a case fatality risk of 10.9%. We compared the observed cases and deaths with Gompertz model projections had the mitigation measures not been implemented. The number of daily RT-PCR-confirmed cases peaked on March 30 (85 cases), showing a weekly cyclical trend, with lower counts on weekends and a decreasing secular trend since March 30. The initial exponential growth rate (r) was 15.87% (95% CI: 7.59%, 24.15%), corresponding to R of 1.82 (95% CI:1.37, 2.30). After March 30, the r value reverted to an exponential decay rate (negative) of -2.95% (95% CI: -4.99%, -0.92%), corresponding to R of 0.93 (95% CI: 0.86, 0.98). We estimate that, had the initial growth rate been maintained, a total of 6,155 additional COVID-19 cases would have occurred by May 15, with 211 additional COVID-19 deaths by May 31. These findings are consistent with very effective implementation of early NPIs as mitigation measures in Puerto Rico. These results also provide a baseline to assess the impact of the transition from mitigation to subsequent containment stages in Puerto Rico."
+  ],
+  "affiliation": [
+    "Data Management Operations for COVID-19 Legacy Systems, Puerto Rico Department of Health, San Juan, PR."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Laboratory Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communicable Disease Control"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Management"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Puerto Rico"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0240013"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7556465"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7556465?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR176131"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-30"
+  ],
+  "dateOfCreation": [
+    "2020-10-14"
+  ],
+  "firstIndexDate": [
+    "2020-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-30"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-14"
+  ],
+  "firstPublicationDate": [
+    "2020-10-14"
+  ]
+}

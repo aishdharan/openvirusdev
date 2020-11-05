@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref34">
+ <label>34.</label>
+ <mixed-citation publication-type="book">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Ghosh</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Barman</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Prediction of prostate cancer cells based on principal component analysis technique</chapter-title> In: 
+  <source>Procedia Technology International Conference Computational Intelligence: Modeling Techniques and Applications (CIMTA)</source>, 
+  <year>2013</year>, doi: 
+  <pub-id pub-id-type="doi">10.1016/j.protcy.2013.12.334</pub-id>.
+ </mixed-citation>
+</ref>

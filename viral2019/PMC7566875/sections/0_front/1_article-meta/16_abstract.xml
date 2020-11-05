@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="d1e2254">
+ <p>We introduce a deterministic SEIR model and fit it to epidemiological data for the COVID-19 outbreak in Ireland. We couple the model to economic considerations — we formulate an optimal control problem in which the cost to the economy of the various non-pharmaceutical interventions is minimized, subject to hospital admissions never exceeding a threshold value corresponding to health-service capacity. Within the framework of the model, the optimal strategy of disease control is revealed to be one of disease suppression, rather than disease mitigation.</p>
+</abstract>

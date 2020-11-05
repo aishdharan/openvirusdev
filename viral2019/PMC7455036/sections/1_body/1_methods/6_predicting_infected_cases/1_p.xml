@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Based on the 
+ <italic>α</italic> and 
+ <italic>φ</italic> values predicted above, we built an iterative model according to Eqs (
+ <xref ref-type="disp-formula" rid="pone.0238411.e011">8</xref>)–(
+ <xref ref-type="disp-formula" rid="pone.0238411.e013">10</xref>). We substituted the previous day’s 
+ <italic>i</italic>(
+ <italic>t</italic>), 
+ <italic>s</italic>(
+ <italic>t</italic>), and 
+ <italic>r</italic>(
+ <italic>t</italic>) into the model, used the predicted 
+ <italic>φ</italic> value to calculate 
+ <italic>daily_recover_num</italic>(
+ <italic>t</italic>), and incorporated the predicted α values and 
+ <italic>daily_recover_num</italic>(t). Each time we incorporated a predicted value, we obtained the next day’s 
+ <italic>i</italic>(
+ <italic>t</italic>), 
+ <italic>s</italic>(
+ <italic>t</italic>), and 
+ <italic>r</italic>(
+ <italic>t</italic>). Repetition for 
+ <italic>n</italic> values of 
+ <italic>α</italic> and 
+ <italic>daily_recover_num</italic>(
+ <italic>t</italic>) led to a prediction of the infection cases (
+ <italic>i</italic>(
+ <italic>t</italic>)) for the next 
+ <italic>n</italic> days.
+</p>

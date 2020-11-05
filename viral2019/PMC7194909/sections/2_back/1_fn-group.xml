@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn id="d33e409">
+  <label>☆</label>
+  <p id="npar0020">An earlier version of this paper was presented as part of a session “The United States Economy: Growth, Stagnation or New Financial Crisis” chaired by Dominick Salvatore at the American Economic Association Annual Meeting, San Diego CA, January 3, 2020. The author thanks his research assistants Jakub Madej and Megan Xu.</p>
+ </fn>
+ <fn id="fn0005">
+  <label>1</label>
+  <p id="npar0005">
+   <ext-link ext-link-type="uri" xlink:href="https://www.nber.org/cycles.html" id="intr0005" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.nber.org/cycles.html</ext-link>.
+  </p>
+ </fn>
+ <fn id="fn0010">
+  <label>2</label>
+  <p id="npar0010">The Kermack–McKendrick model is a bare-bones epidemic model which assumes no deaths or population growth, thorough mixing of populations, and perfect eternal immunity by people after they recover. The population is divided into three compartments: susceptible, infected, and recovered. 
+   <italic>S</italic> is the fraction of the population susceptible, 
+   <italic>I</italic> the fraction infected, and 
+   <italic>R</italic> the fraction recovered. There are two parameters that differ across diseases but are constant through time for any one disease: a contagion parameter 
+   <italic>c</italic> and a recovery rate 
+   <italic>r.</italic> The three equations are 
+   <italic>dS</italic>/
+   <italic>dt</italic> = −
+   <italic>cSI</italic>, 
+   <italic>dI</italic>/
+   <italic>dt</italic> = 
+   <italic>cSI</italic> 
+   <italic>−</italic> 
+   <italic>rI</italic>, and 
+   <italic>dR</italic>/
+   <italic>dt</italic> = 
+   <italic>rI.</italic> Solutions to these equations will show a hump-shaped pattern for 
+   <italic>I</italic> through time if 
+   <italic>c</italic> &gt; 
+   <italic>r</italic>. We will be comparing the infected curve through time with time paths of key words for the narrative as used in new articles. This model allows both large and small epidemics and fast and slow epidemics, depending on choice of 
+   <italic>c</italic> and 
+   <italic>r</italic>.
+  </p>
+ </fn>
+ <fn id="fn0015">
+  <label>3</label>
+  <p id="npar0015">
+   <xref rid="bib0030" ref-type="bibr">Trump and McIver (2004)</xref>, Kindle edition, location 333.
+  </p>
+ </fn>
+</fn-group>

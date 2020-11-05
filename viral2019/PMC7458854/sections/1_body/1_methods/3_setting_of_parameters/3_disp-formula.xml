@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula>
+ <alternatives>
+  <math id="m6">
+   <mstyle scriptlevel="+1">
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mfenced separators="|">
+     <mrow>
+      <mi>t</mi>
+     </mrow>
+    </mfenced>
+    <mi> </mi>
+    <mo>=</mo>
+    <mi> </mi>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>R</mi>
+       </mrow>
+       <mrow>
+        <msub>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+         <mrow>
+          <mi>S</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </msub>
+      <mi> </mi>
+      <mo>−</mo>
+      <mi> </mi>
+      <msub>
+       <mrow>
+        <mi>R</mi>
+       </mrow>
+       <mrow>
+        <msub>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+         <mrow>
+          <mi>E</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+      <mi> </mi>
+      <mo>+</mo>
+      <mi> </mi>
+      <msup>
+       <mrow>
+        <mi>e</mi>
+       </mrow>
+       <mrow>
+        <mo>−</mo>
+        <mi>k</mi>
+        <mfenced separators="|">
+         <mrow>
+          <mo>−</mo>
+          <mi>t</mi>
+          <mo>+</mo>
+          <msub>
+           <mrow>
+            <mi>t</mi>
+           </mrow>
+           <mrow>
+            <mi>d</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </mfenced>
+       </mrow>
+      </msup>
+     </mrow>
+    </mfrac>
+    <mi> </mi>
+    <mo>+</mo>
+    <mi> </mi>
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mn>0</mn>
+       </mrow>
+       <mrow>
+        <mi>E</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </msub>
+   </mstyle>
+  </math>
+  <graphic xlink:href="jkms-35-e317-e006.jpg" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </alternatives>
+ <label>(6)</label>
+</disp-formula>

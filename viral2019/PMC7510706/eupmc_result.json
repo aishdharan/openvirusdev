@@ -1,0 +1,371 @@
+{
+  "id": [
+    "32946722"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32946722"
+  ],
+  "pmcid": [
+    "PMC7510706"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7510706"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3201/eid2610.190957"
+  ],
+  "title": [
+    "Basic Reproduction Number of Chikungunya Virus Transmitted by Aedes Mosquitoes."
+  ],
+  "authorString": [
+    "Haider N, Vairo F, Ippolito G, Zumla A, Kock RA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Haider N"
+          ],
+          "firstName": [
+            "Najmul"
+          ],
+          "lastName": [
+            "Haider"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5980-3460",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vairo F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Vairo"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Ippolito G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Ippolito"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Zumla A"
+          ],
+          "firstName": [
+            "Alimuddin"
+          ],
+          "lastName": [
+            "Zumla"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5111-5735",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kock RA"
+          ],
+          "firstName": [
+            "Richard A"
+          ],
+          "lastName": [
+            "Kock"
+          ],
+          "initials": [
+            "RA"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5980-3460",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5111-5735",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "3014104"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Infect Dis"
+          ],
+          "NLMid": [
+            "9508155"
+          ],
+          "ISSN": [
+            "1080-6040"
+          ],
+          "ESSN": [
+            "1080-6059"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2429-2431"
+  ],
+  "abstractText": [
+    "We estimated the weighted mean basic reproduction number (R0) of chikungunya virus based on outbreak size. R0 was 3.4 (95% CI 2.4-4.2) and varied for 2 primary chikungunya mosquito vectors: 4.1 (95% CI 1.5-6.6) for Aedes aegypti and 2.8 (95% CI 1.8-3.8) for Ae. albopictus."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Viruses",
+        "Arboviruses",
+        "Chikungunya virus",
+        "epidemic",
+        "Outbreaks",
+        "Basic reproduction number",
+        "Zoonoses",
+        "Vector-borne Infections",
+        "R0",
+        "Aedes Mosquito",
+        "Mosquito-borne Infections"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3201/eid2610.190957"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510706"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7510706?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-18"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-02"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

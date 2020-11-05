@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="box01" position="float" orientation="portrait">
+ <sec id="sec18">
+  <title>Key Points</title>
+  <list list-type="bullet">
+   <list-item>
+    <p>Coronavirus Disease 2019 (COVID-19) is a sudden viral contagion that appeared at the end of last year in Wuhan city, the Chinese province of Hubei, China.</p>
+   </list-item>
+   <list-item>
+    <p>The selected database contains 76 genes for each epidemic.</p>
+   </list-item>
+   <list-item>
+    <p>Some features are extracted like a discrete Fourier transform (DFT), discrete cosine transform (DCT) and the seven moment invariants to two different classifiers.</p>
+   </list-item>
+   <list-item>
+    <p>The 
+     <italic>k</italic>-nearest neighbor (KNN) algorithm and the trainable cascade-forward back propagation neural network were used, and they gave satisfying results to compare.
+    </p>
+   </list-item>
+  </list>
+ </sec>
+</boxed-text>

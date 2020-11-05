@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par19">First, we will give a brief description of human contact networks with multiple sub-networks representing a city or administrative regions for epidemic spreading propagation. A real human contact network consists of multiple sub-networks, just as a country consisting of many cities, towns, and villages. Here, we consider a human contact network 
+ <inline-formula id="IEq9">
+  <alternatives>
+   <tex-math id="M13">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$G=(V,E)$$\end{document}</tex-math>
+   <math id="M14">
+    <mrow>
+     <mi>G</mi>
+     <mo>=</mo>
+     <mo stretchy="false">(</mo>
+     <mi>V</mi>
+     <mo>,</mo>
+     <mi>E</mi>
+     <mo stretchy="false">)</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq9.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> contains 
+ <italic>K</italic> sub-networks 
+ <inline-formula id="IEq10">
+  <alternatives>
+   <tex-math id="M15">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\{G_1,G_2,\ldots ,G_M\}$$\end{document}</tex-math>
+   <math id="M16">
+    <mrow>
+     <mo stretchy="false">{</mo>
+     <msub>
+      <mi>G</mi>
+      <mn>1</mn>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>G</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+     <msub>
+      <mi>G</mi>
+      <mi>M</mi>
+     </msub>
+     <mo stretchy="false">}</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq10.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. 
+ <italic>V</italic> stands for the set of nodes, and 
+ <italic>E</italic> is the set of edges. Here, each node represents an individual. If two individuals/nodes 
+ <inline-formula id="IEq11">
+  <alternatives>
+   <tex-math id="M17">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$v_i$$\end{document}</tex-math>
+   <math id="M18">
+    <msub>
+     <mi>v</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq11.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="IEq12">
+  <alternatives>
+   <tex-math id="M19">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$v_j$$\end{document}</tex-math>
+   <math id="M20">
+    <msub>
+     <mi>v</mi>
+     <mi>j</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq12.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> have contacts, there will be a link 
+ <inline-formula id="IEq13">
+  <alternatives>
+   <tex-math id="M21">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$e_{i,j}$$\end{document}</tex-math>
+   <math id="M22">
+    <msub>
+     <mi>e</mi>
+     <mrow>
+      <mi>i</mi>
+      <mo>,</mo>
+      <mi>j</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq13.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> between them, otherwise, no connection (shown in Fig. 
+ <xref rid="Fig4" ref-type="fig">4</xref>a). Note that nodes in the same sub-network have plenty and strong connections with network neighbors, which results in a highly clustered sub-network. However, nodes belonging to different sub-networks have less and weak connections. In this work, a sub-network can be treated as a city, while nodes in a sub-network stand for citizens. The 
+ <italic>K</italic> sub-network (city) forms a huge contact network of a country (shown in Fig. 
+ <xref rid="Fig4" ref-type="fig">4</xref>b).
+</p>

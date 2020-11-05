@@ -1,0 +1,386 @@
+{
+  "id": [
+    "32948990"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32948990"
+  ],
+  "pmcid": [
+    "PMC7500495"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7500495"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s11739-020-02499-6"
+  ],
+  "title": [
+    "Management practices of emergency departments in general hospitals based on blockage of chain of infection during a COVID-19 epidemic."
+  ],
+  "authorString": [
+    "Hu X, Liu S, Wang B, Xiong H, Wang P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu X"
+          ],
+          "firstName": [
+            "Xiaojing"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medical Affairs Department, Peking University First Hospital, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Si"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medical Affairs Department, Peking University First Hospital, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Emergency Department, Peking University First Hospital, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiong H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Xiong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Emergency Department, Peking University First Hospital, Beijing, China. 13911875206@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medical Affairs Department, Peking University First Hospital, Beijing, China. pingwang40@sina.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "3047517"
+      ],
+      "dateOfPublication": [
+        "2020 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Internal and emergency medicine"
+          ],
+          "ISOAbbreviation": [
+            "Intern Emerg Med"
+          ],
+          "medlineAbbreviation": [
+            "Intern Emerg Med"
+          ],
+          "NLMid": [
+            "101263418"
+          ],
+          "ISSN": [
+            "1828-0447"
+          ],
+          "ESSN": [
+            "1970-9366"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1545-1552"
+  ],
+  "abstractText": [
+    "In a Coronavirus disease 2019 (COVID-19) epidemic, management of the emergency department is a difficult task in terms of prevention and control of the disease in general hospitals. On top of meeting urgent needs of patients for medical treatment, the emergency department also has to devote resources into investigation and prevention of COVID-19. At the beginning of the epidemic, with the strategy to intercept the chain of infection, Peking University First Hospital (PKUFH) focused on three important aspects: controlling the source of infection, cutting off the route of transmission, and protecting vulnerable populations, to expeditiously draft scientific and proper management measures for the emergency department, followed by real-time dynamic adjustments based on the development trend of the epidemic. These measures effectively ensured a smooth, orderly and safe operation of the emergency department. As of the writing of this manuscript, there has been no active COVID-19 infection in patients and medical staff in the emergency department, and no infection in patients admitted to PKUFH through the emergency department. This study describes the prevention and control measures in the emergency department of PKUFH during the outbreak of COVID-19, aiming to provide some reference for domestic and international medical institutions."
+  ],
+  "affiliation": [
+    "Medical Affairs Department, Peking University First Hospital, Beijing, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prevention and control measures",
+        "General Hospitals",
+        "Emergency Department Management",
+        "Chain Of Infection",
+        "Coronavirus Disease 2019",
+        "Coronavirus Disease"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11739-020-02499-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7500495"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7500495?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-19"
+  ],
+  "firstIndexDate": [
+    "2020-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-24"
+  ],
+  "dateOfRevision": [
+    "2020-11-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-18"
+  ],
+  "firstPublicationDate": [
+    "2020-09-18"
+  ]
+}

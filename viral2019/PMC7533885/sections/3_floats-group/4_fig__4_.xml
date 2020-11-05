@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="figure" id="fig04" orientation="portrait" position="float">
+ <label>Fig. 4.</label>
+ <caption>
+  <p>(
+   <italic>A</italic> and 
+   <italic>D</italic>) Impact of vaccination strategies on the epidemic size. (
+   <italic>A</italic>) Median weekly number of predicted reported incident human cases, and corresponding (
+   <italic>B</italic>) final human epidemic size (reported cases). (
+   <italic>C</italic>) Median weekly number of predicted incident infected livestock, and corresponding (
+   <italic>D</italic>) total livestock epidemic size. In 
+   <italic>A</italic> and 
+   <italic>C</italic>, the red solid line presents the scenario with no intervention (scenario 1); the black lines present vaccinations in December 2018 (black solid, 3,000 doses; dashed black, 6,000 doses) (scenarios 2 and 3); the blue lines present the vaccinations in January 2019 (blue solid, 3,000 doses; dashed blue, 6,000 doses; dotted blue, 9,000 doses) (scenarios 4–6); the dark green and the light green lines represent the vaccination of farmers (scenario 7), and the vaccination of the two groups (scenario 8), respectively. Note that, in 
+   <italic>C</italic>, the curves representing the incident livestock cases for no intervention and the vaccination scenarios targeting humans overlap.
+  </p>
+ </caption>
+ <graphic id="gra4" xlink:href="pnas.2004468117fig04" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

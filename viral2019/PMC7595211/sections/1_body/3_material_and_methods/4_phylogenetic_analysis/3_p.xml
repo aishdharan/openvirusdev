@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par31">Genetic diversity (
+ <italic>D</italic> = 1 − ∑
+ <italic>f</italic>
+ <sup>2</sup>) of HIV variants in the DRC was analyzed over time, a measure of variability that takes into account the frequencies (
+ <italic>f</italic>) of all variants. For that purpose, all 2802 
+ <italic>pol</italic> LANL sequences from the DRC were downloaded and reclassified as previously described. Among them, 2588 (92.3%) reported the sampling year, all belonging to the 1976–2012 period. Viral genetic diversity among HIV-infected children and adults with samples collected in Kinshasa between 2016 and 2018 was also calculated. We analyzed the genetic distance (number of base substitutions per site) or the average evolutionary divergence over all sequence pairs by using the Tamura-Nei model 93 (TN93)
+ <sup>
+  <xref ref-type="bibr" rid="CR77">77</xref>
+ </sup>, according to previous reports
+ <sup>
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup>. The rate variation among sites was modeled with a 
+ <italic>gamma</italic> distribution and analysis was conducted in MEGA6. We identified a recent transmission cluster in 
+ <italic>pol</italic> sequences showing maximum pairwise genetic distance lower than 0.01, according to previous reports
+ <sup>
+  <xref ref-type="bibr" rid="CR65">65</xref>–
+  <xref ref-type="bibr" rid="CR67">67</xref>
+ </sup>. TN93 was used because it is the most general nucleotide substitution model for which distances can be estimated directly from counts of nucleotide pairs in aligned sequences.
+</p>

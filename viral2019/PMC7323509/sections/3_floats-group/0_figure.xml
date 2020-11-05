@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F1" fig-type="figure" position="float">
+ <label>Figure</label>
+ <caption>
+  <p>Maximum-likelihood phylogenetic tree of hemagglutinin (A) and neuraminidase (B) of influenza A(H3N2) virus detected in blood donation, Brazil. A total of 264 hemagglutinin and 419 neuraminidase sequences from seasonal strains circulating during 2011–2019 and available in GISAID (
+   <ext-link ext-link-type="uri" xlink:href="https://www.gisaid.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.gisaid.org</ext-link>) were used to estimate the phylogenetic relationships with the influenza A virus detected in Ribeirao Preto, Brazil. Green indicates the H3N2 strain obtained from blood donor from Ribeirao Preto; diamonds at each node indicate statistical support along branches defined as ultrafast bootstrapping &gt;90% (of 10,000 replicates). The cluster where the donor strain obtained from Ribeirao Preto is located is shown in detail at bottom. Scale bars indicate nucleotide substitutions per site.
+  </p>
+ </caption>
+ <graphic xlink:href="20-0549-F" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

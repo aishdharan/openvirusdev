@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>SARS-CoV-2</term>
+   <def>
+    <p id="Par5">Severe acute respiratory syndrome coronavirus 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>COVID-19</term>
+   <def>
+    <p id="Par6">Coronavirus disease 2019</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>WGS</term>
+   <def>
+    <p id="Par7">Whole genome sequencing</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>UTM</term>
+   <def>
+    <p id="Par8">Universal transport medium</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>Ct</term>
+   <def>
+    <p id="Par9">Cycle threshold</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PBS</term>
+   <def>
+    <p id="Par10">Phosphate saline buffer</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CPE</term>
+   <def>
+    <p id="Par11">Cytopathic effect</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BSL-3</term>
+   <def>
+    <p id="Par12">Biosafety level-3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>qRT-PCR</term>
+   <def>
+    <p id="Par13">Quantitative real-time Reverse Transcriptase-PCR</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DAPI</term>
+   <def>
+    <p id="Par14">4′,6-diamidino,2-phenylindole</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SISPA</term>
+   <def>
+    <p id="Par15">Sequence-Independent Single Primer Amplification</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BIC</term>
+   <def>
+    <p id="Par16">Bayesan information criterion</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>T</term>
+   <def>
+    <p id="Par17">Time</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>P</term>
+   <def>
+    <p id="Par18">Passage</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>p.i.</term>
+   <def>
+    <p id="Par19">Post infection</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>nsp</term>
+   <def>
+    <p id="Par20">Non-structural protein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDK</term>
+   <def>
+    <p id="Par21">Cyclin-dependent kinase</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GSK3</term>
+   <def>
+    <p id="Par22">Glycogen synthase kinase-3</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>nt</term>
+   <def>
+    <p id="Par23">Nucleotide</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NI</term>
+   <def>
+    <p id="Par24">Not infected</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

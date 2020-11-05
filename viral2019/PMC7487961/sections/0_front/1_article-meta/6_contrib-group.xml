@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Wagner</surname>
+   <given-names>Tali</given-names>
+  </name>
+  <address>
+   <email>tali.vagner@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Olshtain-Pops</surname>
+   <given-names>Karen</given-names>
+  </name>
+  <address>
+   <email>kerenop@hadassah.org.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wax</surname>
+   <given-names>Marina</given-names>
+  </name>
+  <address>
+   <email>marina.wax@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Horwitz</surname>
+   <given-names>Olivia</given-names>
+  </name>
+  <address>
+   <email>onh2102@columbia.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shirazi</surname>
+   <given-names>Rachel</given-names>
+  </name>
+  <address>
+   <email>rachel.shirazi@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gozlan</surname>
+   <given-names>Yael</given-names>
+  </name>
+  <address>
+   <email>yael.gozlan@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Volnowitz</surname>
+   <given-names>Hadar</given-names>
+  </name>
+  <address>
+   <email>hadar.volnowitz@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mendelson</surname>
+   <given-names>Ella</given-names>
+  </name>
+  <address>
+   <email>ella.mendelson@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Levy</surname>
+   <given-names>Itzchak</given-names>
+  </name>
+  <address>
+   <email>itsik.Levy@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3207-4226</contrib-id>
+  <name>
+   <surname>Mor</surname>
+   <given-names>Orna</given-names>
+  </name>
+  <address>
+   <email>orna.mor@sheba.health.gov.il</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.12136.37</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1937 0546</institution-id>
+   <institution>Sackler Faculty of Medicine, </institution>
+   <institution>Tel-Aviv University, </institution>
+  </institution-wrap>Tel-Aviv-Yafo, Israel 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413795.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2107 2845</institution-id>
+   <institution>National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, </institution>
+  </institution-wrap>Tel Hashomer, 52621 Ramat Gan, Israel 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.17788.31</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2221 2926</institution-id>
+   <institution>Hadassah Medical Center, </institution>
+  </institution-wrap>Jerusalem, Israel 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.413795.d</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0001 2107 2845</institution-id>
+   <institution>Infectious Disease Unit, Chaim Sheba Medical Center, </institution>
+  </institution-wrap>Ramat Gan, Israel 
+ </aff>
+</contrib-group>

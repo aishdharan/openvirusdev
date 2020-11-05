@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Chun-Yang</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1-0300060520952256">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yu</surname>
+   <given-names>Xiao-Pin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2-0300060520952256">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ma</surname>
+   <given-names>Ada Hoi Yan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3-0300060520952256">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Li-Ping</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1-0300060520952256">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Nai-Bin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1-0300060520952256">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Guo-Xiang</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1-0300060520952256">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shi</surname>
+   <given-names>Jie-Jun</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1-0300060520952256">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2427-8042</contrib-id>
+  <name>
+   <surname>Qian</surname>
+   <given-names>Guo-Qing</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1-0300060520952256">1</xref>
+  <xref ref-type="corresp" rid="corresp1-0300060520952256"/>
+ </contrib>
+ <aff id="aff1-0300060520952256">
+  <label>1</label>Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China
+ </aff>
+ <aff id="aff2-0300060520952256">
+  <label>2</label>Ningbo City First Hospital, Ningbo, Zhejiang Province, China
+ </aff>
+ <aff id="aff3-0300060520952256">
+  <label>3</label>Nottingham University Business School, University of Nottingham Ningbo China, Ningbo, Zhejiang Province, China
+ </aff>
+</contrib-group>

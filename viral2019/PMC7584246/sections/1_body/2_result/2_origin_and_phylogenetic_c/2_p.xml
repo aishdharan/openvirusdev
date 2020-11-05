@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The Maximum-likelihood and Bayesian phylogenetic approaches showed that the CRF03_AB sequences were combined in one well supported monophyletic clade (Posterior Probability, 
+ <italic>PP</italic> = 1.0), confirming the common ancestry of each sequence (
+ <xref ref-type="fig" rid="pone.0241269.g002">Fig 2</xref> and 
+ <xref ref-type="supplementary-material" rid="pone.0241269.s004">S4 Fig</xref>). According to the Bayesian evolutionary analysis under a Bayesian Skyline prior, the mean evolutionary rate [95% HPD] of the PR-RT genomic region was 2.46x10
+ <sup>-3</sup>s/s/y [1.74–3.18x10
+ <sup>-3</sup>]. Considering these substitution rates, the MRCA for CRF03_AB clade was estimated to be 1992.1 [95% HPD: 1990.0–1995.2] (
+ <xref ref-type="fig" rid="pone.0241269.g002">Fig 2</xref>); the root location of ancestor for this clade was traced with most probability to Kaliningrad (Posterior State Probability, 
+ <italic>PSP</italic> = 0.97) (
+ <xref ref-type="supplementary-material" rid="pone.0241269.s004">S4 Fig</xref>). Despite the high degree of the intermixing of CRF03_AB sequences from FSU countries/group, the phylogenetic ML analysis revealed the existence of 11 transmission clusters (
+ <xref ref-type="supplementary-material" rid="pone.0241269.s005">S5 Fig</xref>). In total, 25 sequences (16.5%) from the dataset were included in these clusters. However, these clusters containing 2 to 4 patients, showed short branches in the ML tree, which pointed to the short time frame between infections, and had common geographic origin; for this reason, they were considered to be of little interest. Among the cluster sequences that could be classified by the transmission route, the most prevalent were the HSX (44,4%; 
+ <italic>P</italic> = 0.490 
+ <italic>vs</italic> IDU).
+</p>

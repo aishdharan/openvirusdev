@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref ref-type="fig" rid="pntd.0008679.g003">Fig 3</xref> shows our QOI, for all simulation dates resulting in an epidemic. Epidemic peak size was bimodally distributed as a function of date of arrival, with a dip in early October. In contrast epidemic peak time monotonically decreases as a function of the date of arrival, until mid-September, and reverses to an increase with a steep spike in early October. In part, these discontinuities are reflections of scoring each run for a single peak and corresponds to the model behavior shifts from the classical rapid unimodal epidemic, to the bimodal and prolonged epidemic. Arrival dates in the summer season produced epidemics with a much faster peak time, while arrivals in autumn had a longer transmission period.
+</p>

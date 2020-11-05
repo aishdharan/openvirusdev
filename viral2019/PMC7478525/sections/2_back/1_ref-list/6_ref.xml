@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>[6]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Shepard</surname>
+    <given-names>DS</given-names>
+   </name>
+   <name>
+    <surname>Undurraga</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Halasa</surname>
+    <given-names>YA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The global economic burden of dengue: a systematic analysis</article-title>. 
+  <source>Lancet Infect Dis</source>
+  <year>2016</year>;
+  <volume>16</volume>:
+  <fpage>935</fpage>
+  <lpage>41</lpage>.
+  <pub-id pub-id-type="pmid">27091092</pub-id>
+ </mixed-citation>
+</ref>

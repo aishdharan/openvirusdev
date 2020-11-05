@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par36">Public SARS-CoV-2 complete genome sequences (&gt; 29 Kb), available up to June 2, 2020 were retrieved from the GISAID. Low-quality genomes and nearly identical sequences (genetic similarity &gt; 99.99%) were excluded, obtaining a global dataset of 3,171 public genomes plus the 2 novel genomes reported in this study. Sequences were aligned by MAFFT (FF-NS-2 algorithm) using default parameters [
+ <xref ref-type="bibr" rid="CR18">18</xref>]. The alignment was manually curated to remove artifacts at the ends and within the alignment using Aliview [
+ <xref ref-type="bibr" rid="CR19">19</xref>]. Phylogenetic analysis was performed using IQ-TREE (version 1.6.10) under the best fit model according to Bayesian Information Criterion (BIC) indicated by the Model Finder application implemented in IQ-TREE [
+ <xref ref-type="bibr" rid="CR20">20</xref>]. The statistical robustness of individual nodes was determined using 1000 bootstrap replicates. Lineages assessment was conducted using 
+ <bold>P</bold>hylogenetic 
+ <bold>A</bold>ssignment of 
+ <bold>N</bold>amed 
+ <bold>G</bold>lobal 
+ <bold>O</bold>utbreak 
+ <bold>LIN</bold>eages tool available at 
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/hCoV-2019/pangolin" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/hCoV-2019/pangolin</ext-link> [
+ <xref ref-type="bibr" rid="CR21">21</xref>].
+</p>

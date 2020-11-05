@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e11227">In order to carry out large-scale simulated annealing runs (e.g. over 40 runs to generate the graph in 
+ <xref rid="fig8" ref-type="fig">Fig. 8</xref>, some taking over 3 days), we have implemented the simulated annealing algorithms in Octave (a GNU open-source alternative to Matlab) and carried out large-scale runs on a cluster. The cluster is made up of 10-core/20-thread Intel(R) ‘Ivy Bridge’ Xeon(R) CPUs (2.50 GHz, 32 GB RAM). Each optimization job is run on a single core; however, the jobs are carried out simultaneously in batch mode. The default convergence criteria for the simulated annealing algorithm are different from those in Matlab 
+ <xref rid="b32" ref-type="bibr">[32]</xref> (the average change in the objective function over the 5 previous pseudo-temperature changes in the simulated annealing algorithm should be less than 10
+ <sup>−10</sup>). The results under the Matlab convergence criteria and the Octave convergence criteria are near-identical (exactly-identical results are unlikely, since simulated annealing is a non-deterministic algorithm). This inspires confidence in the robustness of the results generated in the paper, although certainly, without a theoretical analysis of the optimal control problem, convergence to a global minimum is never guaranteed.
+</p>

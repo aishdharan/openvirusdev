@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Effects of the age and gestation period on pregnant women with hantavrirus infection.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left">Case</th>
+    <th align="left">Age (year)</th>
+    <th align="left">Gestation (week)</th>
+    <th align="left">Delivery</th>
+    <th align="left">Mother’s outcome</th>
+    <th align="left">Fetal outcome</th>
+    <th align="left">Deformity (yes/no)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Kim and Choi (
+     <xref ref-type="bibr" rid="CR36">2006</xref>)
+    </td>
+    <td align="left">27</td>
+    <td align="left">15</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Kim 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR37">1978</xref>)
+    </td>
+    <td align="left">27</td>
+    <td align="left">28</td>
+    <td align="left">–</td>
+    <td align="left">Recovered after hemodialysis</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2">Chun 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR8">1992</xref>)
+    </td>
+    <td align="left">26</td>
+    <td align="left">18</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">25</td>
+    <td align="left">19</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Lee (
+     <xref ref-type="bibr" rid="CR43">1989</xref>)
+    </td>
+    <td align="left">28</td>
+    <td align="left">29</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died 11 h after birth</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Kim 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR35">1997</xref>)
+    </td>
+    <td align="left">29</td>
+    <td align="left">27</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Park 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR57">1998</xref>)
+    </td>
+    <td align="left">27</td>
+    <td align="left">29</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Choi 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR7">2000</xref>)
+    </td>
+    <td align="left">29</td>
+    <td align="left">30</td>
+    <td align="left">CS (Mechanical Ventilation)</td>
+    <td align="left">Recovered after emergency CS</td>
+    <td align="left">Fetal growth restriction with respiratory distress</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Liu 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR47">2017</xref>)
+    </td>
+    <td align="left">24</td>
+    <td align="left">39</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2">Todorovic 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR70">2010</xref>)
+    </td>
+    <td align="left">23</td>
+    <td align="left">23</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">29</td>
+    <td align="left">26</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Zheng (
+     <xref ref-type="bibr" rid="CR82">1985</xref>)
+    </td>
+    <td align="left">26</td>
+    <td align="left">32</td>
+    <td align="left">–</td>
+    <td align="left">Died</td>
+    <td align="left">–</td>
+    <td align="left">–</td>
+   </tr>
+   <tr>
+    <td align="left">Chen (
+     <xref ref-type="bibr" rid="CR5">2008</xref>)
+    </td>
+    <td align="left">30</td>
+    <td align="left">34</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2">Xie (
+     <xref ref-type="bibr" rid="CR76">1994</xref>)
+    </td>
+    <td align="left">34</td>
+    <td align="left">28</td>
+    <td align="left">–</td>
+    <td align="left">Died of uremia</td>
+    <td align="left">–</td>
+    <td align="left">–</td>
+   </tr>
+   <tr>
+    <td align="left">25</td>
+    <td align="left">20</td>
+    <td align="left">–</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Hao (
+     <xref ref-type="bibr" rid="CR21">1997</xref>)
+    </td>
+    <td align="left">30</td>
+    <td align="left">29</td>
+    <td align="left">–</td>
+    <td align="left">Died</td>
+    <td align="left">Died</td>
+    <td align="left">–</td>
+   </tr>
+   <tr>
+    <td align="left">Ying (
+     <xref ref-type="bibr" rid="CR77">1984</xref>)
+    </td>
+    <td align="left">20</td>
+    <td align="left">36</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died</td>
+    <td align="left">–</td>
+   </tr>
+   <tr>
+    <td align="left">Gao (
+     <xref ref-type="bibr" rid="CR15">2013</xref>)
+    </td>
+    <td align="left">22</td>
+    <td align="left">32</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="4">Hofmann 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR23">2012</xref>)
+    </td>
+    <td align="left">38</td>
+    <td align="left">14</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">23</td>
+    <td align="left">28</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">40</td>
+    <td align="left">22</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">33</td>
+    <td align="left">28</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Premature birth</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Georges 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR17">2008</xref>)
+    </td>
+    <td align="left">29</td>
+    <td align="left">6</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+   <tr>
+    <td align="left">Partanen 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR58">1990</xref>)
+    </td>
+    <td align="left">29</td>
+    <td align="left">17</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Prebensen (
+     <xref ref-type="bibr" rid="CR61">1997</xref>)
+    </td>
+    <td align="left">28</td>
+    <td align="left">10</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="5">Howard 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR24">1999</xref>)
+    </td>
+    <td align="left">25</td>
+    <td align="left">29</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">34</td>
+    <td align="left">13</td>
+    <td align="left">–</td>
+    <td align="left">Died</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">20</td>
+    <td align="left">20</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">27</td>
+    <td align="left">17</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">28</td>
+    <td align="left">16</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Latus 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR40">2015</xref>)
+    </td>
+    <td align="left">36</td>
+    <td align="left">23</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Ma 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR50">2003</xref>)
+    </td>
+    <td align="left">29</td>
+    <td align="left">–</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="4">Ji 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR29">2017</xref>)
+    </td>
+    <td align="left">24</td>
+    <td align="left">22</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">22</td>
+    <td align="left">23</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">28</td>
+    <td align="left">13</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">34</td>
+    <td align="left">21</td>
+    <td align="left">–</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Terminated of pregnancy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="6">Wang (
+     <xref ref-type="bibr" rid="CR72">2014</xref>)
+    </td>
+    <td align="left">26</td>
+    <td align="left">24</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">26</td>
+    <td align="left">27</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Premature birth and died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">31</td>
+    <td align="left">7</td>
+    <td align="left">Unknown</td>
+    <td align="left">Died</td>
+    <td align="left">Died</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">24</td>
+    <td align="left">21</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Unknown</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">21</td>
+    <td align="left">32</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Premature and suffered from congenital heart disease and necrotizing enteritis</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">27</td>
+    <td align="left">31</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Mace 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR51">2013</xref>)
+    </td>
+    <td align="left">Mid-20s</td>
+    <td align="left">26</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Premature birth and respiratory distress</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Cui (
+     <xref ref-type="bibr" rid="CR11">2005</xref>)
+    </td>
+    <td align="left">28</td>
+    <td align="left">32</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+   <tr>
+    <td align="left">Dai (
+     <xref ref-type="bibr" rid="CR12">2004</xref>)
+    </td>
+    <td align="left">29</td>
+    <td align="left">32</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+   <tr>
+    <td align="left">Liu 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR46">2013</xref>)
+    </td>
+    <td align="left">28</td>
+    <td align="left">36</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived and healthy</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">Li (
+     <xref ref-type="bibr" rid="CR44">2019</xref>)
+    </td>
+    <td align="left">28</td>
+    <td align="left">36</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+   <tr>
+    <td align="left">Schneider 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR63">2009</xref>)
+    </td>
+    <td align="left">25</td>
+    <td align="left">36</td>
+    <td align="left">CS</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived but respiratory distress</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2">Gilson 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR18">1994</xref>)
+    </td>
+    <td align="left">25</td>
+    <td align="left">29</td>
+    <td align="left">VD</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Survived but pulmonary hemorrhage</td>
+    <td align="left">No</td>
+   </tr>
+   <tr>
+    <td align="left">20</td>
+    <td align="left">20</td>
+    <td align="left">Unknown</td>
+    <td align="left">Recovered without sequelae</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+   <tr>
+    <td align="left">Murthy 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR55">2016</xref> )
+    </td>
+    <td align="left">30</td>
+    <td align="left">Unknown</td>
+    <td align="left">VD</td>
+    <td align="left">Died</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+   <tr>
+    <td align="left">Nowakowska 
+     <italic>et al.</italic> (
+     <xref ref-type="bibr" rid="CR56">2009</xref>)
+    </td>
+    <td align="left">32</td>
+    <td align="left">10</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+    <td align="left">Unknown</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Sequelae: It refers to the remaining symptoms in pregnant women infected with hantavirus after their condition improves, which are mentioned in Tables 
+   <xref rid="Tab1" ref-type="table">1</xref> and 
+   <xref rid="Tab2" ref-type="table">2</xref>.
+  </p>
+  <p>
+   <italic>CS</italic> cesarean section, 
+   <italic>VD</italic> vaginal delivery.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The individuals of the SEIRD model are classified into four types, 
+ <italic>S</italic>(
+ <italic>t</italic>), 
+ <italic>E</italic>(
+ <italic>t</italic>), 
+ <italic>I</italic>(
+ <italic>t</italic>), 
+ <italic>R</italic>(
+ <italic>t</italic>) and 
+ <italic>D</italic>(
+ <italic>t</italic>) which denote the number of people susceptible, exposed, infected, and recovered on day 
+ <italic>t</italic> (
+ <xref ref-type="supplementary-material" rid="S2">Supplementary Fig. 1</xref>). The SEIRD model is defined by a system of 5 ordinary differential equations as follows:
+</p>

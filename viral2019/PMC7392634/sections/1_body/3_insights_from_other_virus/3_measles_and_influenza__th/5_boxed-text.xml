@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="B1" position="float" orientation="portrait">
+ <label>Box 1</label>
+ <caption>
+  <title>Pandemic H1N1 influenza, 1918–2009</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>The 1918 H1N1 virus probably infected one-third of the world’s population at that time (or ~500 million people).
+    <xref rid="R84" ref-type="bibr">84</xref>
+   </p>
+  </list-item>
+  <list-item>
+   <p>The pandemic had three waves in quick succession; the second wave, in 1919, was worse than the first wave.
+    <xref rid="R84" ref-type="bibr">84</xref>
+   </p>
+  </list-item>
+  <list-item>
+   <p>High mortality, especially in younger persons (5–15 years; ~25% of total deaths) in the 1918 pandemic, may have been due to antibody-dependent enhancement and ‘cytokine storms’.
+    <xref rid="R84" ref-type="bibr">84</xref> Another possible explanation is that older persons had some protective cross-immunity from previous influenza outbreaks while younger persons did not.
+   </p>
+  </list-item>
+  <list-item>
+   <p>H1N1 continued to circulate along with seasonal influenza viruses, often recombining to produce more severe local outbreaks, including other pandemics between 1918 and 2009, giving it the nickname ‘mother of all pandemics’.</p>
+  </list-item>
+  <list-item>
+   <p>The original 1918 H1N1 strain was replaced by A(H1N1)pdm09 virus that resulted from an antigenic shift and caused the 2009 H1N1 influenza pandemic.</p>
+  </list-item>
+  <list-item>
+   <p>The 2009 H1N1 virus originated in pigs in central Mexico in March 2009 and was responsible for an estimated 284 000 deaths worldwide with an estimated CFR&lt;0.1%.
+    <xref rid="R85" ref-type="bibr">85 86</xref>
+   </p>
+  </list-item>
+  <list-item>
+   <p>During the 2009 pandemic, mortality was much lower than in the 1918 pandemic. Higher mortality in persons younger than 65 years was related to cytokine storms.
+    <xref rid="R87" ref-type="bibr">87</xref> A role of protective cross-immunity from previous influenza strains in older persons has been suggested.
+   </p>
+  </list-item>
+  <list-item>
+   <p>After August 2010, the A(H1N1)pdm09 virus appeared to have integrated with circulating strains of influenza and continues to cause localised seasonal influenza outbreaks worldwide.
+    <xref rid="R88" ref-type="bibr">88</xref>
+   </p>
+  </list-item>
+ </list>
+</boxed-text>

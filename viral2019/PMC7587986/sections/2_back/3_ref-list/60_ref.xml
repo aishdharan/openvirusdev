@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B60">
+ <label>60</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Tu</surname>
+    <given-names>Y-F</given-names>
+   </name>
+   <name>
+    <surname>Chien</surname>
+    <given-names>C-S</given-names>
+   </name>
+   <name>
+    <surname>Yarmishyn</surname>
+    <given-names>AA</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>Y-Y</given-names>
+   </name>
+   <name>
+    <surname>Luo</surname>
+    <given-names>Y-H</given-names>
+   </name>
+   <name>
+    <surname>Lin</surname>
+    <given-names>Y-T</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A Review of SARS-CoV-2 and the Ongoing Clinical Trials</article-title>
+  <source> International Journal of Molecular Sciences</source>
+  <year>2020</year>
+  <volume>21</volume>
+  <issue>7</issue>
+  <fpage>2657</fpage>
+ </element-citation>
+</ref>

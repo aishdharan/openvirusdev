@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5877-1372</contrib-id>
+  <name>
+   <surname>Sun</surname>
+   <given-names>Yong</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="corresp" rid="cor1"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Tian</surname>
+   <given-names>Lin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Du</surname>
+   <given-names>Xiaomei</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Hua</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Yueshan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Rangbing</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+</contrib-group>

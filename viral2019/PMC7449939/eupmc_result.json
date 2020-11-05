@@ -1,0 +1,638 @@
+{
+  "id": [
+    "32860880"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32860880"
+  ],
+  "pmcid": [
+    "PMC7449939"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7449939"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.ijantimicag.2020.106145"
+  ],
+  "title": [
+    "Antimicrobial stewardship programme: a vital resource for hospitals during the global outbreak of coronavirus disease 2019 (COVID-19)."
+  ],
+  "authorString": [
+    "Liew Y, Lee WHL, Tan L, Kwa ALH, Thien SY, Cherng BPZ, Chung SJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liew Y"
+          ],
+          "firstName": [
+            "Yixin"
+          ],
+          "lastName": [
+            "Liew"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacy, Singapore General Hospital, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee WHL"
+          ],
+          "firstName": [
+            "Winnie Hui Ling"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "WHL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacy, Singapore General Hospital, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tan L"
+          ],
+          "firstName": [
+            "Lunyi"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Quality and Performance Management, Singapore General Hospital, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kwa ALH"
+          ],
+          "firstName": [
+            "Andrea Lay Hoon"
+          ],
+          "lastName": [
+            "Kwa"
+          ],
+          "initials": [
+            "ALH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pharmacy, Singapore General Hospital, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thien SY"
+          ],
+          "firstName": [
+            "Siew Yee"
+          ],
+          "lastName": [
+            "Thien"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Singapore General Hospital, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cherng BPZ"
+          ],
+          "firstName": [
+            "Benjamin Pei Zhi"
+          ],
+          "lastName": [
+            "Cherng"
+          ],
+          "initials": [
+            "BPZ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Singapore General Hospital, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chung SJ"
+          ],
+          "firstName": [
+            "Shimin Jasmine"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Singapore General Hospital, Singapore. Electronic address: jasmine.chung.s.m@singhealth.com.sg."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "56"
+      ],
+      "journalIssueId": [
+        "3040490"
+      ],
+      "dateOfPublication": [
+        "2020 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of antimicrobial agents"
+          ],
+          "ISOAbbreviation": [
+            "Int J Antimicrob Agents"
+          ],
+          "medlineAbbreviation": [
+            "Int J Antimicrob Agents"
+          ],
+          "NLMid": [
+            "9111860"
+          ],
+          "ISSN": [
+            "0924-8579"
+          ],
+          "ESSN": [
+            "1872-7913"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "106145"
+  ],
+  "abstractText": [
+    "Healthcare resources are being diverted for the containment and control of coronavirus disease 2019 (COVID-19). During this outbreak, it is cautioned that antibiotic misuse may be increased, especially for respiratory tract infections. With stewardship interventions, the duration of antibiotic therapy and length of stay of hospitalized patients can be reduced significantly. Antibiotic stewardship programmes should continually engage and educate prescribers to mitigate antibiotic misuse during the COVID-19 pandemic."
+  ],
+  "affiliation": [
+    "Department of Pharmacy, Singapore General Hospital, Singapore."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antiviral Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Length of Stay"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antimicrobial Stewardship"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Misuse"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "ASP",
+        "Antimicrobial Stewardship",
+        "Covid-19",
+        "Asp Interventions"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antiviral Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijantimicag.2020.106145"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7449939"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7449939?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-26"
+  ],
+  "dateOfCreation": [
+    "2020-08-30"
+  ],
+  "firstIndexDate": [
+    "2020-08-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-29"
+  ],
+  "dateOfRevision": [
+    "2020-10-26"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-27"
+  ],
+  "firstPublicationDate": [
+    "2020-08-27"
+  ]
+}

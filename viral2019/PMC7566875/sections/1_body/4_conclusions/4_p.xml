@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e10375">The optimal strategy predicted by the model envisages the maximum level of non-pharmaceutical interventions (NPIs) from the outset (Day 13 in our calculations, 
+ <italic>cf.</italic> Eq. 
+ <xref rid="fd5" ref-type="disp-formula">(5)</xref>), and lasting 58 days at 
+ <inline-formula>
+  <math id="d1e10385" display="inline" altimg="si241.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">a</mi>
+      <mi mathvariant="bold-fraktur">x</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>8</mn>
+   </mrow>
+  </math>
+ </inline-formula>. In contrast, the strategy implemented by the Irish Government involved some controls on Day 13, maximum controls on Day 28, followed by gradual easing of controls on Day 79 (May 18th 2020). The period between the initial NPIs and the first easing of NPIs is therefore 
+ <inline-formula>
+  <math id="d1e10408" display="inline" altimg="si343.svg">
+   <mrow>
+    <mn>79</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <mn>13</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>66</mn>
+    <mspace width="0.16667em"/>
+    <mtext>Days</mtext>
+   </mrow>
+  </math>
+ </inline-formula>. Thus, the immediate imposition of maximum controls on Day 13 would have resulted in the lifting of the most intense NPIs roughly 14 days sooner. Naturally, this estimate is subject to model uncertainty, but the clear message (supported by the other findings in this paper) is that prompt implementation of maximum NPIs is best.
+</p>

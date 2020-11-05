@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the recovery trend, the crossing date and the number of those recovering at that time were used to analyze whether the model follows the actual recovery trend. The fast crossing time meant that the model deviated faster from the actual recovery trend. The crossing dates of Daegu-Gyeongbuk and Seoul-Gyeonggi were 
+ <italic>d</italic>
+ <sub>R.C</sub> = 50, 45 and 
+ <italic>d</italic>
+ <sub>R.C</sub> = 75, 74, respectively. The recovery crossing dates in the Daegu-Gyeongbuk (mass infection) were earlier than in the Seoul-Gyeonggi (normal infection). This was because the actual recovery in the Daegu-Gyeongbuk region was slower than what was predicted by the epidemic model due to the long hospitalization period, while the used epidemic model for Seoul-Gyeonggi followed the actual recovery trend. In conclusion, the faster crossing time in Daegu-Gyeongbuk could lead to a large discrepancy between the actual number of those recovering and the number of recovering COVID-19 patients predicted by the model, as described in the mass infection analysis.
+</p>

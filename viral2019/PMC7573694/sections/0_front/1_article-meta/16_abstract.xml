@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="abs0010">
+ <p>The coronavirus disease (COVID-19) has become a global public health threaten. A series of strict prevention and control measures were implemented in China, contributing to the improvement of air quality. In this study, we described the trend of air pollutant concentrations and the incidence of COVID-19 during the epidemic and applied generalized additive models (GAMs) to assess the association between short-term exposure to air pollution and daily confirmed cases of COVID-19 in 235 Chinese cities. Disease progression based on both onset and report dates as well as control measures as potential confounding were considered in the analyses. We found that stringent prevention and control measures intending to mitigate the spread of COVID-19, contributed to a significant decline in the concentrations of air pollutants except ozone (O
+  <sub>3</sub>). Significant positive associations of short-term exposure to air pollutants, including particulate matter with diameters ≤2.5 μm (PM
+  <sub>2.5</sub>), particulate matter with diameters ≤10 μm (PM
+  <sub>10</sub>), and nitrogen dioxide (NO
+  <sub>2</sub>) with daily new confirmed cases were observed during the epidemic. Per interquartile range (IQR) increase in PM
+  <sub>2.5</sub> (lag0-15), PM
+  <sub>10</sub> (lag0-15), and NO
+  <sub>2</sub> (lag0-20) were associated with a 7% [95% confidence interval (CI): (4–9)], 6% [95% CI: (3–8)], and 19% [95% CI: (13–24)] increase in the counts of daily onset cases, respectively. Our results suggest that there is a statistically significant association between ambient air pollution and the spread of COVID-19. Thus, the quarantine measures can not only cut off the transmission of virus, but also retard the spread by improving ambient air quality, which might provide implications for the prevention and control of COVID-19.
+ </p>
+</abstract>

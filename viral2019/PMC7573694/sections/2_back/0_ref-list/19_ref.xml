@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib19">
+ <element-citation publication-type="journal" id="sref19">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lau</surname>
+    <given-names>M.S.Y.</given-names>
+   </name>
+   <name>
+    <surname>Grenfell</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Thomas</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Bryan</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Nelson</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Lopman</surname>
+    <given-names>B.</given-names>
+   </name>
+  </person-group>
+  <article-title>Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA</article-title>
+  <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1073/pnas.2011802117</pub-id>
+ </element-citation>
+</ref>

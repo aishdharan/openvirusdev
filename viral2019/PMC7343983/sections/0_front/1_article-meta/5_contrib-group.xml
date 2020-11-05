@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Gómez Román</surname>
+   <given-names>Raúl</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2752-0535</contrib-id>
+  <name>
+   <surname>Wang</surname>
+   <given-names>Lin-Fa</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0760-1709</contrib-id>
+  <name>
+   <surname>Lee</surname>
+   <given-names>Benhur</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Halpin</surname>
+   <given-names>Kim</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>de Wit</surname>
+   <given-names>Emmie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Broder</surname>
+   <given-names>Christopher C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">
+   <sup>f</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rahman</surname>
+   <given-names>Mahmudur</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">
+   <sup>g</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kristiansen</surname>
+   <given-names>Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Saville</surname>
+   <given-names>Melanie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff8">
+   <sup>h</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>
+  <addr-line>Coalition for Epidemic Preparedness and Innovations (CEPI), Oslo, Norway</addr-line>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>
+  <addr-line>Duke-NUS Medical School, Singapore</addr-line>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>
+  <addr-line>Icahn School of Medicine at Mount Sinai, New York, New York, USA</addr-line>
+ </aff>
+ <aff id="aff4">
+  <label>d</label>
+  <addr-line>Australian Centre for Disease Preparedness (ACDP), Geelong, Australia</addr-line>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>
+  <addr-line>Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health, Hamilton, Montana, USA</addr-line>
+ </aff>
+ <aff id="aff6">
+  <label>f</label>
+  <addr-line>Department of Microbiology and Immunology, Uniformed Services University, Bethesda, Maryland, USA</addr-line>
+ </aff>
+ <aff id="aff7">
+  <label>g</label>
+  <addr-line>Independent Consultant, Dhaka, Bangladesh</addr-line>
+ </aff>
+ <aff id="aff8">
+  <label>h</label>
+  <addr-line>Coalition for Epidemic Preparedness Innovations (CEPI), London, United Kingdom</addr-line>
+ </aff>
+</contrib-group>

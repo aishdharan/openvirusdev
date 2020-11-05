@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR6">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>JFW</given-names>
+   </name>
+   <name>
+    <surname>Chik</surname>
+    <given-names>KKH</given-names>
+   </name>
+   <name>
+    <surname>Yuan</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Yip</surname>
+    <given-names>CCY</given-names>
+   </name>
+   <name>
+    <surname>Zhu</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Tee</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Tsang</surname>
+    <given-names>JOL</given-names>
+   </name>
+   <name>
+    <surname>Chan</surname>
+    <given-names>CCS</given-names>
+   </name>
+   <name>
+    <surname>Poon</surname>
+    <given-names>VKM</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>G</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Novel antiviral activity and mechanism of bromocriptine as a Zika virus NS2B-NS3 protease inhibitor</article-title>
+  <source>Antiviral Res</source>
+  <year>2017</year>
+  <volume>141</volume>
+  <fpage>29</fpage>
+  <lpage>37</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.antiviral.2017.02.002</pub-id>
+  <?supplied-pmid 28185815?>
+  <pub-id pub-id-type="pmid">28185815</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0090">
+ <italic>E(Y</italic>
+ <sub>
+  <italic>t,i</italic>
+ </sub>
+ <italic>)</italic> represented the expected (number + 1) of new confirmed cases count on day 
+ <italic>t</italic> in city 
+ <italic>i</italic> where 
+ <italic>i</italic> referred to different cities and 
+ <italic>t</italic> was the day of the COVID-19 onset and was log-transformed into 
+ <italic>log[E(Y</italic>
+ <sub>
+  <italic>t,i</italic>
+ </sub>
+ <italic>)]</italic> in Poisson regression automatically. α was the intercept. 
+ <italic>Pollutant</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> denoted the daily moving average concentration of the compositive AQI and six pollutants (PM
+ <sub>2.5</sub>, PM
+ <sub>10</sub>, NO
+ <sub>2</sub>, CO, SO
+ <sub>2</sub>, O
+ <sub>3</sub>) in single-pollutant models; β referred to the coefficients of those pollutants in the models. In addition, several covariates entered the model adjusting for potential confounding: (1) a smoothing spline of calendar 
+ <italic>date</italic>
+ <sub>
+  <italic>t</italic>
+ </sub> with 14 degrees of freedom (df
+ <sub>1</sub>) per year controlled the potential long-term trend effect; (2) log-transformed new confirmed (cases + 1) on t-1 day entered the model controlling the serial correlation of the infectious disease (
+ <xref rid="bib22" ref-type="bibr">Liu et al., 2020</xref>); (3) meteorological factors were controlled for the possible confounding effect, including a smoothing spline of mean 
+ <italic>temperature</italic>
+ <sub>
+  <italic>t,i</italic>
+ </sub>
+ <italic>(°C)</italic> with 3° freedom (df2) and a linear term of mean 
+ <italic>dewpoint temperature</italic>
+ <sub>
+  <italic>t,i</italic>
+ </sub>
+ <italic>(°C);</italic> (4) day of 
+ <italic>week</italic>
+ <sub>
+  <italic>t</italic>
+ </sub> was included as dummy variable to control for the week effect; (5) and 
+ <italic>lockdown</italic>
+ <sub>
+  <italic>t</italic>
+ </sub>, effectively retarding the rapid spread of COVID-19, worked as categorical variable adjusting the national lock (since Jan 23rd, 2020) and unlock (until March 15, 2020) effect; (6) 
+ <italic>city</italic>
+ <sub>
+  <italic>i</italic>
+ </sub> variable adjusted for the fixed effects such as spatial correlation and population density. S (.) mean the smoothing spline to control for the non-linear relationship. Besides, relative risks (RRs) and 95% confidence intervals (95%CIs) were calculated by the coefficients and standard variances from GAMs models.
+</p>

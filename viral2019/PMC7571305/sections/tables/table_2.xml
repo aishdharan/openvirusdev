@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Effects of infections with hantavirus species in pregnant women on their fetuses.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left" rowspan="2">Virus species</th>
+    <th align="left" colspan="3">Outcomes of fetuses</th>
+    <th align="left" rowspan="2">Total cases</th>
+   </tr>
+   <tr>
+    <th align="left">Deaths</th>
+    <th align="left">Survival with sequelae</th>
+    <th align="left">Survival without sequelae</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">HTNV/SEOV</td>
+    <td align="left">71</td>
+    <td char="." align="left">8</td>
+    <td align="left">144</td>
+    <td char="." align="left">223</td>
+   </tr>
+   <tr>
+    <td align="left">PUUV</td>
+    <td align="left">0</td>
+    <td align="left">0</td>
+    <td char="." align="left">9</td>
+    <td char="." align="left">9</td>
+   </tr>
+   <tr>
+    <td align="left">SNV</td>
+    <td char="." align="left">2</td>
+    <td align="left">1</td>
+    <td char="." align="left">3</td>
+    <td char="." align="left">6</td>
+   </tr>
+   <tr>
+    <td align="left">DOBV</td>
+    <td align="left">0</td>
+    <td char="." align="left">0</td>
+    <td char="." align="left">2</td>
+    <td char="." align="left">2</td>
+   </tr>
+   <tr>
+    <td align="left">Total cases</td>
+    <td char="." align="left">73</td>
+    <td char="." align="left">9</td>
+    <td char="." align="left">158</td>
+    <td char="." align="left">240</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>The sequelae mainly include congenital heart disease, necrotizing enteritis, restricted growth and development, and hydrocephalus (Hofmann 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR23">2012</xref>; Ji 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR29">2017</xref>; Howard 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR24">1999</xref>; Partanen 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR58">1990</xref>; Silberberg 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR67">1993</xref>; Prebensen 
+   <xref ref-type="bibr" rid="CR61">1997</xref>; Tiilikainen and Jouppila 
+   <xref ref-type="bibr" rid="CR69">1989</xref>; Jing and Jing 
+   <xref ref-type="bibr" rid="CR30">1994</xref>; Wang 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR71">1992</xref>; Sha 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR66">2000</xref>; Mace 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR51">2013</xref>; Schneider 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR63">2009</xref>; Gilson 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR18">1994</xref>; Wang 
+   <xref ref-type="bibr" rid="CR72">2014</xref>; Zhang 
+   <xref ref-type="bibr" rid="CR79">1995</xref>; Duan 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR13">1996</xref>; Kim and Choi 
+   <xref ref-type="bibr" rid="CR36">2006</xref>; Todorovic 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR70">2010</xref>; Chen 
+   <xref ref-type="bibr" rid="CR5">2008</xref>; Xie 
+   <xref ref-type="bibr" rid="CR76">1994</xref>; Hao 
+   <xref ref-type="bibr" rid="CR21">1997</xref>; Ying 
+   <xref ref-type="bibr" rid="CR77">1984</xref>; Chen 
+   <xref ref-type="bibr" rid="CR6">1994</xref>; Lu 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR49">2018</xref>; Li 
+   <xref ref-type="bibr" rid="CR44">2019</xref>; Ma 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR50">2003</xref>; Latus 
+   <italic>et al.</italic>
+   <xref ref-type="bibr" rid="CR39">2013</xref>).
+  </p>
+ </table-wrap-foot>
+</table-wrap>

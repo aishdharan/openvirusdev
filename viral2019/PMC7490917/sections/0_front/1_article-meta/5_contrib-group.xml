@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-79432361" contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1750-0557</contrib-id>
+  <name>
+   <surname>El-Baba</surname>
+   <given-names>Firas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-79996789" contrib-type="author">
+  <name>
+   <surname>Gabe</surname>
+   <given-names>Danielle</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-79996709" contrib-type="author">
+  <name>
+   <surname>Frank</surname>
+   <given-names>Allan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Two manifolds, each of which includes 8 regions that are connected by a bridge manifold. Exchanged humans are represented by strings.</p>
+ </caption>
+ <alt-text id="alttext0010">Fig. 1</alt-text>
+ <graphic xlink:href="gr1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

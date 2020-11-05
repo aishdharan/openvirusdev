@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Two conditions were imposed in order to allow the above SIR model to take into account the Chinese government’s drastic measures to contain virus spread. First, isolated infected individuals were assumed to be unable to transmit the virus to others but able to recover. Second, a certain proportion of infected individuals was assumed to be able to transmit the virus to others without limitation. These two conditions would alter the daily number of effective contacts between an infected individual and healthy individuals (
+ <italic>λ</italic>).
+</p>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>PEDV</term>
+   <def>
+    <p id="Par4">Porcine epidemic diarrhea virus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PED</term>
+   <def>
+    <p id="Par5">Porcine epidemic diarrhea</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RT-qPCR</term>
+   <def>
+    <p id="Par6">Reverse transcriptase quantitative polymerase chain reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>kbp</term>
+   <def>
+    <p id="Par7">Kilobase pairs</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RIEMS</term>
+   <def>
+    <p id="Par8">Reliable Information Extraction of Metagenomic Sequence datasets</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MAFFT</term>
+   <def>
+    <p id="Par9">Multiple alignment using fast Fourier transform</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PhyML</term>
+   <def>
+    <p id="Par10">Phylogeny software based on the maximum likelihood principle</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GTR</term>
+   <def>
+    <p id="Par11">General Time Reversible</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

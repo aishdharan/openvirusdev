@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib7">
+ <label>7</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Gilbert</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pullano</surname>
+    <given-names>G</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pinotti</surname>
+    <given-names>F</given-names>
+   </name>
+   <etal>et al</etal>.
+  </person-group>
+  <article-title>Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study</article-title>. 
+  <source>Lancet</source>. 
+  <year>2020</year>;
+  <volume>395</volume>(
+  <issue>10227</issue>):
+  <fpage>871</fpage>–
+  <lpage>7</lpage>.
+  <pub-id pub-id-type="pmid">32087820</pub-id>
+ </mixed-citation>
+</ref>

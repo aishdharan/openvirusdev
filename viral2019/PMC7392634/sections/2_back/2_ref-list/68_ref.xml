@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R68">
+ <label>68</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Van Damme</surname>
+    <given-names>W</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Van Lerberghe</surname>
+    <given-names>W</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemics and fear</article-title>. 
+  <source>Trop Med Int Health</source>
+  <year>2000</year>;
+  <volume>5</volume>:
+  <fpage>511</fpage>–
+  <lpage>4</lpage>. 
+  <pub-id pub-id-type="doi">10.1046/j.1365-3156.2000.00599.x</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/10995091?>
+  <pub-id pub-id-type="pmid">10995091</pub-id>
+ </mixed-citation>
+</ref>

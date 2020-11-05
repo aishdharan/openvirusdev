@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The following block diagram summarizes the procedures of the research. Firstly, the selected DNA sequences are obtained from a suitable site according to the research need. Secondly, the DNA string values are transformed into its corresponding numerical values for easy use with the GSP methods. Thirdly, the GSP techniques were applied to get the required features. Fourthly, it is the time for the classification step using the selected classifiers. Finally, the obtained results are evaluated using different evaluation methods; see 
+ <xref rid="f1" ref-type="fig">Figure 1</xref>. Each step will be explained in detail as shown later in this section.
+</p>

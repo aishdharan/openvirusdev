@@ -1,0 +1,712 @@
+{
+  "id": [
+    "32910698"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32910698"
+  ],
+  "pmcid": [
+    "PMC7484601"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7484601"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1177/0300060520952256"
+  ],
+  "title": [
+    "Coronavirus disease 19 with gastrointestinal symptoms as initial manifestations: a case report."
+  ],
+  "authorString": [
+    "Wu CY, Yu XP, Ma AHY, Wang LP, Yang NB, Li GX, Shi JJ, Qian GQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu CY"
+          ],
+          "firstName": [
+            "Chun-Yang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu XP"
+          ],
+          "firstName": [
+            "Xiao-Pin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "XP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma AHY"
+          ],
+          "firstName": [
+            "Ada Hoi Yan"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "AHY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nottingham University Business School, University of Nottingham Ningbo China, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang LP"
+          ],
+          "firstName": [
+            "Li-Ping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "LP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang NB"
+          ],
+          "firstName": [
+            "Nai-Bin"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "NB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li GX"
+          ],
+          "firstName": [
+            "Guo-Xiang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "GX"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi JJ"
+          ],
+          "firstName": [
+            "Jie-Jun"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qian GQ"
+          ],
+          "firstName": [
+            "Guo-Qing"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "GQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2427-8042",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2427-8042",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "48"
+      ],
+      "journalIssueId": [
+        "3005056"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of international medical research"
+          ],
+          "ISOAbbreviation": [
+            "J Int Med Res"
+          ],
+          "medlineAbbreviation": [
+            "J Int Med Res"
+          ],
+          "NLMid": [
+            "0346411"
+          ],
+          "ISSN": [
+            "1473-2300"
+          ],
+          "ESSN": [
+            "1473-2300"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "300060520952256"
+  ],
+  "abstractText": [
+    "Since the outbreak of coronavirus disease 2019 (COVID-19) in December 2019, an epidemic has spread rapidly worldwide. COVID-19 is caused by the highly infectious severe acute respiratory syndrome coronavirus-2. A 42-year-old woman presented to hospital who was suffering from epigastric discomfort and dyspepsia for the past 5 days. Before the onset of symptoms, she was healthy, and had no travel history to Wuhan or contact with laboratory-confirmed COVID-19 cases. An examination showed chronic superficial gastritis with erosion and esophagitis. Enhanced magnetic resonance imaging of the abdomen showed a lesion in the right lower lobe of the lungs. Chest computed tomography showed multiple ground-glass opacity in the lungs. Reverse transcription-polymerase chain reaction was negative for severe acute respiratory syndrome coronavirus-2. There was no improvement after antibiotic treatment. Polymerase chain reaction performed 2 days later was positive and she was diagnosed with COVID-19. After several days of antiviral and symptomatic treatments, her symptoms improved and she was discharged. None of the medical staff were infected. Clinical manifestations of COVID-19 are nonspecific, making differentiating it from other diseases difficult. This case shows the sequence in which symptoms developed in a patient with COVID-19 with gastrointestinal symptoms as initial manifestations."
+  ],
+  "affiliation": [
+    "Department of General Internal Medicine, Ningbo City First Hospital, Ningbo, Zhejiang Province, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Case Reports"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prognosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lungs",
+        "Dyspepsia",
+        "Reverse transcriptase-polymerase chain reaction",
+        "Angiotensin-converting Enzyme 2",
+        "Gastrointestinal Symptoms",
+        "Covid-19",
+        "Severe Acute Respiratory Syndrome Coronavirus-2"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/0300060520952256"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7484601"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7484601?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "ensembl"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2020-09-17"
+  ],
+  "dateOfCreation": [
+    "2020-09-10"
+  ],
+  "firstIndexDate": [
+    "2020-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-24"
+  ],
+  "dateOfRevision": [
+    "2020-10-01"
+  ],
+  "firstPublicationDate": [
+    "2020-09-01"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par29">Nucleotide sequences were translated and aligned using the ClustalW algorithm implemented in MEGA6. For HIV-1 subtype characterization we used sequences available in Los Alamos HIV Sequence Database (LANL: 
+ <ext-link ext-link-type="uri" xlink:href="https://www.hiv.lanl.gov" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.hiv.lanl.gov</ext-link>), annotated by country of origin and date. Reference sequences from all HIV-1 variants described to date with available sequence were included (groups, subtypes, sub-subtypes, CRFs). One HIV-1 group N sequence was used as an outgroup. Sequences from groups P/O/N were also downloaded to discard non group-M infections. To alleviate the burden of computer-time required to reconstruct large phylogenies fast algorithms, phylogenetic trees (PhyMLtree) were reconstructed by maximum-likelihood (ML) method with RAxML v8.0 (Randomized Axelerated Maximum Likelihood)
+ <sup>
+  <xref ref-type="bibr" rid="CR74">74</xref>
+ </sup> using the general time reversible plus proportion of invariable sites plus gamma distribution parameter (GTR + I + G) evolutionary model. To estimate the bootstrap values on the inferred topology by RAxML, Shimodaira-Hasegawa (SH) test using FastTree program was used (support &gt; 90%)
+ <sup>
+  <xref ref-type="bibr" rid="CR75">75</xref>
+ </sup>. Sequences not clustering with any variant were analyzed using Recombination Detection Program (RDP3v4.13)
+ <sup>
+  <xref ref-type="bibr" rid="CR76">76</xref>
+ </sup>, identifying the subtypes involved in eventual recombination events and hypothetical recombination breakpoints. To further confirm the detected putative recombination events, new phylogenetic analyses were performed using the sequence fragments assigned to different subtypes according to the proposed breakpoint position(s) defined by RPD3. The topologies obtained with each fragment were compared to SH, expected likelihood weight, and Kishino-Hasegawa tests using the TREE-PUZZLE 5.2 program. In the positive cases, the recombinant sequences were redefined as URFs; otherwise, sequences with a most recent common ancestor to subtypes sub-subtypes A1-A6 or F1-F2 were identified as subtypes A or F, respectively. The remaining cases were appointed as U. Since it was not possible to sequence the same fragment for all sequences, different regions were analyzed separately.
+</p>

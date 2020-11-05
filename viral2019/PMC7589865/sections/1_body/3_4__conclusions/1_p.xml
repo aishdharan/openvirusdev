@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In this paper, we have evaluated the population exposure and health risk of PM
+ <sub>2.5</sub> in the context of the COVID-19 epidemic, as well as spatiotemporal distribution and driving factors of PM
+ <sub>2.5</sub> from spatiotemporal big data, including station monitoring of PM
+ <sub>2.5</sub> concentration, urban POI, and LBS data. The EOF study of the national monthly PM
+ <sub>2.5</sub> distribution pattern and its evolution in 2014–2019 found that, the time series coefficients of the first feature vector of monthly PM
+ <sub>2.5</sub> in 2014–2019 showed obvious characteristics, and the time series coefficients showed a downward and then upward trend from year to year, roughly in a U-shaped distribution. In terms of spatial distribution, PM
+ <sub>2.5</sub> concentrations in central and northern China are relatively higher than those in the surrounding areas, and the distribution pattern shows attenuation from central and northern China to its surrounding areas. From 2014 onwards, PM
+ <sub>2.5</sub> gradually changed from one center (Central China and North China) to two centers (Central China, North China and XAR). The population density distribution based on the LBS data in China shows that the eastern areas are concentrated and the western areas are relatively sparse. In March and April 2020, most of the PM
+ <sub>2.5</sub> concentration were below 
+ <inline-formula>
+  <math id="mm51">
+   <mrow>
+    <mrow>
+     <mn>35</mn>
+     <mrow>
+      <mtext> </mtext>
+      <mi mathvariant="sans-serif">μ</mi>
+      <mi mathvariant="normal">g</mi>
+     </mrow>
+     <mo>/</mo>
+     <msup>
+      <mi mathvariant="normal">m</mi>
+      <mn>3</mn>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, which is caused by the control measures on population movement and industrial production in the cities during the COVID-19 epidemic. The health risk of PM
+ <sub>2.5</sub> in the western region is significantly lower than that in central and eastern regions. After the outbreak of COVID-19, the domestic health risk caused by PM
+ <sub>2.5</sub> significantly reduced. The GWR of PM
+ <sub>2.5</sub> with GDP, urban green space, road area, number of urban taxis, number of urban buses and number of urban factories demonstrates that GDP and urban green space were negatively correlated with PM
+ <sub>2.5</sub>, while road area, number of urban taxis, number of urban buses and number of urban factories were positively correlated with PM
+ <sub>2.5</sub>. In terms of reducing the health risks and pollution prevention measures brought about by PM
+ <sub>2.5</sub>, it is recommended that relevant authorities restrict factory emissions and promote new energy transportation and encourage residents to travel green.
+</p>

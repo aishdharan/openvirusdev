@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="pntd.0008658.s003">
+ <label>S3 Fig</label>
+ <caption>
+  <title>Phylogenetic tree of yellow fever virus based on partial envelope gene sequence.</title>
+  <p>The phylogenetic tree was reconstructed using the Maximum Likelihood method based on the General Time Reversible model, using Gamma distribution (5 categories). A total of 1000 bootstrap replicates were run, and circles in the respective nodes represent the results. The analysis involved 112 nucleotide (nt) sequences (621 nt). Branch lengths are drawn to a scale of nucleotide substitutions per site according to the scale. Sequences are identified by Genbank accession. The analysis was conducted in MEGA7, and the final tree was edited and visualized in FigTree v.1.4.4.</p>
+  <p>(TIF)</p>
+ </caption>
+ <media xlink:href="pntd.0008658.s003.tif" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>Click here for additional data file.</p>
+  </caption>
+ </media>
+</supplementary-material>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0012">In this work, we will assume that the population of susceptible individuals is increased constantly as a recruitment rate 
+ <italic>λ</italic>. At the same time, we will consider a natural death rate 
+ <italic>μ</italic> of susceptible individuals. Moreover, the population of susceptible people will decrease at constant rates when they interact with exposed and with infected individuals. Those constant rates are 
+ <italic>β</italic>
+ <sub>1</sub> and 
+ <italic>β</italic>
+ <sub>2</sub>, which represent the contact rate of susceptible individuals with infected and exposed individuals, respectively. Meanwhile, the population of exposed individuals increases at a rate which is proportional to the interactions between the susceptible population and both the infected and exposed populations. The respective constants of proportionality are equal to 
+ <italic>β</italic>
+ <sub>1</sub> and 
+ <italic>β</italic>
+ <sub>2</sub>. On the other hand, the rate of change of exposed also decreases as a factor of the quarantined rate of exposed individuals 
+ <italic>q</italic>
+ <sub>1</sub>, the recovery rate of exposed individuals due to immunity during the latent period 
+ <italic>k</italic>, the rate at which exposed individuals become infected after the latent period 
+ <italic>α</italic> and the natural death rate. In turn, a proportion 
+ <italic>α</italic> of the exposed individuals become infected.
+</p>

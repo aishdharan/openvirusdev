@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Biao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Lei</surname>
+   <given-names>Zi-Ying</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Kun-Liang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>He</surname>
+   <given-names>Jian-Rong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff6">6</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Cao</surname>
+   <given-names>Hui-Juan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Fu</surname>
+   <given-names>Juan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Feng</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff7">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Yuan</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Bao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Zhou</surname>
+   <given-names>Xiao-Li</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Tao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff8">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wu</surname>
+   <given-names>Tao</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Du</surname>
+   <given-names>Yong-Guo</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Suo-Xian</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xiao</surname>
+   <given-names>Fu-Rong</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Gao</surname>
+   <given-names>Zhi-Liang</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <name>
+   <surname>He</surname>
+   <given-names>Jing</given-names>
+  </name>
+  <address>
+   <email>13322015553@163.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <name>
+   <surname>Lin</surname>
+   <given-names>Feng</given-names>
+  </name>
+  <address>
+   <email>lin_fenghn@126.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4069-6287</contrib-id>
+  <name>
+   <surname>Lin</surname>
+   <given-names>Bing-Liang</given-names>
+  </name>
+  <address>
+   <email>linbingl@mail.sysu.edu.cn</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+  <xref ref-type="aff" rid="Aff9">9</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.459560.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1764 5606</institution-id>
+   <institution>Department of Infectious Diseases, </institution>
+   <institution>Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, </institution>
+  </institution-wrap>Haikou, China 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.459560.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1764 5606</institution-id>
+   <institution>Office of Diseases Control and Prevention, </institution>
+   <institution>Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, </institution>
+  </institution-wrap>Haikou, China 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412558.f</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1762 1794</institution-id>
+   <institution>Department of Infectious Diseases, </institution>
+   <institution>the Third Affiliated Hospital of Sun Yat-Sen University, </institution>
+  </institution-wrap>600 Tianhe Road, Guangzhou, China 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.412558.f</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1762 1794</institution-id>
+   <institution>GuangDong Provincial Key Laboratory of Liver Diseases, </institution>
+   <institution>the Third Affiliated Hospital of Sun Yat-sen University, </institution>
+  </institution-wrap>Guangzhou, China 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.443397.e</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0368 7493</institution-id>
+   <institution>Department of Infectious Diseases, </institution>
+   <institution>The Second Affiliated Hospital of Hainan Medical University, </institution>
+  </institution-wrap>Haikou, China 
+ </aff>
+ <aff id="Aff6">
+  <label>6</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.4991.5</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1936 8948</institution-id>
+   <institution>Nuffield Department of Women’s and Reproductive Health, </institution>
+   <institution>University of Oxford, </institution>
+  </institution-wrap>Oxford, UK 
+ </aff>
+ <aff id="Aff7">
+  <label>7</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.459560.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1764 5606</institution-id>
+   <institution>Radiology Department, </institution>
+   <institution>Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, </institution>
+  </institution-wrap>Haikou, China 
+ </aff>
+ <aff id="Aff8">
+  <label>8</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.459560.b</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1764 5606</institution-id>
+   <institution>Clinical laboratory, </institution>
+   <institution>Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, </institution>
+  </institution-wrap>Haikou, China 
+ </aff>
+ <aff id="Aff9">
+  <label>9</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.419897.a</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 0369 313X</institution-id>
+   <institution>Key Laboratory of Tropical Disease Control (Sun Yat-sen University), Ministry of Education, </institution>
+  </institution-wrap>Guangzhou, China 
+ </aff>
+</contrib-group>

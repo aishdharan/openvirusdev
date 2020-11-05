@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R35">
+ <label>35</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Leclerc</surname>
+    <given-names>QJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Fuller</surname>
+    <given-names>NM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Knight</surname>
+    <given-names>LE</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>What settings have been linked to SARS-CoV-2 transmission clusters?</article-title>
+  <source>Wellcome Open Res</source>
+  <year>2020</year>;
+  <volume>5</volume>:
+  <fpage>83</fpage>
+  <pub-id pub-id-type="doi">10.12688/wellcomeopenres.15889.2</pub-id>
+  <pub-id pub-id-type="pmid">32656368</pub-id>
+ </mixed-citation>
+</ref>

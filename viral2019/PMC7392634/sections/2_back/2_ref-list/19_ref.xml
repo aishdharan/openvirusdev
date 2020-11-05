@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R19">
+ <label>19</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Endo</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Abbott</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kucharski</surname>
+    <given-names>AJ</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China</article-title>. 
+  <source>Wellcome Open Res</source>
+  <year>2020</year>;
+  <volume>5</volume>:
+  <fpage>67</fpage>
+  <pub-id pub-id-type="doi">10.12688/wellcomeopenres.15842.3</pub-id>
+  <pub-id pub-id-type="pmid">32685698</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0001">
+ <label>Table 1</label>
+ <caption>
+  <p>Scenarios characterising disruption to HIV services due to the COVID-19 epidemic.</p>
+ </caption>
+ <alt-text id="alt0004">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top">Scenario</th>
+    <th valign="top">Assumed Impact on HIV Programs</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top">1. Managed pause (least severe)</td>
+    <td valign="top">-No new ART enrolments
+     <break/>-No new VMMCs
+     <break/>-(No new PrEP enrolments
+     <xref rid="tb1fn1" ref-type="table-fn">*</xref>)
+     <break/>-Sexual contacts decrease by 10%
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">2. Managed disruption</td>
+    <td valign="top">-No new ART enrolments
+     <break/>-No new VMMCs
+     <break/>-(No PrEP enrolment or prescription refills
+     <xref rid="tb1fn1" ref-type="table-fn">*</xref>)
+     <break/>-Viral suppression decreases by 10% across individuals on ART
+     <break/>-Condom use decreases by 50%
+     <break/>-Sexual contacts decrease by 10%
+    </td>
+   </tr>
+   <tr>
+    <td valign="top">3. Interruption of supply (most severe)</td>
+    <td valign="top">-No new ART enrolments
+     <break/>-No new VMMCs
+     <break/>-(No PrEP enrolment or prescription refills
+     <xref rid="tb1fn1" ref-type="table-fn">*</xref>)
+     <break/>-Viral suppression decreases by 10% across individuals on ART
+     <break/>-40% of individuals on ART go off ART for duration of disruption, assuming a mean monthly mortality risk of 0.24% during the disruption
+     <xref rid="tb1fn2" ref-type="table-fn">⁎⁎</xref>
+     <break/>-Condom use decreases by 50%
+     <break/>-Sexual contacts decrease by 10%
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tb1fn1">
+   <label>⁎</label>
+   <p id="notep0001">PrEP coverage is assumed to be very low and does not affect directly results presented here.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tb1fn2">
+   <label>⁎⁎</label>
+   <p id="notep0002">We optimistically assume that if individuals have stopped ART due to the COVID-19 disruption, they immediately return to ART once supply resumes and their long-term prognosis on ART is not affected by the interruption in ART usage.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

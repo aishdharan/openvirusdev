@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0120">
+ <xref rid="fig6" ref-type="fig">Figures 6</xref>C and 6D shows the same simulation when the solar pump is not active (ε = 0; curves of growth from the three latitude groups are superimposed to each other). However, with these parameters, the under-sampling factor needed to fit the initial exponential phase of the growth of contagions in Italy is an unrealistic factor of 300. Moreover, the declining phase of contagions, with no solar pump is too fast to reproduce the Italian data. The much smaller absolute number of daily infected in the simulation shown in 
+ <xref rid="fig6" ref-type="fig">Figure 6</xref>A, compared with that of 
+ <xref rid="fig6" ref-type="fig">Figure 6</xref>C (under-sampling factor of 6, versus 300), and the slower decay of daily detected infections are due solely to the daily effect of the solar pump. The fast decay in the inactive solar-pump case is a direct consequence of the much larger “consumption” of susceptible individuals during the growth of contagions in the first cycle (compare 
+ <xref rid="fig6" ref-type="fig">Figure 6</xref>D with Figure 6B).
+</p>

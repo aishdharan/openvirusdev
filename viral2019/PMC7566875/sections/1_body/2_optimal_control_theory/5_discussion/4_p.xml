@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e7548">The state constraints in Problem 
+ <xref rid="fd14" ref-type="disp-formula">(14)</xref> are of high order (for instance, Eq. 
+ <xref rid="fd12" ref-type="disp-formula">(12)</xref> is a third-order state constraint). The analysis of such problems is demanding, as the constraints involve the analysis of new multipliers associated with each individual constraint 
+ <xref rid="b14" ref-type="bibr">[14]</xref>. For this reason, the focus of this work is on computing optimal controls numerically. Clearly, the resulting absence of theoretical analysis means that our results should be treated with care since there is no guarantee that they are optimal. However, we have carefully examined the robustness of our numerical calculations — this is described in detail in Section 
+ <xref rid="sec4" ref-type="sec">4</xref> and also, in 
+ <xref rid="appB" ref-type="sec">Appendix B</xref>.
+</p>

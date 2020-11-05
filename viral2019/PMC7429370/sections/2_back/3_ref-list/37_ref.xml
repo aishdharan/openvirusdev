@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR37">
+ <label>37.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guo</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Trajanovski</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>van de Bovenkamp</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Van Mieghem</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemic threshold and topological structure of susceptible-infectious-susceptible epidemics in adaptive networks</article-title>
+  <source>Phys Rev E</source>
+  <year>2013</year>
+  <volume>88</volume>
+  <issue>4</issue>
+  <fpage>042802</fpage>
+ </element-citation>
+</ref>

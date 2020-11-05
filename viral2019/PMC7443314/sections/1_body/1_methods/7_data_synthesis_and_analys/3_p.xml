@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="para0017">For studies about the impact of outbreaks on mental health, we used the STATA command “metaprop” (
+ <xref rid="bib0055" ref-type="bibr">Nyaga et al., 2014</xref>) to pool estimates of proportions with corresponding 95% confidence intervals. Proportions were computed on the base of the Freeman-Tukey double arcsine transformation (
+ <xref rid="bib0025" ref-type="bibr">Freeman and Tukey, 1950</xref>; 
+ <xref rid="bib0052" ref-type="bibr">Miller, 1978</xref>) within a random effect model framework. We conducted subgroup analyses to explore potential differences in the prevalence of mental health disorders during vs. after the outbreak. Where possible, subgroup analyses exploring gender differences were also undertaken. Heterogeneity was quantified by the 
+ <italic>I</italic>
+ <sup>2</sup> statistic, where 
+ <italic>I</italic>
+ <sup>2</sup>&gt;50% was deemed as substantial heterogeneity (
+ <xref rid="bib0020" ref-type="bibr">Deeks et al., 2019</xref>). Publication bias was examined with funnel plots and presence of asymmetry tested with Begg (
+ <xref rid="bib0009" ref-type="bibr">Begg and Mazumdar, 1994</xref>) and Egger tests (
+ <xref rid="bib0022" ref-type="bibr">Egger et al., 1997</xref>). We used Stata, version 12.0 to conduct meta-analyses. Although we initially planned to pool the results from interventions to reduce mental health problems, this was finally not possible due to the scarcity of available data. Instead, we conducted a narrative and tabulated synthesis of the interventions and main results.
+</p>

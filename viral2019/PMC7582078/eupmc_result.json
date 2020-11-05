@@ -1,0 +1,358 @@
+{
+  "id": [
+    "33123391"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33123391"
+  ],
+  "pmcid": [
+    "PMC7582078"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7582078"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1155/2020/8822753"
+  ],
+  "title": [
+    "COVID-19 Pneumonia in Patients on Chronic Hydroxychloroquine Therapy: Three Cases of COVID-19 Pneumonia."
+  ],
+  "authorString": [
+    "Rahman AK, Purdy AG, Ender PT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rahman AK"
+          ],
+          "firstName": [
+            "Awan K"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9324-6883",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Section of Pulmonary and Critical Care, St. Luke's University Health Network, Bethlehem, PA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Purdy AG"
+          ],
+          "firstName": [
+            "Adam G"
+          ],
+          "lastName": [
+            "Purdy"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7319-5668",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Section of Pulmonary and Critical Care, St. Luke's University Health Network, Bethlehem, PA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ender PT"
+          ],
+          "firstName": [
+            "Peter T"
+          ],
+          "lastName": [
+            "Ender"
+          ],
+          "initials": [
+            "PT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3373-1873",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Section of Infectious Diseases, St. Luke's University Health Network, Bethlehem, PA, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9324-6883",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7319-5668",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3373-1873",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2020"
+      ],
+      "journalIssueId": [
+        "2904223"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Case reports in infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Case Rep Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Case Rep Infect Dis"
+          ],
+          "NLMid": [
+            "101573243"
+          ],
+          "ISSN": [
+            "2090-6625"
+          ],
+          "ESSN": [
+            "2090-6633"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "8822753"
+  ],
+  "abstractText": [
+    "Hydroxychloroquine has gained popularity as a potential preventative and treatment of COVID-19 pneumonia due to its in vitro activity against the virus. These three cases of COVID-19 pneumonia of varying severities occurred in the setting of chronic hydroxychloroquine use. These cases argue against the use of hydroxychloroquine as a preventative or therapeutic option for COVID-19 pneumonia."
+  ],
+  "affiliation": [
+    "Section of Pulmonary and Critical Care, St. Luke's University Health Network, Bethlehem, PA, USA."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2020/8822753"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7582078"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7582078?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-30"
+  ],
+  "firstIndexDate": [
+    "2020-10-31"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-30"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-22"
+  ],
+  "firstPublicationDate": [
+    "2020-10-22"
+  ]
+}

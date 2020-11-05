@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e4674"> We solve the optimization problem 
+ <xref rid="fd6" ref-type="disp-formula">(6)</xref> using simulated annealing. Bounds for the search space are estimated from the literature — these are reported in 
+ <xref rid="appA" ref-type="sec">Appendix A</xref>, where we also provide the optimal parameter values corresponding to Eq. 
+ <xref rid="fd6" ref-type="disp-formula">(6)</xref>. Results are shown in 
+ <xref rid="fig1" ref-type="fig">Fig. 1</xref>. Qualitative agreement between the SEIR model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> and the data can be seen in the figure. To demonstrate quantitatively the agreement between the model, the data, and prior characterizations of the epidemiology of COVID-19, we have computed the basic reproduction number of the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> using the maximum eigenvalue of the next-generation matrix 
+ <xref rid="b20" ref-type="bibr">[20]</xref>, 
+ <inline-formula>
+  <math id="d1e4710" display="inline" altimg="si87.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">R</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mo class="qopname">max</mo>
+    <mi mathvariant="normal">spec</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">F</mi>
+     <msup>
+      <mrow>
+       <mi mathvariant="bold-fraktur">V</mi>
+      </mrow>
+      <mrow>
+       <mo>−</mo>
+       <mn>1</mn>
+      </mrow>
+     </msup>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. For the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref>, the matrices 
+ <inline-formula>
+  <math id="d1e4747" display="inline" altimg="si88.svg">
+   <mi mathvariant="bold-fraktur">F</mi>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e4753" display="inline" altimg="si89.svg">
+   <mi mathvariant="bold-fraktur">V</mi>
+  </math>
+ </inline-formula> are given by: 
+ <disp-formula id="fd7">
+  <label>(7)</label>
+  <math id="d1e4764" display="block" altimg="si90.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">F</mi>
+    <mo id="mmlalignd1e4809" linebreak="goodbreak">=</mo>
+    <mfenced open="(" close=")">
+     <mrow>
+      <mtable align="axis" equalrows="false" columnlines="none none none" equalcolumns="false" class="array">
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">i</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">A</mi>
+          </mrow>
+         </msub>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">i</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center"/>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center"/>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center"/>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </mfenced>
+    <mspace width="1em" id="mmlalignd1e4891"/>
+    <mi mathvariant="bold-fraktur">V</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <mfenced open="(" close=")">
+     <mrow>
+      <mtable align="axis" equalrows="false" columnlines="none none none" equalcolumns="false" class="array">
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <msubsup>
+          <mrow>
+           <mi>τ</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">E</mi>
+          </mrow>
+          <mrow>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msubsup>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <mo>−</mo>
+         <msubsup>
+          <mrow>
+           <mi>τ</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">L</mi>
+          </mrow>
+          <mrow>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msubsup>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <msubsup>
+          <mrow>
+           <mi>τ</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+           <mi mathvariant="bold-fraktur">P</mi>
+          </mrow>
+          <mrow>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msubsup>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mo>−</mo>
+         <mi mathvariant="bold-fraktur">f</mi>
+         <msubsup>
+          <mrow>
+           <mi>τ</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+           <mi mathvariant="bold-fraktur">P</mi>
+          </mrow>
+          <mrow>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msubsup>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <msubsup>
+          <mrow>
+           <mi>τ</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msubsup>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mn>0</mn>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <mo>−</mo>
+         <mrow>
+          <mo>(</mo>
+          <mn>1</mn>
+          <mo>−</mo>
+          <mi mathvariant="bold-fraktur">f</mi>
+          <mo>)</mo>
+         </mrow>
+         <msubsup>
+          <mrow>
+           <mi>τ</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+           <mi mathvariant="bold-fraktur">P</mi>
+          </mrow>
+          <mrow>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msubsup>
+        </mtd>
+        <mtd class="array" columnalign="center">
+         <msubsup>
+          <mrow>
+           <mi>τ</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msubsup>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </mfenced>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula> hence 
+ <disp-formula id="fd8">
+  <label>(8)</label>
+  <math id="d1e5013" display="block" altimg="si99.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">R</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi>β</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">i</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">S</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi>β</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mfenced open="(" close=")">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">i</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">A</mi>
+       </mrow>
+      </msub>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mrow>
+       <mo>(</mo>
+       <mn>1</mn>
+       <mo>−</mo>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mo>)</mo>
+      </mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">i</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mfrac>
+       <mrow>
+        <msubsup>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msubsup>
+       </mrow>
+       <mrow>
+        <msub>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+          <mi mathvariant="bold-fraktur">P</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </mfenced>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>(the reason for including the explicit functional dependence on the parameters 
+ <inline-formula>
+  <math id="d1e5130" display="inline" altimg="si49.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e5140" display="inline" altimg="si54.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">i</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">S</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> will become clear in what follows). We have used the parameters obtained from solving the optimization problem 
+ <xref rid="fd6" ref-type="disp-formula">(6)</xref> to compute the value of 
+ <inline-formula>
+  <math id="d1e5154" display="inline" altimg="si47.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. With case isolation (i.e. 
+ <inline-formula>
+  <math id="d1e5165" display="inline" altimg="si103.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>3405</mn>
+   </mrow>
+  </math>
+ </inline-formula>, as per the solution of Eq. 
+ <xref rid="fd6" ref-type="disp-formula">(6)</xref>), we have computed 
+ <inline-formula>
+  <math id="d1e5189" display="inline" altimg="si104.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">R</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>2</mn>
+    <mo>.</mo>
+    <mn>6945</mn>
+   </mrow>
+  </math>
+ </inline-formula>. Without case isolation (i.e. 
+ <inline-formula>
+  <math id="d1e5208" display="inline" altimg="si105.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula>), we have computed 
+ <inline-formula>
+  <math id="d1e5224" display="inline" altimg="si106.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">R</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>3</mn>
+    <mo>.</mo>
+    <mn>4495</mn>
+   </mrow>
+  </math>
+ </inline-formula>. These results are consistent with an existing estimates of the basic reproduction number for COVID-19 
+ <xref rid="b21" ref-type="bibr">[21]</xref>. Furthermore, by replacing 
+ <inline-formula>
+  <math id="d1e5247" display="inline" altimg="si49.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> in Eq. 
+ <xref rid="fd8" ref-type="disp-formula">(8)</xref> with both 
+ <inline-formula>
+  <math id="d1e5263" display="inline" altimg="si52.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mn>1</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e5273" display="inline" altimg="si53.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, we can estimate the effect of various measures to control the spread of the epidemic. This is done in 
+ <xref rid="tbl1" ref-type="table">Table 1</xref> – the results are very close to other independent estimates of the same quantities 
+ <xref rid="b19" ref-type="bibr">[19]</xref>. These findings confirm the robustness of the basic mathematical model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> and therefore provide a solid foundation on which to basic a theory of optimal control in the remaining sections.
+</p>

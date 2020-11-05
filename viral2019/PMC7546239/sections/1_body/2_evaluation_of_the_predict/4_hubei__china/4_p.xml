@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3323">
+ <xref rid="fig2" ref-type="fig">Fig. 2</xref> shows the prediction accuracy over time for different forecast algorithms. The horizontal axis shows the date 
+ <inline-formula>
+  <math id="d1e3329" display="inline" altimg="si123.svg">
+   <mi>d</mi>
+  </math>
+ </inline-formula>. We have forecasted the disease several days ahead in time, using all available information from January 22 until 
+ <inline-formula>
+  <math id="d1e3334" display="inline" altimg="si123.svg">
+   <mi>d</mi>
+  </math>
+ </inline-formula>. For example, the right-most point in 
+ <xref rid="fig2" ref-type="fig">Fig. 2(a)</xref> includes data from January 22 to February 13 to forecast the situation on February 14.
+</p>

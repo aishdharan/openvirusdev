@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack>
+ <title>Acknowledgments</title>
+ <p>Thanks to the China Environmental Monitoring Station for the PM
+  <sub>2.5</sub> data released in the national city air quality real-time release system (
+  <uri xlink:href="http://106.37.208.233:20035" xmlns:xlink="http://www.w3.org/1999/xlink">http://106.37.208.233:20035</uri>), and the Tencent-based location service (
+  <uri xlink:href="http://heat.qq.com/" xmlns:xlink="http://www.w3.org/1999/xlink">http://heat.qq.com/</uri>) and spatiotemporal big data and POI data provided by the National Bureau of Statistics (
+  <uri xlink:href="http://data.stats.gov.cn/" xmlns:xlink="http://www.w3.org/1999/xlink">http://data.stats.gov.cn/</uri>).
+ </p>
+</ack>

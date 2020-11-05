@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2352">Optimal control theory has already found great use in mathematical epidemiology. It has been used to compute optimal vaccination strategies for various diseases lethal to humans 
+ <xref rid="b8" ref-type="bibr">[8]</xref>, 
+ <xref rid="b9" ref-type="bibr">[9]</xref>, 
+ <xref rid="b10" ref-type="bibr">[10]</xref>, as well as optimal containment strategies for animal diseases 
+ <xref rid="b11" ref-type="bibr">[11]</xref>, 
+ <xref rid="b12" ref-type="bibr">[12]</xref>. These works use the Pontryagin Maximum Principle 
+ <xref rid="b13" ref-type="bibr">[13]</xref> to formulate semi-analytical conditions for the optimal control strategy. In cases with a linear cost function (including optimal stopping time problems 
+ <xref rid="b11" ref-type="bibr">[11]</xref>, 
+ <xref rid="b12" ref-type="bibr">[12]</xref>), the optimal control is revealed to be a so-called 
+ <italic>bang–bang</italic> control, where the control switches between a maximum and a minimum value during at a finite number of switching points.
+</p>

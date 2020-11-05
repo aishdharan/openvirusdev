@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2175">Recurrent neural networks (
+ <xref rid="b9" ref-type="bibr">Elman, 1990</xref>) (RNNs) have been used in various tasks related to sequences (
+ <xref rid="b13" ref-type="bibr">Goodfellow, Bengio, &amp; Courville, 2016</xref>), time series analysis and forecasting, speech recognition or natural language processing (
+ <xref rid="b43" ref-type="bibr">Young, Hazarika, Poria, &amp; Cambria, 2018</xref>) and it has been demonstrated they achieve state-of-the-art performance. Long Short-term Memory (LSTM) networks (
+ <xref rid="b17" ref-type="bibr">Hochreiter &amp; Schmidhuber, 1997</xref>) are specific types of RNNs that resolved the long-standing problem in the past for long-term dependencies caused by the difference in input growth which in turns leads to vanishing or exploding gradients in neural networks backpropagation. LSTM introduces additional input, output and optional forget gates as interfaces with additional weights on the top of standard input data and hidden weights in the standard RNN unit. There are several variations (
+ <xref rid="b10" ref-type="bibr">Gers and Schmidhuber, 2001</xref>, 
+ <xref rid="b11" ref-type="bibr">Gers et al., 2000</xref>) for the LSTM networks, just to mention few: with or without forget gate and a “peephole connection”; that perform better in one or another task (
+ <xref rid="b19" ref-type="bibr">Jozefowicz, Zaremba, &amp; Sutskever, 2015</xref>). For the internal mechanism between the gates and the exact mathematical relations, we refer to 
+ <xref rid="b45" ref-type="bibr">Yu, Si, Hu, and Zhang (2019)</xref> or 
+ <xref rid="b11" ref-type="bibr">Gers et al. (2000)</xref>. In this work, we utilize the most common one - an LSTM with a forget gate. In the simulations, we use an LSTM with sequence and hidden sizes both equal to four in a single LSTM layer (e.g. it is possible to stack few LSTM layers which leads to more overfitting), a learning rate of 0.1 and Adam optimizer (
+ <xref rid="b22" ref-type="bibr">Kingma &amp; Ba, 2015</xref>), with mean square error loss in 2000 epochs of training.
+</p>

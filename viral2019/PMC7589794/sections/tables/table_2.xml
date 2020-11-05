@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pathogens-09-00856-t002" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">pathogens-09-00856-t002_Table 2</object-id>
+ <label>Table 2</label>
+ <caption>
+  <p>Details on 
+   <italic>Orthohepevirus A</italic> genotypes.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Genotype 
+     <sup>1</sup>
+     <break/>(Subtypes)
+    </th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Host</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Transmission Route</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Global Distribution 
+     <sup>1</sup>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-1
+     <break/>(1a–1g)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human, primates</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fecal–oral via contaminated drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mainly resource poor regions in 
+     <break/>India, Pakistan, Bangladesh, Myanmar, China, Mongolia, Morocco, Chad, Nigeria
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-2
+     <break/>(2a, 2b)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human, primates</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fecal–oral via contaminated drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mainly resource poor regions in 
+     <break/>Mexico, Nigeria
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-3
+     <break/>(3a–3m, 3ra)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human, pig, wild boar, deer, mongoose, rabbit (3ra), hare (3ra), rodents</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Zoonotic via consumption or contact of/with contaminated foodstuffs; parenteral via contaminated blood donations</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mainly in industrialized countries such as
+     <break/>USA, Canada, China, Japan, South Korea, India, Singapore, UK, Germany, France, Italy, Spain, Sweden, Switzerland, Netherlands, Denmark, Hungary 
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-4
+     <break/>(4a–4i)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human, pig, wild boar, cow, goat, yak, Rhesus monkey</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Zoonotic via consumption or contact of/with contaminated foodstuffs; parenteral via contaminated blood donations</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mainly in Asian countries such as
+     <break/>China, Mongolia, Japan, South Korea, Taiwan, Cambodia, India
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-5
+     <break/>(5a)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Wild boar</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Unavailable</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Japan</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-6
+     <break/>(6a)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Wild boar</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Unavailable</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Japan</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-7
+     <break/>(7a)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Human, dromedary camel</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Zoonotic, likely via consumption of camel meat</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">UAE</td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">HEV-8
+     <break/>(8a)
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bactrian camel</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Unavailable</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">China</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <sup>1</sup> Information according to the International Committee on Taxonomy of Viruses (ICTV) as of September 2020 and Smith et al. 2020 [
+    <xref rid="B10-pathogens-09-00856" ref-type="bibr">10</xref>].
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

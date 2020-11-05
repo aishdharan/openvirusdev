@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR35">
+ <label>35.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chan</surname>
+    <given-names>KH</given-names>
+   </name>
+   <name>
+    <surname>Poon</surname>
+    <given-names>LL</given-names>
+   </name>
+   <name>
+    <surname>Cheng</surname>
+    <given-names>VC</given-names>
+   </name>
+   <name>
+    <surname>Guan</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Hung</surname>
+    <given-names>IF</given-names>
+   </name>
+   <name>
+    <surname>Kong</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Detection of SARS coronavirus in patients with suspected SARS</article-title>
+  <source>Emerg Infect Dis</source>
+  <year>2004</year>
+  <volume>10</volume>
+  <issue>2</issue>
+  <fpage>294</fpage>
+  <lpage>299</lpage>
+  <pub-id pub-id-type="doi">10.3201/eid1002.030610</pub-id>
+  <?supplied-pmid 15030700?>
+  <pub-id pub-id-type="pmid">15030700</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Contextual variables potentially influencing transmission of severe acute respiratory syndrome coronavirus 2</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Variable</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Elements</td>
+    <td align="left" valign="bottom" colspan="2" rowspan="1">Range (variation/extremes)</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Population density</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>People per km²</p>
+      </list-item>
+      <list-item>
+       <p>People per household</p>
+      </list-item>
+      <list-item>
+       <p>Indoor space (m²) per person</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Big European/USA/Chinese cities</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Rural areas
+     <break/>Megacities with urban slums
+    </td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Social demography</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Age structure: proportion of elderly and children</p>
+      </list-item>
+      <list-item>
+       <p>Household composition: nuclear versus multigenerational</p>
+      </list-item>
+      <list-item>
+       <p>Mixing patterns, including mode of transport</p>
+      </list-item>
+      <list-item>
+       <p>Forms of religious and social events</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Italy, Europe</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Sub-Saharan Africa, Southeast Asia</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Social practices</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Mode of greeting and social contact (shaking hands, kissing, hugging, etc.)</p>
+      </list-item>
+      <list-item>
+       <p>Handwashing, water and sanitation</p>
+      </list-item>
+      <list-item>
+       <p>Ventilation and air conditioning</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">High-income countries or areas</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Slums</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Geography</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Climate</p>
+      </list-item>
+      <list-item>
+       <p>Urbanisation rate</p>
+      </list-item>
+      <list-item>
+       <p>Air traffic intensity</p>
+      </list-item>
+      <list-item>
+       <p>Population movements</p>
+      </list-item>
+      <list-item>
+       <p>Road networks</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Europe, USA</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Sub-Saharan Africa, Brazil, India</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Pre-existing immunity</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>Prior exposure to other coronaviruses, BCG vaccine, and so on.</p>
+      </list-item>
+      <list-item>
+       <p>Non-specific immunity?</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">High-income countries</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Low-income countries in tropical climates</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Genetic factors</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">
+     <list list-type="bullet">
+      <list-item>
+       <p>ACE variability</p>
+      </list-item>
+      <list-item>
+       <p>HLA variability</p>
+      </list-item>
+     </list>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1"> </td>
+    <td align="left" valign="top" rowspan="1" colspan="1"> </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="T2_FN1">
+   <p>ACE, angiotensin-converting enzyme; HLA, human leucocyte antigen.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

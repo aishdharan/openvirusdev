@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <title>Basic information and infection-reproduction parameters for our Susceptible-Exposed-Infected-Recovered-Dead model</title>
+ </caption>
+ <alternatives>
+  <graphic xlink:href="jkms-35-e317-i001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="rows">
+   <col width="17.54%" span="1"/>
+   <col width="13.74%" span="1"/>
+   <col width="13.74%" span="1"/>
+   <col width="13.74%" span="1"/>
+   <col width="13.74%" span="1"/>
+   <col width="13.74%" span="1"/>
+   <col width="13.74%" span="1"/>
+   <thead>
+    <tr>
+     <th valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Area</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">Population</th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">
+      <italic>I</italic>(0)
+     </th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">
+      <inline-formula>
+       <alternatives>
+        <math id="m9">
+         <mstyle scriptlevel="+1">
+          <msub>
+           <mrow>
+            <mi>R</mi>
+           </mrow>
+           <mrow>
+            <msub>
+             <mrow>
+              <mn>0</mn>
+             </mrow>
+             <mrow>
+              <mi>S</mi>
+             </mrow>
+            </msub>
+           </mrow>
+          </msub>
+         </mstyle>
+        </math>
+        <inline-graphic xlink:href="jkms-35-e317-i006.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+       </alternatives>
+      </inline-formula>
+     </th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">
+      <inline-formula>
+       <alternatives>
+        <math id="m10">
+         <mstyle scriptlevel="+1">
+          <msub>
+           <mrow>
+            <mi>R</mi>
+           </mrow>
+           <mrow>
+            <msub>
+             <mrow>
+              <mn>0</mn>
+             </mrow>
+             <mrow>
+              <mi>E</mi>
+             </mrow>
+            </msub>
+           </mrow>
+          </msub>
+         </mstyle>
+        </math>
+        <inline-graphic xlink:href="jkms-35-e317-i007.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+       </alternatives>
+      </inline-formula>
+     </th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">
+      <italic>t
+       <sub>d</sub>
+      </italic>
+     </th>
+     <th valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(211,212,235)">
+      <italic>α</italic>, %
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">Daegu</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">2,433,568</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">13</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">3.7</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">0.0</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">15</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">2.82</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">Gyeongbuk</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">2,653,418</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">14</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">2.6</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">0.0</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">15</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">4.34</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1">Seoul</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">9,726,787</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">1.5</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">0.0</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">50</td>
+     <td valign="top" align="center" rowspan="1" colspan="1">0.55</td>
+    </tr>
+    <tr>
+     <td valign="top" align="left" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">Gyeonggi</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">13,311,254</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">1</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">1.3</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">0.0</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">45</td>
+     <td valign="top" align="center" rowspan="1" colspan="1" style="background-color:rgb(224,224,241)">2.88</td>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+</table-wrap>

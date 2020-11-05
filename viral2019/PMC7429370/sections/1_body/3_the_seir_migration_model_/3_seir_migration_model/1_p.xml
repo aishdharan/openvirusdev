@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par21">Studies reveal that the median incubation period of COVID-19 to be 5.6 days (95% CI 4.8-6.3) [
+ <xref ref-type="bibr" rid="CR54">54</xref>]. Exposed individuals can also infect other individuals during the incubation period. Each node in human contact networks may assume one of four possible states in the epidemic spreading process, namely susceptible (
+ <italic>S</italic>), exposed (
+ <italic>E</italic>), infected (
+ <italic>I</italic>), and recovered/removed (
+ <italic>R</italic>). For sub-network (city) 
+ <italic>j</italic>, the number of nodes in the four states 
+ <inline-formula id="IEq16">
+  <alternatives>
+   <tex-math id="M33">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$S_j(t)$$\end{document}</tex-math>
+   <math id="M34">
+    <mrow>
+     <msub>
+      <mi>S</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq16.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq17">
+  <alternatives>
+   <tex-math id="M35">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$E_j(t)$$\end{document}</tex-math>
+   <math id="M36">
+    <mrow>
+     <msub>
+      <mi>E</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq17.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq18">
+  <alternatives>
+   <tex-math id="M37">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$I_j(t)$$\end{document}</tex-math>
+   <math id="M38">
+    <mrow>
+     <msub>
+      <mi>I</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq18.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, and 
+ <inline-formula id="IEq19">
+  <alternatives>
+   <tex-math id="M39">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$R_j(t)$$\end{document}</tex-math>
+   <math id="M40">
+    <mrow>
+     <msub>
+      <mi>R</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq19.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, at time 
+ <italic>t</italic>.
+</p>

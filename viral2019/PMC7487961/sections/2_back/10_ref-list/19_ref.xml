@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR19">
+ <label>19.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hanke</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Faria</surname>
+    <given-names>NR</given-names>
+   </name>
+   <name>
+    <surname>Kühnert</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Yousef</surname>
+    <given-names>KP</given-names>
+   </name>
+   <name>
+    <surname>Hauser</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Meixenberger</surname>
+    <given-names>K</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Reconstruction of the genetic history and the current spread of HIV-1 subtype a in Germany</article-title>
+  <source>J Virol</source>
+  <year>2019</year>
+  <volume>93</volume>
+  <issue>12</issue>
+  <fpage>e02238</fpage>
+  <lpage>e02218</lpage>
+  <pub-id pub-id-type="doi">10.1128/JVI.02238-18</pub-id>
+  <?supplied-pmid 30944175?>
+  <pub-id pub-id-type="pmid">30944175</pub-id>
+ </element-citation>
+</ref>

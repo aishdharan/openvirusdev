@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1567-2550</contrib-id>
+  <name>
+   <surname>Nir-Paz</surname>
+   <given-names>Ran</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <!--<email>nirpaz@hadassah.org.il</email>-->
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref rid="cor1" ref-type="corresp"/>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grotto</surname>
+   <given-names>Itamar</given-names>
+  </name>
+  <degrees>MD, PhD, MPH</degrees>
+  <!--<email>itamar.grotto@moh.health.gov.il</email>-->
+  <xref ref-type="aff" rid="aff2">2</xref>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Strolov</surname>
+   <given-names>Israel</given-names>
+  </name>
+  <degrees>MA</degrees>
+  <!--<email>minister@tokyo.mfa.gov.il</email>-->
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Salmon</surname>
+   <given-names>Asher</given-names>
+  </name>
+  <degrees>MD, PhD, MHA</degrees>
+  <!--<email>aysalmon@gmail.com</email>-->
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mandelboim</surname>
+   <given-names>Michal</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <!--<email>Michal.Mandelboim@sheba.health.gov.il</email>-->
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mendelson</surname>
+   <given-names>Ella</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <!--<email>Ella.Mendelson@sheba.health.gov.il</email>-->
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Regev-Yochay</surname>
+   <given-names>Gili</given-names>
+  </name>
+  <degrees>MD, MS</degrees>
+  <!--<email>Gili.Regev@sheba.health.gov.il</email>-->
+  <xref ref-type="aff" rid="aff6">6</xref>
+  <xref ref-type="aff" rid="aff7">7</xref>
+ </contrib>
+</contrib-group>

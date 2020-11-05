@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par20">HIV subtypes were assessed by phylogenetic analysis. The HIV-1 
+ <italic>pol</italic> sequences were aligned with reference sequences of various subtypes and circulating recombinant forms (CRFs) from Los Alamos HIV sequence database (LANL, 
+ <ext-link ext-link-type="uri" xlink:href="http://www.hiv.lanl.gov/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.hiv.lanl.gov/</ext-link>). Multiple alignments were made automatically using the Mega version 7.0 [
+ <xref ref-type="bibr" rid="CR21">21</xref>] with minor manual adjustments. FastTree 2.3 was used to estimate an approximately-maximum likelihood phylogenetic tree for 
+ <italic>pol</italic> sequences using the GTR + G + I nucleotide substitution model [
+ <xref ref-type="bibr" rid="CR22">22</xref>]. The phylogenetic tree’s reliability was determined with local support values based on the Shimodaira-Hasegawa (SH) test [
+ <xref ref-type="bibr" rid="CR23">23</xref>] and presented using FigTree v1.4.3 (
+ <ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/figtree/" xmlns:xlink="http://www.w3.org/1999/xlink">http://tree.bio.ed.ac.uk/software/figtree/</ext-link>). For sequences of unknown HIV-1 subtype, the jumping profile hidden Markov model (jpHMM) (
+ <ext-link ext-link-type="uri" xlink:href="http://jphmm.gobics.de/submission_hiv" xmlns:xlink="http://www.w3.org/1999/xlink">http://jphmm.gobics.de/submission_hiv</ext-link>) was applied to screen for recombination breakpoints.
+</p>

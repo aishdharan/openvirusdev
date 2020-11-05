@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref7">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Ashour</surname>
+    <given-names>HM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Elkhatib</surname>
+    <given-names>WF</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Rahman</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Insights into the recent 2019 novel coronavirus (SARS-CoV-2) in light of past human coronavirus outbreaks</article-title>. 
+  <source>Pathogens</source>
+  <year>2020</year>;
+  <volume>9</volume>(
+  <issue>3</issue>):
+  <fpage>1</fpage>–
+  <lpage>15</lpage>.
+ </mixed-citation>
+</ref>

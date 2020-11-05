@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0150">
+ <xref rid="fig9" ref-type="fig">Figure 9</xref> shows the results of three simulations for the group at 40° north and solar-pump efficiencies ε = 1 (same as 
+ <xref rid="fig6" ref-type="fig">Figure 6</xref>A; red curve), ε = 0.3 (∼3 times lower than in the case of 
+ <xref rid="fig6" ref-type="fig">Figure 6</xref>: compare, e.g. green and blue curves of 
+ <xref rid="fig2" ref-type="fig">Figure 2</xref>; green curve), and ε = 0 (blue curve). Some of the remaining model parameters are tuned to match the Italian SARS-CoV-2 curve of growth of contagions (see figure's caption for details) from the start of epidemic through 21 August 2020 and with the observed under-sampling factor of 6. Most of the tuned parameters can be compared with observables, which allows for a quantification of the solar-pump effect. In particular, the red, green, and blue curves have epidemic starting dates t
+ <sub>0</sub> = 6, 19, and 22 January 2020. This parameter is particularly critical in setting the normalization of the curves and the date of their first peak, given the known under-sampling factor of 6 (as observed in Italy) and lockdown starting date of 11 March 2020 (the official date of lockdown in Italy). For comparison, the first Covid-19 cases have occurred in Italy over the period of 1–10 January 2020 (
+ <xref rid="bib5" ref-type="bibr">Cereda et al., 2020</xref>). Two additional sensible parameters, which model the shape of the peak, the initial declining phase of the first outbreak, and the recovery phase of contagions, are the R
+ <sub>t</sub> halving time during lockdown and the phase 2 starting date. The plotted models have halving times of 28 (red curve), 18 (green curve), and 15 (blue curve) days. For comparison, in the three regions of Italy most heavily hit by the outbreak and that largely dominated the number of daily infected till July 2020, R
+ <sub>t</sub> halving times from their peak values have been estimated in 24 (Lombardy), 17 (Emilia-Romagna), and 28 days (Veneto; see 
+ <xref rid="bib11" ref-type="bibr">Flavia et al., 2020</xref> and 
+ <xref rid="bib23" ref-type="bibr">Moriano et al., 2020</xref>). Finally, phase 2 starting dates in the models are 17 (red curve), 10 (green curve), and 12 (blue curve) April 2020, respectively, 9, 16, and 14 days earlier than the official start date of phase 2 in Italy. These comparisons suggest a relatively high solar-pump efficiency during the first six months of the SARS-CoV-2 epidemic in Italy.
+</p>

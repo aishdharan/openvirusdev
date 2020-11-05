@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0480">
+ <label>96</label>
+ <element-citation publication-type="journal" id="h0480">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Zhang</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Hu</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Tong</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Zheng</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Effect of convalescent plasma therapy on time to clinical improvement in patients with severe and life-threatening COVID-19: a randomized clinical trial</article-title>
+  <source>JAMA</source>
+  <volume>324</volume>
+  <issue>5</issue>
+  <year>2020</year>
+  <fpage>460</fpage>
+  <lpage>470</lpage>
+  <pub-id pub-id-type="pmid">32492084</pub-id>
+ </element-citation>
+</ref>

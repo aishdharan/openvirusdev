@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR7">
+ <label>7.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>de Mendoza</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>UNAIDS Update Global HIV Numbers</article-title>
+  <source>AIDS Rev</source>
+  <year>2019</year>
+  <volume>21</volume>
+  <fpage>170</fpage>
+  <lpage>171</lpage>
+  <?supplied-pmid 31532400?>
+  <pub-id pub-id-type="pmid">31532400</pub-id>
+ </element-citation>
+</ref>

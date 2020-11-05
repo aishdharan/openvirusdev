@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e10350">The optimal suppression strategy may be compared to the strategy actually implemented by the Irish Government in the early stages of the epidemic (March–May 2020). Broadly, the optimal strategy is similar to the actually implemented strategy, in the sense that both involve high-intensity NPIs at the beginning of the epidemic, with a view to suppressing the outbreak. However, the optimal strategy envisages maximum-intensity NPIs at the very outset — this saves lives (e.g. 
+ <xref rid="fig6" ref-type="fig">Fig. 6</xref>, with 1547 deaths at 
+ <inline-formula>
+  <math id="d1e10357" display="inline" altimg="si341.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>65</mn>
+   </mrow>
+  </math>
+ </inline-formula> of the outbreak in real life, and 57 deaths on the same day under the optimal strategy, and an asymptotic final number of deaths of 61 under the same optimal strategy). Therefore, imposing high-intensity NPIs from the very beginning saves lives; it is also economically less costly, under the penalty function formulated in this work.
+</p>

@@ -1,0 +1,865 @@
+{
+  "id": [
+    "32894102"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32894102"
+  ],
+  "pmcid": [
+    "PMC7487961"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7487961"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s12879-020-05389-6"
+  ],
+  "title": [
+    "HIV-1 infection among women in Israel, 2010-2018."
+  ],
+  "authorString": [
+    "Wagner T, Olshtain-Pops K, Wax M, Horwitz O, Shirazi R, Gozlan Y, Volnowitz H, Mendelson E, Levy I, Mor O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wagner T"
+          ],
+          "firstName": [
+            "Tali"
+          ],
+          "lastName": [
+            "Wagner"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv-Yafo, Israel."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Olshtain-Pops K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Olshtain-Pops"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Hadassah Medical Center, Jerusalem, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wax M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Wax"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Horwitz O"
+          ],
+          "firstName": [
+            "Olivia"
+          ],
+          "lastName": [
+            "Horwitz"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shirazi R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Shirazi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gozlan Y"
+          ],
+          "firstName": [
+            "Yael"
+          ],
+          "lastName": [
+            "Gozlan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Volnowitz H"
+          ],
+          "firstName": [
+            "Hadar"
+          ],
+          "lastName": [
+            "Volnowitz"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mendelson E"
+          ],
+          "firstName": [
+            "Ella"
+          ],
+          "lastName": [
+            "Mendelson"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv-Yafo, Israel."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Levy I"
+          ],
+          "firstName": [
+            "Itzchak"
+          ],
+          "lastName": [
+            "Levy"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv-Yafo, Israel."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Infectious Disease Unit, Chaim Sheba Medical Center, Ramat Gan, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mor O"
+          ],
+          "firstName": [
+            "Orna"
+          ],
+          "lastName": [
+            "Mor"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3207-4226",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv-Yafo, Israel. orna.mor@sheba.health.gov.il."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "National HIV and Viral Hepatitis Reference Laboratory, Chaim Sheba Medical Center, Tel Hashomer, 52621, Ramat Gan, Israel. orna.mor@sheba.health.gov.il."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3207-4226",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "3004500"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "BMC Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "BMC Infect Dis"
+          ],
+          "NLMid": [
+            "100968551"
+          ],
+          "ISSN": [
+            "1471-2334"
+          ],
+          "ESSN": [
+            "1471-2334"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "660"
+  ],
+  "abstractText": [
+    "INTRODUCTION:Although women comprise 33% of the HIV-1-carriers in Israel, they have not previously been considered a risk group requiring special attention. Immigration waves from countries in Africa and in East Europe may have changed the local landscape of women diagnosed with HIV-1. Here, we aimed to assess viral and demographic characteristics of HIV-1-positive women identified in Israel between 2010 and 2018. METHODS:All > 16 year-old, HIV-1-infected women, diagnosed in Israel in 2010-2018, (n = 763) registered in the National HIV reference laboratory were included in this cross-sectional study. Demographic and clinical characteristics were extracted from the database. Viral subtypes and transmitted drug resistance mutations (TDRM) were determined in 337 (44.2%) randomly selected samples collected from treatment-naive women. RESULTS:Median age at diagnosis was 38 years. Most (73.3%) women were immigrants from the former Soviet Union (FSU) (41.2%, 314) or sub-Saharan Africa (SSA) (32.2%, 246) and carried subtype A (79.7%) or C (90.3%), respectively. Only 11.4% (87) were Israeli-born women. Over the years, the prevalence of women from SSA decreased while that of women from FSU increased significantly (p < 0.001). The median CD4+ cell count was 263 cells/mm3, and higher (391 cells/mm3) in Israeli-born women. TDRM were identified in 10.4% of the tested samples; 1.8, 3 and 7.1% had protease inhibitors (PI), nucleotide reverse transcriptase inhibitors (NRTI) and non-nucleoside reverse transcriptase inhibitors (NNRTI) TDRM, respectively. The prevalence of women with NNRTI TDRM significantly increased from 4.9% in 2010-2012 to 13.3% in 2016-2018. Israeli-born women had the highest prevalence (16.3%) of NNRTI TDRM (p = 0.014). NRTI A62 (5.6%), NNRTI E138 and K103 (5.6 and 4.2%, respectively) were the most prominent mutated sites. CONCLUSIONS:Most HIV-1-positive women diagnosed in Israel in 2010-2018 were immigrants, with the relative ratio of FSU immigrants increasing in recent years. The high proportion of women diagnosed with resistance mutations, particularly, the yearly increase in the frequency of NNRTI mutations, support the national policy of resistance testing at baseline."
+  ],
+  "affiliation": [
+    "Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv-Yafo, Israel."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV-1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reverse Transcriptase Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antiviral Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CD4 Lymphocyte Count"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prevalence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Resistance, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Israel"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Emigrants and Immigrants"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV-1",
+        "Women",
+        "Resistance-testing",
+        "Transmitted Drug Resistance Mutations (Tdrm)"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antiviral Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Reverse Transcriptase Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12879-020-05389-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7487961"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7487961?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR210471"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-09-21"
+  ],
+  "dateOfCreation": [
+    "2020-09-07"
+  ],
+  "firstIndexDate": [
+    "2020-09-08"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-09-21"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-07"
+  ],
+  "firstPublicationDate": [
+    "2020-09-07"
+  ]
+}

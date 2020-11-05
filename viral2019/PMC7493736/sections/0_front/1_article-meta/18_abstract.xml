@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0020">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="ulist0010">
+   <list-item id="u0010">
+    <label>•</label>
+    <p id="p0010">Phenothiazines possess antiviral activity towards RNA viruses.</p>
+   </list-item>
+   <list-item id="u0015">
+    <label>•</label>
+    <p id="p0015">An antiviral activity can be achieved below toxic serum concentration.</p>
+   </list-item>
+   <list-item id="u0020">
+    <label>•</label>
+    <p id="p0020">Phenothiazines are characterized by multidirectional points of action.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

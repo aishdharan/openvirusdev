@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Age groups in the model are divided into whether they are young (
+ <inline-formula>
+  <math id="i73">
+   <mi>Y</mi>
+  </math>
+ </inline-formula>; corresponding to 0- to 24-y-olds and age groups 
+ <inline-formula>
+  <math id="i74">
+   <mi>i</mi>
+   <mo>=</mo>
+   <mn>1</mn>
+  </math>
+ </inline-formula> to 4), adults (
+ <inline-formula>
+  <math id="i75">
+   <mi>A</mi>
+  </math>
+ </inline-formula>; 25- to 59-y-olds, age groups 
+ <inline-formula>
+  <math id="i76">
+   <mi>i</mi>
+   <mo>=</mo>
+   <mn>5</mn>
+  </math>
+ </inline-formula> to 11) and older (
+ <inline-formula>
+  <math id="i77">
+   <mi>O</mi>
+  </math>
+ </inline-formula>; 60+-y-olds, age groups 
+ <inline-formula>
+  <math id="i78">
+   <mi>i</mi>
+   <mo>=</mo>
+   <mn>12</mn>
+  </math>
+ </inline-formula> to 15). The reduction in contacts due to social distancing, 
+ <inline-formula>
+  <math id="i79">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>,</mo>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, is then determined by which of these three categories the contacter and contactee fall into, given by the block matrix
+ <disp-formula id="eq8">
+  <math id="me8">
+   <mi>q</mi>
+   <mo>=</mo>
+   <mfenced open="(" close=")">
+    <mrow>
+     <mtable align="axis" equalrows="false" columnlines="none none none none none none none none none" equalcolumns="false" class="array">
+      <mtr>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>Y</mi>
+          <mo> </mo>
+          <mi>Y</mi>
+         </mrow>
+        </msub>
+       </mtd>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>Y</mi>
+          <mo> </mo>
+          <mi>A</mi>
+         </mrow>
+        </msub>
+       </mtd>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>Y</mi>
+          <mo> </mo>
+          <mi>O</mi>
+         </mrow>
+        </msub>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>Y</mi>
+          <mo> </mo>
+          <mi>A</mi>
+         </mrow>
+        </msub>
+       </mtd>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>A</mi>
+          <mi>A</mi>
+         </mrow>
+        </msub>
+       </mtd>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>A</mi>
+          <mi>O</mi>
+         </mrow>
+        </msub>
+       </mtd>
+      </mtr>
+      <mtr>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>Y</mi>
+          <mo> </mo>
+          <mi>O</mi>
+         </mrow>
+        </msub>
+       </mtd>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>A</mi>
+          <mi>O</mi>
+         </mrow>
+        </msub>
+       </mtd>
+       <mtd columnalign="center">
+        <msub>
+         <mrow>
+          <mi>q</mi>
+         </mrow>
+         <mrow>
+          <mi>O</mi>
+          <mi>O</mi>
+         </mrow>
+        </msub>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </mfenced>
+   <mo>.</mo>
+  </math>
+  <label>[8]</label>
+ </disp-formula>We assume school closures reduce contact rates between young individuals by a factor of 
+ <inline-formula>
+  <math id="i80">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>Y</mi>
+     <mo> </mo>
+     <mi>Y</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.7</mn>
+  </math>
+ </inline-formula> and between young people and adults by 
+ <inline-formula>
+  <math id="i81">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>Y</mi>
+     <mo> </mo>
+     <mi>A</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.2</mn>
+  </math>
+ </inline-formula>. Social distancing among adults (e.g., due to workplace closures and reduction in social events) was modeled as a reduction of 
+ <inline-formula>
+  <math id="i82">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>A</mi>
+     <mi>A</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.5</mn>
+  </math>
+ </inline-formula>. Social distancing of older individuals was represented by 
+ <inline-formula>
+  <math id="i83">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>Y</mi>
+     <mo> </mo>
+     <mi>O</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.9</mn>
+  </math>
+ </inline-formula>, 
+ <inline-formula>
+  <math id="i84">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>A</mi>
+     <mi>O</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.7</mn>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="i85">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>O</mi>
+     <mi>O</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.5</mn>
+  </math>
+ </inline-formula>. For simulations with social distancing fatigue, 
+ <inline-formula>
+  <math id="i86">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>Y</mi>
+     <mo> </mo>
+     <mi>Y</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, 
+ <inline-formula>
+  <math id="i87">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>Y</mi>
+     <mo> </mo>
+     <mi>A</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="i88">
+   <msub>
+    <mrow>
+     <mi>q</mi>
+    </mrow>
+    <mrow>
+     <mi>A</mi>
+     <mi>A</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> were modeled as linearly decreasing from these initial values to 0 over the periods indicated in 
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2008087117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Fig. S3
+ </ext-link>.
+</p>

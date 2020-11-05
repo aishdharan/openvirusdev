@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="par0050">To estimate the Bayesian molecular clock phylogenies of SARS-CoV-2, Bayesian inference analyses were performed for “dataset_112” through a Markov chain Monte Carlo (MCMC) (
+ <xref rid="bib0260" ref-type="bibr">Yang and Rannala, 1997</xref>) framework implemented in BEAST v1.8.4 (
+ <xref rid="bib0050" ref-type="bibr">Drummond et al., 2012</xref>), with the BEAGLE v2.1.2 library program (
+ <xref rid="bib0235" ref-type="bibr">Suchard and Rambaut, 2009</xref>) used for computational enhancement. For model selection, we tested five coalescent tree priors for our dataset: a constant-size population (
+ <xref rid="bib0130" ref-type="bibr">Kingman, 1982</xref>), an exponential growth population with growth rate parameterization (
+ <xref rid="bib0095" ref-type="bibr">Griffiths and Tavare, 1994</xref>), another exponential growth population with doubling time parameterization (
+ <xref rid="bib0095" ref-type="bibr">Griffiths and Tavare, 1994</xref>), a Bayesian skyline tree prior (five groups, piecewise-constant model) (
+ <xref rid="bib0055" ref-type="bibr">Drummond et al., 2005</xref>), and a Bayesian Skygrid tree prior (five population sizes across our 0.2 year interval, allowing a different population size to be estimated for 14.6 days (d)) (
+ <xref rid="bib0085" ref-type="bibr">Gill et al., 2013</xref>). We kept the default option of a ‘Random starting tree’ to start the inference process. For each tree prior, we tested two clock models: a strict clock and an uncorrelated relaxed clock with log-normal distribution (UCLN) (
+ <xref rid="bib0060" ref-type="bibr">Drummond et al., 2006</xref>). In each case, we set an uninformative continuous-time Markov chain (CTMC) reference prior (
+ <xref rid="bib0075" ref-type="bibr">Ferreira and Suchard, 2008</xref>) on the molecular clock rate. For all 10 model combinations, we selected the best fitting model by marginal likelihood comparison using path-sampling (PS) and stepping-stone sampling (SS) estimations (
+ <xref rid="bib0080" ref-type="bibr">Gelman and Meng, 2020</xref>; 
+ <xref rid="bib0005" ref-type="bibr">Baele et al., 2012</xref>; 
+ <xref rid="bib0010" ref-type="bibr">Baele et al., 2013</xref>). We sampled for 100 path steps with a chain length of one million, with power posteriors determined from evenly spaced quantiles of a beta (0.3, 1.0) distribution (
+ <xref rid="bib0255" ref-type="bibr">Xie et al., 2011</xref>). All Bayesian analyses were run for 100 million MCMC steps with sampling parameters and trees every 10 000 generations. Convergence of MCMC chains was evaluated by calculating the effective sample sizes of parameters using Tracer v1.7.1 (
+ <xref rid="bib0205" ref-type="bibr">Rambaut et al., 2018</xref>). All parameters had an effective sample size &gt;200, indicative of sufficient sampling. We extracted clock rate and TMRCA estimates using Tracer v1.7.1 (
+ <xref rid="bib0205" ref-type="bibr">Rambaut et al., 2018</xref>) and identified the maximum clade credibility (MCC) tree using TreeAnnotator v1.8.4 after discarding the first 10 % as burn-in, followed by tree visualization using FigTree v1.4.4 (
+ <ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/figtree/" id="intr0020" xmlns:xlink="http://www.w3.org/1999/xlink">http://tree.bio.ed.ac.uk/software/figtree/</ext-link>).
+</p>

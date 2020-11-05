@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig0005">
+ <label>Fig. 1</label>
+ <caption>
+  <p>
+   <bold>Likelihood-mapping and split network analyses of SARS-CoV-2.</bold>
+  </p>
+  <p>Likelihood-mapping (A) and split network (B) analyses of SARS-CoV-2 for “dataset_112” are shown. For likelihood-mapping analysis, corners represent tree-like phylogenetic signals and those at sides represent network-like signals. Central area of likelihood map represents star-like signals of unresolved phylogenetic information.</p>
+ </caption>
+ <alt-text id="at0005">Fig. 1</alt-text>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

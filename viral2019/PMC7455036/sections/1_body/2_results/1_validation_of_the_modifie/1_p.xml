@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We made predictions for Guangdong and Zhejiang provinces to verify the accuracy of the model. Data of Guangdong and Zhejiang from February 3 to February 12 were used to fit the trend of 
+ <italic>φ</italic> values, and data of Guangdong and Zhejiang from February 8 to February 12 were used to fit the trend of 
+ <italic>α</italic> values. Then the fitted trend was used to predict the 
+ <italic>α</italic> value from February 13 to March 10 and 
+ <italic>φ</italic> values from February 13 to March 11. The predicted 
+ <italic>φ</italic> values were used to calculate the values of 
+ <italic>daily</italic>_
+ <italic>recover</italic>_
+ <italic>num</italic>. Then the predicted 
+ <italic>α</italic> values and values of 
+ <italic>daily</italic>_
+ <italic>recover</italic>_
+ <italic>num</italic> were integrated into the modified SIR model along with the 
+ <italic>i</italic>(
+ <italic>t</italic>),
+ <italic>s</italic>(
+ <italic>t</italic>), and 
+ <italic>r</italic>(
+ <italic>t</italic>) of February 13 to predict the 
+ <italic>i</italic>(
+ <italic>t</italic>),
+ <italic>s</italic>(
+ <italic>t</italic>), and 
+ <italic>r</italic>(
+ <italic>t</italic>) on each day. As shown in 
+ <xref ref-type="fig" rid="pone.0238411.g001">Fig 1</xref>, the predicted 
+ <italic>α</italic> values, 
+ <italic>φ</italic> values and numbers of infection cases in Guangdong and Zhejiang provinces agreed well with the real numbers before March 11, and the predicted 
+ <italic>α</italic> values decreased sharply after the implementation of Wuhan city lockdown. These results indicate the accuracy of the model. However, the predicted cases were higher than the real infection cases in Guangdong (87 vs. 68) and Zhejiang (71 vs. 6) on March 11, which may be due to the delayed effect of nationwide intensive community screening, which began on February 16 and caused a reduction in infections starting about 10 days later (from February 27), further reducing the α value.
+</p>

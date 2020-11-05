@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="T5" ref-type="table">Table 5</xref> shows the analysis for infection peak date of various countries. Many studies predicted infection peaks or trends of COVID-19 using various epidemic models.
+ <xref rid="B12" ref-type="bibr">12</xref>
+ <xref rid="B34" ref-type="bibr">34</xref>
+ <xref rid="B35" ref-type="bibr">35</xref>
+ <xref rid="B36" ref-type="bibr">36</xref>
+ <xref rid="B37" ref-type="bibr">37</xref> Most infection epidemic studies were conducted before the spread of infection, and studies analyzing the difference between the actual and predicted infection peaks after the spread of infection were not active. Analyzing these differences is very important in determining the characteristics of the epidemic itself, such as asymptomatic infection, the population density of the affected area, and social distancing. In this paper, the characteristics of mass infection and asymptomatic infection were inferred by analyzing the difference between the actual and predicted infection peaks as well as the accuracy of the used epidemic model. 
+ <xref rid="T5" ref-type="table">Table 5</xref> shows the time taken from first infected person to peak infection in various countries. The time taken to peak infection in Daegu and Gyeongbuk was achieved in a very short time compared to other countries. It may be due to mass infections through religious groups and nursing hospitals and asymptomatic infection of COVID-19. And this rapid infection peak also occurred in China and Italy. In China, the actual peak date of infection in the public data
+ <xref rid="B34" ref-type="bibr">34</xref> and the trend of 3-day average of new confired cases
+ <xref rid="B37" ref-type="bibr">37</xref> was much faster than the estimated peak date in the phase-adjusted estimation method.
+ <xref rid="B12" ref-type="bibr">12</xref> And in the case of Italy as well, the actual infection peak time in the trend of 3-day average of new confired cases
+ <xref rid="B37" ref-type="bibr">37</xref> was much faster than the predicted infection peak time in the improved epidemic dynamics model.
+ <xref rid="B35" ref-type="bibr">35</xref> This early infection peak is likely related to asymptomatic infection of COVID-19.
+ <xref rid="B35" ref-type="bibr">35</xref> used a modified SEIR model including an asymptomatic infection variable to predict the epidemic peak in Italy. As a result, the method shows a relatively small peak date difference between the actual and predicted peaks despite the large infection scale in Italy. As a result, this paper infers that in Daegu-Gyeongbuk, the high population density of religious organizations and nursing hospitals and the amplification of infections caused by asymptomatic infection of COVID-19 (long incubation period) significantly advanced the epidemic peak date compared to other countries or cities.
+</p>

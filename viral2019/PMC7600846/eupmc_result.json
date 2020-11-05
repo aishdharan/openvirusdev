@@ -1,0 +1,635 @@
+{
+  "id": [
+    "33003375"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33003375"
+  ],
+  "pmcid": [
+    "PMC7600846"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7600846"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/jcm9103148"
+  ],
+  "title": [
+    "Trajectories of Hospitalization in COVID-19 Patients: An Observational Study in France."
+  ],
+  "authorString": [
+    "Boëlle PY, Delory T, Maynadier X, Janssen C, Piarroux R, Pichenot M, Lemaire X, Baclet N, Weyrich P, Melliez H, Meybeck A, Lanoix JP, Robineau O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Boëlle PY"
+          ],
+          "firstName": [
+            "Pierre-Yves"
+          ],
+          "lastName": [
+            "Boëlle"
+          ],
+          "initials": [
+            "PY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5367-8232",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sorbonne Université, Institut Pierre Louis d'Epidémiologie et de Santé Publique, INSERM, Assistance Publique - Hôpitaux de Paris, 75012 Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Delory T"
+          ],
+          "firstName": [
+            "Tristan"
+          ],
+          "lastName": [
+            "Delory"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0165-8934",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sorbonne Université, Institut Pierre Louis d'Epidémiologie et de Santé Publique, INSERM, Assistance Publique - Hôpitaux de Paris, 75012 Paris, France."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre Hospitalier Annecy Genevois, 74370 Epagny-Metz-Tessy, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Maynadier X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Maynadier"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sorbonne Université, Institut Pierre Louis d'Epidémiologie et de Santé Publique, INSERM, Assistance Publique - Hôpitaux de Paris, 75012 Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Janssen C"
+          ],
+          "firstName": [
+            "Cécile"
+          ],
+          "lastName": [
+            "Janssen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre Hospitalier Annecy Genevois, 74370 Epagny-Metz-Tessy, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Piarroux R"
+          ],
+          "firstName": [
+            "Renaud"
+          ],
+          "lastName": [
+            "Piarroux"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sorbonne Université, Institut Pierre Louis d'Epidémiologie et de Santé Publique, INSERM, Assistance Publique - Hôpitaux de Paris, 75012 Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pichenot M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Pichenot"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre Hospitalier Victor Provot, 59000 Roubaix, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lemaire X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Lemaire"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Service Maladies infectieuses, Centre Hospitalier de Douai, 59500 Douai, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Baclet N"
+          ],
+          "firstName": [
+            "Nicolas"
+          ],
+          "lastName": [
+            "Baclet"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Lille Catholic Hospitals, F-59160 Lille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Weyrich P"
+          ],
+          "firstName": [
+            "Pierre"
+          ],
+          "lastName": [
+            "Weyrich"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Lille Catholic Hospitals, F-59160 Lille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Melliez H"
+          ],
+          "firstName": [
+            "Hugues"
+          ],
+          "lastName": [
+            "Melliez"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Service de médecine interne, Hôpital de la région de Saint-Omer, 62570 Helfaut, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Meybeck A"
+          ],
+          "firstName": [
+            "Agnès"
+          ],
+          "lastName": [
+            "Meybeck"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Service Universitaire des maladies Infectieuses et du Voyageur, 59200 Tourcoing, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lanoix JP"
+          ],
+          "firstName": [
+            "Jean-Philippe"
+          ],
+          "lastName": [
+            "Lanoix"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0463-4636",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Service de Maladies Infectieuses et tropicales, CHU Amiens-Picardie, 80000 Amiens, France."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "AGIR UR UPJV 4294, CURS, Université Picardie Jules Verne, 80000 Amiens, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Robineau O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Robineau"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sorbonne Université, Institut Pierre Louis d'Epidémiologie et de Santé Publique, INSERM, Assistance Publique - Hôpitaux de Paris, 75012 Paris, France."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Service Universitaire des maladies Infectieuses et du Voyageur, 59200 Tourcoing, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5367-8232",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0165-8934",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0463-4636",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "3020921"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med"
+          ],
+          "NLMid": [
+            "101606588"
+          ],
+          "ISSN": [
+            "2077-0383"
+          ],
+          "ESSN": [
+            "2077-0383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Describing the characteristics of COVID-19 patients in the hospital is of importance to assist in the management of hospital capacity in the future. Here, we analyze the trajectories of 1321 patients admitted to hospitals in northern and eastern France. We found that the time from onset to hospitalization decreased with age, from 7.3 days in the 20-65 year-olds to 4.5 in the >80 year-olds (p < 0.0001). Overall, the length of stay in the hospital was 15.9 days, and the death rate was 20%. One patient out of four was admitted to the intensive care unit (ICU) for approximately one month. The characteristics of trajectories changed with age: fewer older patients were admitted to the ICU and the death rate was larger in the elderly. Admission shortly after onset was associated with increased mortality (odds-ratio (OR) = 1.8, Confidence Interval (CI) 95% [1.3, 2.6]) as well as male sex (OR = 2.1, CI 95% [1.5, 2.9]). Time from admission within the hospital to the transfer to ICU was short. The age- and sex-adjusted mortality rate decreased over the course of the epidemic, suggesting improvement in care over time. In the SARS-CoV-2 epidemic, the urgent need for ICU at admission and the prolonged length of stay in ICU are a challenge for bed management and organization of care."
+  ],
+  "affiliation": [
+    "Sorbonne Université, Institut Pierre Louis d'Epidémiologie et de Santé Publique, INSERM, Assistance Publique - Hôpitaux de Paris, 75012 Paris, France."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mixture model",
+        "ICU",
+        "Hospital Mortality",
+        "Length Of Stay",
+        "Covid-19",
+        "Hospital Trajectories"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm9103148"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7600846"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7600846?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-02"
+  ],
+  "firstIndexDate": [
+    "2020-10-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-11-03"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-29"
+  ],
+  "firstPublicationDate": [
+    "2020-09-29"
+  ]
+}

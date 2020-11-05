@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>where β, δ, and γ denote the transmission rate, the infection (onset) rate, and the recovery rate, respectively. β(= 
+ <italic>R</italic>
+ <sub>0</sub>γ) is obtained by 
+ <italic>R</italic>
+ <sub>0</sub>, the initial infection-reproduction number. δ(= 1/
+ <italic>c</italic>) and γ(= 1/
+ <italic>h</italic>) are calculated by 
+ <italic>c</italic>, the incubation (latent) period, and 
+ <italic>h</italic>, the hospitalization (infectious) period, respectively. ρ(= 1/
+ <italic>d</italic>) is the rate at which people die and 
+ <italic>d</italic> is the infection-death period (i.e. days from infection to death). α is the death fatality rate.
+</p>

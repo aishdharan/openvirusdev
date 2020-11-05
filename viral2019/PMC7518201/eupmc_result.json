@@ -1,0 +1,321 @@
+{
+  "id": [
+    "33015425"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33015425"
+  ],
+  "pmcid": [
+    "PMC7518201"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7518201"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.idm.2020.07.005"
+  ],
+  "title": [
+    "Modelling the dynamics of exchanged novel coronavirus (2019-nCov) between regions in terms of time and space."
+  ],
+  "authorString": [
+    "Fioranelli M, Roccia MG, Beesham A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fioranelli M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Fioranelli"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Istituto Terapie Sistemiche Integrate, Via Flaminia 449, 00181, Rome, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roccia MG"
+          ],
+          "firstName": [
+            "Maria Grazia"
+          ],
+          "lastName": [
+            "Roccia"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Istituto Terapie Sistemiche Integrate, Via Flaminia 449, 00181, Rome, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Beesham A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Beesham"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Natural Sciences, Mangosuthu University of Technology, P O Box 12363, Umlazi, 4026, South Africa."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2895515"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Infectious Disease Modelling"
+          ],
+          "ISOAbbreviation": [
+            "Infect Dis Model"
+          ],
+          "medlineAbbreviation": [
+            "Infect Dis Model"
+          ],
+          "NLMid": [
+            "101692406"
+          ],
+          "ISSN": [
+            "2468-0427"
+          ],
+          "ESSN": [
+            "2468-0427"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "714-719"
+  ],
+  "abstractText": [
+    "To date, many models have been proposed which estimate the transmission risk of COVID-19 in terms of time; however, its dependency on space dimensions has been ignored. In this research, by multiplying risk parameters in certain regions and bridging, we obtain a stable action, which means that the transmission risk worldwide could shrink to a constant. Thus, by increasing the risk parameters in one region, the risk parameters in other regions decrease. Then, by adding space dimensions to the parameters in transmission risk models, and using the wave equations of manifolds for the regions, we obtain the dynamics of the exchanged novel coronavirus (2019-nCov) between countries. We calculate the risk factors of COVID19 for different regions in this model, and observe that they are in good agreement with experimental data."
+  ],
+  "affiliation": [
+    "Istituto Terapie Sistemiche Integrate, Via Flaminia 449, 00181, Rome, Italy."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Space",
+        "Region",
+        "Time",
+        "Transmission Risk",
+        "Covid19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.idm.2020.07.005"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7518201"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7518201?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-05"
+  ],
+  "firstIndexDate": [
+    "2020-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-18"
+  ],
+  "dateOfRevision": [
+    "2020-10-06"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-25"
+  ],
+  "firstPublicationDate": [
+    "2020-09-25"
+  ]
+}

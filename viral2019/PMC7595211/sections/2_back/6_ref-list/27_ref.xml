@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR27">
+ <label>27.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gryseels</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A near-full-length HIV-1 genome from 1966 recovered from formalin-fixed paraffin-embedded tissue</article-title>
+  <source>Proc. Natl. Acad. Sci. USA</source>
+  <year>2020</year>
+  <volume>117</volume>
+  <fpage>12222</fpage>
+  <lpage>12229</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.1913682117</pub-id>
+  <?supplied-pmid 32430331?>
+  <pub-id pub-id-type="pmid">32430331</pub-id>
+ </element-citation>
+</ref>

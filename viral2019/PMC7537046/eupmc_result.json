@@ -1,0 +1,368 @@
+{
+  "id": [
+    "PMC7537046"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7537046"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7537046"
+      ]
+    }
+  ],
+  "title": [
+    "The unique features of SARS‐CoV‐2 transmission: Comparison with SARS‐CoV, MERS‐CoV and 2009 H1N1 pandemic influenza virus"
+  ],
+  "authorString": [
+    "Wu Z, Harrich D, Li Z, Hu D, Li D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu Z"
+          ],
+          "firstName": [
+            "Zhonglan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 \n \n Ningxia Medical University"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Harrich D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Harrich"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "3 \n \n QIMR Berghofer Medical Research Institute"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhongyang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "4 \n Eastern Health Library Service Maroondah Hospital"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu D"
+          ],
+          "firstName": [
+            "Dongsheng"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "5 \n \n College of Public Health \n Zhengzhou University"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li D"
+          ],
+          "firstName": [
+            "Dongsheng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "3 \n \n QIMR Berghofer Medical Research Institute"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3004812"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Reviews in medical virology"
+          ],
+          "ISOAbbreviation": [
+            "Rev Med Virol"
+          ],
+          "medlineAbbreviation": [
+            "Rev Med Virol"
+          ],
+          "NLMid": [
+            "9112448"
+          ],
+          "ISSN": [
+            "1099-1654"
+          ],
+          "ESSN": [
+            "1099-1654"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Summary From 2002 to 2019, three deadly human coronaviruses (hCoVs), severe acute respiratory syndrome coronavirus (SARS‐CoV), Middle Eastern respiratory syndrome coronavirus (MERS‐CoV) and severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) emerged to produce outbreaks of SARS, MERS and coronavirus disease 2019 (Covid‐19), respectively. All three hCoVs are members of the Betacoronavirus genus in the subfamily Orthocoronavirinae and share many similarities in virology and epidemiology. However, the pattern and scale of Covid‐19 global spread is similar to 2009 pandemic H1N1 influenza (H1N1pdm09), rather than SARS or MERS. Covid‐19 exhibits high viral shedding in the upper respiratory tract at an early stage of infection, and has a high proportion of transmission competent individuals that are pre‐symptomatic, asymptomatic and mildly symptomatic, characteristics seen in H1N1pdm09 but not in SARS or MERS. These two traits of Covid‐19 and H1N1pdm09 result in reduced efficiency in identification of transmission sources by symptomatic screening and play important roles in their ability to spread unchecked to cause pandemics. To overcome these attributes of Covid‐19 in community transmission, identifying the transmission source by testing for virus shedding and interrupting chains of transmission by social distancing and public masking are required."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "book-review",
+        "Book Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "SARS",
+        "Pandemic influenza",
+        "Viral Shedding",
+        "Mers",
+        "Covid‐19",
+        "Pre‐Symptomatic Infection"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537046/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537046/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7537046"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7537046?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-09"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-09"
+  ],
+  "dateOfRevision": [
+    "2020-10-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-18"
+  ],
+  "firstPublicationDate": [
+    "2020-09-18"
+  ]
+}

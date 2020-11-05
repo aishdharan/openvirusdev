@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR38">
+ <label>38.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peng</surname>
+    <given-names>X-L</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>X-J</given-names>
+   </name>
+   <name>
+    <surname>Fu</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>Vaccination intervention on epidemic dynamics in networks</article-title>
+  <source>Phys Rev E</source>
+  <year>2013</year>
+  <volume>87</volume>
+  <issue>2</issue>
+  <fpage>022813</fpage>
+ </element-citation>
+</ref>

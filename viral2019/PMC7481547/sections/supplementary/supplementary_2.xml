@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplementary-material content-type="local-data" id="MOESM1">
+ <media xlink:href="12917_2020_2548_MOESM1_ESM.pptx" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <caption>
+   <p>
+    <bold>Additional file 1: Supplementary Figure 1.</bold> Whole genome comparison of prototype German PEDV strains from 2014 and 2019. The figure compares the first reported PEDV strain from Germany in 2014 and a representative strain taken from the current outbreak in 2019. Over the whole genome, 135 nucleotide differences are observed that are mainly located in the S-gene (64 out of 135). It can be seen in the magnification of the S-gene and its 5’ end, that changes, i.e. small insertions and nucleotide differences, are mainly located there. 
+    <bold>Supplementary Table 1.</bold> S gene sequence identities of recent PEDV genomes. The S gene sequences were aligned using MAFFT from the Geneious Prime software suite (v. 2019.2.3; Biomatters Ltd, Auckland, New Zealand) and sequence identities were exported from Geneious. Green color indicates the strains from the case farm in Germany in 2019, blue sequences mark the PEDV strains from Hungary and France reported in 2019, and representative NON-INDEL strains from the USA and China are highlighted in red.
+   </p>
+  </caption>
+ </media>
+</supplementary-material>

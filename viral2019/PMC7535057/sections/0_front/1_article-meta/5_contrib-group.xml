@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0001-9716-6899</contrib-id>
+  <name>
+   <surname>Sacchetto</surname>
+   <given-names>Lívia</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Visualization</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Silva</surname>
+   <given-names>Natalia Ingrid Oliveira</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Visualization</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>de Rezende</surname>
+   <given-names>Izabela Maurício</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arruda</surname>
+   <given-names>Matheus Soares</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Costa</surname>
+   <given-names>Thais Alkifeles</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>de Mello</surname>
+   <given-names>Érica Munhoz</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Oliveira</surname>
+   <given-names>Gabriela Fernanda Garcia</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-9659-5621</contrib-id>
+  <name>
+   <surname>Alves</surname>
+   <given-names>Pedro Augusto</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>de Mendonça</surname>
+   <given-names>Vítor Emídio</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Stumpp</surname>
+   <given-names>Rodolfo German Antonelli Vidal</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Prado</surname>
+   <given-names>Alaine Izabela Alves</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Paglia</surname>
+   <given-names>Adriano Pereira</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Project administration</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Perini</surname>
+   <given-names>Fernando Araújo</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Project administration</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lacerda Nogueira</surname>
+   <given-names>Maurício</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff006">
+   <sup>6</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kroon</surname>
+   <given-names>Erna Geessien</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>de Thoisy</surname>
+   <given-names>Benoit</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff007">
+   <sup>7</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Trindade</surname>
+   <given-names>Giliane de Souza</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-4049-4055</contrib-id>
+  <name>
+   <surname>Drumond</surname>
+   <given-names>Betânia Paiva</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Project administration</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Visualization</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor001">*</xref>
+ </contrib>
+</contrib-group>

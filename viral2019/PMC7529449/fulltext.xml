@@ -1,0 +1,475 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Lat Am Enfermagem</journal-id><journal-id journal-id-type="publisher-id">rlae</journal-id><journal-title-group><journal-title>Revista Latino-Americana de Enfermagem</journal-title></journal-title-group><issn pub-type="ppub">0104-1169</issn><issn pub-type="epub">1518-8345</issn><publisher><publisher-name>Escola de Enfermagem de Ribeir&#x000e3;o Preto / Universidade de S&#x000e3;o
+Paulo</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7529449</article-id><article-id pub-id-type="other">00410</article-id><article-id pub-id-type="doi">10.1590/1518-8345.3614.3365</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Economic and epidemiological evaluation of text message-based
+interventions in patients with the Human Immunodeficiency Virus<xref ref-type="fn" rid="fn1">*</xref>
+</article-title><trans-title-group xml:lang="pt"><trans-title>Avalia&#x000e7;&#x000e3;o econ&#x000f4;mica e epidemiol&#x000f3;gica de interven&#x000e7;&#x000f5;es baseadas em
+mensagens de texto em pacientes com o V&#x000ed;rus da Imunodefici&#x000ea;ncia Humana
+</trans-title></trans-title-group><trans-title-group xml:lang="es"><trans-title>Evaluaci&#x000f3;n econ&#x000f3;mica y epidemiol&#x000f3;gica de intervenciones basadas en
+mensajes de texto en pacientes con el Virus de la Inmunodeficiencia Humana
+</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1943-4525</contrib-id><name><surname>dos Santos</surname><given-names>Wendel Mombaque</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-9735-6502</contrib-id><name><surname>Primeira</surname><given-names>Marcelo Ribeiro</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5471-148X</contrib-id><name><surname>de Paiva</surname><given-names>Larissa Garcia</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3272-054X</contrib-id><name><surname>Padoin</surname><given-names>Stela Maris de Mello</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>Empresa Brasileira de Servi&#x000e7;os Hospitalares, Hospital Universit&#x000e1;rio
+de Santa Maria, Santa Maria, RS, Brazil.</aff><aff id="aff2">
+<label>2</label>Universidade Federal de Santa Maria, Departamento de Enfermagem,
+Santa Maria, RS, Brazil.</aff><aff id="aff3">
+<label>3</label>Scholarship holder at the Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento de Pessoal
+de N&#x000ed;vel Superior (CAPES), Brazil.</aff><author-notes><corresp id="c1">Corresponding author: Wendel Mombaque dos Santos E-mail:
+<email>wendelmombaque@hotmail.com</email></corresp><fn fn-type="edited-by"><p>Associate editor: Andrea Bernardes</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>30</day><month>9</month><year>2020</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2020</year></pub-date><volume>28</volume><elocation-id>e3365</elocation-id><history><date date-type="received"><day>31</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>08</day><month>5</month><year>2020</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2020 Revista Latino-Americana de
+Enfermagem</copyright-statement><copyright-year>2020</copyright-year><copyright-holder>Revista Latino-Americana de Enfermagem</copyright-holder><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is
+properly cited.</license-p></license></permissions><abstract><sec><title>Objective:</title><p>to evaluate the cost-effectiveness ratio and the budget impact of sending
+text messages associated with medical consultations in order to reduce the
+viral load of patients infected with the Human Immunodeficiency Virus.</p></sec><sec><title>Method:</title><p>a randomized clinical trial, basis for the development of a dynamic cohort
+model with Markov states in order to compare medical appointments for adults
+infected with the Human Immunodeficiency Virus <italic>versus</italic> the
+alternative strategy that associated medical consultations to sending text
+messages through telephone.</p></sec><sec><title>Results:</title><p>156 adults participated in the study. As for the viral load, it was verified
+that in the control group there was an increase, in the intervention group A
+(weekly messages) there was a reduction (p = 0.002) and in group B (biweekly
+messages) there was no statistically significant difference. Sending text
+messages would prevent 286,538 new infections by the Human Immunodeficiency
+Virus and 282 deaths in the 20-year period, compared to the standard
+treatment. The alternative strategy would result in saving R$ 14 billion in
+treatment costs.</p></sec><sec><title>Conclusion:</title><p>weekly sending messages in association with the standard treatment can reduce
+the circulating viral load due to its effect in decreasing new infections,
+in addition to reducing health costs.</p></sec></abstract><trans-abstract xml:lang="pt"><sec><title>Objetivo:</title><p>avaliar a raz&#x000e3;o custo-efetividade e o impacto or&#x000e7;ament&#x000e1;rio do envio de
+mensagens de texto, associadas &#x000e0;s consultas m&#x000e9;dicas, para redu&#x000e7;&#x000e3;o da carga
+viral de pacientes infectados com o V&#x000ed;rus da Imunodefici&#x000ea;ncia Humana.</p></sec><sec><title>M&#x000e9;todo:</title><p>ensaio cl&#x000ed;nico randomizado, base para o desenvolvimento de um modelo de
+coorte din&#x000e2;mica com estados de Markov a fim de comparar consultas m&#x000e9;dicas
+para adultos infectados pelo V&#x000ed;rus da Imunodefici&#x000ea;ncia Humana
+<italic>versus</italic> a estrat&#x000e9;gia alternativa que associou consultas
+m&#x000e9;dicas, ao envio de mensagens de texto pelo telefone.</p></sec><sec><title>Resultados:</title><p>participaram do estudo 156 adultos. Quanto &#x000e0; carga viral, foi verificado que
+no grupo controle houve aumento, no grupo interven&#x000e7;&#x000e3;o A (mensagens semanais)
+houve redu&#x000e7;&#x000e3;o (p=0,002) e no grupo B (mensagens quinzenais) n&#x000e3;o houve
+diferen&#x000e7;a estatisticamente significante. O envio de mensagens de texto
+evitaria 286.538 novas infec&#x000e7;&#x000f5;es pelo V&#x000ed;rus da Imunodefici&#x000ea;ncia Humana e 282
+mortes no per&#x000ed;odo de 20 anos, ao comparar com o tratamento padr&#x000e3;o. A
+estrat&#x000e9;gia alternativa resultaria em uma economia de R$ 14 bilh&#x000f5;es nos
+custos de tratamento.</p></sec><sec><title>Conclus&#x000e3;o:</title><p>o envio semanal de mensagens em associa&#x000e7;&#x000e3;o ao tratamento padr&#x000e3;o pode reduzir
+a carga viral circulante por seu efeito na diminui&#x000e7;&#x000e3;o de novas infe&#x000e7;&#x000f5;es,
+al&#x000e9;m da redu&#x000e7;&#x000e3;o de custos em sa&#x000fa;de.</p></sec></trans-abstract><trans-abstract xml:lang="es"><sec><title>Objetivo:</title><p>evaluar la relaci&#x000f3;n costo-efectividad y el impacto presupuestario del env&#x000ed;o
+de mensajes de texto, asociados con consultas m&#x000e9;dicas, para reducir la carga
+viral de pacientes infectados con el Virus de Inmunodeficiencia Humana.</p></sec><sec><title>M&#x000e9;todo:</title><p>ensayo cl&#x000ed;nico aleatorizado, que sirve de base para el desarrollo de un
+modelo de cohorte din&#x000e1;mico con estados de Markov para comparar consultas
+m&#x000e9;dicas para adultos infectados con el Virus de Inmunodeficiencia Humana
+versus la estrategia alternativa que consisti&#x000f3; en asociar las consultas
+m&#x000e9;dicas al env&#x000ed;o de mensajes de texto por tel&#x000e9;fono m&#x000f3;vil.</p></sec><sec><title>Resultados:</title><p>156 adultos participaron en el estudio. En cuanto a la carga viral, se
+encontr&#x000f3; que en el grupo control hubo aumento, en el grupo de intervenci&#x000f3;n A
+(mensajes semanales) hubo una reducci&#x000f3;n (p = 0,002) y en el grupo B
+(mensajes quincenales) no hubo diferencias estad&#x000ed;sticamente significativas.
+El env&#x000ed;o de mensajes de texto podr&#x000ed;a evitar 286.538 nuevas infecciones por
+el Virus de Inmunodeficiencia Humana y 282 muertes en el per&#x000ed;odo de 20 a&#x000f1;os,
+en comparaci&#x000f3;n con el tratamiento est&#x000e1;ndar. La estrategia alternativa
+resultar&#x000ed;a en un ahorro de R$ 14 mil millones en costos de tratamiento</p></sec><sec><title>Conclusi&#x000f3;n:</title><p>el env&#x000ed;o semanal de mensajes de forma complementaria al tratamiento est&#x000e1;ndar
+puede reducir la carga viral circulante debido a su efecto en la disminuci&#x000f3;n
+de nuevas infecciones, adem&#x000e1;s de reducir los costos en materia de salud.</p></sec></trans-abstract><kwd-group><title>Descriptors:</title><kwd>HIV</kwd><kwd>Costs and Cost Analysis</kwd><kwd>Text Messaging</kwd><kwd>Controlled Clinical Trial</kwd><kwd>Cost-Benefit Analysis</kwd><kwd>Communicable Diseases</kwd></kwd-group><kwd-group xml:lang="pt"><title>Descritores:</title><kwd>HIV</kwd><kwd>Custos e An&#x000e1;lise de Custo</kwd><kwd>Envio de Mensagens de Texto</kwd><kwd>Ensaio Cl&#x000ed;nico Controlado</kwd><kwd>An&#x000e1;lise Custo-Benef&#x000ed;cio</kwd><kwd>Doen&#x000e7;as Transmiss&#x000ed;veis</kwd></kwd-group><kwd-group xml:lang="es"><title>Descriptores:</title><kwd>VIH</kwd><kwd>Costos y An&#x000e1;lisis de Costo</kwd><kwd>Env&#x000ed;o de Mensajes de Texto</kwd><kwd>Ensayo Cl&#x000ed;nico Controlado</kwd><kwd>An&#x000e1;lisis Costo-Beneficio</kwd><kwd>Enfermedades Transmisibles</kwd></kwd-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Infections caused by the Human Immunodeficiency Virus (HIV) have shown a progressive
+increase over time since the first identified cases of the disease<sup>(</sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+<sup>)</sup>. After the appearance and registration of these cases, dating from the
+early 1980s, approximately 70 million people contracted the infection and, of these,
+about 35 million died<sup>(</sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+<sup>)</sup>.</p><p>Currently, it is estimated that approximately 37 million people live with HIV in the
+world, characterizing it as one of the main threats to public health, especially in
+low or middle income countries<sup>(</sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+<sup>)</sup>. Despite all the progress made in recent years and the reduction of
+annual infections by 3% in the period from 2007 to 2017, this infection continues to
+spread throughout the world, leading to 1.8 million new infections/year and 1
+million deaths/year<sup>(</sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+<sup>)</sup>.</p><p>An example of one of the greatest progresses made in combating this epidemic was the
+discovery of anti-retroviral treatment (ART) for HIV infection, but its
+effectiveness and efficiency depend on a series of factors associated with patient
+compliance. For this reason, the assessment of adherence has been verified by
+different mechanisms, such as real-time assessment and the verification of the
+concentration of ART in the hair or blood<sup>(</sup>
+<xref rid="B2" ref-type="bibr">2</xref>
+<sup>-</sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+<sup>)</sup>. The adoption of measures to assess adherence is essential, as
+inadequate adherence to ART causes an increase in circulating viral load and,
+consequently, directly interferes in the control of infection and disease
+progression<sup>(</sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+<sup>-</sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+<sup>)</sup>. In addition, there is an impact on the patient&#x02019;s life expectancy and
+influence on medical costs related to the progression of the disease, complications,
+hospitalizations and the treatment of new infections, with adherence being the
+primary factor for the control of this infection and the early detection of
+HIV<sup>(</sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+<sup>)</sup>.</p><p>In Brazil, ART, as we currently know it, was introduced in 1996 with the principles
+of universal and free access to the health services and medications, in accordance
+with the Brazilian health system policy<sup>(</sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+<sup>-</sup>
+<xref rid="B6" ref-type="bibr">6</xref>
+<sup>)</sup>. This policy has achieved good results, mainly in terms of reducing
+morbidity and mortality, reducing hospitalizations and treatment costs, leading to
+rates similar to those of developed countries<sup>(</sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+<sup>-</sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+<sup>)</sup>.</p><p>However, this success achieved by Brazilian health policy still faces the poor
+adherence of patients to ART, which goes beyond free access to treatment, since it
+depends on the patient&#x02019;s ability to overcome the barriers that negatively impact
+their adherence<sup>(</sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+<sup>,</sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+<sup>-</sup>
+<xref rid="B10" ref-type="bibr">10</xref>
+<sup>)</sup>. In this sense, there is a need for investment in actions and
+strategies that can mitigate the cultural, social, and economic differences of these
+patients, collaborating in improving the adherence and effectiveness of ART, which
+must be proposed by health services and supported by public health
+policies<sup>(</sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+<sup>,</sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+<sup>,</sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+<sup>-</sup>
+<xref rid="B11" ref-type="bibr">11</xref>
+<sup>)</sup>.</p><p>In recent years, some systematic reviews have shown that interventions based on
+medical consultations, nursing consultations, telephone calls, text messaging,
+financial incentives and behavioral therapy have improved adherence to ART, but none
+has carried out an assessment from an economic and epidemiological perspective,
+aiming to demonstrate how these interventions interfere in the long term in the
+incidence of new cases<sup>(</sup>
+<xref rid="B3" ref-type="bibr">3</xref>
+<sup>-</sup>
+<xref rid="B4" ref-type="bibr">4</xref>
+<sup>,</sup>
+<xref rid="B9" ref-type="bibr">9</xref>
+<sup>,</sup>
+<xref rid="B12" ref-type="bibr">12</xref>
+<sup>-</sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+<sup>)</sup>. In this sense, non-medication and cost-effective interventions, from
+an economic point of view, such as sending text messages, can help maintain
+adherence throughout ART without dispensing high costs to the health system and with
+easy applicability for large populations regardless of their location and facility
+to the health system<sup>(</sup>
+<xref rid="B7" ref-type="bibr">7</xref>
+<sup>,</sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+<sup>-</sup>
+<xref rid="B15" ref-type="bibr">15</xref>
+<sup>)</sup>. In addition, few studies estimate the impact of these interventions on
+the population scenario, considering their costs and the possibility of reducing new
+infections.</p><p>Thus, this study aimed to assess the cost-effectiveness ratio and the budget impact
+of sending text messages associated with medical consultations in order to reduce
+the viral load of HIV-infected patients. Additionally, the number of new infections
+prevented and the budget impact were evaluated as a way to propose a cost-effective
+action to improve adherence and decrease HIV infection rates.</p></sec><sec sec-type="methods"><title>Method</title><p>This is a randomized controlled trial (RCT) that served as a basis for the
+development of a dynamic cohort model with Markov states to compare the standard
+treatment (isolated medical visits) for HIV-infected people <italic>versus</italic>
+the alternative strategy (medical visits and sending text messages). The Markov
+model is indicated for use in dynamic models of transmission of infectious diseases,
+since this model is capable of simulating interactions among human beings and how
+these interactions affect the spread of a disease, HIV in the case of this study,
+throughout time<sup>(</sup>
+<xref rid="B16" ref-type="bibr">16</xref>
+<sup>)</sup>. In addition, this model allows for the inclusion of details relevant
+to the spread of these diseases, such as different mortality rates, birth rates, and
+probability of infection according to the severity of the pathology<sup>(</sup>
+<xref rid="B16" ref-type="bibr">16</xref>
+<sup>)</sup>.</p><p>Text messages are also known for their acronym, SMS (Short Message Service),
+compatible with practically every mobile phone today. In order to increase the
+transparency of the economic model of the proposed study, this study was prepared
+according to the recommendations of the CHEERS Task Force Report
+checklist<sup>(</sup>
+<xref rid="B17" ref-type="bibr">17</xref>
+<sup>)</sup>.</p><p>Conducting the RCT was necessary due to the lack of information in the literature
+regarding the best frequency of sending text messages to reduce viral load in the
+context of the public health system in Brazil. The prospective and double-blind RCT
+was performed at the University Hospital of Santa Maria, linked to the Federal
+University of Santa Maria, from July 2016 to October 2018, in order to assess the
+impact on the viral load of sending SMS. The referred Hospital assists approximately
+1,200 people infected with HIV, of whom 500 are being followed up at the infectious
+disease outpatient clinic and the others attend the service for laboratory tests and
+medication withdrawal. This study was approved by the Research Ethics Committee of
+the Federal University of Santa Maria and published in the Brazilian Registry of
+Clinical Trials, under the RBR-9nt9hv identifier.</p><p>The population was composed of adults infected with HIV and who had been on ART for
+at least 3 months. The exclusion criteria were the following: presenting some
+limitation that would make it difficult to understand or express themselves verbally
+and being in prison, due to the unavailability of access to cell phones.</p><p>For the sample calculation, &#x003b1; = 0.05, &#x003b2; = 0.2, q1 = 0.25; q2 = 0.25, q0 = 0.5, P0 =
+0.85, and P1 = 0.6 were considered, using the following formula: <inline-formula><mml:math id="e01"><mml:mrow><mml:mstyle mathsize="12.0pt"><mml:mi>A</mml:mi><mml:mo>=</mml:mo><mml:mi>Za</mml:mi><mml:msqrt><mml:mrow><mml:mi>P</mml:mi><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>P</mml:mi></mml:mrow></mml:mfenced><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mi>q</mml:mi><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mi>q</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:mfenced></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mi>.</mml:mi><mml:mn>750</mml:mn><mml:mi>;</mml:mi><mml:mspace/><mml:mi>B</mml:mi><mml:mo>=</mml:mo><mml:mi>Z</mml:mi><mml:mo>&#x003b2;</mml:mo><mml:msqrt><mml:mrow><mml:mi>P</mml:mi><mml:mn>1</mml:mn><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>P</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:mfenced><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>q</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:mi>P</mml:mi><mml:mn>0</mml:mn><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>P</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:mfenced><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mi>q</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:mfenced></mml:mrow></mml:msqrt><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mi>.</mml:mi><mml:mn>722</mml:mn><mml:mi>;</mml:mi><mml:mspace/><mml:mi>C</mml:mi><mml:mo>=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mi>P</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:mi>P</mml:mi><mml:mn>0</mml:mn></mml:mrow></mml:mfenced><mml:mn>2</mml:mn><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mi>.</mml:mi><mml:mn>063</mml:mn><mml:mi>;</mml:mi><mml:mspace/><mml:mi>Total</mml:mi><mml:mspace/><mml:mi>Pop</mml:mi><mml:mi>.</mml:mi><mml:mo>=</mml:mo><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mi>B</mml:mi><mml:mo>+</mml:mo><mml:mi>C</mml:mi></mml:mrow></mml:mfenced><mml:mn>2</mml:mn><mml:mo>/</mml:mo><mml:mi>C</mml:mi><mml:mo>=</mml:mo><mml:mn>147</mml:mn><mml:mi>.</mml:mi></mml:mstyle></mml:mrow></mml:math></inline-formula>. When the formula was applied, a minimum total population of 147
+participants was obtained. The selection of participants was carried out in a
+randomized way by simple draw.</p><p>The interventions were carried out according to the following groups:</p><p>
+<list list-type="bullet"><list-item><p>Control group &#x02013; They received reminders of consultations with an
+infectious disease physician containing date and time and monthly check
+for receipt of messages.</p></list-item><list-item><p>Intervention group A &#x02013; They received reminders of consultations with an
+infectious disease physician containing date and time, monthly check for
+receipt of messages, and a weekly social support text message.</p></list-item><list-item><p>Intervention group B &#x02013; They received reminders of consultations with an
+infectious disease physician with date and time, monthly check for
+messages, and a biweekly social support text message.</p></list-item></list>
+</p><p>The monthly check for the receipt of text messages consisted of sending a message
+every 30 days, in which the patient should answer this message with a requested
+number and letter. This confirmation aims to ensure that the study participants were
+still receiving and reading the messages that were sent to them.</p><p>There was no group with daily and monthly messages, based on studies that showed that
+these sending frequencies are less effective than the weekly or biweekly ones, and
+the text messages used in the intervention groups are based on the conceptual
+framework of social support<sup>(</sup>
+<xref rid="B12" ref-type="bibr">12</xref>
+<sup>,</sup>
+<xref rid="B18" ref-type="bibr">18</xref>
+<sup>-</sup>
+<xref rid="B19" ref-type="bibr">19</xref>
+<sup>)</sup>. The messages sent did not inform the diagnosis of HIV infection,
+respecting the patients&#x02019; privacy. The messages were sent in the following order
+based on social support domains and, at the end of the last message (number 6), it
+returned to the initial message (number 1)<sup>(</sup>
+<xref rid="B19" ref-type="bibr">19</xref>
+<sup>)</sup>:</p><p>
+<list list-type="order"><list-item><p>Keep strong. We at the Santa Maria University Hospital care and take care
+of you.</p></list-item><list-item><p>Everyone feels sad at times. Remember that you can talk about depression
+at your next appointment.</p></list-item><list-item><p>Smile, breathe, and go ahead.</p></list-item><list-item><p>Invest in your health. Remember to eat healthy foods and practice
+physical activities.</p></list-item><list-item><p>Be active in your health. Keep your appointments scheduled.</p></list-item><list-item><p>Have you taken your medication? They help, even if you think they are not
+working.</p></list-item></list>
+</p><p>Data collection was carried out by applying a questionnaire to characterize the
+population of adults infected with HIV, which occurred at 2 different moments:
+Moment 1 &#x02013; Questionnaires for characterization of the population and viral load
+(month 0); Moment 2 &#x02013; Viral load (month 6).</p><p>Data analysis was performed by means of a descriptive analysis of the variables and
+multiple linear regression in order to assess the hazard ratio for the reduction of
+viral load values, considering viral suppression (viral load below 50
+copies/ml).</p><p>The dynamic cohort model was based on a hypothetical cohort of 210,659,013
+individuals in Brazil in 2019, of which 827,000 were infected with HIV, being
+studied for a period of 20 years. The analysis was performed in the TreeAge Pro
+2019r software (TreeAge Software Inc., Williamstown, MA).</p><p>The model was based on HIV infection prevalence rates in Brazil considering the year
+2017<sup>(</sup>
+<xref rid="B1" ref-type="bibr">1</xref>
+<sup>,</sup>
+<xref rid="B20" ref-type="bibr">20</xref>
+<sup>)</sup>. The 20-year period was chosen to demonstrate the HIV infection chain,
+in which it is important to keep infected people on viral suppression to avoid the
+risk of transmitting the virus. In this scenario, possible outbreaks of infection
+were not considered.</p><p>The analysis compared two strategies: the standard treatment provided by the Unified
+Health System (<italic>Sistema</italic> &#x000da;nico <italic>de Sa&#x000fa;de</italic>, SUS) and an
+alternative strategy with the inclusion of sending text messages to the standard
+treatment (the most effective sending frequency). According to the model diagram
+(<xref ref-type="fig" rid="f1">Figure 1</xref>), the treatment strategy
+considers four transition states, which are changed in annual cycles:</p><p>
+<list list-type="bullet"><list-item><p>People not infected with HIV, that is, are susceptible to infection. At
+each cycle they may remain uninfected, acquire HIV infection or evolve
+to death.</p></list-item><list-item><p>People infected with HIV and with a viral load above 50 copies/ml, that
+is, are the people who have the possibility of transmitting the virus.
+At each cycle they can remain infected, evolve to undetectable viral
+load or evolve to death.</p></list-item><list-item><p>People undergoing treatment and with an undetectable viral load (viral
+load below 50 copies/ml), that is, they have HIV, but do not have the
+possibility of transmitting the virus. At each cycle they can have
+detectable viral load or evolve to death.</p></list-item><list-item><p>People who die, which may or may not be related to the infection
+situation. People who are in this cycle do not have the possibility to
+change to another state of health.</p></list-item></list>
+</p><p>
+<fig id="f1" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Markov Model</title></caption><graphic xlink:href="0104-1169-rlae-28-e3365-gf01"/></fig>
+</p><p>The economic analysis was carried out from the perspective of the SUS. The
+perspective of the public health system included direct medical costs (medical
+consultation, medication, laboratory tests, and hospitalizations due to
+complications). The costs were estimated in reais, with reference to the year 2018
+(US$ = 1.00 - R$ 3.89). Future costs and effectiveness were discounted at 5%
+<italic>per</italic> year.</p><p>The effectiveness data were based on data from the RCT (reduction of viral load) and
+on data from the literature (general infection rate)<sup>(</sup>
+<xref rid="B21" ref-type="bibr">21</xref>
+<sup>-</sup>
+<xref rid="B24" ref-type="bibr">24</xref>
+<sup>)</sup>. In the model, an estimate was made that, in 2018, approximately 90% of
+the HIV-infected patients were aware of their serological condition<sup>(</sup>
+<xref rid="B5" ref-type="bibr">5</xref>
+<sup>)</sup>.</p><p>The cost data were estimated on the cost of sending a weekly text message for a
+period of 1 year, the costs of treating people with an undetectable viral load, and
+the cost of treating people with a detectable viral load. The cost of the treatment
+considered the possibility of hospitalizations, as well as the greater or lesser
+need for laboratory tests.</p><p>The multivariate analysis verified the impact of the set of variables on the model,
+which was performed by Monte Carlo simulation (100,000 interactions), which randomly
+chooses values from the parameter distributions to jointly estimate the costs and
+effects of each strategy.</p><p>The variables and values used to estimate the parameters for the distributions were
+described in <xref rid="t1" ref-type="table">Table 1</xref>.</p><table-wrap id="t1" orientation="portrait" position="float"><label>Table 1</label><caption><title>Model parameters. Santa Maria, RS, Brazil, 2018</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col width="70%" span="1"/><col width="30%" span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">Parameter</th><th align="center" rowspan="1" colspan="1">Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Initial population - Not infected with HIV</td><td align="center" rowspan="1" colspan="1">210,659,013</td></tr><tr><td align="left" rowspan="1" colspan="1">Initial population - HIV infected</td><td align="center" rowspan="1" colspan="1">285,150</td></tr><tr><td align="left" rowspan="1" colspan="1">Initial population - Infected with HIV and viral load
+below 50 copies/ml</td><td align="center" rowspan="1" colspan="1">541,850</td></tr><tr><td align="left" rowspan="1" colspan="1">Initial population - Dead</td><td align="center" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Time horizon<xref ref-type="table-fn" rid="TFN1">*</xref>
+</td><td align="center" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1">Cycles per year</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual mortality rate - Not infected with HIV</td><td align="center" rowspan="1" colspan="1">0.00647</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual mortality rate - HIV infected</td><td align="center" rowspan="1" colspan="1">0.0066284</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual mortality rate - Infected with HIV and viral
+load below 50 copies/ml</td><td align="center" rowspan="1" colspan="1">0.006518</td></tr><tr><td align="left" rowspan="1" colspan="1">Natality</td><td align="center" rowspan="1" colspan="1">0.01461</td></tr><tr><td align="left" rowspan="1" colspan="1">Discount rate</td><td align="center" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">Utility - Not infected with HIV</td><td align="center" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Utility - HIV infected</td><td align="center" rowspan="1" colspan="1">0.50</td></tr><tr><td align="left" rowspan="1" colspan="1">Utility - Infected with HIV and viral load below 50
+copies/ml</td><td align="center" rowspan="1" colspan="1">0.70</td></tr><tr><td align="left" rowspan="1" colspan="1">Infection rate<sup><xref ref-type="table-fn" rid="TFN2">&#x02020;</xref></sup>
+</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual cost<sup><xref ref-type="table-fn" rid="TFN3">&#x02021;</xref></sup> - HIV infected</td><td align="center" rowspan="1" colspan="1">7,430.56</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual cost<sup><xref ref-type="table-fn" rid="TFN3">&#x02021;</xref></sup> - Infected with HIV and viral load below 50 copies/ml</td><td align="center" rowspan="1" colspan="1">3,867.75</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual cost<sup><xref ref-type="table-fn" rid="TFN3">&#x02021;</xref></sup> - Weekly SMS</td><td align="center" rowspan="1" colspan="1">12.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Effectiveness - SMS<sup><xref ref-type="table-fn" rid="TFN4">&#x000a7;</xref></sup>
+</td><td align="center" rowspan="1" colspan="1">1.2683</td></tr><tr><td align="left" rowspan="1" colspan="1">Effectiveness - Standard treatment</td><td align="center" rowspan="1" colspan="1">0.101030524</td></tr></tbody></table><table-wrap-foot><fn id="TFN1"><label>*</label><p>In years;</p></fn><fn id="TFN2"><label>&#x02020;</label><p>Beta distribution;</p></fn><fn id="TFN3"><label>&#x02021;</label><p>Value expressed in reais;</p></fn><fn id="TFN4"><label>&#x000a7;</label><p>Hazard ratio</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="results"><title>Results</title><p>Initially, 168 individuals participated in the study; however, only 156 completed the
+RCT. Among the individuals who did not complete the research, 1 withdrew, 1 died,
+and 10 did not show up for final data collection, resulting in 51 participants in
+the control group, 53 in intervention group A, and 52 in intervention group B. They
+were predominantly female (57.1%; n = 89), lived with a spouse or a partner (51.3%;
+n = 80), and HIV infection occurred through sexual transmission (69.9%; n =
+109).</p><p>
+<fig id="f2" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Flowchart of the randomized clinical trial</title></caption><graphic xlink:href="0104-1169-rlae-28-e3365-gf02"/></fig>
+</p><p>Regarding the circulating viral load values according to the groups, it was verified
+that, in the control group, there was an increase in the studied period (pre viral
+load = 2,638.85; post viral load = 11,890.31; p = 0.001), in intervention group A
+(weekly SMS sending) there was a reduction in the studied period (pre viral load =
+4,598.92; post viral load = 5.68; p = 0.002) and, in group B (biweekly SMS sending)
+there was no statistically significant difference in the studied period (pre viral
+load = 854.11, post viral load = 3.367,83; p = 0.649). Thus, sending weekly SMSs was
+1.26 times more likely to have a viral load below 50 copies/ml when compared to the
+group not submitted to intervention.</p><p>The dynamic cohort model estimated that, with the standard treatment in the 2019
+cohort, 29,386,767 people would die and 2,011,964 would be infected with HIV in the
+20-year period. These cases would result in R$ 141 billion in total treatment costs.
+The alternative strategy (SMS) would avoid 286,538 new HIV infections and 282 deaths
+in the 20-year period when compared to the standard treatment. The alternative
+strategy would result in saving R$ 14 billion in treatment costs (<xref rid="t2" ref-type="table">Table 2</xref>).</p><table-wrap id="t2" orientation="portrait" position="float"><label>Table 2</label><caption><title>Comparison between standard and SMS treatment over 20 years. Santa Maria,
+RS, Brazil, 2018</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/><col width="9%" span="1"/></colgroup><thead><tr style="border-bottom-width:thin;border-bottom-style:solid"><th align="center" rowspan="1" colspan="1">Year</th><th align="center" colspan="2" rowspan="1">Population without<break/>HIV
+infection</th><th align="center" colspan="2" rowspan="1">Population with<break/>HIV infection</th><th align="center" colspan="2" rowspan="1">Population with<break/>HIV infection and
+undetectable viral load</th><th align="center" colspan="2" rowspan="1">Deaths total population</th><th align="center" colspan="2" rowspan="1">Cumulative cost</th></tr><tr><th align="center" rowspan="1" colspan="1">&#x000a0;</th><th align="center" rowspan="1" colspan="1">Current Scenario</th><th align="center" rowspan="1" colspan="1">SMS Scenario</th><th align="center" rowspan="1" colspan="1">Current Scenario</th><th align="center" rowspan="1" colspan="1">SMS Scenario</th><th align="center" rowspan="1" colspan="1">Current Scenario</th><th align="center" rowspan="1" colspan="1">SMS Scenario</th><th align="center" rowspan="1" colspan="1">Current Scenario</th><th align="center" rowspan="1" colspan="1">SMS Scenario</th><th align="center" rowspan="1" colspan="1">Current Scenario</th><th align="center" rowspan="1" colspan="1">SMS Scenario</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">2019</td><td align="center" rowspan="1" colspan="1">209,832,013</td><td align="center" rowspan="1" colspan="1">209,832,013</td><td align="center" rowspan="1" colspan="1">285,150</td><td align="center" rowspan="1" colspan="1">285,150</td><td align="center" rowspan="1" colspan="1">541,850</td><td align="center" rowspan="1" colspan="1">541,850</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">-</td><td align="center" rowspan="1" colspan="1">4,214,564,522</td><td align="center" rowspan="1" colspan="1">4,224,488,522</td></tr><tr><td align="center" rowspan="1" colspan="1">2020</td><td align="center" rowspan="1" colspan="1">211,513,910</td><td align="center" rowspan="1" colspan="1">211,513,910</td><td align="center" rowspan="1" colspan="1">298,465</td><td align="center" rowspan="1" colspan="1">291,572</td><td align="center" rowspan="1" colspan="1">565,731</td><td align="center" rowspan="1" colspan="1">572,624</td><td align="center" rowspan="1" colspan="1">1,358,635</td><td align="center" rowspan="1" colspan="1">1,358,635</td><td align="center" rowspan="1" colspan="1">8,616,136,229</td><td align="center" rowspan="1" colspan="1">8,611,886,617</td></tr><tr><td align="center" rowspan="1" colspan="1">2021</td><td align="center" rowspan="1" colspan="1">213,208,094</td><td align="center" rowspan="1" colspan="1">213,209,124</td><td align="center" rowspan="1" colspan="1">312,395</td><td align="center" rowspan="1" colspan="1">298,133</td><td align="center" rowspan="1" colspan="1">590,736</td><td align="center" rowspan="1" colspan="1">603,970</td><td align="center" rowspan="1" colspan="1">2,728,360</td><td align="center" rowspan="1" colspan="1">2,728,359</td><td align="center" rowspan="1" colspan="1">13,213,248,604</td><td align="center" rowspan="1" colspan="1">13,165,116,514</td></tr><tr><td align="center" rowspan="1" colspan="1">2022</td><td align="center" rowspan="1" colspan="1">214,914,599</td><td align="center" rowspan="1" colspan="1">214,917,752</td><td align="center" rowspan="1" colspan="1">326,968</td><td align="center" rowspan="1" colspan="1">304,834</td><td align="center" rowspan="1" colspan="1">616,918</td><td align="center" rowspan="1" colspan="1">635,902</td><td align="center" rowspan="1" colspan="1">4,109,265</td><td align="center" rowspan="1" colspan="1">4,109,262</td><td align="center" rowspan="1" colspan="1">18,014,815,697</td><td align="center" rowspan="1" colspan="1">17,887,162,131</td></tr><tr><td align="center" rowspan="1" colspan="1">2023</td><td align="center" rowspan="1" colspan="1">216,633,457</td><td align="center" rowspan="1" colspan="1">216,639,894</td><td align="center" rowspan="1" colspan="1">342,214</td><td align="center" rowspan="1" colspan="1">311,680</td><td align="center" rowspan="1" colspan="1">644,330</td><td align="center" rowspan="1" colspan="1">668,432</td><td align="center" rowspan="1" colspan="1">5,501,442</td><td align="center" rowspan="1" colspan="1">5,501,437</td><td align="center" rowspan="1" colspan="1">23,030,148,567</td><td align="center" rowspan="1" colspan="1">22,781,070,170</td></tr><tr><td align="center" rowspan="1" colspan="1">2024</td><td align="center" rowspan="1" colspan="1">218,364,698</td><td align="center" rowspan="1" colspan="1">218,375,650</td><td align="center" rowspan="1" colspan="1">358,161</td><td align="center" rowspan="1" colspan="1">318,673</td><td align="center" rowspan="1" colspan="1">673,029</td><td align="center" rowspan="1" colspan="1">701,574</td><td align="center" rowspan="1" colspan="1">6,904,983</td><td align="center" rowspan="1" colspan="1">6,904,974</td><td align="center" rowspan="1" colspan="1">28,268,972,369</td><td align="center" rowspan="1" colspan="1">27,849,951,221</td></tr><tr><td align="center" rowspan="1" colspan="1">2025</td><td align="center" rowspan="1" colspan="1">220,108,348</td><td align="center" rowspan="1" colspan="1">220,125,121</td><td align="center" rowspan="1" colspan="1">374,843</td><td align="center" rowspan="1" colspan="1">325,815</td><td align="center" rowspan="1" colspan="1">703,074</td><td align="center" rowspan="1" colspan="1">735,342</td><td align="center" rowspan="1" colspan="1">8,319,980</td><td align="center" rowspan="1" colspan="1">8,319,967</td><td align="center" rowspan="1" colspan="1">33,741,444,138</td><td align="center" rowspan="1" colspan="1">33,096,980,889</td></tr><tr><td align="center" rowspan="1" colspan="1">2026</td><td align="center" rowspan="1" colspan="1">221,864,430</td><td align="center" rowspan="1" colspan="1">221,888,408</td><td align="center" rowspan="1" colspan="1">392,292</td><td align="center" rowspan="1" colspan="1">333,110</td><td align="center" rowspan="1" colspan="1">734,526</td><td align="center" rowspan="1" colspan="1">769,750</td><td align="center" rowspan="1" colspan="1">9,746,528</td><td align="center" rowspan="1" colspan="1">9,746,509</td><td align="center" rowspan="1" colspan="1">39,458,171,271</td><td align="center" rowspan="1" colspan="1">38,525,400,929</td></tr><tr><td align="center" rowspan="1" colspan="1">2027</td><td align="center" rowspan="1" colspan="1">223,632,965</td><td align="center" rowspan="1" colspan="1">223,665,613</td><td align="center" rowspan="1" colspan="1">410,541</td><td align="center" rowspan="1" colspan="1">340,561</td><td align="center" rowspan="1" colspan="1">767,451</td><td align="center" rowspan="1" colspan="1">804,811</td><td align="center" rowspan="1" colspan="1">11,184,721</td><td align="center" rowspan="1" colspan="1">11,184,694</td><td align="center" rowspan="1" colspan="1">45,430,230,742</td><td align="center" rowspan="1" colspan="1">44,138,520,407</td></tr><tr><td align="center" rowspan="1" colspan="1">2028</td><td align="center" rowspan="1" colspan="1">225,413,968</td><td align="center" rowspan="1" colspan="1">225,456,838</td><td align="center" rowspan="1" colspan="1">429,629</td><td align="center" rowspan="1" colspan="1">348,171</td><td align="center" rowspan="1" colspan="1">801,916</td><td align="center" rowspan="1" colspan="1">840,541</td><td align="center" rowspan="1" colspan="1">12,634,654</td><td align="center" rowspan="1" colspan="1">12,634,618</td><td align="center" rowspan="1" colspan="1">51,669,189,075</td><td align="center" rowspan="1" colspan="1">49,939,716,870</td></tr><tr><td align="center" rowspan="1" colspan="1">2029</td><td align="center" rowspan="1" colspan="1">227,207,453</td><td align="center" rowspan="1" colspan="1">227,262,187</td><td align="center" rowspan="1" colspan="1">449,590</td><td align="center" rowspan="1" colspan="1">355,943</td><td align="center" rowspan="1" colspan="1">837,991</td><td align="center" rowspan="1" colspan="1">876,953</td><td align="center" rowspan="1" colspan="1">14,096,423</td><td align="center" rowspan="1" colspan="1">14,096,376</td><td align="center" rowspan="1" colspan="1">58,187,123,086</td><td align="center" rowspan="1" colspan="1">55,932,437,535</td></tr><tr><td align="center" rowspan="1" colspan="1">2030</td><td align="center" rowspan="1" colspan="1">229,013,430</td><td align="center" rowspan="1" colspan="1">229,081,763</td><td align="center" rowspan="1" colspan="1">470,465</td><td align="center" rowspan="1" colspan="1">363,880</td><td align="center" rowspan="1" colspan="1">875,750</td><td align="center" rowspan="1" colspan="1">914,064</td><td align="center" rowspan="1" colspan="1">15,570,124</td><td align="center" rowspan="1" colspan="1">15,570,065</td><td align="center" rowspan="1" colspan="1">64,996,641,437</td><td align="center" rowspan="1" colspan="1">62,120,200,499</td></tr><tr><td align="center" rowspan="1" colspan="1">2031</td><td align="center" rowspan="1" colspan="1">230,831,904</td><td align="center" rowspan="1" colspan="1">230,915,671</td><td align="center" rowspan="1" colspan="1">492,295</td><td align="center" rowspan="1" colspan="1">371,986</td><td align="center" rowspan="1" colspan="1">915,270</td><td align="center" rowspan="1" colspan="1">951,888</td><td align="center" rowspan="1" colspan="1">17,055,856</td><td align="center" rowspan="1" colspan="1">17,055,782</td><td align="center" rowspan="1" colspan="1">72,110,907,005</td><td align="center" rowspan="1" colspan="1">68,506,595,958</td></tr><tr><td align="center" rowspan="1" colspan="1">2032</td><td align="center" rowspan="1" colspan="1">232,662,876</td><td align="center" rowspan="1" colspan="1">232,764,016</td><td align="center" rowspan="1" colspan="1">515,121</td><td align="center" rowspan="1" colspan="1">380,264</td><td align="center" rowspan="1" colspan="1">956,630</td><td align="center" rowspan="1" colspan="1">990,442</td><td align="center" rowspan="1" colspan="1">18,553,716</td><td align="center" rowspan="1" colspan="1">18,553,625</td><td align="center" rowspan="1" colspan="1">79,543,660,111</td><td align="center" rowspan="1" colspan="1">75,095,287,449</td></tr><tr><td align="center" rowspan="1" colspan="1">2033</td><td align="center" rowspan="1" colspan="1">234,506,344</td><td align="center" rowspan="1" colspan="1">234,626,904</td><td align="center" rowspan="1" colspan="1">538,987</td><td align="center" rowspan="1" colspan="1">388,717</td><td align="center" rowspan="1" colspan="1">999,915</td><td align="center" rowspan="1" colspan="1">1,029,740</td><td align="center" rowspan="1" colspan="1">20,063,804</td><td align="center" rowspan="1" colspan="1">20,063,694</td><td align="center" rowspan="1" colspan="1">87,309,242,618</td><td align="center" rowspan="1" colspan="1">81,890,013,107</td></tr><tr><td align="center" rowspan="1" colspan="1">2034</td><td align="center" rowspan="1" colspan="1">236,362,299</td><td align="center" rowspan="1" colspan="1">236,504,441</td><td align="center" rowspan="1" colspan="1">563,940</td><td align="center" rowspan="1" colspan="1">397,349</td><td align="center" rowspan="1" colspan="1">1,045,213</td><td align="center" rowspan="1" colspan="1">1,069,800</td><td align="center" rowspan="1" colspan="1">21,586,219</td><td align="center" rowspan="1" colspan="1">21,586,088</td><td align="center" rowspan="1" colspan="1">95,422,622,933</td><td align="center" rowspan="1" colspan="1">88,894,586,939</td></tr><tr><td align="center" rowspan="1" colspan="1">2035</td><td align="center" rowspan="1" colspan="1">238,230,731</td><td align="center" rowspan="1" colspan="1">238,396,734</td><td align="center" rowspan="1" colspan="1">590,026</td><td align="center" rowspan="1" colspan="1">406,164</td><td align="center" rowspan="1" colspan="1">1,092,614</td><td align="center" rowspan="1" colspan="1">1,110,638</td><td align="center" rowspan="1" colspan="1">23,121,063</td><td align="center" rowspan="1" colspan="1">23,120,908</td><td align="center" rowspan="1" colspan="1">103,899,000,000</td><td align="center" rowspan="1" colspan="1">96,112,900,115</td></tr><tr><td align="center" rowspan="1" colspan="1">2036</td><td align="center" rowspan="1" colspan="1">240,111,621</td><td align="center" rowspan="1" colspan="1">240,303,891</td><td align="center" rowspan="1" colspan="1">617,297</td><td align="center" rowspan="1" colspan="1">415,164</td><td align="center" rowspan="1" colspan="1">1,142,214</td><td align="center" rowspan="1" colspan="1">1,152,271</td><td align="center" rowspan="1" colspan="1">24,668,436</td><td align="center" rowspan="1" colspan="1">24,668,254</td><td align="center" rowspan="1" colspan="1">112,756,000,000</td><td align="center" rowspan="1" colspan="1">103,549,000,000</td></tr><tr><td align="center" rowspan="1" colspan="1">2037</td><td align="center" rowspan="1" colspan="1">242,004,947</td><td align="center" rowspan="1" colspan="1">242,226,021</td><td align="center" rowspan="1" colspan="1">645,804</td><td align="center" rowspan="1" colspan="1">424,354</td><td align="center" rowspan="1" colspan="1">1,194,112</td><td align="center" rowspan="1" colspan="1">1,194,715</td><td align="center" rowspan="1" colspan="1">26,228,443</td><td align="center" rowspan="1" colspan="1">26,228,230</td><td align="center" rowspan="1" colspan="1">122,009,000,000</td><td align="center" rowspan="1" colspan="1">111,207,000,000</td></tr><tr><td align="center" rowspan="1" colspan="1">2038</td><td align="center" rowspan="1" colspan="1">243,910,683</td><td align="center" rowspan="1" colspan="1">244,163,232</td><td align="center" rowspan="1" colspan="1">675,599</td><td align="center" rowspan="1" colspan="1">433,736</td><td align="center" rowspan="1" colspan="1">1,248,412</td><td align="center" rowspan="1" colspan="1">1,237,989</td><td align="center" rowspan="1" colspan="1">27,801,185</td><td align="center" rowspan="1" colspan="1">27,800,939</td><td align="center" rowspan="1" colspan="1">131,677,000,000</td><td align="center" rowspan="1" colspan="1">119,090,000,000</td></tr><tr><td align="center" rowspan="1" colspan="1">2039</td><td align="center" rowspan="1" colspan="1">245,828,793</td><td align="center" rowspan="1" colspan="1">246,115,635</td><td align="center" rowspan="1" colspan="1">706,741</td><td align="center" rowspan="1" colspan="1">443,316</td><td align="center" rowspan="1" colspan="1">1,305,223</td><td align="center" rowspan="1" colspan="1">1,282,110</td><td align="center" rowspan="1" colspan="1">29,386,767</td><td align="center" rowspan="1" colspan="1">29,386,484</td><td align="center" rowspan="1" colspan="1">141,778,000,000</td><td align="center" rowspan="1" colspan="1">127,204,000,000</td></tr></tbody></table></table-wrap><p>From the SUS point of view, the alternative strategy (SMS) is dominant (lower cost
+and greater effectiveness) compared to the standard treatment. SMS showed a
+cost-effectiveness ratio of R$28.24 and the standard treatment R$ 31.48, at the
+population level.</p><p>The probabilistic sensitivity analysis indicated that, regardless of the willingness
+to pay, the alternative strategy (SMS) is the most economical intervention when
+compared to the standard treatment (<xref ref-type="fig" rid="f3">Figure
+3</xref>).</p><p>
+<fig id="f3" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Probabilistic sensitivity analysis</title></caption><graphic xlink:href="0104-1169-rlae-28-e3365-gf03"/></fig>
+</p></sec><sec sec-type="discussion"><title>Discussion</title><p>This study verified that, compared to the usual clinical practice, the addition of
+weekly SMS sending was economically more effective in reducing the circulating viral
+load of patients infected with HIV and on ART. Within the period studied, the weekly
+SMS intervention increased by 26% the chance of the patient having an undetectable
+viral load. Despite the additional cost of the SMS intervention for each research
+subject, a long-term saving was verified, as shown in the economic impact study, due
+to the reduction in the incidence of HIV infections.</p><p>The SMS intervention generates savings of nearly R$ 14 billion in terms of treatment
+costs for the SUS in Brazil and helps in the reduction of 263,424 new HIV
+infections, considering the 20-year period. When projecting the effects of the
+discrepancy at the beginning of treatment between the two groups, for the same
+period of life, we verified that the SMS-based intervention accumulated more years
+of life gain (incremental effectiveness) and lower cost (incremental cost) than the
+control group. Maintaining the standard treatment would result in an additional cost
+of R$ 50,862.36 per infection when compared to the SMS intervention. The robustness
+of the lifetime model was verified by the sensitivity analysis, with variations of
+the transition probabilities and costs. The SMS intervention was the dominant
+treatment (lowest cost and highest effectiveness) compared to the current treatment
+(highest cost and lowest effectiveness), which leads to a negative Incremental
+Cost-effectiveness Ratio (ICER).</p><p>The results found in this study are similar to those of other analyses regarding
+savings in interventions to improve adherence to treatment, which consider the
+feasibility of screening in the population, nursing interventions, and connectivity
+through an application to clarify and control patients with HIV<sup>(</sup>
+<xref rid="B25" ref-type="bibr">25</xref>
+<sup>-</sup>
+<xref rid="B28" ref-type="bibr">28</xref>
+<sup>)</sup>. Our conclusions are consistent with the arguments that even
+interventions with modest effects can be more cost-effective compared to only the
+usual care and treatments<sup>(</sup>
+<xref rid="B25" ref-type="bibr">25</xref>
+<sup>-</sup>
+<xref rid="B28" ref-type="bibr">28</xref>
+<sup>)</sup>. These indicators demonstrate that the adoption of additional health
+care strategies may enhance the maintenance of adherence in medium to long term.</p><p>Approaches based on sending SMS, as shown in this study, may improve adherence to
+ART; however, there is no consensus in the literature regarding the content of SMS,
+particularly with regard to the open discussion of the exposure of patients under
+treatment. Thus, this study used indirect messages or reminders, used as a means for
+initiating contact or for reminding the participants about the treatment, similarly
+to research carried out in developing countries. The adoption of these measures
+contributes to the patient&#x02019;s perception of the support offered by the health team,
+corroborating the maintenance of adherence<sup>(</sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+<sup>,</sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+<sup>,</sup>
+<xref rid="B18" ref-type="bibr">18</xref>
+<sup>-</sup>
+<xref rid="B19" ref-type="bibr">19</xref>
+<sup>)</sup>.</p><p>Sending SMS has been significantly used in the health area, mainly to improve quality
+of life and attendance in primary care, and to reduce non-adherence and improve
+health results at low cost, as well as the possibility of wide dissemination of
+information in real time for the entire target population of the
+intervention<sup>(</sup>
+<xref rid="B8" ref-type="bibr">8</xref>
+<sup>,</sup>
+<xref rid="B13" ref-type="bibr">13</xref>
+<sup>-</sup>
+<xref rid="B14" ref-type="bibr">14</xref>
+<sup>,</sup>
+<xref rid="B18" ref-type="bibr">18</xref>
+<sup>-</sup>
+<xref rid="B19" ref-type="bibr">19</xref>
+<sup>,</sup>
+<xref rid="B29" ref-type="bibr">29</xref>
+<sup>)</sup>. Additionally, the use of SMS reminders is an accessible, adequate, and
+more cost-effective tool compared to those already spent on medication<sup>(</sup>
+<xref rid="B26" ref-type="bibr">26</xref>
+<sup>,</sup>
+<xref rid="B30" ref-type="bibr">30</xref>
+<sup>-</sup>
+<xref rid="B31" ref-type="bibr">31</xref>
+<sup>)</sup>. In this way, there are basically four types of benefits of
+interventions performed by SMS: (1) improved efficiency in the provision of health
+care; (2) improvement in treatment adherence; (3) public health benefits; (4) low
+cost and good accessibility<sup>(</sup>
+<xref rid="B19" ref-type="bibr">19</xref>
+<sup>,</sup>
+<xref rid="B26" ref-type="bibr">26</xref>
+<sup>,</sup>
+<xref rid="B28" ref-type="bibr">28</xref>
+<sup>,</sup>
+<xref rid="B30" ref-type="bibr">30</xref>
+<sup>-</sup>
+<xref rid="B31" ref-type="bibr">31</xref>
+<sup>)</sup>.</p><p>The main strength of this dynamic cohort analysis was that the sources of the
+intervention parameter (sending SMS, and control group) were based on real-life
+data, from an RCT. In addition, the model estimated the evolution of the
+intervention over 20 years, demonstrating the linear increase in cost over this
+period, and the sensitivity analysis demonstrated the robustness of the predicted
+model. It is worth highlighting that this is the first study carried out in the
+context of the SUS that considers an intervention based on SMS at the population
+level.</p><p>This study had some limitations. First, the effectiveness of the SMS intervention was
+based on the RCT data, but some clinical and epidemiological data were obtained from
+the Ministry of Health data source; however, the values of these parameters were
+applied to both groups (SMS <italic>versus</italic> control), thus not affecting the
+relative effectiveness of the model. Second, the parameters of this study were
+derived from a 6-month intervention, which may have diluted the effect of the SMS
+intervention in the population context over time, just as with each year of planned
+intervention there is an increase in data uncertainty. However, these limitations do
+not preclude the results presented since, in the first year after the intervention,
+positive results are already obtained.</p><p>The results presented in this study demonstrate an advance in knowledge through the
+use of an RCT associated with a dynamic cohort model with Markov states, of the
+long-term evolution of interventions in patients with HIV, demonstrating its impact
+on transmissibility, mortality, and costs. Therefore, this study may subsidize
+complementary health actions through other technologies of communication with the
+patient which contribute to the increase of adherence in patients on ART and to a
+consequent reduction of transmissibility, as well as allowing for its replication in
+different contexts.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>The analysis of this dynamic cohort reflects that, when implemented at the population
+level, weekly sending SMS to people infected with HIV and on ART can reduce the
+circulating viral load and lead to a consequent reduction of new infections, in
+addition to the reduction of direct costs related to treatment in health.</p></sec></body><back><fn-group><fn fn-type="financial-disclosure" id="fn1"><label>*</label><p>Supported by Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento de Pessoal de N&#x000ed;vel Superior (CAPES)
+&#x02013; Grant # 408709/2016-2, Brazil.</p></fn></fn-group><ref-list><title>References</title><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Frank</surname><given-names>TD</given-names></name><name><surname>Carter</surname><given-names>A</given-names></name><name><surname>Jahagirdar</surname><given-names>D</given-names></name><name><surname>Biehl</surname><given-names>MH</given-names></name><name><surname>Douwes-Schultz</surname><given-names>D</given-names></name><name><surname>Larson</surname><given-names>SL</given-names></name><etal/></person-group><article-title>Global, regional, and national incidence, prevalence, and
+mortality of HIV, 1980-2017, and forecasts to 2030, for 195 countries and
+territories: a systematic analysis for the Global Burden of Diseases,
+Injuries, and Risk Factors Study 2017</article-title><source>Lancet HIV</source><year>2019</year><date-in-citation content-type="access-date">Feb 1, 2020</date-in-citation><volume>6</volume><issue>12</issue><fpage>e831</fpage><lpage>e859</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(19)30196-1</pub-id><pub-id pub-id-type="pmid">31439534</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Castillo-Mancilla</surname><given-names>JR</given-names></name><name><surname>Haberer</surname><given-names>JE</given-names></name></person-group><article-title>Adherence Measurements in HIV: New Advancements in Pharmacologic
+Methods and Real-Time Monitoring</article-title><source>Curr HIV/AIDS Rep</source><year>2018</year><date-in-citation content-type="access-date">Aug 7,2019</date-in-citation><volume>15</volume><issue>1</issue><fpage>49</fpage><lpage>59</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1007/s11904-018-0377-0</pub-id><pub-id pub-id-type="pmid">29380227</pub-id></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Altice</surname><given-names>F</given-names></name><name><surname>Evuarherhe</surname><given-names>O</given-names></name><name><surname>Shina</surname><given-names>S</given-names></name><name><surname>Carter</surname><given-names>G</given-names></name><name><surname>Beaubrun</surname><given-names>AC</given-names></name></person-group><article-title>Adherence to HIV treatment regimens: systematic literature review
+and meta-analysis</article-title><source>Patient Prefer Adherence</source><year>2019</year><date-in-citation content-type="access-date">Feb 2, 2020</date-in-citation><volume>13</volume><fpage>475</fpage><lpage>490</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.2147/PPA.S192735</pub-id><pub-id pub-id-type="pmid">31040651</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Detsis</surname><given-names>M</given-names></name><name><surname>Tsioutis</surname><given-names>C</given-names></name><name><surname>Karageorgos</surname><given-names>SA</given-names></name><name><surname>Sideroglou</surname><given-names>T</given-names></name><name><surname>Hatzakis</surname><given-names>A</given-names></name><name><surname>Mylonakis</surname><given-names>E</given-names></name></person-group><article-title>Factors Associated with HIV Testing and HIV Treatment Adherence:
+A Systematic Review</article-title><source>Curr Pharm Des</source><year>2017</year><date-in-citation content-type="access-date">Aug 7, 2019</date-in-citation><volume>23</volume><issue>18</issue><fpage>2568</fpage><lpage>2578</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.2174/1381612823666170329125820</pub-id><pub-id pub-id-type="pmid">28356038</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Benzaken</surname><given-names>AS</given-names></name><name><surname>Pereira</surname><given-names>GFM</given-names></name><name><surname>Costa</surname><given-names>L</given-names></name><name><surname>Tanuri</surname><given-names>A</given-names></name><name><surname>Santos</surname><given-names>AF</given-names></name><name><surname>Soares</surname><given-names>MA</given-names></name></person-group><article-title>Antiretroviral treatment, government policy and economy of
+HIV/AIDS in Brazil: is it time for HIV cure in the country?</article-title><source>AIDS Res Ther</source><year>2019</year><date-in-citation content-type="access-date">Feb 1, 2020</date-in-citation><volume>16</volume><issue>1</issue><fpage>19</fpage><lpage>19</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1186/s12981-019-0234-2</pub-id><pub-id pub-id-type="pmid">31412889</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Frasca</surname><given-names>T</given-names></name><name><surname>Faure</surname><given-names>YA</given-names></name><name><surname>Atlani-Duault</surname><given-names>L</given-names></name></person-group><article-title>Decentralisation of Brazil's HIV/AIDS programme: intended and
+unintended consequences</article-title><source>Glob Public Health</source><year>2018</year><date-in-citation content-type="access-date">Aug 7, 2019</date-in-citation><volume>13</volume><issue>12</issue><fpage>1725</fpage><lpage>1736</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1080/17441692.2018.1455888</pub-id><pub-id pub-id-type="pmid">29582707</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Santos</surname><given-names>WM</given-names></name><name><surname>Mello Padoin</surname><given-names>SM</given-names></name></person-group><article-title>Cost-Effective Analysis to Incorporate Non-Drug Interventions to
+Increase Adherence to Antiretroviral Therapy</article-title><source>Value Health Reg Issues</source><year>2018</year><date-in-citation content-type="access-date">Aug 5, 2019</date-in-citation><volume>17</volume><fpage>7</fpage><lpage>7</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/j.vhri.2018.01.005</pub-id><pub-id pub-id-type="pmid">29529587</pub-id></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lima</surname><given-names>IC</given-names></name><name><surname>Galvao</surname><given-names>MT</given-names></name><name><surname>Alexandre</surname><given-names>HO</given-names></name><name><surname>Lima</surname><given-names>FE</given-names></name><name><surname>Araujo</surname><given-names>TL</given-names></name></person-group><article-title>Information and communication technologies for adherence to
+antiretroviral treatment in adults with HIV/AIDS</article-title><source>Int J Med Inform</source><year>2016</year><date-in-citation content-type="access-date">Aug 3, 2019</date-in-citation><volume>92</volume><fpage>54</fpage><lpage>61</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/j.ijmedinf.2016.04.013</pub-id><pub-id pub-id-type="pmid">27318071</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shubber</surname><given-names>Z</given-names></name><name><surname>Mills</surname><given-names>EJ</given-names></name><name><surname>Nachega</surname><given-names>JB</given-names></name><name><surname>Vreeman</surname><given-names>R</given-names></name><name><surname>Freitas</surname><given-names>M</given-names></name><name><surname>Bock</surname><given-names>P</given-names></name><etal/></person-group><article-title>Patient-Reported Barriers to Adherence to Antiretroviral Therapy:
+A Systematic Review and Meta-Analysis</article-title><source>PLoS Med</source><year>2016</year><date-in-citation content-type="access-date">Jan 31, 2020</date-in-citation><volume>13</volume><issue>11</issue><elocation-id>e1002183</elocation-id><comment>Available from: </comment><pub-id pub-id-type="doi">10.1371/journal.pmed.1002183</pub-id><pub-id pub-id-type="pmid">27898679</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Enane</surname><given-names>LA</given-names></name><name><surname>Vreeman</surname><given-names>RC</given-names></name><name><surname>Foster</surname><given-names>C</given-names></name></person-group><article-title>Retention and adherence: global challenges for the long-term care
+of adolescents and young adults living with HIV</article-title><source>Curr Opin HIV AIDS</source><year>2018</year><date-in-citation content-type="access-date">Oct 27, 2020</date-in-citation><volume>13</volume><issue>3</issue><fpage>212</fpage><lpage>219</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1097/COH.0000000000000459</pub-id><pub-id pub-id-type="pmid">29570471</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vaitses Fontanari</surname><given-names>AM</given-names></name><name><surname>Zanella</surname><given-names>GI</given-names></name><name><surname>Feijo</surname><given-names>M</given-names></name><name><surname>Churchill</surname><given-names>S</given-names></name><name><surname>Rodrigues Lobato</surname><given-names>MI</given-names></name><name><surname>Costa</surname><given-names>AB</given-names></name></person-group><article-title>HIV-related care for transgender people: A systematic review of
+studies from around the world</article-title><source>Soc Sci Med</source><year>2019</year><date-in-citation content-type="access-date">Jan 31, 2020</date-in-citation><volume>230</volume><fpage>280</fpage><lpage>294</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/j.socscimed.2019.03.016</pub-id><pub-id pub-id-type="pmid">31035207</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Z</given-names></name><name><surname>Zhu</surname><given-names>Y</given-names></name><name><surname>Cui</surname><given-names>L</given-names></name><name><surname>Qu</surname><given-names>B</given-names></name></person-group><article-title>With HIV: Systematic Review and Meta-Analysis</article-title><source>JMIR Mhealth Uhealth</source><year>2019</year><date-in-citation content-type="access-date">Feb 3, 2020</date-in-citation><volume>7</volume><issue>10</issue><elocation-id>e14404</elocation-id><comment>Available from: </comment><pub-id pub-id-type="doi">10.2196/14404</pub-id><pub-id pub-id-type="pmid">31621641</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitzel</surname><given-names>LD</given-names></name><name><surname>Vanable</surname><given-names>PA</given-names></name></person-group><article-title>Necessity and concerns beliefs and HIV medication adherence: a
+systematic review</article-title><source>J Behav Med</source><year>2020</year><date-in-citation content-type="access-date">Feb 4, 2020</date-in-citation><volume>43</volume><issue>1</issue><fpage>1</fpage><lpage>15</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1007/s10865-019-00089-2</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kanters</surname><given-names>S</given-names></name><name><surname>Park</surname><given-names>JJ</given-names></name><name><surname>Chan</surname><given-names>K</given-names></name><name><surname>Socias</surname><given-names>ME</given-names></name><name><surname>Ford</surname><given-names>N</given-names></name><name><surname>Forrest</surname><given-names>JI</given-names></name><etal/></person-group><article-title>Interventions to improve adherence to antiretroviral therapy: a
+systematic review and network meta-analysis</article-title><source>Lancet HIV</source><year>2017</year><date-in-citation content-type="access-date">Aug 3, 2019</date-in-citation><volume>4</volume><issue>1</issue><elocation-id>e31-e40</elocation-id><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(16)30206-5</pub-id><pub-id pub-id-type="pmid">27863996</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perez-Molina</surname><given-names>JA</given-names></name><name><surname>Martinez</surname><given-names>E</given-names></name><name><surname>Blasco</surname><given-names>AJ</given-names></name><name><surname>Arribas</surname><given-names>JR</given-names></name><name><surname>Domingo</surname><given-names>P</given-names></name><name><surname>Iribarren</surname><given-names>JA</given-names></name><etal/></person-group><article-title>Analysis of the costs and cost-effectiveness of the guidelines
+recommended by the 2018 GESIDA/Spanish National AIDS Plan for initial
+antiretroviral therapy in HIV-infected adults</article-title><source>Enferm Infecc Microbiol Clin</source><year>2019</year><date-in-citation content-type="access-date">Feb 3, 2020</date-in-citation><volume>37</volume><issue>3</issue><fpage>151</fpage><lpage>159</lpage><comment>Available from: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.eimc.2018.04.010">https://doi.org/ 10.1016/j.eimc.2018.04.010</ext-link></comment><pub-id pub-id-type="pmid">29884455</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haeussler</surname><given-names>K</given-names></name><name><surname>den Hout</surname><given-names>AV</given-names></name><name><surname>Baio</surname><given-names>G</given-names></name></person-group><article-title>A dynamic Bayesian Markov model for health economic evaluations
+of interventions in infectious disease</article-title><source>BMC Med Res Methodol</source><year>2018</year><date-in-citation content-type="access-date">Dec 3, 2019</date-in-citation><volume>18</volume><issue>1</issue><fpage>82</fpage><lpage>82</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1186/s12874-018-0541-7</pub-id><pub-id pub-id-type="pmid">30068316</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Husereau</surname><given-names>D</given-names></name><name><surname>Drummond</surname><given-names>M</given-names></name><name><surname>Petrou</surname><given-names>S</given-names></name><name><surname>Carswell</surname><given-names>C</given-names></name><name><surname>Moher</surname><given-names>D</given-names></name><name><surname>Greenberg</surname><given-names>D</given-names></name><etal/></person-group><article-title>Consolidated Health Economic Evaluation Reporting Standards
+(CHEERS) statement</article-title><source>Value Health</source><year>2013</year><date-in-citation content-type="access-date">Aug 8, 2019</date-in-citation><volume>16</volume><issue>2</issue><fpage>231</fpage><lpage>250</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/j.jval.2013.02.002</pub-id><pub-id pub-id-type="pmid">23538175</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McKay</surname><given-names>FH</given-names></name><name><surname>Cheng</surname><given-names>C</given-names></name><name><surname>Wright</surname><given-names>A</given-names></name><name><surname>Shill</surname><given-names>J</given-names></name><name><surname>Stephens</surname><given-names>H</given-names></name><name><surname>Uccellini</surname><given-names>M</given-names></name></person-group><article-title>Evaluating mobile phone applications for health behaviour change:
+A systematic review</article-title><source>J Telemed Telecare</source><year>2018</year><date-in-citation content-type="access-date">Aug 8, 2019</date-in-citation><volume>24</volume><issue>1</issue><fpage>22</fpage><lpage>30</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1177/1357633X16673538</pub-id><pub-id pub-id-type="pmid">27760883</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Christopoulos</surname><given-names>KA</given-names></name><name><surname>Riley</surname><given-names>ED</given-names></name><name><surname>Tulsky</surname><given-names>J</given-names></name><name><surname>Carrico</surname><given-names>AW</given-names></name><name><surname>Moskowitz</surname><given-names>JT</given-names></name><name><surname>Wilson</surname><given-names>L</given-names></name><etal/></person-group><article-title>A text messaging intervention to improve retention in care and
+virologic suppression in a U.S. urban safety-net HIV clinic: study protocol
+for the Connect4Care (C4C) randomized controlled trial</article-title><source>BMC Infect Dis</source><year>2014</year><date-in-citation content-type="access-date">Aug 7, 2019</date-in-citation><volume>14</volume><fpage>718</fpage><lpage>718</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1186/s12879-014-0718-6</pub-id><pub-id pub-id-type="pmid">25551175</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Komninakis</surname><given-names>SV</given-names></name><name><surname>Mota</surname><given-names>ML</given-names></name><name><surname>Hunter</surname><given-names>JR</given-names></name><name><surname>Diaz</surname><given-names>RS</given-names></name></person-group><article-title>Late Presentation HIV/AIDS Is Still a Challenge in Brazil and
+Worldwide</article-title><source>AIDS Res Hum Retroviruses</source><year>2018</year><date-in-citation content-type="access-date">Aug 20, 2019</date-in-citation><volume>34</volume><issue>2</issue><fpage>129</fpage><lpage>131</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1089/AID.2015.0379</pub-id><pub-id pub-id-type="pmid">28797184</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bavinton</surname><given-names>BR</given-names></name><name><surname>Pinto</surname><given-names>AN</given-names></name><name><surname>Phanuphak</surname><given-names>N</given-names></name><name><surname>Grinsztejn</surname><given-names>B</given-names></name><name><surname>Prestage</surname><given-names>GP</given-names></name><name><surname>Zablotska-Manos</surname><given-names>IB</given-names></name><etal/></person-group><article-title>Viral suppression and HIV transmission in serodiscordant male
+couples: an international, prospective, observational, cohort
+study</article-title><source>Lancet HIV</source><year>2018</year><date-in-citation content-type="access-date">Aug 20, 2019</date-in-citation><volume>5</volume><issue>8</issue><elocation-id>e438-e47</elocation-id><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(18)30132-2</pub-id><pub-id pub-id-type="pmid">30025681</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Germanaud</surname><given-names>D</given-names></name><name><surname>Derache</surname><given-names>A</given-names></name><name><surname>Traore</surname><given-names>M</given-names></name><name><surname>Madec</surname><given-names>Y</given-names></name><name><surname>Toure</surname><given-names>S</given-names></name><name><surname>Dicko</surname><given-names>F</given-names></name><etal/></person-group><article-title>Level of viral load and antiretroviral resistance after 6 months
+of non-nucleoside reverse transcriptase inhibitor first-line treatment in
+HIV-1-infected children in Mali</article-title><source>J Antimicrob Chemother</source><year>2010</year><date-in-citation content-type="access-date">Aug 20, 2019</date-in-citation><volume>65</volume><issue>1</issue><fpage>118</fpage><lpage>124</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1093/jac/dkp412</pub-id><pub-id pub-id-type="pmid">19933171</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>LeMessurier</surname><given-names>J</given-names></name><name><surname>Traversy</surname><given-names>G</given-names></name><name><surname>Varsaneux</surname><given-names>O</given-names></name><name><surname>Weekes</surname><given-names>M</given-names></name><name><surname>Avey</surname><given-names>MT</given-names></name><name><surname>Niragira</surname><given-names>O</given-names></name><etal/></person-group><article-title>Risk of sexual transmission of human immunodeficiency virus with
+antiretroviral therapy, suppressed viral load and condom use: a systematic
+review</article-title><source>CMAJ</source><year>2018</year><date-in-citation content-type="access-date">Aug 27, 2019</date-in-citation><volume>190</volume><issue>46</issue><fpage>e1350</fpage><lpage>e1e60</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1503/cmaj.180311</pub-id><pub-id pub-id-type="pmid">30455270</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mujugira</surname><given-names>A</given-names></name><name><surname>Celum</surname><given-names>C</given-names></name><name><surname>Coombs</surname><given-names>RW</given-names></name><name><surname>Campbell</surname><given-names>JD</given-names></name><name><surname>Ndase</surname><given-names>P</given-names></name><name><surname>Ronald</surname><given-names>A</given-names></name><etal/></person-group><article-title>HIV Transmission Risk Persists During the First 6 Months of
+Antiretroviral Therapy</article-title><source>J Acquir Immune Defic Syndr</source><year>2016</year><date-in-citation content-type="access-date">Aug 19, 2019</date-in-citation><volume>72</volume><issue>5</issue><fpage>579</fpage><lpage>584</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1097/QAI.0000000000001019</pub-id><pub-id pub-id-type="pmid">27070123</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baggaley</surname><given-names>RF</given-names></name><name><surname>Irvine</surname><given-names>MA</given-names></name><name><surname>Leber</surname><given-names>W</given-names></name><name><surname>Cambiano</surname><given-names>V</given-names></name><name><surname>Figueroa</surname><given-names>J</given-names></name><name><surname>McMullen</surname><given-names>H</given-names></name><etal/></person-group><article-title>Cost-effectiveness of screening for HIV in primary care: a health
+economics modelling analysis</article-title><source>Lancet HIV</source><year>2017</year><date-in-citation content-type="access-date">Aug 20, 2019</date-in-citation><volume>4</volume><issue>10</issue><fpage>e465</fpage><lpage>ee74</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(17)30123-6</pub-id><pub-id pub-id-type="pmid">28768604</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Bruin</surname><given-names>M</given-names></name><name><surname>Oberje</surname><given-names>EJM</given-names></name><name><surname>Viechtbauer</surname><given-names>W</given-names></name><name><surname>Nobel</surname><given-names>HE</given-names></name><name><surname>Hiligsmann</surname><given-names>M</given-names></name><name><surname>van Nieuwkoop</surname><given-names>C</given-names></name><etal/></person-group><article-title>Effectiveness and cost-effectiveness of a nurse-delivered
+intervention to improve adherence to treatment for HIV: a pragmatic,
+multicentre, open-label, randomised clinical trial</article-title><source>Lancet Infect Dis</source><year>2017</year><date-in-citation content-type="access-date">Sep 20, 2019</date-in-citation><volume>17</volume><issue>6</issue><fpage>595</fpage><lpage>604</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1016/S1473-3099(16)30534-5</pub-id><pub-id pub-id-type="pmid">28262598</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jacobsen</surname><given-names>MM</given-names></name><name><surname>Walensky</surname><given-names>RP</given-names></name></person-group><article-title>Modeling and Cost-Effectiveness in HIV Prevention</article-title><source>Curr HIV/AIDS Rep</source><year>2016</year><date-in-citation content-type="access-date">Jan 27, 2020</date-in-citation><volume>13</volume><issue>1</issue><fpage>64</fpage><lpage>75</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1007/s11904-016-0303-2</pub-id><pub-id pub-id-type="pmid">26830283</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stevens</surname><given-names>ER</given-names></name><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Nucifora</surname><given-names>KA</given-names></name><name><surname>Zhou</surname><given-names>Q</given-names></name><name><surname>McNairy</surname><given-names>ML</given-names></name><name><surname>Gachuhi</surname><given-names>A</given-names></name><etal/></person-group><article-title>Cost-effectiveness of a combination strategy to enhance the HIV
+care continuum in Swaziland: Link4Health</article-title><source>PloS One</source><year>2018</year><date-in-citation content-type="access-date">Sep 20, 2019</date-in-citation><volume>13</volume><issue>9</issue><elocation-id>e0204245</elocation-id><comment>Available from: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0204245">https://doi.org/ 10.1371/journal.pone.0204245</ext-link></comment><pub-id pub-id-type="pmid">30222768</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Canan</surname><given-names>CE</given-names></name><name><surname>Waselewski</surname><given-names>ME</given-names></name><name><surname>Waldman</surname><given-names>ALD</given-names></name><name><surname>Reynolds</surname><given-names>G</given-names></name><name><surname>Flickinger</surname><given-names>TE</given-names></name><name><surname>Cohn</surname><given-names>WF</given-names></name><etal/></person-group><article-title>Long term impact of PositiveLinks: Clinic-deployed mobile
+technology to improve engagement with HIV care</article-title><source>PloS One</source><year>2020</year><date-in-citation content-type="access-date">Feb 6, 2020</date-in-citation><volume>15</volume><issue>1</issue><elocation-id>e0226870</elocation-id><comment>Available from: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0226870</pub-id><pub-id pub-id-type="pmid">31905209</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Simon-Tuval</surname><given-names>T</given-names></name><name><surname>Neumann</surname><given-names>PJ</given-names></name><name><surname>Greenberg</surname><given-names>D</given-names></name></person-group><article-title>Cost-effectiveness of adherence-enhancing interventions: a
+systematic review</article-title><source>Expert Rev Pharmacoecon Outcomes Res</source><year>2016</year><date-in-citation content-type="access-date">Aug 20, 2019</date-in-citation><volume>16</volume><issue>1</issue><fpage>67</fpage><lpage>84</lpage><comment>Available from: </comment><pub-id pub-id-type="doi">10.1586/14737167.2016.1138858</pub-id><pub-id pub-id-type="pmid">26732615</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Patel</surname><given-names>AR</given-names></name><name><surname>Kessler</surname><given-names>J</given-names></name><name><surname>Braithwaite</surname><given-names>RS</given-names></name><name><surname>Nucifora</surname><given-names>KA</given-names></name><name><surname>Thirumurthy</surname><given-names>H</given-names></name><name><surname>Zhou</surname><given-names>Q</given-names></name><etal/></person-group><article-title>Economic evaluation of mobile phone text message interventions to
+improve adherence to HIV therapy in Kenya</article-title><source>Medicine (Baltimore)</source><year>2017</year><date-in-citation content-type="access-date">Aug 20, 2019</date-in-citation><volume>96</volume><issue>7</issue><elocation-id>e6078</elocation-id><comment>Available from: </comment><pub-id pub-id-type="doi">10.1097/MD.0000000000006078</pub-id><pub-id pub-id-type="pmid">28207516</pub-id></element-citation></ref></ref-list></back></article>

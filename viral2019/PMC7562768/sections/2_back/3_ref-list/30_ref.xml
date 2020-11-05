@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR30">
+ <label>30.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wu</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Hao</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Lau</surname>
+    <given-names>EH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020</article-title>
+  <source>Euro Surveill</source>
+  <year>2020</year>
+  <volume>25</volume>
+  <fpage>2000044</fpage>
+  <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2020.25.3.2000044</pub-id>
+ </element-citation>
+</ref>

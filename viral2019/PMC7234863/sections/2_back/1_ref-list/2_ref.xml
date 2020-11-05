@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B3">
+ <label>3</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Song</surname>
+    <given-names>JY</given-names>
+   </name>
+   <name>
+    <surname>Yun</surname>
+    <given-names>JG</given-names>
+   </name>
+   <name>
+    <surname>Noh</surname>
+    <given-names>JY</given-names>
+   </name>
+   <name>
+    <surname>Cheong</surname>
+    <given-names>HJ</given-names>
+   </name>
+   <name>
+    <surname>Kim</surname>
+    <given-names>WJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Covid-19 in South Korea - challenges of subclinical manifestations</article-title>
+  <source>N Engl J Med</source>
+  <year>2020</year>
+  <volume>382</volume>
+  <issue>19</issue>
+  <fpage>1858</fpage>
+  <lpage>1859</lpage>
+  <pub-id pub-id-type="pmid">32251568</pub-id>
+ </element-citation>
+</ref>

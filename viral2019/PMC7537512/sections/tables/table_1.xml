@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="ijd15189-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <p>Patient information and expert recommendations on dermatological conditions during the COVID‐19 pandemic</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <col style="border-right:solid 1px #000000" span="1"/>
+  <thead valign="top">
+   <tr style="border-bottom:solid 1px #000000">
+    <th align="left" valign="top" rowspan="1" colspan="1">Dermatological condition</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Patient information</th>
+    <th align="left" valign="top" rowspan="1" colspan="1">Expert recommendation</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Severe skin diseases on biological or immunomodulation therapy</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.nice.org.uk/guidance/ng169" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.nice.org.uk/guidance/ng169</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="http://www.bad.org.uk/healthcare-professionals/covid-19" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.bad.org.uk/healthcare‐professionals/covid‐19</ext-link>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>NICE guideline
+      <xref rid="ijd15189-bib-0006" ref-type="ref">
+       <sup>6</sup>
+      </xref>
+     </p>
+     <p>BAD – advice for dermatology HCPs
+      <xref rid="ijd15189-bib-0007" ref-type="ref">
+       <sup>7</sup>
+      </xref>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Psoriasis vulgaris</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.eadv.org/covid‐19/task‐force</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.psoriasiscouncil.org/blog/Statement-on-COVID-19-and-Psoriasis.htm" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.psoriasiscouncil.org/blog/Statement‐on‐COVID‐19‐and‐Psoriasis.htm</ext-link>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Conforti 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0010" ref-type="ref">
+       <sup>10</sup>
+      </xref>
+     </p>
+     <p>Lebwohl 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0011" ref-type="ref">
+       <sup>11</sup>
+      </xref>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Hidradenitis suppurativa and other rare skin diseases</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://ern-skin.eu/covid-19/" xmlns:xlink="http://www.w3.org/1999/xlink">https://ern‐skin.eu/covid‐19/</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.eadv.org/covid‐19/task‐force</ext-link>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Bodemer 
+     <italic>et al</italic>.
+     <xref rid="ijd15189-bib-0012" ref-type="ref">
+      <sup>12</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Atopic dermatitis</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.eadv.org/covid‐19/task‐force</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Wollenberg 
+     <italic>et al</italic>.
+     <xref rid="ijd15189-bib-0013" ref-type="ref">
+      <sup>13</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Autoimmune blistering diseases</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.eadv.org/covid-19/task-force" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.eadv.org/covid‐19/task‐force</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="http://www.pemphigus.org/information-for-pemphigus-and-pemphigoid-patients-related-to-coronavirus-disease-covid-19/" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.pemphigus.org/information‐for‐pemphigus‐and‐pemphigoid‐patients‐related‐to‐coronavirus‐disease‐covid‐19/</ext-link>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Kasperkiewicz 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0015" ref-type="ref">
+       <sup>15</sup>
+      </xref>
+     </p>
+     <p>Shakshouk 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0016" ref-type="ref">
+       <sup>16</sup>
+      </xref>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Rheumatologic skin diseases</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.rheumatology.org.uk/news-policy/details/Covid19-Coronavirus-update-members" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.rheumatology.org.uk/news‐policy/details/Covid19‐Coronavirus‐update‐members</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.rheumatology.org/Portals/0/Files/ACR-COVID-19-Clinical-Guidance-Summary-Patients-with-Rheumatic-Diseases.pd" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.rheumatology.org/Portals/0/Files/ACR‐COVID‐19‐Clinical‐Guidance‐Summary‐Patients‐with‐Rheumatic‐Diseases.pd</ext-link>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Arora 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0017" ref-type="ref">
+       <sup>17</sup>
+      </xref>
+     </p>
+     <p>Mikuls 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0018" ref-type="ref">
+       <sup>18</sup>
+      </xref>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Inflammatory skin diseases in children</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://pedsderm.net/resources/general-information-for-patients-and-caregivers-about-covid-19/" xmlns:xlink="http://www.w3.org/1999/xlink">https://pedsderm.net/resources/general‐information‐for‐patients‐and‐caregivers‐about‐covid‐19/</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Reynolds 
+     <italic>et al</italic>.
+     <xref rid="ijd15189-bib-0019" ref-type="ref">
+      <sup>19</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Infantile hemangiomas</td>
+    <td align="left" rowspan="1" colspan="1">
+     <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/pde.14196" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.1111/pde.14196</ext-link>
+    </td>
+    <td align="left" rowspan="1" colspan="1">Frieden 
+     <italic>et al</italic>.
+     <xref rid="ijd15189-bib-0020" ref-type="ref">
+      <sup>20</sup>
+     </xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Nonmelanoma skin cancer, melanoma, and lymphoma</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.nccn.org/covid-19/default.aspx" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.nccn.org/covid‐19/default.aspx</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.skincancer.org/treatment-resources/support-resources/robins-nest/covid-19-and-you" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.skincancer.org/treatment‐resources/support‐resources/robins‐nest/covid‐19‐and‐you</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.rcr.ac.uk/sites/default/files/non-melanoma-skin-cancer-covid19.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.rcr.ac.uk/sites/default/files/non‐melanoma‐skin‐cancer‐covid19.pdf</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.rcr.ac.uk/sites/default/files/melanoma-treatment-covid19.pdf" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.rcr.ac.uk/sites/default/files/melanoma‐treatment‐covid19.pdf</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.esmo.org/guidelines/cancer-patient-management-during-the-covid-19-pandemic/melanoma-in-the-covid-19-era" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.esmo.org/guidelines/cancer‐patient‐management‐during‐the‐covid‐19‐pandemic/melanoma‐in‐the‐covid‐19‐era</ext-link>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>Der Sarkissian 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0021" ref-type="ref">
+       <sup>21</sup>
+      </xref>
+     </p>
+     <p>Jakhar 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0022" ref-type="ref">
+       <sup>22</sup>
+      </xref>
+     </p>
+     <p>Royal College of Radiologists
+      <xref rid="ijd15189-bib-0023" ref-type="ref">
+       <sup>23</sup>
+      </xref>, 
+      <xref rid="ijd15189-bib-0024" ref-type="ref">
+       <sup>24</sup>
+      </xref>
+     </p>
+     <p>Conforti 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0025" ref-type="ref">
+       <sup>25</sup>
+      </xref>
+     </p>
+     <p>Zic JA 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0026" ref-type="ref">
+       <sup>26</sup>
+      </xref>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="1" colspan="1">Management of dermatological practice</td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://www.aad.org/member/practice/managing/coronavirus" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.aad.org/member/practice/managing/coronavirus</ext-link>
+     </p>
+     <p>
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jaad.2020.04.091" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.1016/j.jaad.2020.04.091</ext-link>
+     </p>
+    </td>
+    <td align="left" rowspan="1" colspan="1">
+     <p>AAD instructions
+      <xref rid="ijd15189-bib-0028" ref-type="ref">
+       <sup>28</sup>
+      </xref>
+     </p>
+     <p>Lim 
+      <italic>et al</italic>.
+      <xref rid="ijd15189-bib-0029" ref-type="ref">
+       <sup>29</sup>
+      </xref>
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <permissions>
+  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+  <license>
+   <license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p>
+  </license>
+ </permissions>
+</table-wrap>

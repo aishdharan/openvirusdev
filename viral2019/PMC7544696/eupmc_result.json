@@ -1,0 +1,364 @@
+{
+  "id": [
+    "PMC7544696"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7544696"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7544696"
+      ]
+    }
+  ],
+  "title": [
+    "SARS-CoV-2 massive testing: a window of opportunity to catch up with HCV elimination"
+  ],
+  "authorString": [
+    "Crespo J, Díaz-González Á, Iruzubieta P, Llerena S, Cabezas J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Crespo J"
+          ],
+          "firstName": [
+            "Javier"
+          ],
+          "lastName": [
+            "Crespo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "3 School of Medicine, University of Cantabria, Santander, Spain"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Díaz-González Á"
+          ],
+          "firstName": [
+            "Álvaro"
+          ],
+          "lastName": [
+            "Díaz-González"
+          ],
+          "initials": [
+            "Á"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 Research Institute Valdecilla ( IDIVAL ), Santander, Spain"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Iruzubieta P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Iruzubieta"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 Research Institute Valdecilla ( IDIVAL ), Santander, Spain"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Llerena S"
+          ],
+          "firstName": [
+            "Susana"
+          ],
+          "lastName": [
+            "Llerena"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 Research Institute Valdecilla ( IDIVAL ), Santander, Spain"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cabezas J"
+          ],
+          "firstName": [
+            "Joaquín"
+          ],
+          "lastName": [
+            "Cabezas"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "2 Research Institute Valdecilla ( IDIVAL ), Santander, Spain"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3029971"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of hepatology"
+          ],
+          "ISOAbbreviation": [
+            "J Hepatol"
+          ],
+          "medlineAbbreviation": [
+            "J Hepatol"
+          ],
+          "NLMid": [
+            "8503886"
+          ],
+          "ISSN": [
+            "0168-8278"
+          ],
+          "ESSN": [
+            "1600-0641"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HCV",
+        "Screening",
+        "Elimination",
+        "Covid-19",
+        "Sars-cov-2",
+        "Massive Test"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7544696/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7544696/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7544696"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7544696?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-12"
+  ],
+  "firstIndexDate": [
+    "2020-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-12"
+  ],
+  "dateOfRevision": [
+    "2020-10-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-09"
+  ],
+  "firstPublicationDate": [
+    "2020-10-09"
+  ]
+}

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig06" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 6.</label>
+ <caption>
+  <p>Modeling the impact of nonpharmaceutical interventions on disease transmission. (
+   <italic>A</italic>) Different social distancing measures (e.g., school closures, work and social place closures, and older individuals distancing) reduce contact rates between individuals in different ways. To reduce the complexity of the model, and to understand their differential impacts, we assume that individuals are only affected by one of these measures, dependent on their age. Individuals aged 0 y to 24 y are affected by school closures (included in this are university closures). School closures were assumed to result in a 70% reduction in contacts among school-aged individuals (
+   <inline-formula>
+    <math id="i63">
+     <msub>
+      <mrow>
+       <mi>q</mi>
+      </mrow>
+      <mrow>
+       <mi>Y</mi>
+       <mi>Y</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>) and 20% reduction in their contacts with individuals aged 25 y to 59 y (
+   <inline-formula>
+    <math id="i64">
+     <msub>
+      <mrow>
+       <mi>q</mi>
+      </mrow>
+      <mrow>
+       <mi>Y</mi>
+       <mi>A</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>). Work and social place closures were assumed to reduce contacts among adults (
+   <inline-formula>
+    <math id="i65">
+     <msub>
+      <mrow>
+       <mi>q</mi>
+      </mrow>
+      <mrow>
+       <mi>A</mi>
+       <mi>A</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>) by 50%. Finally, older individuals distancing reduced contacts by 60+-y-old individuals with 0- to 24-y-olds by 90% (
+   <inline-formula>
+    <math id="i66">
+     <msub>
+      <mrow>
+       <mi>q</mi>
+      </mrow>
+      <mrow>
+       <mi>Y</mi>
+       <mi>O</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>), with 25- to 59-y-olds by 70% (
+   <inline-formula>
+    <math id="i67">
+     <msub>
+      <mrow>
+       <mi>q</mi>
+      </mrow>
+      <mrow>
+       <mi>A</mi>
+       <mi>O</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>), and among one another by 50% (
+   <inline-formula>
+    <math id="i68">
+     <msub>
+      <mrow>
+       <mi>q</mi>
+      </mrow>
+      <mrow>
+       <mi>O</mi>
+       <mi>O</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>). The effectiveness of symptomatic individuals self-isolating is dependent on two factors: 1) the observance by symptomatic individuals, 
+   <inline-formula>
+    <math id="i69">
+     <mi>k</mi>
+    </math>
+   </inline-formula>, and 2) the proportion of transmission due to individuals who are symptomatic, 
+   <inline-formula>
+    <math id="i70">
+     <msub>
+      <mrow>
+       <mi>p</mi>
+      </mrow>
+      <mrow>
+       <mi>s</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula>. (
+   <italic>B</italic>) We modeled five distinct combinations of social distancing measures, assuming that older individuals’ social distancing will always be prioritized.
+  </p>
+ </caption>
+ <graphic id="gra6" xlink:href="pnas.2008087117fig06" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

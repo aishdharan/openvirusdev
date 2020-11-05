@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We used a deterministic age-structured SEIR transmission model to simulate COVID-19 transmission in the United Kingdom. Contact rates 
+ <inline-formula>
+  <math id="i45">
+   <msub>
+    <mrow>
+     <mi>c</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>,</mo>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, the number of daily contacts an individual of age 
+ <inline-formula>
+  <math id="i46">
+   <mi>i</mi>
+  </math>
+ </inline-formula> y makes with individuals of age 
+ <inline-formula>
+  <math id="i47">
+   <mi>j</mi>
+  </math>
+ </inline-formula> y, were taken from the POLYMOD study of social mixing patterns for the United Kingdom (
+ <xref rid="r32" ref-type="bibr">32</xref>) corrected for reciprocity (
+ <xref rid="r33" ref-type="bibr">33</xref>). The simulated age groups were matched to those of the POLYMOD study: 14 5-y increments from 0 y to 69 y and then 70+ y. Age-stratified population sizes (
+ <inline-formula>
+  <math id="i48">
+   <msub>
+    <mrow>
+     <mi>N</mi>
+    </mrow>
+    <mrow>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>) were taken from 2018 UK demographic data.
+</p>

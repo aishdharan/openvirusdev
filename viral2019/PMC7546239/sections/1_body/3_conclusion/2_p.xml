@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3622">We have compared the prediction accuracy of eight algorithms to forecast the spread of COVID-19. We summarise the results in 
+ <xref rid="tbl2" ref-type="table">Table 2</xref>. The error in 
+ <xref rid="tbl2" ref-type="table">Table 2</xref> is obtained by averaging over all sMAPE forecast errors for forecast horizons between one and six days. Fitting a sigmoid curve, like the logistic function, performs the worst of all methods. The main reasons for the low prediction accuracy are the imposed symmetry around the epidemic peak and the negligence of the interaction between regions. Other sigmoid curves, such as the Hill function and the Gompertz function, perform slightly better than the logistic function, but perform worse than most other algorithms. The machine-learning algorithm Long Short-Term Memory (LSTM) is not based on any phenomenological epidemic processes nor considers provincial interactions. 
+ <xref rid="tbl2" ref-type="table">Table 2</xref> shows that the prediction accuracy of LSTM is comparable to the Hill and Gompertz functions.
+</p>

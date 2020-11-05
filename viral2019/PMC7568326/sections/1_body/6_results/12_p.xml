@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>While, at this point, the effective reproductive number is below 1 without any social distancing in the 
+ <inline-formula>
+  <math id="i30">
+   <mo>&lt;</mo>
+  </math>
+ </inline-formula>60-y age group, full herd immunity has not necessarily been achieved (
+ <xref ref-type="fig" rid="fig05">Fig. 5
+  <italic>C</italic>
+ </xref>). If 
+ <inline-formula>
+  <math id="i31">
+   <mo>≥</mo>
+  </math>
+ </inline-formula>60-year-olds cease self-isolating, then the increased contact rates cause the effective reproductive number to increase, and may take it above 1. Achieving herd immunity requires that, while 
+ <inline-formula>
+  <math id="i32">
+   <mo>≥</mo>
+  </math>
+ </inline-formula>60-y-olds are isolated, the additional new infections after 
+ <inline-formula>
+  <math id="i33">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="normal">e</mi>
+     <mi mathvariant="normal">ff</mi>
+    </mrow>
+   </msub>
+   <mo>&lt;</mo>
+   <mn>1</mn>
+  </math>
+ </inline-formula> sufficiently further reduce 
+ <inline-formula>
+  <math id="i34">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="normal">e</mi>
+     <mi mathvariant="normal">ff</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> (the “overshoot”) such that, when 
+ <inline-formula>
+  <math id="i35">
+   <mo>≥</mo>
+   <mn>60</mn>
+  </math>
+ </inline-formula>-y-olds cease self-isolation, it remains below 1. The amount of overshoot increases with the hospital capacity (
+ <xref ref-type="fig" rid="fig05">Fig. 5
+  <italic>C</italic>
+ </xref>). In addition to increasing the prospects of achieving herd immunity (and also its robustness; see also 
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2008087117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Fig. S3
+  <italic>C</italic>
+ </ext-link>), the necessary duration of social distancing is inversely proportional to hospital capacity (
+ <xref ref-type="fig" rid="fig05">Fig. 5
+  <italic>D</italic>
+ </xref>).
+</p>

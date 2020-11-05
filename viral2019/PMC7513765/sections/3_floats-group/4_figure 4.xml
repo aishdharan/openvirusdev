@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4">
+ <label>Figure 4</label>
+ <caption>
+  <p>Slow LOI Rate Influenza Epidemics</p>
+  <p>Same as 
+   <xref rid="fig3" ref-type="fig">Figure 3</xref>, but for a slow LOI rate of γ
+   <sub>in</sub> = 0.00055. As for the fast LOI rate case, when the solar pump is active (ε = 1; [A and B]), constructive resonance eventually (in about 30–40 years) builds in regular sun-modulated oscillations, and the strength of the seasonal outbreaks adjusts to quasi-constant values that depend on latitude. However, during the first 30–40 years, intensive outbreaks are sporadic at all latitudes and typically repeat for 2–3 consecutive years in the northern and southern hemispheres. Without solar pump (ε = 0; [C and D]), the cycles are the same at all latitudes and are fed by LOIs only till the available number of susceptible is sufficient. The strength of the outbreaks decreases steadily with time, and time intervals between peaks squeezes, from the inverse of the LOI rate to ∼0.2 times that. Susceptible vs actual Infected phase diagrams (B and D) are plotted for the entire duration of the simulation (100 years). The LOI mechanism alone is able to support a few cycles of the epidemics (ε = 0; (D)), but these decreases systematically in strength and eventually die out. Switching the solar pump on (ε = 1; [B]) allows the system to remain active for the entire duration of the simulation and to stabilize after 30–40 years to susceptibility fractions of ∼85% and 97%, at all times, at ±40°, and at the Equator, respectively. Correspondingly, the fraction of actual infected over the susceptible population oscillates steadily between (0.001–0.2)% and (0.005–0.02)%, at ±40° and at the equator, respectively.
+  </p>
+ </caption>
+ <graphic xlink:href="gr4_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

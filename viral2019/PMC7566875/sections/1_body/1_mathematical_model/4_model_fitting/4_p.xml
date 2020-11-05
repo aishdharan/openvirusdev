@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e4113">At the same time, the optimization problem is rendered more complex, in several respects. First, the model is initialized at 
+ <inline-formula>
+  <math id="d1e4116" display="inline" altimg="si67.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">o</mi>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mi mathvariant="bold-fraktur">e</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>, with 
+ <disp-formula id="fd4">
+  <label>(4)</label>
+  <math id="d1e4149" display="block" altimg="si68.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">S</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>=</mo>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">o</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mi mathvariant="bold-fraktur">e</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mi mathvariant="bold-fraktur">N</mi>
+    <mo linebreak="goodbreak">−</mo>
+    <mn>1</mn>
+    <mo linebreak="goodbreak">=</mo>
+    <mfenced open="(" close=")">
+     <mrow>
+      <mn>4</mn>
+      <mo>.</mo>
+      <mn>9</mn>
+      <mo>×</mo>
+      <mn>1</mn>
+      <msup>
+       <mrow>
+        <mn>0</mn>
+       </mrow>
+       <mrow>
+        <mn>6</mn>
+       </mrow>
+      </msup>
+     </mrow>
+    </mfenced>
+    <mo linebreak="goodbreak">−</mo>
+    <mn>1</mn>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>=</mo>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">o</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mi mathvariant="bold-fraktur">e</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mn>1</mn>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>and all other compartments equal to zero. Here, 
+ <inline-formula>
+  <math id="d1e4261" display="inline" altimg="si344.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">o</mi>
+     <mi mathvariant="bold-fraktur">f</mi>
+     <mi mathvariant="bold-fraktur">f</mi>
+     <mi mathvariant="bold-fraktur">s</mi>
+     <mi mathvariant="bold-fraktur">e</mi>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is an unknown parameter, In this context, the total population is assumed to be susceptible to the disease, and 
+ <inline-formula>
+  <math id="d1e4282" display="inline" altimg="si70.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>=</mo>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">o</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">f</mi>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mi mathvariant="bold-fraktur">e</mi>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula> corresponds to ‘patient zero’.
+</p>

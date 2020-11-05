@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib16">
+ <element-citation publication-type="journal" id="sref16">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liao</surname>
+    <given-names>C.M.</given-names>
+   </name>
+   <name>
+    <surname>Chang</surname>
+    <given-names>C.F.</given-names>
+   </name>
+   <name>
+    <surname>Liang</surname>
+    <given-names>H.M.</given-names>
+   </name>
+  </person-group>
+  <article-title>A probabilistic transmis-sion dynamic model to assess indoor airborne infection risks</article-title>
+  <source>Risk Anal.</source>
+  <volume>25</volume>
+  <year>2005</year>
+  <fpage>1097</fpage>
+  <lpage>1107</lpage>
+  <pub-id pub-id-type="pmid">16297217</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pone.0241269.t001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0241269.t001</object-id>
+ <label>Table 1</label>
+ <caption>
+  <title>HIV-1 CRF03_AB recombinant 
+   <italic>pol</italic> sequences dataset used in this study.
+  </title>
+ </caption>
+ <alternatives>
+  <graphic id="pone.0241269.t001g" xlink:href="pone.0241269.t001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <table frame="hsides" rules="groups">
+   <colgroup span="1">
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+    <col align="left" valign="middle" span="1"/>
+   </colgroup>
+   <thead>
+    <tr>
+     <th align="center" rowspan="2" colspan="1">Region</th>
+     <th align="center" rowspan="2" colspan="1">Country</th>
+     <th align="center" rowspan="2" colspan="1">Location 
+      <xref ref-type="table-fn" rid="t001fn001">
+       <sup>
+        <italic>a</italic>
+       </sup>
+      </xref>
+     </th>
+     <th align="center" rowspan="2" colspan="1">
+      <italic>N</italic> (%) 
+      <xref ref-type="table-fn" rid="t001fn002">
+       <sup>
+        <italic>b</italic>
+       </sup>
+      </xref>
+     </th>
+     <th align="center" rowspan="2" colspan="1">Date range</th>
+     <th align="center" colspan="5" rowspan="1">Transmission route, 
+      <italic>N</italic> (%)
+     </th>
+     <th align="center" rowspan="1" colspan="1">HIV prevalence (%) 
+      <xref ref-type="table-fn" rid="t001fn003">
+       <sup>
+        <italic>c</italic>
+       </sup>
+      </xref>
+     </th>
+    </tr>
+    <tr>
+     <th align="center" rowspan="1" colspan="1">HSX</th>
+     <th align="center" rowspan="1" colspan="1">MSM</th>
+     <th align="center" rowspan="1" colspan="1">IDU</th>
+     <th align="center" rowspan="1" colspan="1">MTC</th>
+     <th align="center" rowspan="1" colspan="1">UNK</th>
+     <th align="center" rowspan="1" colspan="1"/>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>Former Soviet Union</bold>
+     </td>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Azerbaijan</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">AZ</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (100.0)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2002</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">0.1</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">Belarus</td>
+     <td align="center" rowspan="1" colspan="1">BY</td>
+     <td align="center" rowspan="1" colspan="1">5 (22)</td>
+     <td align="center" rowspan="1" colspan="1">2000, 2008–2015</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">5 (100)</td>
+     <td align="center" rowspan="1" colspan="1">0.5</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Estonia</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">EE</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (20)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2010</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">0.9</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">Kazakhstan</td>
+     <td align="center" rowspan="1" colspan="1">KZ</td>
+     <td align="center" rowspan="1" colspan="1">3 (100)</td>
+     <td align="center" rowspan="1" colspan="1">2009–2012</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">1 (33)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">2 (67)</td>
+     <td align="center" rowspan="1" colspan="1">0.2</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Kyrgyzstan</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">KG</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2008</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">0.2</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">Lithuania</td>
+     <td align="center" rowspan="1" colspan="1">LT</td>
+     <td align="center" rowspan="1" colspan="1">7 (7)</td>
+     <td align="center" rowspan="1" colspan="1">2008</td>
+     <td align="center" rowspan="1" colspan="1">1 (14)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">6 (86)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">0.2</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Russia incl.</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">RU</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">121 (39 
+      <xref ref-type="table-fn" rid="t001fn004">
+       <sup>
+        <italic>d</italic>
+       </sup>
+      </xref>)
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1997–2019</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">54 (44)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (1)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">39 (32)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (1)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">27 (22)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1.2</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">
+      <italic> Kaliningrad</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>Kal</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>8</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">1998, 2011,2016</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">6 (75)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">2 (25)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic> Ekaterinburg</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>Eka</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>41</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2016–2019</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">22 (54)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">8 (20)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (2)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">10 (24)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">
+      <italic> Cherepovets</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>Chr</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>26</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">2001, 2017–2018</td>
+     <td align="center" rowspan="1" colspan="1">13 (50)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">12 (46)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">1 (4)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic> Saint-Petersburg</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>Spb</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>8</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2007–2014, 2018</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">5 (62)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (13)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2 (25)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">
+      <italic> YaNAD</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>Yam</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>13</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">2004–2013</td>
+     <td align="center" rowspan="1" colspan="1">10 (77)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">2 (15)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">1 (8)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic> Krasnodar</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>Krd</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>3</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2008, 2015–2016</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2 (67)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (33)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">
+      <italic> Tyumen’</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>Tum</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>4</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">2006, 2015–2016</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">2 (50)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">2 (50)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic> Perm’</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>Prm</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <italic>4</italic>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1998–1999, 2011</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (25)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">3 (75)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">
+      <italic> Others</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>Oth</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">
+      <italic>14</italic>
+     </td>
+     <td align="center" rowspan="1" colspan="1">2008–2016</td>
+     <td align="center" rowspan="1" colspan="1">1 (7)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">4 (29)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">9 (64)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">Tajikistan</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">TJ</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">5 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2017</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">5 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">0.2</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">Ukraine</td>
+     <td align="center" rowspan="1" colspan="1">UA</td>
+     <td align="center" rowspan="1" colspan="1">1 (17)</td>
+     <td align="center" rowspan="1" colspan="1">2015</td>
+     <td align="center" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">1.0</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>All</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>145 (000)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>1997–2019</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>58 (40)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>1 (1)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>46 (31)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>1 (1)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>39 (27)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1">
+      <bold>Others</bold>
+     </td>
+     <td align="left" rowspan="1" colspan="1">Spain</td>
+     <td align="center" rowspan="1" colspan="1">ES</td>
+     <td align="center" rowspan="1" colspan="1">4 (57)</td>
+     <td align="center" rowspan="1" colspan="1">2007, 2012</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">4 (100)</td>
+     <td align="center" rowspan="1" colspan="1">0.3</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">China</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">CN</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">2013</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">N/a</td>
+    </tr>
+    <tr>
+     <td align="left" rowspan="1" colspan="1"/>
+     <td align="left" rowspan="1" colspan="1">United Kingdom</td>
+     <td align="center" rowspan="1" colspan="1">UK</td>
+     <td align="center" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" rowspan="1" colspan="1">2013</td>
+     <td align="center" rowspan="1" colspan="1">1 (100)</td>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1"/>
+     <td align="center" rowspan="1" colspan="1">0.2</td>
+    </tr>
+    <tr>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="left" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>All</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>6 (67)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>2007, 2012–2013</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>1 (17)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>1 (17)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1">
+      <bold>4 (66)</bold>
+     </td>
+     <td align="center" style="background-color:#F2F2F2" rowspan="1" colspan="1"/>
+    </tr>
+   </tbody>
+  </table>
+ </alternatives>
+ <table-wrap-foot>
+  <fn id="t001fn001">
+   <p>
+    <sup>a</sup> Location assigned in the phylo(-geographic)genetic analysis.
+   </p>
+  </fn>
+  <fn id="t001fn002">
+   <p>
+    <sup>b</sup> Number of partial HIV-1 
+    <italic>pol</italic> sequences for each country (percentage of total number of HIV-1 CRF03_AB sequences for country; only one sequence per patient was considered).
+   </p>
+  </fn>
+  <fn id="t001fn003">
+   <p>
+    <sup>c</sup> HIV prevalence data indicated according to the UNAIDS report and National report on the Russian Epidemic.
+   </p>
+  </fn>
+  <fn id="t001fn004">
+   <p>
+    <sup>d</sup> Taking into account the sequences obtained in this study. Abbreviation: HSX, heterosexual contacts; IDU, injection drug users; MSM, men who have sex with men; MTC, mother-to-child transmission; UNK, unknown; YaNAD, Yamalo-Nenets Autonomous district; N/a, not available.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

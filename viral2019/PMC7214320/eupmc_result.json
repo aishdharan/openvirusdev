@@ -1,0 +1,467 @@
+{
+  "id": [
+    "32399481"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32399481"
+  ],
+  "pmcid": [
+    "PMC7214320"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7214320"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.jrid.2020.05.002"
+  ],
+  "title": [
+    "Computed tomography findings in a case of coronavirus disease 2019."
+  ],
+  "authorString": [
+    "Yang B, Wang L, Xu G, Duan W, Zhang F, Cui C, Wang Z, Du W, Wu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Libin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, Yunlong County People's Hospital, Dali, Yunnan 672700, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xu G"
+          ],
+          "firstName": [
+            "Guanghai"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Oncology, People's Hospital of Chuxiong Yi Autonomous Prefecture, Chuxiong, Yunnan 675000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Duan W"
+          ],
+          "firstName": [
+            "Wenshuai"
+          ],
+          "lastName": [
+            "Duan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cui C"
+          ],
+          "firstName": [
+            "Chunmao"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhijun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Du W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xinhua"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Cardiology, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2996697"
+      ],
+      "dateOfPublication": [
+        "2020 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Radiology of infectious diseases (Beijing, China)"
+          ],
+          "medlineAbbreviation": [
+            "Radiol Infect Dis"
+          ],
+          "NLMid": [
+            "101708991"
+          ],
+          "ISSN": [
+            "2352-6211"
+          ],
+          "ESSN": [
+            "2352-622X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "81-83"
+  ],
+  "abstractText": [
+    "Coronavirus disease 2019 (COVID-19), which is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is mainly characterized by pulmonary inflammation. The preferred imaging modality is chest computed tomography (CT) which plays an important role in early diagnosis, quarantine, and treatment as well as in the evaluation of therapeutic efficacy. We report the imaging data from a confirmed case of COVID-19 admitted to our hospital. Our aims are to improve understanding of this disease and to facilitate early diagnosis and evaluation of therapeutic efficacy. A 70-year-old woman living in the epidemic area presented with a 2-day history of intermittent fever. Chest CT revealed multiple ground glass opacities in both lungs, mainly distributed subpleurally and in the middle and lateral lung fields, particularly in the right lung, where they had partially fused into patches. Local interlobular septal thickening was also observed. Throat swabs were positive for the SARS-CoV-2 nucleic acid, which confirmed the diagnosis of COVID-19. Chest CT plays a key role in the diagnosis of COVID-19, providing an accurate diagnosis and is a sensitive technique for evaluation of therapeutic efficacy. It has the advantages of promptness, convenience, and high efficiency."
+  ],
+  "affiliation": [
+    "Department of Medical Imaging, The First Affiliated Hospital of Dali University, Dali, Yunnan 671000, China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Case Reports",
+        "case-report"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Imaging diagnosis",
+        "X-ray imaging",
+        "computed tomography",
+        "Coronavirus Disease"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jrid.2020.05.002"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7214320"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7214320?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-05-14"
+  ],
+  "firstIndexDate": [
+    "2020-05-14"
+  ],
+  "fullTextReceivedDate": [
+    "2020-07-10"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-05-12"
+  ],
+  "firstPublicationDate": [
+    "2020-05-12"
+  ]
+}

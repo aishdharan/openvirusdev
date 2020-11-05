@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The primary data source was the public health event database maintained by the WHE Programme at the Regional Office for Africa, which contains all formally reported public health events in the African Region including those verified through epidemic intelligence activities. Variables captured include country name, event name, etiology, date of onset, date of detection, date of notification to WHO, date of end of outbreak, and total number of cases and deaths, as well as a short description of events. Two additional variables were derived from the public health event database: each country reporting an outbreak was assigned to the Central, West, Eastern, or Southern African subregion on the basis of the WHO intercountry support team structure (
+ <xref rid="R10" ref-type="bibr">
+  <italic>10</italic>
+ </xref>), and disease category was assigned on the basis of either similarity in mode of transmission, type of etiologic agent, or diseases requiring the same type of public health intervention (e.g., vaccination). 
+</p>

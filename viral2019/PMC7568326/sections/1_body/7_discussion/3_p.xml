@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>If herd immunity is the objective, then, in addition to the narrow range of 
+ <inline-formula>
+  <math id="i43">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> that must be aimed for, social distancing measures must be subsequently relaxed gradually in a highly controlled manner over a period of months to years. We were able to find a mathematical solution for building herd immunity with the minimal duration of social distancing using a reduced two-age group model. This solution requires knowledge of unobserved epidemiological determinants, namely, the remaining susceptible population, fraction exposed, and hospitalization probability. Additionally, complexities neglected by the model (e.g., failure of the 
+ <inline-formula>
+  <math id="i44">
+   <mo>≥</mo>
+  </math>
+ </inline-formula>60-y age group to completely isolate, spatial structure) will alter the exact social distancing function. We, instead, view our results as serving as an indicator of the general shape and duration of social distancing necessary. Developing methods for implementable social distancing strategies capable of building toward herd immunity and that rely only on observable epidemiological data (e.g., the incidence curve and the hospital bed occupancy) requires further research.
+</p>

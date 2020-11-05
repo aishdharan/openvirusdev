@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Lorenz</surname>
+   <given-names>Camila</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Dias Bocewicz</surname>
+   <given-names>Ana Carolina</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Corrêa de Azevedo Marques</surname>
+   <given-names>Cristiano</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au4">
+  <name>
+   <surname>Reis Santana</surname>
+   <given-names>Lidia Maria</given-names>
+  </name>
+  <xref rid="aff4" ref-type="aff">d</xref>
+  <xref rid="aff5" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au5">
+  <name>
+   <surname>Chiaravalloti-Neto</surname>
+   <given-names>Francisco</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au6">
+  <name>
+   <surname>Alves Gomes</surname>
+   <given-names>Antonio Henrique</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au7">
+  <name>
+   <surname>Barbosa</surname>
+   <given-names>Gerson Laurindo</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Department of Epidemiology, School of Public Health, University of São Paulo, Sao Paulo, Brazil
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Disease Control Coordination (CCD SES/SP), Sao Paulo, Brazil
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Endemics Control Superintendence (SUCEN), São Paulo State Department of Health, Sao Paulo, Brazil
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Epidemiological Surveillance Center “Professor Alexandre Vranjac” - São Paulo State Department of Health (CVE/SES-SP), Sao Paulo, Brazil
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Federal University of São Paulo (UNIFESP), Sao Paulo, Brazil
+ </aff>
+</contrib-group>

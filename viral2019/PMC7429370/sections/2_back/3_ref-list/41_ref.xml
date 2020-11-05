@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR41">
+ <label>41.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Huang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Yi</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Tai</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Kalita</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Prapainainar</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Garg</surname>
+    <given-names>A</given-names>
+   </name>
+  </person-group>
+  <article-title>An application of evolutionary system identification algorithm in modelling of energy production system</article-title>
+  <source>Measurement</source>
+  <year>2018</year>
+  <volume>114</volume>
+  <fpage>122</fpage>
+  <lpage>131</lpage>
+ </element-citation>
+</ref>

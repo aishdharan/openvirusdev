@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref4">
+ <label>4.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Pradhan</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kumar Pandey</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mishra</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and gag</article-title>. 
+  <source>bioRxiv</source>
+  <year>2020</year> preprint. doi: 
+  <pub-id pub-id-type="doi">10.1101/2020.01.30.927871</pub-id>.
+ </mixed-citation>
+</ref>

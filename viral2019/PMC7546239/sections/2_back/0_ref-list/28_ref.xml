@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b28">
+ <element-citation publication-type="journal" id="sb28">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moran</surname>
+    <given-names>K.R.</given-names>
+   </name>
+   <name>
+    <surname>Fairchild</surname>
+    <given-names>G.</given-names>
+   </name>
+   <name>
+    <surname>Generous</surname>
+    <given-names>N.</given-names>
+   </name>
+   <name>
+    <surname>Hickmann</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Osthus</surname>
+    <given-names>D.</given-names>
+   </name>
+   <name>
+    <surname>Priedhorsky</surname>
+    <given-names>R.</given-names>
+   </name>
+   <name>
+    <surname>Hyman</surname>
+    <given-names>J.</given-names>
+   </name>
+   <name>
+    <surname>Del Valle</surname>
+    <given-names>S.Y.</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemic forecasting is messier than weather forecasting: The role of human behavior and internet data streams in epidemic forecast</article-title>
+  <source>The Journal of Infectious Diseases</source>
+  <volume>214</volume>
+  <issue>suppl4</issue>
+  <year>2016</year>
+  <fpage>S404</fpage>
+  <lpage>S408</lpage>
+  <pub-id pub-id-type="doi">10.1093/infdis/jiw375</pub-id>
+  <pub-id pub-id-type="pmid">28830111</pub-id>
+ </element-citation>
+</ref>

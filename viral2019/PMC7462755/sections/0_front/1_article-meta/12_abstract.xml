@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="ab0010">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="l0005">
+   <list-item id="li0005">
+    <label>•</label>
+    <p id="p0005">This study first investigated how COVID-19 and the following measures taken influence the influenza activity in mainland China.</p>
+   </list-item>
+   <list-item id="li0010">
+    <label>•</label>
+    <p id="p0010">The influenza activity in mainland China declined at the beginning of 2020, soon after COVID-19 have spread all over China.</p>
+   </list-item>
+   <list-item id="li0015">
+    <label>•</label>
+    <p id="p0015">After public health interventions were taken in late-January, the influenza-positive rate gradually decreased, and approached zero in March, which was much earlier than the seasons before.</p>
+   </list-item>
+   <list-item id="li0020">
+    <label>•</label>
+    <p id="p0020">COVID-19 and the following measures have significantly changed the circulation of influenza, and the co-circulation of the two types of viruses worth sustained attention.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

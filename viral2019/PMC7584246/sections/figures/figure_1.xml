@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0241269.g001" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0241269.g001</object-id>
+ <label>Fig 1</label>
+ <caption>
+  <title>The prevalence of HIV-1 CRF03_AB recombinant in the northwestern FSU countries, including the Northwestern Federal District of Russia.</title>
+  <p>The source links for forest plot (A) numbered according to the list in 
+   <xref ref-type="supplementary-material" rid="pone.0241269.s006">S1 Table</xref>. The x-axis of a meta-regression plot (B) represents year of the samples collection. The diameter of each bubble is proportional to the sample size of each study.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0241269.g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

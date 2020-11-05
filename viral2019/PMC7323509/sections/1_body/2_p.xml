@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>During 2019, we performed Illumina sequencing (
+ <ext-link ext-link-type="uri" xlink:href="https://www.illumina.com" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.illumina.com</ext-link>) on blood donations identified through postdonation information in the Ribeirao Preto Blood Center (Ribeirao Preto, Brazil). We manually extracted viral nucleic acids from plasma using the High Pure Viral Nucleic Acids kit (Roche, 
+ <ext-link ext-link-type="uri" xlink:href="https://www.roche.com" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.roche.com</ext-link>) and performed reverse transcription using the SuperScript First Strand Synthesis System (ThermoFisher Scientific, 
+ <ext-link ext-link-type="uri" xlink:href="https://www.thermofisher.com" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.thermofisher.com</ext-link>) following the manufacturer’s guidelines. We generated cDNA libraries using Nextera DNA Flex Library preparation kit (Illumina) and sequenced them in Illumina NextSeq 550 equipment. We conducted viral metagenomic analysis using a bioinformatic pipeline focused on viral discovery comprising FastQC version 0.11.8 (
+ <ext-link ext-link-type="uri" xlink:href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.bioinformatics.babraham.ac.uk/projects/fastqc</ext-link>), Trimmomatic version 0.3.9 (
+ <ext-link ext-link-type="uri" xlink:href="http://www.usadellab.org/cms/?page=trimmomatic" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.usadellab.org/cms/?page=trimmomatic</ext-link>), AfterQC version 0.9.7 (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/OpenGene/AfterQC" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/OpenGene/AfterQC</ext-link>), Kraken2 2.0.8 (
+ <ext-link ext-link-type="uri" xlink:href="https://ccb.jhu.edu/software/kraken2" xmlns:xlink="http://www.w3.org/1999/xlink">https://ccb.jhu.edu/software/kraken2</ext-link>), SPAdes version 3.13.0 (
+ <ext-link ext-link-type="uri" xlink:href="http://cab.spbu.ru/software/spades" xmlns:xlink="http://www.w3.org/1999/xlink">http://cab.spbu.ru/software/spades</ext-link>), and Diamond 0.9.29 (
+ <ext-link ext-link-type="uri" xlink:href="https://github.com/bbuchfink/diamond" xmlns:xlink="http://www.w3.org/1999/xlink">https://github.com/bbuchfink/diamond</ext-link>) software.
+</p>

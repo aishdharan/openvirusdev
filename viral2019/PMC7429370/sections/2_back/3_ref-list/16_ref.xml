@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR16">
+ <label>16.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chakrabarti</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Leskovec</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Faloutsos</surname>
+    <given-names>C</given-names>
+   </name>
+  </person-group>
+  <article-title>Epidemic thresholds in real networks</article-title>
+  <source>ACM Trans Inf Syst Secur (TISSEC)</source>
+  <year>2008</year>
+  <volume>10</volume>
+  <issue>4</issue>
+  <fpage>1</fpage>
+ </element-citation>
+</ref>

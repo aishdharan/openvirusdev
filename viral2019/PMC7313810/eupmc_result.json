@@ -1,0 +1,607 @@
+{
+  "id": [
+    "32453411"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32453411"
+  ],
+  "pmcid": [
+    "PMC7313810"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7313810"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1093/jtm/taaa081"
+  ],
+  "title": [
+    "The effectiveness of full and partial travel bans against COVID-19 spread in Australia for travellers from China during and after the epidemic peak in China."
+  ],
+  "authorString": [
+    "Costantino V, Heslop DJ, MacIntyre CR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Costantino V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Costantino"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Biosecurity Program, The Kirby Institute, UNSW Medicine, The University of New South Wales, Sydney, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Heslop DJ"
+          ],
+          "firstName": [
+            "David J"
+          ],
+          "lastName": [
+            "Heslop"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The School of Public Health and Community Medicine, UNSW Medicine, The University of New South Wales, Sydney, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "MacIntyre CR"
+          ],
+          "firstName": [
+            "C Raina"
+          ],
+          "lastName": [
+            "MacIntyre"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Biosecurity Program, The Kirby Institute, UNSW Medicine, The University of New South Wales, Sydney, Australia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "27"
+      ],
+      "journalIssueId": [
+        "2997941"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of travel medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Travel Med"
+          ],
+          "medlineAbbreviation": [
+            "J Travel Med"
+          ],
+          "NLMid": [
+            "9434456"
+          ],
+          "ISSN": [
+            "1195-1982"
+          ],
+          "ESSN": [
+            "1708-8305"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "BACKGROUND:Australia implemented a travel ban on China on 1 February 2020, while COVID-19 was largely localized to China. We modelled three scenarios to test the impact of travel bans on epidemic control. Scenario one was no ban; scenario two and three were the current ban followed by a full or partial lifting (allow over 100 000 university students to enter Australia, but not tourists) from the 8th of March 2020. METHODS:We used disease incidence data from China and air travel passenger movements between China and Australia during and after the epidemic peak in China, derived from incoming passenger arrival cards. We used the estimated incidence of disease in China, using data on expected proportion of under-ascertainment of cases and an age-specific deterministic model to model the epidemic in each scenario. RESULTS:The modelled epidemic with the full ban fitted the observed incidence of cases well, predicting 57 cases on March 6th in Australia, compared to 66 observed on this date; however, we did not account for imported cases from other countries. The modelled impact without a travel ban results in more than 2000 cases and about 400 deaths, if the epidemic remained localized to China and no importations from other countries occurred. The full travel ban reduced cases by about 86%, while the impact of a partial lifting of the ban is minimal and may be a policy option. CONCLUSIONS:Travel restrictions were highly effective for containing the COVID-19 epidemic in Australia during the epidemic peak in China and averted a much larger epidemic at a time when COVID-19 was largely localized to China. This research demonstrates the effectiveness of travel bans applied to countries with high disease incidence. This research can inform decisions on placing or lifting travel bans as a control measure for the COVID-19 epidemic."
+  ],
+  "affiliation": [
+    "The Biosecurity Program, The Kirby Institute, UNSW Medicine, The University of New South Wales, Sydney, Australia."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Incidence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Regression Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communicable Disease Control"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "LJ"
+                  ],
+                  "qualifierName": [
+                    "legislation & jurisprudence"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Internationality"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Travel"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Australia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Coronavirus",
+        "Pandemic",
+        "Modelling",
+        "Travel Restrictions",
+        "Outbreak Response",
+        "Epidemic Control",
+        "Non-pharmaceutical Interventions",
+        "Sars-cov-2",
+        "Boarder Closure",
+        "Border Quarantine",
+        "Immunity Password"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jtm/taaa081"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7313810"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7313810?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-09-02"
+  ],
+  "dateOfCreation": [
+    "2020-05-27"
+  ],
+  "firstIndexDate": [
+    "2020-05-27"
+  ],
+  "fullTextReceivedDate": [
+    "2020-06-29"
+  ],
+  "dateOfRevision": [
+    "2020-09-02"
+  ],
+  "firstPublicationDate": [
+    "2020-08-01"
+  ]
+}

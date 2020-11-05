@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref55">
+ <label>55.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Sokolova</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Japkowicz</surname>
+    <given-names>N</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Szpakowicz</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Beyond accuracy, F-score and ROC: a family of discriminant measures for performance evaluation</article-title>. 
+  <source>Adv Artif Intell</source>
+  <year>2006</year>;
+  <volume>4304</volume>:
+  <fpage>1015</fpage>–
+  <lpage>1021</lpage>. doi: 
+  <pub-id pub-id-type="doi">10.1007/11941439_114</pub-id>.
+ </mixed-citation>
+</ref>

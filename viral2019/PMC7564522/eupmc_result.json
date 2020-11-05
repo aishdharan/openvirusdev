@@ -1,0 +1,347 @@
+{
+  "id": [
+    "33089116"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33089116"
+  ],
+  "pmcid": [
+    "PMC7564522"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7564522"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.eclinm.2020.100483"
+  ],
+  "title": [
+    "Understanding the impact of interruptions to HIV services during the COVID-19 pandemic: A modelling study."
+  ],
+  "authorString": [
+    "Jewell BL, Smith JA, Hallett TB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jewell BL"
+          ],
+          "firstName": [
+            "Britta L"
+          ],
+          "lastName": [
+            "Jewell"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London, London, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Smith JA"
+          ],
+          "firstName": [
+            "Jennifer A"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8809-8553",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London, London, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hallett TB"
+          ],
+          "firstName": [
+            "Timothy B"
+          ],
+          "lastName": [
+            "Hallett"
+          ],
+          "initials": [
+            "TB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London, London, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8809-8553",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "3002991"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EClinicalMedicine"
+          ],
+          "ISOAbbreviation": [
+            "EClinicalMedicine"
+          ],
+          "medlineAbbreviation": [
+            "EClinicalMedicine"
+          ],
+          "NLMid": [
+            "101733727"
+          ],
+          "ISSN": [
+            "2589-5370"
+          ],
+          "ESSN": [
+            "2589-5370"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "100483"
+  ],
+  "abstractText": [
+    "Background:There is concern that the COVID-19 pandemic could severely disrupt HIV services in sub-Saharan Africa. However, it is difficult to determine priorities for maintaining different elements of existing HIV services given widespread uncertainty. Methods:We explore the impact of disruptions on HIV outcomes in South Africa, Malawi, Zimbabwe, and Uganda using a mathematical model, examine how impact is affected by model assumptions, and compare potential HIV deaths to those that may be caused by COVID-19 in the same settings. Findings:The most important determinant of HIV-related mortality is an interruption to antiretroviral treatment (ART) supply. A three-month interruption for 40% of those on ART could cause a similar number of additional deaths as those that might be saved from COVID-19 through social distancing. An interruption for more than 6-90% of individuals on ART for nine months could cause the number of HIV deaths to exceed the number of COVID-19 deaths, depending on the COVID-19 projection. However, if ART supply is maintained, but new treatment, voluntary medical male circumcision, and pre-exposure prophylaxis initiations cease for 3 months and condom use is reduced, increases in HIV deaths would be limited to <2% over five years, although this could still be accompanied by a 7% increase in new HIV infections. Interpretation:HIV deaths could increase substantially during the COVID-19 pandemic under reasonable worst-case assumptions about interruptions to HIV services. It is a priority in high-burden countries to ensure continuity of ART during the pandemic. Funding:Bill & Melinda Gates Foundation."
+  ],
+  "affiliation": [
+    "MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London, London, UK."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV",
+        "Antiretroviral therapy",
+        "Mathematical Modelling",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.eclinm.2020.100483"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7564522"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7564522?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-22"
+  ],
+  "firstIndexDate": [
+    "2020-10-23"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-07-31"
+  ],
+  "firstPublicationDate": [
+    "2020-07-31"
+  ]
+}

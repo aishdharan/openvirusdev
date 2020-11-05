@@ -1,0 +1,701 @@
+{
+  "id": [
+    "PMC7526598"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7526598"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7526598"
+      ]
+    }
+  ],
+  "title": [
+    "Stroke Systems of Care During the COVID-19 Epidemic in Kobe City"
+  ],
+  "authorString": [
+    "Ohara N, Imamura H, Adachi H, Hara Y, Hosoda K, Kimura H, Kuwayama K, Mizowaki T, Motooka Y, Nakashima K, Shinoda N, Takamoto T, Ueno Y, Yamaura I, Yanagihara C, Yoshida Y, Kawamoto M, Sakai N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ohara N"
+          ],
+          "firstName": [
+            "Nobuyuki"
+          ],
+          "lastName": [
+            "Ohara"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "⁎ Department of Neurology, Kobe City Medical Center General Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Imamura H"
+          ],
+          "firstName": [
+            "Hirotoshi"
+          ],
+          "lastName": [
+            "Imamura"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "† Department of Neurosurgery, Kobe City Medical Center General Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Adachi H"
+          ],
+          "firstName": [
+            "Hidemitsu"
+          ],
+          "lastName": [
+            "Adachi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "‡ Department of Neurosurgery, Kobe City Medical Center West Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hara Y"
+          ],
+          "firstName": [
+            "Yoshie"
+          ],
+          "lastName": [
+            "Hara"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "§ Department of Neurosurgery, Hyogo Emergency Medical Center and Kobe Red Cross Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hosoda K"
+          ],
+          "firstName": [
+            "Kohkichi"
+          ],
+          "lastName": [
+            "Hosoda"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "¶ Department of Neurosurgery, Kobe City Nishi-Kobe Medical Center, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kimura H"
+          ],
+          "firstName": [
+            "Hidehito"
+          ],
+          "lastName": [
+            "Kimura"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "∥ Department of Neurosurgery, Kobe University Graduate School of Medicine, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kuwayama K"
+          ],
+          "firstName": [
+            "Kazuyuki"
+          ],
+          "lastName": [
+            "Kuwayama"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "# Department of Neurosurgery, Japan Community Health Care Organization Kobe Central Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mizowaki T"
+          ],
+          "firstName": [
+            "Takashi"
+          ],
+          "lastName": [
+            "Mizowaki"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "⁎⁎ Department of Neurosurgery, Shinsuma Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Motooka Y"
+          ],
+          "firstName": [
+            "Yasuhiko"
+          ],
+          "lastName": [
+            "Motooka"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "†† Department of Neurosurgery, Konan Medical Center, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Nakashima K"
+          ],
+          "firstName": [
+            "Kazuya"
+          ],
+          "lastName": [
+            "Nakashima"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "‡‡ Department of Neurosurgery, Kobe Ekisaikai Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shinoda N"
+          ],
+          "firstName": [
+            "Narihide"
+          ],
+          "lastName": [
+            "Shinoda"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "§§ Department of Neurosurgery, Kosei Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Takamoto T"
+          ],
+          "firstName": [
+            "Takeshi"
+          ],
+          "lastName": [
+            "Takamoto"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "¶¶ Department of Neurosurgery, National Hospital Organization Kobe Medical Center, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ueno Y"
+          ],
+          "firstName": [
+            "Yasushi"
+          ],
+          "lastName": [
+            "Ueno"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "∥∥ Department of Neurosurgery, Shinko Memorial Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yamaura I"
+          ],
+          "firstName": [
+            "Ikuya"
+          ],
+          "lastName": [
+            "Yamaura"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "## Department of Neurosurgery, Cerebrovascular Research Institute, Eishokai Yoshida Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yanagihara C"
+          ],
+          "firstName": [
+            "Chie"
+          ],
+          "lastName": [
+            "Yanagihara"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "⁎⁎⁎ Department of Neurology, Kobe City Nishi-Kobe Medical Center, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshida Y"
+          ],
+          "firstName": [
+            "Yasuhisa"
+          ],
+          "lastName": [
+            "Yoshida"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "## Department of Neurosurgery, Cerebrovascular Research Institute, Eishokai Yoshida Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kawamoto M"
+          ],
+          "firstName": [
+            "Michi"
+          ],
+          "lastName": [
+            "Kawamoto"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "⁎ Department of Neurology, Kobe City Medical Center General Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sakai N"
+          ],
+          "firstName": [
+            "Nobuyuki"
+          ],
+          "lastName": [
+            "Sakai"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "† Department of Neurosurgery, Kobe City Medical Center General Hospital, Kobe, Japan"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "29"
+      ],
+      "journalIssueId": [
+        "3023996"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association"
+          ],
+          "ISOAbbreviation": [
+            "J Stroke Cerebrovasc Dis"
+          ],
+          "medlineAbbreviation": [
+            "J Stroke Cerebrovasc Dis"
+          ],
+          "NLMid": [
+            "9111633"
+          ],
+          "ISSN": [
+            "1052-3057"
+          ],
+          "ESSN": [
+            "1532-8511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "105343-105343"
+  ],
+  "abstractText": [
+    "Highlights • COVID-19 epidemic challenged medical systems’ capacity to provide adequate care.• Kobe City stroke facilities operated optimally due to among-facility cooperation.• Stroke incidence decreased but treatment rates increased during the outbreak.• No case of symptomatic stroke in patients with confirmed COVID-19 was recorded. Background The novel coronavirus disease 2019 (COVID-19) outbreak raised concerns over healthcare systems’ ability to provide suitable care to stroke patients. In the present study, we examined the provision of stroke care in Kobe City during the COVID-19 epidemic, where some major stroke centers ceased to provide emergency care. Methods This was a cross-sectional study. The Kobe Stroke Network surveyed the number of stroke patients admitted to all primary stroke centers (PSCs) in the city between March 1 and May 23, 2020, and between March 3 and May 25, 2019. In addition, online meetings between all PSC directors were held regularly to share information. The survey items included emergency response system characteristics, number of patients with stroke hospitalized within 7 days of onset, administered treatment types (IV rt-PA, mechanical thrombectomy, surgery, and endovascular therapy), and stroke patients with confirmed COVID-19. Results During the period of interest in 2020, the number of stroke patients hospitalized across 13 PSCs was 813, which was 15.5% lower than that during the same period of 2019 (p = 0.285). The number of patients admitted with cerebral infarction, intracerebral hemorrhage, and subarachnoid hemorrhage decreased by 15.4% (p = 0.245), 16.1% (p = 0.659), and 14.0% (p = 0.715), respectively. However, the rates of mechanical thrombectomy and surgery for intracerebral hemorrhage were slightly increased by 12.1% (p = 0.754) and 5.0% (p = 0.538), respectively. PSCs that ceased to provide emergency care reported a decrease in the number of stroke cases of 65.7% compared with the same period in 2019, while other PSCs reported an increase of 0.8%. No case of a patient with stroke and confirmed COVID-19 was reported during the study period. Conclusion Kobe City was able to maintain operation of its stroke care systems thanks to close cooperation among all city PSCs and a temporal decrease in the total number of stroke cases."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stroke",
+        "Primary Stroke Center",
+        "Stroke Systems Of Care",
+        "Covid-19",
+        "Online Meeting"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7526598/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7526598/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7526598"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7526598?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-06"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-30"
+  ],
+  "firstPublicationDate": [
+    "2020-09-30"
+  ]
+}

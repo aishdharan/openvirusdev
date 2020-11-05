@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par24">Let 
+ <inline-formula id="IEq49">
+  <alternatives>
+   <tex-math id="M111">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$X_j(t)$$\end{document}</tex-math>
+   <math id="M112">
+    <mrow>
+     <msub>
+      <mi>X</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq49.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> be the extended state vector, i.e., 
+ <inline-formula id="IEq50">
+  <alternatives>
+   <tex-math id="M113">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$X_j(t) = [S_j^T(t) \; E_j^T(t) \; I_j^T(t) \; R_j^T(t) \; P_j^T(t) \; (N_j^s(t))^T ]^T$$\end{document}</tex-math>
+   <math id="M114">
+    <mrow>
+     <msub>
+      <mi>X</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msup>
+      <mrow>
+       <mo stretchy="false">[</mo>
+       <msubsup>
+        <mi>S</mi>
+        <mi>j</mi>
+        <mi>T</mi>
+       </msubsup>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+       </mrow>
+       <mspace width="0.277778em"/>
+       <msubsup>
+        <mi>E</mi>
+        <mi>j</mi>
+        <mi>T</mi>
+       </msubsup>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+       </mrow>
+       <mspace width="0.277778em"/>
+       <msubsup>
+        <mi>I</mi>
+        <mi>j</mi>
+        <mi>T</mi>
+       </msubsup>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+       </mrow>
+       <mspace width="0.277778em"/>
+       <msubsup>
+        <mi>R</mi>
+        <mi>j</mi>
+        <mi>T</mi>
+       </msubsup>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+       </mrow>
+       <mspace width="0.277778em"/>
+       <msubsup>
+        <mi>P</mi>
+        <mi>j</mi>
+        <mi>T</mi>
+       </msubsup>
+       <mrow>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+       </mrow>
+       <mspace width="0.277778em"/>
+       <msup>
+        <mrow>
+         <mo stretchy="false">(</mo>
+         <msubsup>
+          <mi>N</mi>
+          <mi>j</mi>
+          <mi>s</mi>
+         </msubsup>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo stretchy="false">)</mo>
+        </mrow>
+        <mi>T</mi>
+       </msup>
+       <mo stretchy="false">]</mo>
+      </mrow>
+      <mi>T</mi>
+     </msup>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq50.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, then, we define:
+ <disp-formula id="Equ8">
+  <label>8</label>
+  <alternatives>
+   <tex-math id="M115">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} X(t) =[X_1^T(t) \; X_2^T(t) \; \cdots \; X_K^T(t) ]^T \end{aligned}$$\end{document}</tex-math>
+   <math id="M116" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mi>X</mi>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>=</mo>
+         <msup>
+          <mrow>
+           <mo stretchy="false">[</mo>
+           <msubsup>
+            <mi>X</mi>
+            <mn>1</mn>
+            <mi>T</mi>
+           </msubsup>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+           </mrow>
+           <mspace width="0.277778em"/>
+           <msubsup>
+            <mi>X</mi>
+            <mn>2</mn>
+            <mi>T</mi>
+           </msubsup>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+           </mrow>
+           <mspace width="0.277778em"/>
+           <mo>⋯</mo>
+           <mspace width="0.277778em"/>
+           <msubsup>
+            <mi>X</mi>
+            <mi>K</mi>
+            <mi>T</mi>
+           </msubsup>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+           </mrow>
+           <mo stretchy="false">]</mo>
+          </mrow>
+          <mi>T</mi>
+         </msup>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ8.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>Model (
+ <xref rid="Equ6" ref-type="">6</xref>) can be reformulated as
+ <disp-formula id="Equ9">
+  <label>9</label>
+  <alternatives>
+   <tex-math id="M117">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} \Delta X_j(t_i) = f({X_j}(t_i),X(t_i)\left| \Theta \right. ), \end{aligned}$$\end{document}</tex-math>
+   <math id="M118" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <msub>
+          <mi>X</mi>
+          <mi>j</mi>
+         </msub>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <msub>
+           <mi>t</mi>
+           <mi>i</mi>
+          </msub>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>=</mo>
+         <mi>f</mi>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <msub>
+           <mi>X</mi>
+           <mi>j</mi>
+          </msub>
+          <mrow>
+           <mo stretchy="false">(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>i</mi>
+           </msub>
+           <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>,</mo>
+          <mi>X</mi>
+          <mrow>
+           <mo stretchy="false">(</mo>
+           <msub>
+            <mi>t</mi>
+            <mi>i</mi>
+           </msub>
+           <mo stretchy="false">)</mo>
+          </mrow>
+          <mfenced open="|">
+           <mi mathvariant="normal">Θ</mi>
+          </mfenced>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>,</mo>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ9.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <italic>f</italic>(
+ <italic>x</italic>) is the right side of (
+ <xref rid="Equ6" ref-type="">6</xref>), and 
+ <inline-formula id="IEq51">
+  <alternatives>
+   <tex-math id="M119">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Theta$$\end{document}</tex-math>
+   <math id="M120">
+    <mi mathvariant="normal">Θ</mi>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq51.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the set of unknown parameters. Note that 
+ <inline-formula id="IEq52">
+  <alternatives>
+   <tex-math id="M121">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta X_j(t)=X(t_i+1)-X(t_i)$$\end{document}</tex-math>
+   <math id="M122">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>X</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <mi>X</mi>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <msub>
+       <mi>t</mi>
+       <mi>i</mi>
+      </msub>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>-</mo>
+     <mi>X</mi>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <msub>
+       <mi>t</mi>
+       <mi>i</mi>
+      </msub>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq52.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, then, Eq. (
+ <xref rid="Equ9" ref-type="">9</xref>) can be reformulated as:
+ <disp-formula id="Equ10">
+  <label>10</label>
+  <alternatives>
+   <tex-math id="M123">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} X_j(t_i+1) = X_j(t_i) + f({X_j(t_i)},X(t)\left| \Theta \right. ). \end{aligned}$$\end{document}</tex-math>
+   <math id="M124" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <msub>
+          <mi>X</mi>
+          <mi>j</mi>
+         </msub>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <msub>
+           <mi>t</mi>
+           <mi>i</mi>
+          </msub>
+          <mo>+</mo>
+          <mn>1</mn>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>=</mo>
+         <msub>
+          <mi>X</mi>
+          <mi>j</mi>
+         </msub>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <msub>
+           <mi>t</mi>
+           <mi>i</mi>
+          </msub>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>+</mo>
+         <mi>f</mi>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mrow>
+           <msub>
+            <mi>X</mi>
+            <mi>j</mi>
+           </msub>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <msub>
+             <mi>t</mi>
+             <mi>i</mi>
+            </msub>
+            <mo stretchy="false">)</mo>
+           </mrow>
+          </mrow>
+          <mo>,</mo>
+          <mi>X</mi>
+          <mrow>
+           <mo stretchy="false">(</mo>
+           <mi>t</mi>
+           <mo stretchy="false">)</mo>
+          </mrow>
+          <mfenced open="|">
+           <mi mathvariant="normal">Θ</mi>
+          </mfenced>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>.</mo>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ10.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>Finally, the parameter estimation problem can be formulated as the following constrained nonlinear optimization problem:
+ <disp-formula id="Equ11">
+  <label>11</label>
+  <alternatives>
+   <tex-math id="M125">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} \begin{array}{l} {\mathrm{{P}}_\mathrm{{0}}}\mathrm{{:}}\mathop {\min }\limits _\Theta \sum \limits _{j=1}^K\sum \limits _{i=1}^Nw_{ij}(I(t_i)-{{\hat{I}}}({t_i}\left| \Theta \right. ))^2 \\ s.t.\left\{ \begin{array}{l} \begin{array}{cc} {(i)}&amp;{} X_j(t_i+1) = X_j(t_i) + f({X_j(t_i)},X(t_i)\left| \Theta \right. ). \end{array}\\ \begin{array}{cc} {(ii)}&amp;{}{ \Theta _U \ge \Theta \ge \Theta _L}, \end{array}\\ \begin{array}{cc} {(iii)}&amp;{}{ j=1,2,\ldots ,K}, \end{array} \end{array} \right. \end{array} \end{aligned}$$\end{document}</tex-math>
+   <math id="M126" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mtable>
+          <mtr>
+           <mtd columnalign="left">
+            <mrow>
+             <msub>
+              <mi mathvariant="normal">P</mi>
+              <mn>0</mn>
+             </msub>
+             <mo>:</mo>
+             <munder>
+              <mo movablelimits="false">min</mo>
+              <mi mathvariant="normal">Θ</mi>
+             </munder>
+             <munderover>
+              <mo movablelimits="false">∑</mo>
+              <mrow>
+               <mi>j</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>K</mi>
+             </munderover>
+             <munderover>
+              <mo movablelimits="false">∑</mo>
+              <mrow>
+               <mi>i</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+             </munderover>
+             <msub>
+              <mi>w</mi>
+              <mrow>
+               <mi mathvariant="italic">ij</mi>
+              </mrow>
+             </msub>
+             <msup>
+              <mrow>
+               <mo stretchy="false">(</mo>
+               <mi>I</mi>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <msub>
+                 <mi>t</mi>
+                 <mi>i</mi>
+                </msub>
+                <mo stretchy="false">)</mo>
+               </mrow>
+               <mo>-</mo>
+               <mover accent="true">
+                <mi>I</mi>
+                <mo stretchy="false">^</mo>
+               </mover>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <msub>
+                 <mi>t</mi>
+                 <mi>i</mi>
+                </msub>
+                <mfenced open="|">
+                 <mi mathvariant="normal">Θ</mi>
+                </mfenced>
+                <mo stretchy="false">)</mo>
+               </mrow>
+               <mo stretchy="false">)</mo>
+              </mrow>
+              <mn>2</mn>
+             </msup>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="left">
+            <mrow>
+             <mrow/>
+             <mi>s</mi>
+             <mo>.</mo>
+             <mi>t</mi>
+             <mo>.</mo>
+             <mfenced open="{">
+              <mrow>
+               <mtable>
+                <mtr>
+                 <mtd columnalign="left">
+                  <mrow>
+                   <mtable>
+                    <mtr>
+                     <mtd>
+                      <mrow>
+                       <mo stretchy="false">(</mo>
+                       <mi>i</mi>
+                       <mo stretchy="false">)</mo>
+                      </mrow>
+                     </mtd>
+                     <mtd>
+                      <mrow>
+                       <mrow/>
+                       <msub>
+                        <mi>X</mi>
+                        <mi>j</mi>
+                       </msub>
+                       <mrow>
+                        <mo stretchy="false">(</mo>
+                        <msub>
+                         <mi>t</mi>
+                         <mi>i</mi>
+                        </msub>
+                        <mo>+</mo>
+                        <mn>1</mn>
+                        <mo stretchy="false">)</mo>
+                       </mrow>
+                       <mo>=</mo>
+                       <msub>
+                        <mi>X</mi>
+                        <mi>j</mi>
+                       </msub>
+                       <mrow>
+                        <mo stretchy="false">(</mo>
+                        <msub>
+                         <mi>t</mi>
+                         <mi>i</mi>
+                        </msub>
+                        <mo stretchy="false">)</mo>
+                       </mrow>
+                       <mo>+</mo>
+                       <mi>f</mi>
+                       <mrow>
+                        <mo stretchy="false">(</mo>
+                        <mrow>
+                         <msub>
+                          <mi>X</mi>
+                          <mi>j</mi>
+                         </msub>
+                         <mrow>
+                          <mo stretchy="false">(</mo>
+                          <msub>
+                           <mi>t</mi>
+                           <mi>i</mi>
+                          </msub>
+                          <mo stretchy="false">)</mo>
+                         </mrow>
+                        </mrow>
+                        <mo>,</mo>
+                        <mi>X</mi>
+                        <mrow>
+                         <mo stretchy="false">(</mo>
+                         <msub>
+                          <mi>t</mi>
+                          <mi>i</mi>
+                         </msub>
+                         <mo stretchy="false">)</mo>
+                        </mrow>
+                        <mfenced open="|">
+                         <mi mathvariant="normal">Θ</mi>
+                        </mfenced>
+                        <mo stretchy="false">)</mo>
+                       </mrow>
+                       <mo>.</mo>
+                      </mrow>
+                     </mtd>
+                    </mtr>
+                   </mtable>
+                  </mrow>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd columnalign="left">
+                  <mrow>
+                   <mrow/>
+                   <mrow>
+                    <mtable>
+                     <mtr>
+                      <mtd>
+                       <mrow>
+                        <mo stretchy="false">(</mo>
+                        <mi>i</mi>
+                        <mi>i</mi>
+                        <mo stretchy="false">)</mo>
+                       </mrow>
+                      </mtd>
+                      <mtd>
+                       <mrow>
+                        <mrow/>
+                        <mrow>
+                         <msub>
+                          <mi mathvariant="normal">Θ</mi>
+                          <mi>U</mi>
+                         </msub>
+                         <mo>≥</mo>
+                         <mi mathvariant="normal">Θ</mi>
+                         <mo>≥</mo>
+                         <msub>
+                          <mi mathvariant="normal">Θ</mi>
+                          <mi>L</mi>
+                         </msub>
+                        </mrow>
+                        <mo>,</mo>
+                       </mrow>
+                      </mtd>
+                     </mtr>
+                    </mtable>
+                   </mrow>
+                  </mrow>
+                 </mtd>
+                </mtr>
+                <mtr>
+                 <mtd columnalign="left">
+                  <mrow>
+                   <mrow/>
+                   <mrow>
+                    <mtable>
+                     <mtr>
+                      <mtd>
+                       <mrow>
+                        <mo stretchy="false">(</mo>
+                        <mi>i</mi>
+                        <mi>i</mi>
+                        <mi>i</mi>
+                        <mo stretchy="false">)</mo>
+                       </mrow>
+                      </mtd>
+                      <mtd>
+                       <mrow>
+                        <mrow/>
+                        <mrow>
+                         <mi>j</mi>
+                         <mo>=</mo>
+                         <mn>1</mn>
+                         <mo>,</mo>
+                         <mn>2</mn>
+                         <mo>,</mo>
+                         <mo>…</mo>
+                         <mo>,</mo>
+                         <mi>K</mi>
+                        </mrow>
+                        <mo>,</mo>
+                       </mrow>
+                      </mtd>
+                     </mtr>
+                    </mtable>
+                   </mrow>
+                  </mrow>
+                 </mtd>
+                </mtr>
+               </mtable>
+              </mrow>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+         </mtable>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ11.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq53">
+  <alternatives>
+   <tex-math id="M127">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${{{\hat{I}}}}({t_i}\left| \Theta \right. )$$\end{document}</tex-math>
+   <math id="M128">
+    <mrow>
+     <mover accent="true">
+      <mi>I</mi>
+      <mo stretchy="false">^</mo>
+     </mover>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <msub>
+       <mi>t</mi>
+       <mi>i</mi>
+      </msub>
+      <mfenced open="|">
+       <mi mathvariant="normal">Θ</mi>
+      </mfenced>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq53.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> represents the estimated number of infected individuals at time 
+ <inline-formula id="IEq54">
+  <alternatives>
+   <tex-math id="M129">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$t_i$$\end{document}</tex-math>
+   <math id="M130">
+    <msub>
+     <mi>t</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq54.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> with parameter set 
+ <inline-formula id="IEq55">
+  <alternatives>
+   <tex-math id="M131">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Theta$$\end{document}</tex-math>
+   <math id="M132">
+    <mi mathvariant="normal">Θ</mi>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq55.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and initial condition 
+ <inline-formula id="IEq56">
+  <alternatives>
+   <tex-math id="M133">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\{I_{WH,0}, E_{WH,0}\}$$\end{document}</tex-math>
+   <math id="M134">
+    <mrow>
+     <mo stretchy="false">{</mo>
+     <msub>
+      <mi>I</mi>
+      <mrow>
+       <mi>W</mi>
+       <mi>H</mi>
+       <mo>,</mo>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mi>E</mi>
+      <mrow>
+       <mi>W</mi>
+       <mi>H</mi>
+       <mo>,</mo>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+     <mo stretchy="false">}</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq56.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. 
+ <inline-formula id="IEq57">
+  <alternatives>
+   <tex-math id="M135">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$w_{ij}$$\end{document}</tex-math>
+   <math id="M136">
+    <msub>
+     <mi>w</mi>
+     <mrow>
+      <mi mathvariant="italic">ij</mi>
+     </mrow>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq57.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> stands for the weighted coefficient. The unknown parameter set is bounded between 
+ <inline-formula id="IEq58">
+  <alternatives>
+   <tex-math id="M137">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Theta _L$$\end{document}</tex-math>
+   <math id="M138">
+    <msub>
+     <mi mathvariant="normal">Θ</mi>
+     <mi>L</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq58.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and 
+ <inline-formula id="IEq59">
+  <alternatives>
+   <tex-math id="M139">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Theta _U$$\end{document}</tex-math>
+   <math id="M140">
+    <msub>
+     <mi mathvariant="normal">Θ</mi>
+     <mi>U</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq59.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. In this work, an inverse approach is taken to find the unknown parameters and states by solving (
+ <xref rid="Equ11" ref-type="">11</xref>).
+</p>

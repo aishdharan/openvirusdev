@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1669-1515</contrib-id>
+  <name>
+   <surname>Pallerla</surname>
+   <given-names>Srinivas Reddy</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00856">1</xref>
+  <xref ref-type="aff" rid="af2-pathogens-09-00856">2</xref>
+  <xref ref-type="author-notes" rid="fn1-pathogens-09-00856">†</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Harms</surname>
+   <given-names>Dominik</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-pathogens-09-00856">3</xref>
+  <xref ref-type="author-notes" rid="fn1-pathogens-09-00856">†</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9597-6724</contrib-id>
+  <name>
+   <surname>Johne</surname>
+   <given-names>Reimar</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-pathogens-09-00856">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3564-1014</contrib-id>
+  <name>
+   <surname>Todt</surname>
+   <given-names>Daniel</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-pathogens-09-00856">5</xref>
+  <xref ref-type="aff" rid="af6-pathogens-09-00856">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Steinmann</surname>
+   <given-names>Eike</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-pathogens-09-00856">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3782-8226</contrib-id>
+  <name>
+   <surname>Schemmerer</surname>
+   <given-names>Mathias</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-pathogens-09-00856">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8422-6581</contrib-id>
+  <name>
+   <surname>Wenzel</surname>
+   <given-names>Jürgen J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-pathogens-09-00856">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Hofmann</surname>
+   <given-names>Jörg</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-pathogens-09-00856">8</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shih</surname>
+   <given-names>James Wai Kuo</given-names>
+  </name>
+  <xref ref-type="aff" rid="af9-pathogens-09-00856">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wedemeyer</surname>
+   <given-names>Heiner</given-names>
+  </name>
+  <xref ref-type="aff" rid="af10-pathogens-09-00856">10</xref>
+  <xref ref-type="aff" rid="af11-pathogens-09-00856">11</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2773-486X</contrib-id>
+  <name>
+   <surname>Bock</surname>
+   <given-names>C.-Thomas</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00856">1</xref>
+  <xref ref-type="aff" rid="af3-pathogens-09-00856">3</xref>
+  <xref rid="c1-pathogens-09-00856" ref-type="corresp">*</xref>
+  <xref ref-type="author-notes" rid="fn2-pathogens-09-00856">‡</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9809-9883</contrib-id>
+  <name>
+   <surname>Velavan</surname>
+   <given-names>Thirumalaisamy P.</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-pathogens-09-00856">1</xref>
+  <xref ref-type="aff" rid="af2-pathogens-09-00856">2</xref>
+  <xref ref-type="aff" rid="af12-pathogens-09-00856">12</xref>
+  <xref ref-type="author-notes" rid="fn2-pathogens-09-00856">‡</xref>
+ </contrib>
+</contrib-group>

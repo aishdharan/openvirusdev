@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Wilson</surname>
+   <given-names>IB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Fowler</surname>
+   <given-names>FJ</given-names>
+   <suffix>Jr</suffix>
+  </string-name>, 
+  <string-name>
+   <surname>Cosenza</surname>
+   <given-names>CA</given-names>
+  </string-name>, 
+  <etal/>
+  <article-title>Cognitive and field testing of a new set of medication adherence self-report items for HIV care.</article-title>
+  <source>AIDS Behav</source>
+  <year>2014</year>;
+  <volume>18</volume>:
+  <fpage>2349</fpage>–
+  <lpage>58</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s10461-013-0610-1</pub-id>
+  <?supplied-pmid 24077970?>
+  <pub-id pub-id-type="pmid">24077970</pub-id>
+ </mixed-citation>
+</ref>

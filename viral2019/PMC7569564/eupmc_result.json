@@ -1,0 +1,1181 @@
+{
+  "id": [
+    "33076968"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33076968"
+  ],
+  "pmcid": [
+    "PMC7569564"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7569564"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s40249-020-00755-7"
+  ],
+  "title": [
+    "Compare the epidemiological and clinical features of imported and local COVID-19 cases in Hainan, China."
+  ],
+  "authorString": [
+    "Wu B, Lei ZY, Wu KL, He JR, Cao HJ, Fu J, Chen F, Chen Y, Chen B, Zhou XL, Huang T, Wu T, Du YG, Chen SX, Xiao FR, Gao ZL, He J, Lin F, Lin BL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu B"
+          ],
+          "firstName": [
+            "Biao"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Office of Diseases Control and Prevention, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lei ZY"
+          ],
+          "firstName": [
+            "Zi-Ying"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "ZY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, the Third Affiliated Hospital of Sun Yat-Sen University, 600 Tianhe Road, Guangzhou, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "GuangDong Provincial Key Laboratory of Liver Diseases, the Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu KL"
+          ],
+          "firstName": [
+            "Kun-Liang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, The Second Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He JR"
+          ],
+          "firstName": [
+            "Jian-Rong"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nuffield Department of Women's and Reproductive Health, University of Oxford, Oxford, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cao HJ"
+          ],
+          "firstName": [
+            "Hui-Juan"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, the Third Affiliated Hospital of Sun Yat-Sen University, 600 Tianhe Road, Guangzhou, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "GuangDong Provincial Key Laboratory of Liver Diseases, the Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fu J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Radiology Department, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Office of Diseases Control and Prevention, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen B"
+          ],
+          "firstName": [
+            "Bao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Office of Diseases Control and Prevention, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou XL"
+          ],
+          "firstName": [
+            "Xiao-Li"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "XL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Office of Diseases Control and Prevention, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Clinical laboratory, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Du YG"
+          ],
+          "firstName": [
+            "Yong-Guo"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "YG"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, The Second Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen SX"
+          ],
+          "firstName": [
+            "Suo-Xian"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "SX"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao FR"
+          ],
+          "firstName": [
+            "Fu-Rong"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "FR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gao ZL"
+          ],
+          "firstName": [
+            "Zhi-Liang"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "ZL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, the Third Affiliated Hospital of Sun Yat-Sen University, 600 Tianhe Road, Guangzhou, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "GuangDong Provincial Key Laboratory of Liver Diseases, the Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "He J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, The Second Affiliated Hospital of Hainan Medical University, Haikou, China. 13322015553@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China. lin_fenghn@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin BL"
+          ],
+          "firstName": [
+            "Bing-Liang"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4069-6287",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Infectious Diseases, the Third Affiliated Hospital of Sun Yat-Sen University, 600 Tianhe Road, Guangzhou, China. linbingl@mail.sysu.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "GuangDong Provincial Key Laboratory of Liver Diseases, the Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China. linbingl@mail.sysu.edu.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Key Laboratory of Tropical Disease Control (Sun Yat-sen University), Ministry of Education, Guangzhou, China. linbingl@mail.sysu.edu.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4069-6287",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "3033688"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Infectious diseases of poverty"
+          ],
+          "ISOAbbreviation": [
+            "Infect Dis Poverty"
+          ],
+          "medlineAbbreviation": [
+            "Infect Dis Poverty"
+          ],
+          "NLMid": [
+            "101606645"
+          ],
+          "ISSN": [
+            "2095-5162"
+          ],
+          "ESSN": [
+            "2049-9957"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "143"
+  ],
+  "abstractText": [
+    "BACKGROUND:Effective management of imported cases is an important part of epidemic prevention and control. Hainan Province, China reported 168 coronavirus disease 2019 (COVID-19), including 112 imported cases on February 19, 2020, but successfully contained the epidemic within 1 month. We described the epidemiological and clinical characteristics of COVID-19 in Hainan and compared these features between imported and local cases to provide information for other international epidemic areas. METHODS:We included 91 patients (56 imported and 35 local cases) from two designated hospitals for COVID-19 in Haikou, China, from January 20 to February 19, 2020. Data on the demographic, epidemiological, clinical and laboratory characteristics were extracted from medical records. Patients were followed until April 21, 2020, and the levels of antibodies at the follow-ups were also analysed by the Wilcoxon matched-pairs signed ranks test. RESULTS:Of the 91 patients, 78 (85.7%) patients were diagnosed within the first three weeks after the first case was identified (Day 1: Jan 22, 2020), while the number of local cases started to increase during the third week. No new cases occurred after Day 29. Fever and cough were two main clinical manifestations. In total, 15 (16.5%) patients were severe, 14 (15.4%) had complicated infections, nine (9.9%) were admitted to the intensive care unit, and three died. The median duration of viral shedding in feces was longer than that in nasopharyngeal swabs (19 days vs 16 days, P = 0.007). Compared with local cases, imported cases were older and had a higher incidence of fever and concurrent infections. There was no difference in outcomes between the two groups. IgG was positive in 92.8% patients (77/83) in the follow-up at week 2 after discharge, while 88.4% patients (38/43) had a reduction in IgG levels in the follow-up at week 4 after discharge, and the median level was lower than that in the follow-up at week 2 (10.95 S/Cut Off (S/CO) vs 15.02 S/CO, P <  0.001). CONCLUSION:Imported cases were more severe than local cases but had similar prognoses. The level of IgG antibodies declined from week 6 to week 8 after onset. The short epidemic period in Hainan suggests that the epidemic could be quickly brought under control if proper timely measures were taken."
+  ],
+  "affiliation": [
+    "Department of Infectious Diseases, Hainan General Hospital, Hainan Affiliated Hospital of Hainan Medical University, Haikou, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017ZX10203201003"
+          ],
+          "agency": [
+            "National Major Science and Technology Projects of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018ZX10302204"
+          ],
+          "agency": [
+            "National Major Science and Technology Projects of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Thorax"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retrospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virus Shedding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Communicable Diseases, Imported"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prevention and control",
+        "Clinical features",
+        "epidemiology",
+        "Severe Acute Respiratory Syndrome Coronavirus 2",
+        "Coronavirus Disease 2019"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40249-020-00755-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7569564"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7569564?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR209912"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-27"
+  ],
+  "dateOfCreation": [
+    "2020-10-20"
+  ],
+  "firstIndexDate": [
+    "2020-10-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-27"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-19"
+  ],
+  "firstPublicationDate": [
+    "2020-10-19"
+  ]
+}

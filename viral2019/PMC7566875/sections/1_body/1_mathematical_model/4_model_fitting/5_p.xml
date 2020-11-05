@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e4324">Furthermore, 
+ <inline-formula>
+  <math id="d1e4327" display="inline" altimg="si49.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> changes over the course of the epidemic, corresponding to the implementation of disease controls 
+ <xref rid="b19" ref-type="bibr">[19]</xref>. To account for this, we replace 
+ <inline-formula>
+  <math id="d1e4341" display="inline" altimg="si49.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> in the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> by: 
+ <disp-formula id="fd5">
+  <label>(5)</label>
+  <math id="d1e4362" display="block" altimg="si73.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>β</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mfenced open="{">
+     <mrow>
+      <mtable align="axis" equalrows="false" columnlines="none" equalcolumns="false" class="array">
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mspace width="1em"/>
+        </mtd>
+        <mtd class="array" columnalign="left">
+         <mi mathvariant="bold-fraktur">j</mi>
+         <mo>&lt;</mo>
+         <mn>13</mn>
+         <mo>,</mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>1</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mspace width="1em"/>
+        </mtd>
+        <mtd class="array" columnalign="left">
+         <mn>13</mn>
+         <mo>≤</mo>
+         <mi mathvariant="bold-fraktur">j</mi>
+         <mo>&lt;</mo>
+         <mn>28</mn>
+         <mo>,</mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>2</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mspace width="1em"/>
+        </mtd>
+        <mtd class="array" columnalign="left">
+         <mi mathvariant="bold-fraktur">j</mi>
+         <mo>≥</mo>
+         <mn>28</mn>
+         <mo>.</mo>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </mfenced>
+   </mrow>
+  </math>
+ </disp-formula>In the first time period (
+ <inline-formula>
+  <math id="d1e4446" display="inline" altimg="si77.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">j</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">&lt;</mo>
+    <mn>13</mn>
+   </mrow>
+  </math>
+ </inline-formula>), no disease controls are implemented. In the second time period (
+ <inline-formula>
+  <math id="d1e4458" display="inline" altimg="si78.svg">
+   <mrow>
+    <mn>13</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">≤</mo>
+    <mi mathvariant="bold-fraktur">j</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">&lt;</mo>
+    <mn>28</mn>
+   </mrow>
+  </math>
+ </inline-formula>), all bars, schools and universities are closed, and mass gatherings are banned. Finally, in the third time period 
+ <inline-formula>
+  <math id="d1e4472" display="inline" altimg="si79.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">j</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">≥</mo>
+    <mn>28</mn>
+   </mrow>
+  </math>
+ </inline-formula>, all non-essential services and industries are closed down, and travel is restricted to within 
+ <inline-formula>
+  <math id="d1e4482" display="inline" altimg="si80.svg">
+   <mrow>
+    <mn>2</mn>
+    <mspace width="0.16667em"/>
+    <mi mathvariant="normal">km</mi>
+   </mrow>
+  </math>
+ </inline-formula> of a person’s house, with certain limited exceptions. Eq. 
+ <xref rid="fd5" ref-type="disp-formula">(5)</xref> already contains some simplifications that do not correspond exactly to the actual course of the COVID-19 control efforts in Ireland – e.g. a four-day period (12th March 2020–15th March 2020, inclusive) where schools and universities were shut down and mass gatherings banned but bars remained open. Also, after May 5th 2020 (
+ <inline-formula>
+  <math id="d1e4497" display="inline" altimg="si81.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">j</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>66</mn>
+   </mrow>
+  </math>
+ </inline-formula>), the 
+ <inline-formula>
+  <math id="d1e4507" display="inline" altimg="si80.svg">
+   <mrow>
+    <mn>2</mn>
+    <mspace width="0.16667em"/>
+    <mi mathvariant="normal">km</mi>
+   </mrow>
+  </math>
+ </inline-formula> restriction was extended to 
+ <inline-formula>
+  <math id="d1e4516" display="inline" altimg="si83.svg">
+   <mrow>
+    <mn>5</mn>
+    <mspace width="0.16667em"/>
+    <mi mathvariant="normal">km</mi>
+   </mrow>
+  </math>
+ </inline-formula>. However, we ignore these details, as the main purpose of this article is not necessarily to track and predict the course of COVID-19 in Ireland, but rather to develop a simple, generic methodology to compute the optimum application of non-pharmaceutical interventions to control the spread of COVID-19. As such, we seek to solve the optimization problem for 
+ <inline-formula>
+  <math id="d1e4525" display="inline" altimg="si84.svg">
+   <msub>
+    <mrow>
+     <mi>Δ</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, where 
+ <disp-formula id="fd6">
+  <label>(6)</label>
+  <math id="d1e4542" display="block" altimg="si85.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>Δ</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <mtext>min</mtext>
+    <mfenced open="[" close="]">
+     <mrow>
+      <mi>Δ</mi>
+      <mfenced open="(" close=")">
+       <mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">t</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">o</mi>
+          <mi mathvariant="bold-fraktur">f</mi>
+          <mi mathvariant="bold-fraktur">f</mi>
+          <mi mathvariant="bold-fraktur">s</mi>
+          <mi mathvariant="bold-fraktur">e</mi>
+          <mi mathvariant="bold-fraktur">t</mi>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>β</mi>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>β</mi>
+         </mrow>
+         <mrow>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>β</mi>
+         </mrow>
+         <mrow>
+          <mn>2</mn>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <mi mathvariant="bold-fraktur">f</mi>
+        <mo>,</mo>
+        <mi mathvariant="bold-fraktur">g</mi>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">E</mi>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+          <mi mathvariant="bold-fraktur">P</mi>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">I</mi>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi>τ</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">D</mi>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">i</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">A</mi>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">i</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">S</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </mfenced>
+     </mrow>
+    </mfenced>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>which is a 13-dimensional optimization problem.
+</p>

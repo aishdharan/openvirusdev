@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e490">The interaction can be described by network 
+ <inline-formula>
+  <math id="d1e493" display="inline" altimg="si1.svg">
+   <mi>G</mi>
+  </math>
+ </inline-formula> with 
+ <inline-formula>
+  <math id="d1e498" display="inline" altimg="si2.svg">
+   <mi>N</mi>
+  </math>
+ </inline-formula> nodes. Each node 
+ <inline-formula>
+  <math id="d1e503" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> in the network 
+ <inline-formula>
+  <math id="d1e509" display="inline" altimg="si1.svg">
+   <mi>G</mi>
+  </math>
+ </inline-formula> represents a particular region (country, province, municipality or city), and the link 
+ <inline-formula>
+  <math id="d1e514" display="inline" altimg="si5.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>a</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>j</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>{</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mn>1</mn>
+     <mo>}</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> represents the existence of an interaction from region 
+ <inline-formula>
+  <math id="d1e540" display="inline" altimg="si6.svg">
+   <mi>j</mi>
+  </math>
+ </inline-formula> to region 
+ <inline-formula>
+  <math id="d1e545" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula>, specified by a link weight 
+ <inline-formula>
+  <math id="d1e551" display="inline" altimg="si8.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> denoting the infection probability from region 
+ <inline-formula>
+  <math id="d1e563" display="inline" altimg="si6.svg">
+   <mi>j</mi>
+  </math>
+ </inline-formula> to region 
+ <inline-formula>
+  <math id="d1e568" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula>. The self-infection probability within a region 
+ <inline-formula>
+  <math id="d1e573" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> is given by 
+ <inline-formula>
+  <math id="d1e579" display="inline" altimg="si12.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, which we expect to be dominant over the other infection probabilities, because the interaction within a region is stronger than the interaction with other regions. The 
+ <inline-formula>
+  <math id="d1e591" display="inline" altimg="si13.svg">
+   <mrow>
+    <mi>N</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mi>N</mi>
+   </mrow>
+  </math>
+ </inline-formula> infection probability matrix 
+ <inline-formula>
+  <math id="d1e601" display="inline" altimg="si14.svg">
+   <mi>B</mi>
+  </math>
+ </inline-formula>, with elements 
+ <inline-formula>
+  <math id="d1e606" display="inline" altimg="si8.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is, however, unknown and must be derived from past observations of the epidemic. We will address this issue in more detail in Section 
+ <xref rid="sec2" ref-type="sec">2</xref>.
+</p>

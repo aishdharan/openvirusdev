@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3342">For definiteness, we fit the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> to epidemiological data for the COVID-19 outbreak in Ireland. The epidemiological data is obtained from official sources 
+ <xref rid="b18" ref-type="bibr">[18]</xref>, and involves both confirmed cases of COVID-19, and deaths attributed to COVID-19. To fit the data to the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref>, we have minimized the 
+ <inline-formula>
+  <math id="d1e3358" display="inline" altimg="si38.svg">
+   <msup>
+    <mrow>
+     <mi mathvariant="bold-fraktur">L</mi>
+    </mrow>
+    <mrow>
+     <mn>2</mn>
+    </mrow>
+   </msup>
+  </math>
+ </inline-formula> norm, 
+ <disp-formula id="fd2">
+  <label>(2)</label>
+  <math id="d1e3374" display="block" altimg="si39.svg">
+   <mrow>
+    <mi>Δ</mi>
+    <mo id="mmlalignd1e3419" linebreak="goodbreak">=</mo>
+    <munderover id="mmlalignd1e3422">
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mn>0</mn>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </munderover>
+    <msup>
+     <mrow>
+      <mrow>
+       <mo class="biggl" fence="true">{</mo>
+       <mrow>
+        <mo class="qopname">ln</mo>
+        <mfenced open="[" close="]">
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">C</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">m</mi>
+            <mi mathvariant="bold-fraktur">o</mi>
+            <mi mathvariant="bold-fraktur">d</mi>
+            <mi mathvariant="bold-fraktur">e</mi>
+            <mi mathvariant="bold-fraktur">l</mi>
+           </mrow>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">t</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">j</mi>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mfenced>
+        <mo linebreak="badbreak">−</mo>
+        <mo class="qopname">ln</mo>
+        <mfenced open="[" close="]">
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">C</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">d</mi>
+            <mi mathvariant="bold-fraktur">a</mi>
+            <mi mathvariant="bold-fraktur">t</mi>
+            <mi mathvariant="bold-fraktur">a</mi>
+           </mrow>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">t</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">j</mi>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mfenced>
+       </mrow>
+       <mo class="biggr" fence="true">}</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msup>
+    <mo id="mmlalignd1e3514" linebreak="newline" indentalign="id" indenttarget="mmlalignd1e3422">+</mo>
+    <mspace width="0.16667em"/>
+    <munderover>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mn>0</mn>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </munderover>
+    <msup>
+     <mrow>
+      <mrow>
+       <mo class="biggl" fence="true">{</mo>
+       <mrow>
+        <mo class="qopname">ln</mo>
+        <msub>
+         <mrow>
+          <mfenced open="(" close=")">
+           <mrow>
+            <mfrac>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <msub>
+               <mrow>
+                <mi mathvariant="bold-fraktur">C</mi>
+               </mrow>
+               <mrow>
+                <mi mathvariant="bold-fraktur">m</mi>
+                <mi mathvariant="bold-fraktur">o</mi>
+                <mi mathvariant="bold-fraktur">d</mi>
+                <mi mathvariant="bold-fraktur">e</mi>
+                <mi mathvariant="bold-fraktur">l</mi>
+               </mrow>
+              </msub>
+             </mrow>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <mi mathvariant="bold-fraktur">t</mi>
+             </mrow>
+            </mfrac>
+           </mrow>
+          </mfenced>
+         </mrow>
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">j</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </msub>
+        <mo linebreak="badbreak">−</mo>
+        <mo class="qopname">ln</mo>
+        <msub>
+         <mrow>
+          <mfenced open="(" close=")">
+           <mrow>
+            <mfrac>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <msub>
+               <mrow>
+                <mi mathvariant="bold-fraktur">C</mi>
+               </mrow>
+               <mrow>
+                <mi mathvariant="bold-fraktur">d</mi>
+                <mi mathvariant="bold-fraktur">a</mi>
+                <mi mathvariant="bold-fraktur">t</mi>
+                <mi mathvariant="bold-fraktur">a</mi>
+               </mrow>
+              </msub>
+             </mrow>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <mi mathvariant="bold-fraktur">t</mi>
+             </mrow>
+            </mfrac>
+           </mrow>
+          </mfenced>
+         </mrow>
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">j</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </msub>
+       </mrow>
+       <mo class="biggr" fence="true">}</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msup>
+    <mo id="mmlalignd1e3624" linebreak="newline" indentalign="id" indenttarget="mmlalignd1e3422">+</mo>
+    <mspace width="0.16667em"/>
+    <munderover>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+      <mo linebreak="badbreak">=</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">j</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">D</mi>
+        <mn>1</mn>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </munderover>
+    <msup>
+     <mrow>
+      <mrow>
+       <mo class="biggl" fence="true">{</mo>
+       <mrow>
+        <mo class="qopname">ln</mo>
+        <mfenced open="[" close="]">
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">D</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">m</mi>
+            <mi mathvariant="bold-fraktur">o</mi>
+            <mi mathvariant="bold-fraktur">d</mi>
+            <mi mathvariant="bold-fraktur">e</mi>
+            <mi mathvariant="bold-fraktur">l</mi>
+           </mrow>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">t</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">j</mi>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mfenced>
+        <mo linebreak="badbreak">−</mo>
+        <mo class="qopname">ln</mo>
+        <mfenced open="[" close="]">
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">D</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">d</mi>
+            <mi mathvariant="bold-fraktur">a</mi>
+            <mi mathvariant="bold-fraktur">t</mi>
+            <mi mathvariant="bold-fraktur">a</mi>
+           </mrow>
+          </msub>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">t</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">j</mi>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+        </mfenced>
+       </mrow>
+       <mo class="biggr" fence="true">}</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msup>
+    <mo id="mmlalignd1e3727" linebreak="newline" indentalign="id" indenttarget="mmlalignd1e3422">+</mo>
+    <mspace width="0.16667em"/>
+    <munderover>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+      <mo linebreak="badbreak">=</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">j</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">D</mi>
+        <mn>2</mn>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </munderover>
+    <msup>
+     <mrow>
+      <mrow>
+       <mo class="biggl" fence="true">{</mo>
+       <mrow>
+        <mo class="qopname">ln</mo>
+        <msub>
+         <mrow>
+          <mfenced open="(" close=")">
+           <mrow>
+            <mfrac>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <msub>
+               <mrow>
+                <mi mathvariant="bold-fraktur">D</mi>
+               </mrow>
+               <mrow>
+                <mi mathvariant="bold-fraktur">m</mi>
+                <mi mathvariant="bold-fraktur">o</mi>
+                <mi mathvariant="bold-fraktur">d</mi>
+                <mi mathvariant="bold-fraktur">e</mi>
+                <mi mathvariant="bold-fraktur">l</mi>
+               </mrow>
+              </msub>
+             </mrow>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <mi mathvariant="bold-fraktur">t</mi>
+             </mrow>
+            </mfrac>
+           </mrow>
+          </mfenced>
+         </mrow>
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">j</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </msub>
+        <mo linebreak="badbreak">−</mo>
+        <mo class="qopname">ln</mo>
+        <msub>
+         <mrow>
+          <mfenced open="(" close=")">
+           <mrow>
+            <mfrac>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <msub>
+               <mrow>
+                <mi mathvariant="bold-fraktur">D</mi>
+               </mrow>
+               <mrow>
+                <mi mathvariant="bold-fraktur">d</mi>
+                <mi mathvariant="bold-fraktur">a</mi>
+                <mi mathvariant="bold-fraktur">t</mi>
+                <mi mathvariant="bold-fraktur">a</mi>
+               </mrow>
+              </msub>
+             </mrow>
+             <mrow>
+              <mi mathvariant="bold-fraktur">d</mi>
+              <mi mathvariant="bold-fraktur">t</mi>
+             </mrow>
+            </mfrac>
+           </mrow>
+          </mfenced>
+         </mrow>
+         <mrow>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">j</mi>
+           </mrow>
+          </msub>
+         </mrow>
+        </msub>
+       </mrow>
+       <mo class="biggr" fence="true">}</mo>
+      </mrow>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msup>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula> Here, 
+ <inline-formula>
+  <math id="d1e3804" display="inline" altimg="si40.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> labels time in days. Here also, 
+ <inline-formula>
+  <math id="d1e3814" display="inline" altimg="si41.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>76</mn>
+   </mrow>
+  </math>
+ </inline-formula>, corresponding to 
+ <inline-formula>
+  <math id="d1e3825" display="inline" altimg="si42.svg">
+   <mrow>
+    <mn>77</mn>
+   </mrow>
+  </math>
+ </inline-formula> days’ worth of data, starting with the first recorded case of COVID-19 in Ireland on February 29th 2020 (
+ <inline-formula>
+  <math id="d1e3832" display="inline" altimg="si43.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>) and ending on May 17th 2020 (
+ <inline-formula>
+  <math id="d1e3848" display="inline" altimg="si44.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>76</mn>
+   </mrow>
+  </math>
+ </inline-formula>). The justification for choosing this time-period is that it includes the initial phase of the COVID-19 outbreak before disease-control measures were introduced (beginning 12th March 2020). The chosen time-period ends before the beginning of the phased lifting of these controls (May 18th 2020). Finally, 
+ <inline-formula>
+  <math id="d1e3864" display="inline" altimg="si45.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">j</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">D</mi>
+     <mn>1</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> denotes the day with the first recorded death and 
+ <inline-formula>
+  <math id="d1e3876" display="inline" altimg="si46.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">j</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">D</mi>
+     <mn>2</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> denotes the first day in the outbreak after which the number of new recorded deaths per day is strictly greater than zero.
+</p>

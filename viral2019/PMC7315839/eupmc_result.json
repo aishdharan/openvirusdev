@@ -1,0 +1,609 @@
+{
+  "id": [
+    "32520506"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32520506"
+  ],
+  "pmcid": [
+    "PMC7315839"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7315839"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1097/rlu.0000000000003144"
+  ],
+  "title": [
+    "Incidental Discovery of a COVID-19 Infection on a Reevaluation FDG PET/CT in a Patient Treated for Hodgkin Lymphoma."
+  ],
+  "authorString": [
+    "Simand C, Bund C, Guffroy B, Chaban V, Herbrecht R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Simand C"
+          ],
+          "firstName": [
+            "Celestine"
+          ],
+          "lastName": [
+            "Simand"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "From the Institut de Cancérologie Strasbourg, Europe (ICANS)."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Departments of Hematology."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bund C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Bund"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "From the Institut de Cancérologie Strasbourg, Europe (ICANS)."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Biophysics and Nuclear Medicine, University Hospital of Strasbourg."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "ICube, Université de Strasbourg/CNRS, UMR 7357."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guffroy B"
+          ],
+          "firstName": [
+            "Blandine"
+          ],
+          "lastName": [
+            "Guffroy"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "From the Institut de Cancérologie Strasbourg, Europe (ICANS)."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Departments of Hematology."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Université de Strasbourg, Inserm UMR S1113/IRFAC."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chaban V"
+          ],
+          "firstName": [
+            "Vitaliy"
+          ],
+          "lastName": [
+            "Chaban"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Intermediate Care Unit, Institut de Cancérologie Strasbourg, Europe (ICANS), Strasbourg, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Herbrecht R"
+          ],
+          "firstName": [
+            "Raoul"
+          ],
+          "lastName": [
+            "Herbrecht"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "From the Institut de Cancérologie Strasbourg, Europe (ICANS)."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Departments of Hematology."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Université de Strasbourg, Inserm UMR S1113/IRFAC."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "45"
+      ],
+      "journalIssueId": [
+        "2974356"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical nuclear medicine"
+          ],
+          "ISOAbbreviation": [
+            "Clin Nucl Med"
+          ],
+          "medlineAbbreviation": [
+            "Clin Nucl Med"
+          ],
+          "NLMid": [
+            "7611109"
+          ],
+          "ISSN": [
+            "0363-9762"
+          ],
+          "ESSN": [
+            "1536-0229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "644-646"
+  ],
+  "abstractText": [
+    "We report the results of F-FDG PET/CT in an asymptomatic case of COVID-19 infection. A 27-year-old woman underwent FDG PET/CT for revaluation of a stage IIIE B Hodgkin lymphoma after the fourth cycle of chemotherapy. It showed intense avid FDG subpleural mixed ground-glass and consolidative lesions, especially in the left lung. Because of this morpho-metabolic aspect and the epidemic context, a viral pneumopathy was suspected. The patient who was initially asymptomatic was admitted for fever 28 hours after the PET/CT. The nasopharyngeal swab was positive for COVID-19, and the outcome was favorable."
+  ],
+  "affiliation": [
+    "From the Institut de Cancérologie Strasbourg, Europe (ICANS)."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "editorial",
+        "Journal Article",
+        "Case Reports"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pneumonia, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coronavirus Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hodgkin Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluorodeoxyglucose F18"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Staging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pandemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Positron Emission Tomography Computed Tomography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Betacoronavirus"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fluorodeoxyglucose F18"
+          ],
+          "registryNumber": [
+            "0Z5B2CJX4D"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/RLU.0000000000003144"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7315839"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7315839?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-07-13"
+  ],
+  "dateOfCreation": [
+    "2020-06-11"
+  ],
+  "firstIndexDate": [
+    "2020-06-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-07-02"
+  ],
+  "dateOfRevision": [
+    "2020-07-13"
+  ],
+  "firstPublicationDate": [
+    "2020-08-01"
+  ]
+}

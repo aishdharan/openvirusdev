@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>[4]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zhou</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Gao</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Xie</surname>
+    <given-names>Y</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>COVID-19 with spontaneous pneumomediastinum</article-title>. 
+  <source>Lancet Infect Dis</source>
+  <year>2020</year>;
+  <volume>20</volume>:
+  <fpage>510</fpage>.
+  <pub-id pub-id-type="pmid">32164830</pub-id>
+ </mixed-citation>
+</ref>

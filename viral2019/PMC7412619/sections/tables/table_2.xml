@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" orientation="portrait" position="float">
+ <label>Table 2</label>
+ <caption>
+  <p>Overview of published FSW economic models</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Study ID</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Location</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Choice of model</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Populations</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Interventions</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Time horizon</td>
+    <td align="left" valign="bottom" rowspan="1" colspan="1">Projected health outcomes</td>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Maheu-Giroux 
+     <italic>et al</italic>
+     <xref rid="R18" ref-type="bibr">18</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Côte d'Ivoire</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Dynamic compartmental model</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSW, clients of FSW, MSM (bisexuals and exclusive) and general population (ie, heterosexual population)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Condoms, ART and PMTCT interventions</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">39 years (1976–2015)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HIV prevalence</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Mukandavire 
+     <italic>et al</italic>
+     <xref rid="R19" ref-type="bibr">19</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Not specific to any country</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Dynamic deterministic model</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSW, clients of FSW and pimps</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Condoms and PrEP</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 years</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HIV prevalence, number of HIV infections averted</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Pickles 
+     <italic>et al</italic>
+     <xref rid="R20" ref-type="bibr">20</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">India</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Deterministic compartment model</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSW, clients of FSW and general population (lower risk female and male)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Condoms</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">5 years
+     <break/>(2004–2009)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HIV, herpes simplex virus-2 and syphilis</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Prinja 
+     <italic>et al</italic>
+     <xref rid="R21" ref-type="bibr">21</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">India</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Dynamic Markov model</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSW, clients of FSW and general population (partners of clients)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Targeted FSW interventions—condoms and STI check-ups</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">20 years (1995–2015)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Condom use, STI treatment and prevalence, HIV prevalence, cost per infection averted and DALY averted</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Vickerman 
+     <italic>et al</italic> 2006A
+     <xref rid="R22" ref-type="bibr">22</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Benin</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Dynamic deterministic model</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSW, clients of FSW and general population</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Syndromic management with or without periodic presumptive treatment</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">4 years
+     <break/>(1995–1998)
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">STI and HIV prevalence, cost per HIV and DALY averted</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Vickerman 
+     <italic>et al</italic> 2006B
+     <xref rid="R23" ref-type="bibr">23</xref>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">South Africa</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Dynamic deterministic model</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSW, clients of FSW and general population</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Syndromic management with or without periodic presumptive treatment</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 years (1994–2004)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">STI and HIV prevalence, cost per HIV and DALY averted</td>
+   </tr>
+   <tr>
+    <td align="left" valign="top" rowspan="1" colspan="1">Nsanzimana 2020 
+     <italic>et al</italic>
+    </td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Rwanda</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Dynamic Markov model</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">FSWs, clients of FSW and general population (male and female) 15 years or older</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">Condoms, ART, PrEP and HIV testing</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">10 years (2017–2027)</td>
+    <td align="left" valign="top" rowspan="1" colspan="1">HIV prevalence and incidence</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="T2_FN1">
+   <p>*These published studies were found on PubMed using a combination of search terms involving FSWs, economic models and HIV. The search was conducted on March 2019.</p>
+  </fn>
+  <fn id="T2_FN2">
+   <p>ART, antiretroviral therapy; DALY, Disability-adjusted life year; FSW, female sex worker; MSM, Men who have sex with men; PMTCT, Prevention of mother-to-child transmission; PrEP, pre-exposure prophylaxis; STI, sexually transmitted infection.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

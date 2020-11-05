@@ -1,0 +1,833 @@
+{
+  "id": [
+    "33076868"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33076868"
+  ],
+  "pmcid": [
+    "PMC7574430"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7574430"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s12879-020-05488-4"
+  ],
+  "title": [
+    "The origin and spread of CRF85_BC, driven by heterosexual transmission among older people in Sichuan, China."
+  ],
+  "authorString": [
+    "Su L, Feng Y, Liang S, Zeng Y, Li Y, Yang H, Ye L, Wang Q, Wei D, Yuan D, Lai W, Zhang L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Su L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Feng Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Virology and Immunology, National Center for AIDS/STD Control and Prevention (NCAIDS), China CDC, Beijing, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liang S"
+          ],
+          "firstName": [
+            "Shu"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng Y"
+          ],
+          "firstName": [
+            "Yali"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yiping"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ye L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Q"
+          ],
+          "firstName": [
+            "Qiushi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wei D"
+          ],
+          "firstName": [
+            "Dongbin"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lai W"
+          ],
+          "firstName": [
+            "Wenhong"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Linglin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China. zhangllsccdc@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "3033659"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "BMC Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "BMC Infect Dis"
+          ],
+          "NLMid": [
+            "100968551"
+          ],
+          "ISSN": [
+            "1471-2334"
+          ],
+          "ESSN": [
+            "1471-2334"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "772"
+  ],
+  "abstractText": [
+    "BACKGROUND:CRF_BC recombinants, including CRF07_BC and CRF08_BC, were considered the predominant subtypes in China. Since the discovery of HIV-1 circulating recombinant form CRF 85_BC in Southwest China in 2016, this BC recombinant forms had been reported in different regions of China. However, the history and magnitude of CRF85_BC transmission were still to be investigated. METHOD:We conducted the most recent molecular epidemiology of HIV-1 among newly reported HIV-1 infected patients in Sichuan in 2019 by sequencing and phylogenetic analysis of 1291 pol sequences. Then, we used maximum likelihood approach and the Bayesian Markov chain Monte Carlo (MCMC) sampling of pol sequences to reconstruct the phylogeographic and demographic dynamics of the CRF85_BC. RESULTS:HIV-1 CRF85_BC (68/1291, 5.27%) became the fourth most prevalent strain revealing a significant increase in local population. CRF85_BC were only found in heterosexually infected individuals and the majority of CRF85_BC (95.45%) were circulating among the people living with HIV aged 50 years and over (PLHIV50+), suggesting a unique prevalent pattern. The founder lineages of CRF85_BC were likely to have first emerged in Yunnan, a province of Southwest China bordering Sichuan, in the early 2000s. It then spread exponentially to various places (including Guangxi, Sichuan, et al) and became endemic around 2008.6 (2006.7-2010.2) in Sichuan. CONCLUSION:Taken together, our findings on HIV-1 subtype CRF85_BC infections provided new insights into the spread of this virus and extended the understanding of the HIV epidemic in China."
+  ],
+  "affiliation": [
+    "Sichuan Provincial Center for Disease Control and Prevention, Center for AIDS/STD Control and Prevention, Chengdu, 610041, Sichuan, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017JY0302"
+          ],
+          "agency": [
+            "Sichuan Province Science and Technology Support Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV-1"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TM"
+                  ],
+                  "qualifierName": [
+                    "transmission"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Likelihood Functions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bayes Theorem"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Heterosexuality"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Epidemiology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epidemics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeography"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV-1",
+        "Recombinants",
+        "Heterosexually Transmission"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12879-020-05488-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7574430"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7574430?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR226888"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-10-28"
+  ],
+  "dateOfCreation": [
+    "2020-10-20"
+  ],
+  "firstIndexDate": [
+    "2020-10-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-23"
+  ],
+  "dateOfRevision": [
+    "2020-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-19"
+  ],
+  "firstPublicationDate": [
+    "2020-10-19"
+  ]
+}

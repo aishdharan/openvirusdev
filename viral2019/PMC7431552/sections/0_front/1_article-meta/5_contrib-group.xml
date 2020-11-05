@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grag</surname>
+   <given-names>Kanchan</given-names>
+  </name>
+  <address>
+   <email>kanchangarg68@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Kumar Shubhanshu</surname>
+  </name>
+  <address>
+   <email>shubhanshu0304@gmail.com</email>
+  </address>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>Department of Pathology, Hind Institute of Medical Sciences, Sitapur, India 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>Department of Otorhinolaryngology, Hind Institute of Medical Sciences, Sitapur, India 
+ </aff>
+</contrib-group>

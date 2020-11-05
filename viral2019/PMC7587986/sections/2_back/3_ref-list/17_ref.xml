@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Woolhouse</surname>
+    <given-names>MEJ</given-names>
+   </name>
+   <name>
+    <surname>Dye</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Etard</surname>
+    <given-names>JF</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Charlwood</surname>
+    <given-names>JD</given-names>
+   </name>
+   <name>
+    <surname>Garnett</surname>
+    <given-names>GP</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Heterogeneities in the transmission of infectious agents: Implications for the design of control programs</article-title>
+  <source> Proceedings of the National Academy of Sciences</source>
+  <year>1997</year>
+  <volume>94</volume>
+  <issue>1</issue>
+  <fpage>338</fpage>
+  <lpage>42</lpage>
+ </element-citation>
+</ref>

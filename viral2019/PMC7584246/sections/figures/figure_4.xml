@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0241269.g004" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0241269.g004</object-id>
+ <label>Fig 4</label>
+ <caption>
+  <title>Demographic history of the HIV-1 CRF03_AB recombinant in the former Soviet Union.</title>
+  <p>Estimates of the effective population size (Ne) through time (t) using Bayesian Skyline (green) and Bayesian GMRF (violet) coalescent model are presented on a logarithmic scale as median (solid color line) with the corresponding 95% HPD credibility interval (color area).</p>
+ </caption>
+ <graphic xlink:href="pone.0241269.g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

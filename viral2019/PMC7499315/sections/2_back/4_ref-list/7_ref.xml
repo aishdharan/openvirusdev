@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B8">
+ <label>8</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pfau</surname>
+    <given-names>M. L.</given-names>
+   </name>
+   <name>
+    <surname>Menard</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Russo</surname>
+    <given-names>S. J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Inflammatory mediators in mood disorders: therapeutic opportunities</article-title>
+  <source>
+   <italic toggle="yes">Annual Review of Pharmacology and Toxicology</italic>
+  </source>
+  <year>2018</year>
+  <volume>58</volume>
+  <issue>1</issue>
+  <fpage>411</fpage>
+  <lpage>428</lpage>
+  <pub-id pub-id-type="doi">10.1146/annurev-pharmtox-010617-052823</pub-id>
+  <pub-id pub-id-type="other">2-s2.0-85040564849</pub-id>
+  <?supplied-pmid 28992428?>
+  <pub-id pub-id-type="pmid">28992428</pub-id>
+ </element-citation>
+</ref>

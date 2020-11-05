@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R10">
+ <label>10. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Kanters</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Park</surname>
+   <given-names>JJH</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Chan</surname>
+   <given-names>K</given-names>
+  </string-name>, 
+  <etal/>
+  <article-title>Interventions to improve adherence to antiretroviral therapy: a systematic review and network meta-analysis.</article-title>
+  <source>Lancet HIV</source>
+  <year>2017</year>;
+  <volume>4</volume>:
+  <fpage>e31</fpage>–
+  <lpage>40</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S2352-3018(16)30206-5</pub-id>
+  <?supplied-pmid 27863996?>
+  <pub-id pub-id-type="pmid">27863996</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b25">
+ <element-citation publication-type="book" id="sb25">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lorch</surname>
+    <given-names>L.</given-names>
+   </name>
+   <name>
+    <surname>Trouleau</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Tsirtsis</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Szanto</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Schölkopf</surname>
+    <given-names>B.</given-names>
+   </name>
+   <name>
+    <surname>Gomez-Rodriguez</surname>
+    <given-names>M.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>A spatiotemporal epidemic model to quantify the effects of contact tracing, testing, and containment</chapter-title>
+  <year>2020</year>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="http://arxiv.org/abs/2004.07641" id="interref17" xmlns:xlink="http://www.w3.org/1999/xlink">arXiv:2004.07641</ext-link>
+  </comment>
+ </element-citation>
+</ref>

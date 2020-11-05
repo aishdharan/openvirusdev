@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR75">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Mukhtar</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Harley</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>BouHamdan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Patel</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Acheampong</surname>
+    <given-names>E</given-names>
+   </name>
+   <name>
+    <surname>Pomerantz</surname>
+    <given-names>RJ</given-names>
+   </name>
+  </person-group>
+  <article-title>Primary isolated human brain microvascular endothelial cells express diverse HIV/SIV-associated chemokine coreceptors and DC-SIGN and L-SIGN</article-title>
+  <source>Virology</source>
+  <year>2002</year>
+  <volume>297</volume>
+  <fpage>78</fpage>
+  <lpage>88</lpage>
+  <?supplied-pmid 12083838?>
+  <pub-id pub-id-type="pmid">12083838</pub-id>
+ </element-citation>
+</ref>

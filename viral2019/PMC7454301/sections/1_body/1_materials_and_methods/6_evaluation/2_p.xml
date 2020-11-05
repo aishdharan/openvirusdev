@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>(ACC: worst value = 0; best value = 100)
+ <disp-formula id="deqn16">
+  <label>(16)</label>
+  <tex-math id="M16">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} \mathrm{Error}\ \mathrm{rate}=\frac{\mathrm{Fp}+\mathrm{Fn}}{\mathrm{Tn}+\mathrm{Tn}+\mathrm{Fp}+\mathrm{Fn}} \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

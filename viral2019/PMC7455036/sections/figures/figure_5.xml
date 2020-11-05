@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0238411.g005" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0238411.g005</object-id>
+ <label>Fig 5</label>
+ <caption>
+  <title>Comparison of predicted and actual numbers of epidemic patients in China.</title>
+  <p>(A) The 
+   <italic>φ</italic> values from January 25 to March 10 were fitted to predict the 
+   <italic>φ</italic> values for China from March 11 to May 27. (B) The 
+   <italic>α</italic> values from January 23 to March 10 were fitted to predict the 
+   <italic>α</italic> values for China from March 11 to May 26. (C) The predicted 
+   <italic>α</italic> values and 
+   <italic>φ</italic> values were used to calculate the numbers of infections in China from March 12 to May 27.
+  </p>
+ </caption>
+ <graphic xlink:href="pone.0238411.g005" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

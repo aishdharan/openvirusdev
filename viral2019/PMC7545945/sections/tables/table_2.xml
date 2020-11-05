@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab2">
+ <label>Table 2</label>
+ <caption>
+  <p>Unadjusted time from diagnosis to clinical milestones among patients newly diagnosed with HIV treated at OAHCC (n = 63) by year, 2016–2018</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">2016</th>
+    <th align="left">2017</th>
+    <th align="left">2018</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" colspan="4">Outcomes</td>
+   </tr>
+   <tr>
+    <td align="left"> Diagnosed, 
+     <italic>n</italic>
+    </td>
+    <td align="left">20</td>
+    <td align="left">26</td>
+    <td align="left">17</td>
+   </tr>
+   <tr>
+    <td align="left"> Started ART, 
+     <italic>n </italic>(%)
+    </td>
+    <td align="left">20 (100%)</td>
+    <td align="left">26 (100%)</td>
+    <td align="left">17 (100%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Met rapid definition, 
+     <italic>n </italic>(%)
+    </td>
+    <td align="left">2(10%)</td>
+    <td align="left">9 (35%)</td>
+    <td align="left">5 (29%)</td>
+   </tr>
+   <tr>
+    <td align="left"> % In care ≤ 1 year</td>
+    <td align="left">18(90%)</td>
+    <td align="left">26 (100%)</td>
+    <td align="left">16 (94%)</td>
+   </tr>
+   <tr>
+    <td align="left"> Diagnosis to care entry, median number of days (range)</td>
+    <td align="left">17.5 (0–596)</td>
+    <td align="left">12 (1–31)</td>
+    <td align="left">9 (0–293)</td>
+   </tr>
+   <tr>
+    <td align="left"> First care visit to ART start, median number of days (range)</td>
+    <td align="left">0 (0–13)</td>
+    <td align="left">0 (0–24)</td>
+    <td align="left">0 (0–81)</td>
+   </tr>
+   <tr>
+    <td align="left"> ART start to first HIV RNA &lt; 200 cells/mL</td>
+    <td align="left">39 (21–145)</td>
+    <td align="left">47.5 (21–240)</td>
+    <td align="left">47 (0–212)</td>
+   </tr>
+   <tr>
+    <td align="left"> Diagnosis to HIV RNA &lt; 200 cells/mL</td>
+    <td align="left">71.5 (34–644)</td>
+    <td align="left">66.5 (21–252)</td>
+    <td align="left">77 (6–322)</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

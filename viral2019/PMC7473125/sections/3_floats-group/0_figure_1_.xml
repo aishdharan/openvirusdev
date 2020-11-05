@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F0001" orientation="portrait" position="float">
+ <label>Figure 1.</label>
+ <caption>
+  <p>The geographic distribution of Shanghai residents admitted to Shanghai Public Health Clinical Center. YP: Yangpu District; HK: Hongkou District; JA: Jing’an District; HP: Huangpu District; PT: Putuo District; CN: Changning District; XH: Xuhui District. Numbers indicate the total cases occurred in the corresponding district. Residents from other cities are not included.</p>
+ </caption>
+ <alternatives>
+  <graphic specific-use="web-only" content-type="color" xlink:href="TEMI_A_1787103_F0001_OC" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  <graphic specific-use="print-only" content-type="black-white" xlink:href="TEMI_A_1787103_F0001_PB" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </alternatives>
+</fig>

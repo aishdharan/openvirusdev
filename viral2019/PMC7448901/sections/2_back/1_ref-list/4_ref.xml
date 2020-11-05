@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0004">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Rodriguez-Morales</surname>
+    <given-names>AJ</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Cardona-Ospina</surname>
+    <given-names>JA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Gutiérrez-Ocampo</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Clinical, laboratory and imaging features of COVID-19: a systematic review and meta-analysis</article-title>. 
+  <source>Travel Med Infect Dis</source>. 
+  <year>2020 Mar 13</year>;
+  <volume>34</volume>:
+  <fpage>101623</fpage>. doi: 
+  <pub-id pub-id-type="doi">10.1016/j.tmaid.2020.101623</pub-id>
+  <pub-id pub-id-type="pmid">32179124</pub-id>
+ </mixed-citation>
+</ref>

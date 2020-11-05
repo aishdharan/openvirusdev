@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib28">
+ <label>28</label>
+ <element-citation publication-type="journal" id="sbref280">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hayes</surname>
+    <given-names>RJ</given-names>
+   </name>
+   <name>
+    <surname>Donnell</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Floyd</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Effect of universal testing and treatment on HIV incidence - HPTN 071 (PopART)</article-title>
+  <source>N Engl J Med</source>
+  <volume>381</volume>
+  <year>2019</year>
+  <fpage>207</fpage>
+  <lpage>218</lpage>
+  <pub-id pub-id-type="pmid">31314965</pub-id>
+ </element-citation>
+</ref>

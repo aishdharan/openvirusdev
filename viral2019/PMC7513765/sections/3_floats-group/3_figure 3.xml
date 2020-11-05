@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3">
+ <label>Figure 3</label>
+ <caption>
+  <p>Seasonality of Influenza</p>
+  <p>(A and C) Curves of growths of the daily new infected for the first 20 years of annual Influenza outbreaks at three different latitudes on the Earth, +40° north (black), −40° south (blue), and the Equator (orange), with (ε = 1; [A]) and without (ε = 0; [C]) active solar pump. Model parameters are t
+   <sub>0</sub> = January 1st, t
+   <sub>end</sub> = t0+100 years, R
+   <sub>0</sub> = 1.5, γ
+   <sub>out</sub> = 0.2, γ
+   <sub>in</sub> = 0.0055, μ = 0.001, and no external lockdown or phase 2. When the solar pump is active (A), constructive resonance builds in regular sun-modulated oscillations already after the first 2 cycles, and the strength of the seasonal outbreaks adjusts to constant values that depend on latitude. With these particular model parameters, northern and southern hemisphere oscillations have initially a 2-year period and are shifted in phase by 6 months (with outbreaks only during local winters), while at the Equator, the disease is continuously spread at a low-intensity level throughout the year. It takes almost 50 years before oscillations at ±40° latitudes become annual. This happens at the expenses of the maximum intensity of the biannual outbreaks, which starts declining smoothly as mild outbreaks develop during the initially off-state year. Without solar pump (C), the cycles follow the LOI period and are the same at all latitudes: the epidemics quickly die out in a few years. Yearly oscillating dotted curves at the bottom of the top panel are UV-B/UV-A lethal exposure estimated for COVID-19 and are reported here only to mark winter peaks and summer minima.
+  </p>
+  <p>(B and D) S–I phase diagrams for the simulations of panels (A) and (C), respectively. The first 100 years of the epidemics are plotted (every other 10 years, in (B), for easier visualization). When the solar pump is not active (D), the curves are the same at all latitudes and the cycles of epidemics die out quickly (essentially in 3–4 cycles) because of lack of supply among the susceptible population. When the solar pump is switched on (B), the resonant mechanism builds up seasonality quickly. During the first 50 years, and at latitudes of ±40° (black and blue curves), the susceptible population at each time oscillates between 65 and 98% of the population, and the instant fraction of infected people over susceptible, at the peaks, reaches maximum values of about 4.5%. At the equator, oscillations are much milder (orange curve): after a first long-duration cycle, the susceptible population at each time settles at a fraction of about 98% of the total, while infected people oscillate steadily between 0.06 and 0.2% of the susceptible population.</p>
+ </caption>
+ <graphic xlink:href="gr3_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

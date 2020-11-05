@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>De Cock</surname>
+    <given-names>KM</given-names>
+   </name>
+   <name>
+    <surname>Barker</surname>
+    <given-names>JL</given-names>
+   </name>
+   <name>
+    <surname>Baggaley</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>El Sadr</surname>
+    <given-names>WM</given-names>
+   </name>
+  </person-group>
+  <article-title>Where are the positives? HIV testing in sub-Saharan Africa in the era of test and treat</article-title>
+  <source>Aids</source>
+  <year>2019</year>
+  <volume>33</volume>
+  <fpage>349</fpage>
+  <lpage>352</lpage>
+  <pub-id pub-id-type="doi">10.1097/qad.0000000000002096</pub-id>
+  <?supplied-pmid 30557162?>
+  <pub-id pub-id-type="pmid">30557162</pub-id>
+ </element-citation>
+</ref>

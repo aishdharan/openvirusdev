@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kaspar</surname>
+   <given-names>Annette</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pifeleti</surname>
+   <given-names>Sione</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Whitfield</surname>
+   <given-names>Bernard CS</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff4">
+   <sup>4</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff5">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <label>1</label>Hearing Research Unit for Children, School of Health and Rehabilitation Sciences, University of Queensland, Brisbane, Australia
+ </aff>
+ <aff id="aff2">
+  <label>2</label>ENT Clinic, Tupua Tamasese Meaole Hospital, Apia, Samoa
+ </aff>
+ <aff id="aff3">
+  <label>3</label>Australian Volunteer Program (AVP), Australia
+ </aff>
+ <aff id="aff4">
+  <label>4</label>ENT Department, Logan Hospital, Queensland, Australia
+ </aff>
+ <aff id="aff5">
+  <label>5</label>Griffith University, School of Medicine, Queensland, Australia
+ </aff>
+</contrib-group>

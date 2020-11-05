@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To characterize the model parameters exerting the most influence on our quantities of interest, we performed a variance-based global sensitivity analysis, using a combination of Latin hypercube sampling (LHS) and a multi-model inference on regression-based models (See 
+ <xref ref-type="supplementary-material" rid="pntd.0008679.s008">S2 File</xref> for details). The sensitivity analysis considered the main effects and pairwise (first-order) interactions of input parameters on our quantities of interest. LHS sampling was programmed in MATLAB [
+ <xref rid="pntd.0008679.ref054" ref-type="bibr">54</xref>], while the multi-model inference analysis was done using the 
+ <italic>glmulti</italic> R package [
+ <xref rid="pntd.0008679.ref055" ref-type="bibr">55</xref>, 
+ <xref rid="pntd.0008679.ref056" ref-type="bibr">56</xref>].
+</p>

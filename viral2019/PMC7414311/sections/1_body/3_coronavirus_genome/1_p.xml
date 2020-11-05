@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0065">The viruses of the 
+ <italic>Coronaviridae</italic> family are enveloped with a single-strand, positive-sense RNA genome that has an average size of 30 Kb.
+ <xref rid="bib1" ref-type="bibr">
+  <sup>1</sup>
+ </xref> The name corona describes the crown-shaped projections of the surface when visualized with electron microscopy. The genome has a 5′-terminal cap similar to the standard eukaryotic cap structure and a polyadenylated tail at the 3′ end. About two-thirds of the genome encodes for the replicase-transcriptase, which is the only protein that is immediately translated directly from the genome (encoded by open reading frames [ORFs] 1a and 1b, which encode for 16 nonstructural proteins) (
+ <xref rid="fig2" ref-type="fig">Fig. 2</xref> ). Negative-sense genomic and subgenomic RNAs are then synthesized with the help of the replicase-transcriptase, which serve as the template for the production of all the downstream ORFs.
+ <xref rid="bib27" ref-type="bibr">
+  <sup>27</sup>
+ </xref> At least 5 additional ORFs make up the remaining one-third of the genome and encode for structural proteins that include the spike (S), membrane (M), nucleocapsid (N), and envelope (E). Additional accessory genes are dispersed between the structural genes’ ORFs downstream of the replicase, which are group specific and required for efficient viral replication (see 
+ <xref rid="fig2" ref-type="fig">Fig. 2</xref>). Transcription regulatory sequences are located between the ORFs that control transcription termination as well as the addition of the leader sequences. The structural protein coding region by sequence alignment of different coronaviruses seems less conserved than the nonstructural protein encoding region; however, both regions show less than 60% identity at the genomic level. Usually, the more conserved 
+ <italic>Orf1b</italic> is selected as a target for molecular assay design.
+ <xref rid="bib21" ref-type="bibr">
+  <sup>21</sup>
+ </xref>
+</p>

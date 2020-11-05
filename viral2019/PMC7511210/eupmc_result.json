@@ -1,0 +1,466 @@
+{
+  "id": [
+    "32976991"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32976991"
+  ],
+  "pmcid": [
+    "PMC7511210"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7511210"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.ijid.2020.09.1417"
+  ],
+  "title": [
+    "Temporal and age distributions of SARS-CoV-2 and other coronaviruses, southeastern France."
+  ],
+  "authorString": [
+    "Colson P, Esteves-Vieira V, Giraud-Gatineau A, Zandotti C, Filosa V, Chaudet H, Lagier JC, Raoult D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Colson P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Colson"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France; Aix-Marseille Univ., Microbes Evolution Phylogeny and Infections (MEPHI), Institut de recherche pour le développement (IRD), Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Esteves-Vieira V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Esteves-Vieira"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Giraud-Gatineau A"
+          ],
+          "firstName": [
+            "Audrey"
+          ],
+          "lastName": [
+            "Giraud-Gatineau"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France; Aix-Marseille Univ., Microbes Evolution Phylogeny and Infections (MEPHI), Institut de recherche pour le développement (IRD), Marseille, France; Service de Santé des Armées (SSA), Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zandotti C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Zandotti"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Filosa V"
+          ],
+          "firstName": [
+            "Véronique"
+          ],
+          "lastName": [
+            "Filosa"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chaudet H"
+          ],
+          "firstName": [
+            "Hervé"
+          ],
+          "lastName": [
+            "Chaudet"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France; Aix-Marseille Univ., Microbes Evolution Phylogeny and Infections (MEPHI), Institut de recherche pour le développement (IRD), Marseille, France; Service de Santé des Armées (SSA), Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lagier JC"
+          ],
+          "firstName": [
+            "Jean-Christophe"
+          ],
+          "lastName": [
+            "Lagier"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France; Aix-Marseille Univ., Microbes Evolution Phylogeny and Infections (MEPHI), Institut de recherche pour le développement (IRD), Marseille, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Raoult D"
+          ],
+          "firstName": [
+            "Didier"
+          ],
+          "lastName": [
+            "Raoult"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France; Aix-Marseille Univ., Microbes Evolution Phylogeny and Infections (MEPHI), Institut de recherche pour le développement (IRD), Marseille, France. Electronic address: didier.raoult@gmail.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "101"
+      ],
+      "journalIssueId": [
+        "3040930"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases"
+          ],
+          "ISOAbbreviation": [
+            "Int J Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Int J Infect Dis"
+          ],
+          "NLMid": [
+            "9610933"
+          ],
+          "ISSN": [
+            "1201-9712"
+          ],
+          "ESSN": [
+            "1878-3511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "121-125"
+  ],
+  "abstractText": [
+    "OBJECTIVES:The SARS-CoV-2 epidemic presents a poorly understood epidemiological cycle. We aimed to compare the age and weekly distributions of the five human coronaviruses, including SARS-CoV-2, that circulated in southeastern France. METHODS:We analyzed all available diagnoses of respiratory viruses, including SARS-CoV-2, performed between 09/2013 and 05/2020 at the University Hospital Institute Méditerranée Infection in Marseille, southeastern France. RESULTS:For SARS-CoV-2, positive children <15 years of age represented 3.4% (228/6,735) of all positive cases, which is significantly less than for endemic coronaviruses (46.1%; 533/1,156; p < 0.001). Among 10,026 patients tested for SARS-CoV-2 and endemic coronaviruses in 2020, children <15 years represented a significantly lower proportion of all positive cases for SARS-CoV-2 than for endemic coronaviruses [2.2% (24/1,067) vs. 33.5% (149/445), respectively; p < 0.001]. Epidemic curves for endemic coronaviruses and SARS-CoV-2 in 91,722 patients showed comparable bell-shaped distributions with a slight time lag. In contrast, the age distribution of endemic coronaviruses and 14 other respiratory viruses differed significantly compared to that of SARS-CoV-2, which was the only virus to relatively spare children. CONCLUSIONS:We observed for SARS-CoV-2 a temporal distribution resembling that of endemic coronaviruses but an age distribution that relatively spares the youngest subjects, who are those the most exposed to endemic coronaviruses."
+  ],
+  "affiliation": [
+    "IHU Méditerranée Infection, Marseille, France; Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France; Aix-Marseille Univ., Microbes Evolution Phylogeny and Infections (MEPHI), Institut de recherche pour le développement (IRD), Marseille, France."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Age",
+        "Children",
+        "Southeastern France",
+        "Cross-immunity",
+        "Sars-cov-2",
+        "Endemic Coronavirus"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ijid.2020.09.1417"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7511210"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7511210?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-25"
+  ],
+  "firstIndexDate": [
+    "2020-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-28"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-23"
+  ],
+  "firstPublicationDate": [
+    "2020-09-23"
+  ]
+}

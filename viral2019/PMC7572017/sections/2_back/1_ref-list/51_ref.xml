@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R51">
+ <label>[51]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Coutard</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Valle</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>de Lamballerie</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade</article-title>. 
+  <source>Antiviral Res</source>
+  <year>2020</year>;
+  <volume>176</volume>:
+  <fpage>104742</fpage>.
+  <pub-id pub-id-type="pmid">32057769</pub-id>
+ </mixed-citation>
+</ref>

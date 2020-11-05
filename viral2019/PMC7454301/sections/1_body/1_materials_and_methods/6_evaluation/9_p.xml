@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>(Average error rate: worst value = 1; best value = 0)
+ <disp-formula id="deqn21">
+  <label>(21)</label>
+  <tex-math id="M21">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} \mathrm{Average}\ \mathrm{MCC}=\frac{\sum_{i=1}^m\frac{\left({\mathrm{Tp}}_i\times{\mathrm{Tn}}_i\right)-\left({\mathrm{Fp}}_i\times{\mathrm{Fn}}_i\right)}{\sqrt{\left({\mathrm{Tp}}_i+{\mathrm{Fp}}_i\right)\left({\mathrm{Tp}}_i+{\mathrm{Fn}}_i\right)\left({\mathrm{Tn}}_i+{\mathrm{Fp}}_i\right)\left({\mathrm{Tn}}_i+{\mathrm{Fn}}_i\right)}}}{m} \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

@@ -1,0 +1,274 @@
+{
+  "id": [
+    "PMC7518975"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7518975"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7518975"
+      ]
+    }
+  ],
+  "title": [
+    "Vision of China’s future urban construction reform: In the perspective of comprehensive prevention and control for multi disasters"
+  ],
+  "authorString": [
+    "Wang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jianguo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "64"
+      ],
+      "journalIssueId": [
+        "3028003"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Sustainable cities and society"
+          ],
+          "ISOAbbreviation": [
+            "Sustain Cities Soc"
+          ],
+          "medlineAbbreviation": [
+            "Sustain Cities Soc"
+          ],
+          "NLMid": [
+            "101735304"
+          ],
+          "ISSN": [
+            "2210-6707"
+          ],
+          "ESSN": [
+            "2210-6715"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "102511-102511"
+  ],
+  "abstractText": [
+    "Highlights • Reform of urban design regulations required considering multi disasters’ prevention.• A integrated prevention system to be established based on multiple objectives’ optimization.• The equilibrium of disaster occurrence probability and stop loss cost.• Providing reference for the prevention and control of cities epidemic and urban disasters. The COVID-19 pandemic has caused huge deaths, massive damage and losses around the world. Looking back in history, the motivation for construction and development of cities was to enhance disaster prevention capacity, while modern cities are built and developed to improve health and wellness for human beings. Each disaster would pose some new challenges to the urban planning and architectural design, such as COVID-19. Therefore, the dilemma of future multi disasters (e.g. epidemics) would lead to reflections on the revision or change of urban design regulations. For the post-epidemic era, a comprehensive and integrated prevention system should be established for multi urban disasters, which requires to be optimally formulated based on multiple objectives, i.e., on the balancing of disaster occurrence probability and stop loss cost. This will be realized thanks to the rapid development of digital alike advanced technologies. Thus, this paper aims to provide a reference for the prevention and control of future city epidemics and disasters in responding to strategies of urban planning and design by considering the reform of urban construction related regulations, further to facilitate the creation of healthy and safe urban environments."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prevention and control",
+        "Covid-19",
+        "Multi Disasters",
+        "Multiple Objectives’ Optimization",
+        "Regulations Reform",
+        "Urban Planning And Design"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518975/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518975/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7518975"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7518975?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-06"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-06"
+  ],
+  "dateOfRevision": [
+    "2020-10-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-26"
+  ],
+  "firstPublicationDate": [
+    "2020-09-26"
+  ]
+}

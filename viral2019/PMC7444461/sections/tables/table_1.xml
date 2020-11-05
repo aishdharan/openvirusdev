@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0001">
+ <label>Table 1</label>
+ <caption>
+  <p>Baseline characteristics of the study participants 
+   <bold>(n = 16).</bold>
+  </p>
+ </caption>
+ <alt-text id="alt0002">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top">Characteristics</th>
+    <th valign="top"/>
+    <th valign="top">N (%) or mean ± SD</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="2" valign="top">Gender</td>
+    <td valign="top">Male</td>
+    <td valign="top">9 (56.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Female</td>
+    <td valign="top">7 (43.75%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Age(Years)</td>
+    <td valign="top"/>
+    <td valign="top">41.00 ± 12.58</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Youth (18-)</td>
+    <td valign="top">10 (62.50%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Middle aged (45-)</td>
+    <td valign="top">5(31.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Elderly (60-)</td>
+    <td valign="top">1 (6.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Education</td>
+    <td valign="top">University</td>
+    <td valign="top">4 (25.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">College</td>
+    <td valign="top">5(31.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">High school and lower</td>
+    <td valign="top">6 (37.50%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Illiterate</td>
+    <td valign="top">1 (6.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Marital status</td>
+    <td valign="top">Married</td>
+    <td valign="top">12 (75.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Unmarried</td>
+    <td valign="top">4 (25.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Comorbid diseases</td>
+    <td valign="top">With</td>
+    <td valign="top">6 (37.50%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Without</td>
+    <td valign="top">10 (62.50%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Complications</td>
+    <td valign="top">With</td>
+    <td valign="top">4 (25.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Without</td>
+    <td valign="top">12 (75.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Critical illness</td>
+    <td valign="top">Yes</td>
+    <td valign="top">2 (12.50%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">No</td>
+    <td valign="top">14 (87.50%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Occupation</td>
+    <td valign="top">Worker</td>
+    <td valign="top">5 (31.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Businessman</td>
+    <td valign="top">3 (18.75%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Company employee</td>
+    <td valign="top">5 (31.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Student</td>
+    <td valign="top">1(6.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Teacher</td>
+    <td valign="top">1(6.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Housewife</td>
+    <td valign="top">1(6.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Long-term residence</td>
+    <td valign="top">Town</td>
+    <td valign="top">4 (25.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">City</td>
+    <td valign="top">12(75.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Residential Address</td>
+    <td valign="top">Wuhan, China</td>
+    <td valign="top">5 (31.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Luoyang, China</td>
+    <td valign="top">10 (62.50%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Nanyang, China</td>
+    <td valign="top">1(6.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Financial situation</td>
+    <td valign="top">Medium</td>
+    <td valign="top">5 (31.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Middle and lower</td>
+    <td valign="top">4 (25.00%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Poor</td>
+    <td valign="top">7 (43.75%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Relatives infected with new coronary pneumonia</td>
+    <td valign="top">Yes</td>
+    <td valign="top">9 (56.25%)</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">No</td>
+    <td valign="top">7 (43.75%)</td>
+   </tr>
+   <tr>
+    <td valign="top">Number of days in hospital (days)</td>
+    <td valign="top"/>
+    <td valign="top">19.38±5.74</td>
+   </tr>
+   <tr>
+    <td valign="top">Number of interviews(times)</td>
+    <td valign="top">Total times</td>
+    <td valign="top">4.00±0.73</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Number of face-to-face interviews</td>
+    <td valign="top">1.06±0.25</td>
+   </tr>
+   <tr>
+    <td valign="top"/>
+    <td valign="top">Telephone interviews</td>
+    <td valign="top">2.94±0.77</td>
+   </tr>
+   <tr>
+    <td valign="top">Interview interval (Days)</td>
+    <td valign="top"/>
+    <td valign="top">4.50±2.23</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

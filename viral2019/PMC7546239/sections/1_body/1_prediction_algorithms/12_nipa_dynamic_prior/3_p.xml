@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e2922">A challenge to NIPA dynamic prior is the unavailability of the contact network in the future. Hence, we assume the traffic matrix to remain constant after the last observation point 
+ <inline-formula>
+  <math id="d1e2925" display="inline" altimg="si17.svg">
+   <mi>n</mi>
+  </math>
+ </inline-formula>: 
+ <inline-formula>
+  <math id="d1e2930" display="inline" altimg="si111.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>B</mi>
+     </mrow>
+     <mrow>
+      <mtext>prior</mtext>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>n</mi>
+     <mo>+</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi>B</mi>
+     </mrow>
+     <mrow>
+      <mtext>prior</mtext>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>n</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> for all 
+ <inline-formula>
+  <math id="d1e2968" display="inline" altimg="si112.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>.
+</p>

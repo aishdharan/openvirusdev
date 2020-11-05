@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R24">
+ <label>24</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Liu</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ning</surname>
+    <given-names>Z</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chen</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals</article-title>. 
+  <source>Nature</source>
+  <year>2020</year>;
+  <volume>582</volume>:
+  <fpage>557</fpage>–
+  <lpage>60</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41586-020-2271-3</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32340022?>
+  <pub-id pub-id-type="pmid">32340022</pub-id>
+ </mixed-citation>
+</ref>

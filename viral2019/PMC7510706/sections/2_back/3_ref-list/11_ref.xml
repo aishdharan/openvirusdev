@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R11">
+ <label>11. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Lizarazo</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Vincenti-Gonzalez</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Grillet</surname>
+   <given-names>ME</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bethencourt</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Diaz</surname>
+   <given-names>O</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ojeda</surname>
+   <given-names>N</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>Spatial dynamics of chikungunya virus, Venezuela, 2014.</article-title>
+  <source>Emerg Infect Dis</source>. 
+  <year>2019</year>;
+  <volume>25</volume>:
+  <fpage>672</fpage>–
+  <lpage>80</lpage>. 
+  <pub-id pub-id-type="doi">10.3201/eid2504.172121</pub-id>
+  <?supplied-pmid 30882314?>
+  <pub-id pub-id-type="pmid">30882314</pub-id>
+ </mixed-citation>
+</ref>

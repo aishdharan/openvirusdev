@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Dumont</surname>
+   <given-names>Y</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Chiroleu</surname>
+   <given-names>F</given-names>
+  </string-name>. 
+  <article-title>Vector control for the Chikungunya disease.</article-title>
+  <source>Math Biosci Eng</source>. 
+  <year>2010</year>;
+  <volume>7</volume>:
+  <fpage>313</fpage>–
+  <lpage>45</lpage>. 
+  <pub-id pub-id-type="doi">10.3934/mbe.2010.7.313</pub-id>
+  <?supplied-pmid 20462292?>
+  <pub-id pub-id-type="pmid">20462292</pub-id>
+ </mixed-citation>
+</ref>

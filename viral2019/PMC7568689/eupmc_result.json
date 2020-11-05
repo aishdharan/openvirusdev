@@ -1,0 +1,348 @@
+{
+  "id": [
+    "33103061"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33103061"
+  ],
+  "pmcid": [
+    "PMC7568689"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7568689"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s42399-020-00588-3"
+  ],
+  "title": [
+    "Update on Hepatitis C Epidemiology: Unaware and Untreated Infected Population Could Be the Key to Elimination."
+  ],
+  "authorString": [
+    "Stasi C, Silvestri C, Voller F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stasi C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Stasi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9146-9968",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Observatory of Epidemiology, Regional Health Agency of Tuscany, 50141 Florence, Italy."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Experimental and Clinical Medicine, University of Florence, 50134 Florence, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Silvestri C"
+          ],
+          "firstName": [
+            "Caterina"
+          ],
+          "lastName": [
+            "Silvestri"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Observatory of Epidemiology, Regional Health Agency of Tuscany, 50141 Florence, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Voller F"
+          ],
+          "firstName": [
+            "Fabio"
+          ],
+          "lastName": [
+            "Voller"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Observatory of Epidemiology, Regional Health Agency of Tuscany, 50141 Florence, Italy."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9146-9968",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3028668"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SN comprehensive clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "SN Compr Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "SN Compr Clin Med"
+          ],
+          "NLMid": [
+            "101740833"
+          ],
+          "ISSN": [
+            "2523-8973"
+          ],
+          "ESSN": [
+            "2523-8973"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-8"
+  ],
+  "abstractText": [
+    "Globally, the World Health Organization (WHO) estimates that 71 million people have chronic hepatitis C virus (HCV) infection. A significant number of these will develop cirrhosis or liver cancer. Currently, during the COVID-19 outbreak, a high mortality rate has been found in patients with COVID-19 and cirrhosis. New direct-acting antiviral agents can cure more than 90% of HCV-infected patients. The new WHO strategy has introduced global goals against viral hepatitis, including a 30% reduction in new HCV cases and a 10% reduction in mortality by 2020. HCV transmission has changed considerably, reflecting both the evolution of medicine and health and social changes. The HCV is usually spread through blood-to-blood contact. After the discovery of HCV in 1989, antibody screening has drastically decreased the incidence of post-transfusion hepatitis. Nowadays, routine blood donor screening by nucleic acid amplification testing for the presence of HCV RNA has been introduced in many countries. It is conceivable that HCV screening could be offered to people born between 1946 and 1964 in the developed world and to people at high risk for HCV infection such as those who have received blood transfusions, blood products or organ donations before the 1990s, prisoners, health care workers, drug users and infants born to HCV-infected women. To achieve HCV elimination, health programmes should include improvement to access to health care services, increased screening and new projects to identify a submerged portion of patients with HCV infection. Submerged people with HCV infection are both people who are unaware of their condition and people diagnosed with HCV but not yet treated. Based on these premises, this review will examine and discuss the epidemiological changes in contracting HCV, highlighting the ways in which to identify a submerged portion of patients with HCV infection."
+  ],
+  "affiliation": [
+    "Observatory of Epidemiology, Regional Health Agency of Tuscany, 50141 Florence, Italy."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Screening",
+        "Hepatitis C virus",
+        "epidemiology",
+        "Public Health",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s42399-020-00588-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7568689"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7568689?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-26"
+  ],
+  "firstIndexDate": [
+    "2020-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-21"
+  ],
+  "dateOfRevision": [
+    "2020-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-18"
+  ],
+  "firstPublicationDate": [
+    "2020-10-18"
+  ]
+}

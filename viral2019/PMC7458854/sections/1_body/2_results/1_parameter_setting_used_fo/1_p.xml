@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+ <xref rid="T1" ref-type="table">Table 1</xref> shows the basic information and infection-reproduction parameters used for our SEIRD model in the mass infection region (Daegu and Gyeongbuk) and the normal infection region (Seoul and Gyeonggi). The population of each city was set based on current data. The respective 
+ <italic>I</italic>(0) was set to 13, the number of infected people found in Daegu as of February 19, 2020.
+ <xref rid="B9" ref-type="bibr">9</xref>
+ <italic>I</italic>(0) also was set to 14 for Gyeongbuk (on February 22), Seoul (on February 20), and Gyeonggi (on February 21).
+ <xref rid="B9" ref-type="bibr">9</xref>
+ <xref rid="B33" ref-type="bibr">33</xref> Daegu and Gyeongbuk are mass infection regions, while Seoul and Gyeonggi are normal infection regions. Therefore, Daegu and Gyeongbuk regions show more confirmed cases and recovery than Seoul and Gyeonggi. The reproduction number at the beginning of the epidemic and the data for the inflection point of each city was set taking into account mass and normal infection rates.
+</p>

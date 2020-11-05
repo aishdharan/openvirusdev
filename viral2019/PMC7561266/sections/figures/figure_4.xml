@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pntd.0008679.g004" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pntd.0008679.g004</object-id>
+ <label>Fig 4</label>
+ <caption>
+  <title>Quantities of interest (QOI) as a function of starting temperature.</title>
+  <p>The x-axis is the starting temperatures within each set of temperature regimes and the y-axis is the associated value of the QOI being considered. Starting temperature is the temperature on August 15 calculated from 
+   <italic>T</italic>
+   <sub>
+    <italic>mean</italic>
+   </sub> and 
+   <italic>T</italic>
+   <sub>
+    <italic>range</italic>
+   </sub>. The blue square points represent the time to peak infection in humans (in days). The red diamond points represent the maximum number of humans infected at any given point during the simulation. The green circle points represent represents the final (or cumulative) epidemic size at the end of the simulation; this is represented as the proportion of humans infected (rather than number). (A) represents the historical temperature regimes, given by 
+   <italic>T</italic>
+   <sub>
+    <italic>mean</italic>
+   </sub> varied from 19°C to 22°C and 
+   <italic>T</italic>
+   <sub>
+    <italic>range</italic>
+   </sub> varied from 4°C to 6°C (both in increments of 0.2°C), a total of 121 simulations. (B) represents the second set of temperature regimes, given by 
+   <italic>T</italic>
+   <sub>
+    <italic>mean</italic>
+   </sub> varied from 15°C to 30°C and 
+   <italic>T</italic>
+   <sub>
+    <italic>range</italic>
+   </sub> varied from 0°C to 15.0°C, a total of 5776 simulations. Due to the fixed starting date, multiple combinations of 
+   <italic>T</italic>
+   <sub>
+    <italic>mean</italic>
+   </sub> and 
+   <italic>T</italic>
+   <sub>
+    <italic>range</italic>
+   </sub> had the same starting temperature. As no other parameters were varied in these simulation sets, QOI and model behavior was identical for simulations with the same starting temperatures and overlapping points are not visible on the graphs. The default parameters from 
+   <xref rid="pntd.0008679.t002" ref-type="table">Table 2</xref> were used for these simulations.
+  </p>
+ </caption>
+ <graphic xlink:href="pntd.0008679.g004" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref33">
+ <label>33.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Trad</surname>
+    <given-names>CH</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Fang</surname>
+    <given-names>Q</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Cosic</surname>
+    <given-names>I</given-names>
+   </name>
+  </person-group>
+  <article-title>Protein sequence comparison based on the wavelet transform approach</article-title>. 
+  <source>Protein Eng</source>
+  <year>2002</year>;
+  <volume>15</volume>(
+  <issue>3</issue>):
+  <fpage>193</fpage>–
+  <lpage>203</lpage>. doi: 
+  <pub-id pub-id-type="doi">10.1093/protein/15.3.193</pub-id>.
+  <pub-id pub-id-type="pmid">11932490</pub-id>
+ </mixed-citation>
+</ref>

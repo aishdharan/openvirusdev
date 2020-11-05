@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Rafiq</surname>
+   <given-names>Muhammad</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Macías-Díaz</surname>
+   <given-names>J.E.</given-names>
+  </name>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0003">
+  <name>
+   <surname>Raza</surname>
+   <given-names>Ali</given-names>
+  </name>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0004">
+  <name>
+   <surname>Ahmed</surname>
+   <given-names>Nauman</given-names>
+  </name>
+  <xref rid="aff0004" ref-type="aff">d</xref>
+ </contrib>
+ <aff id="aff0001">
+  <label>a</label>Faculty of Engineering, University of Central Punjab, Lahore, Pakistan
+ </aff>
+ <aff id="aff0002">
+  <label>b</label>Departamento de Matemáticas y Física, Universidad Autónoma de Aguascalientes, Avenida Universidad 940, Ciudad Universitaria, Aguascalientes 20131, Mexico
+ </aff>
+ <aff id="aff0003">
+  <label>c</label>Department of Mathematics, National College of Business Administration and Economics Lahore, Pakistan
+ </aff>
+ <aff id="aff0004">
+  <label>d</label>Department of Mathematics and Statistics, The University of Lahore, Lahore, Pakistan
+ </aff>
+</contrib-group>

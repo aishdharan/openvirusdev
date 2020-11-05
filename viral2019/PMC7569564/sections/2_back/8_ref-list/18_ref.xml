@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ziying</surname>
+    <given-names>L</given-names>
+   </name>
+   <name>
+    <surname>Huijuan</surname>
+    <given-names>C</given-names>
+   </name>
+   <name>
+    <surname>Yusheng</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Zhanlian</surname>
+    <given-names>H</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>X</given-names>
+   </name>
+   <name>
+    <surname>Junfeng</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A cross-sectional comparison of epidemiological and clinical features of patients with coronavirus disease (COVID-19) in Wuhan and outside Wuhan, China</article-title>
+  <source>Travel Med Infect Dis</source>
+  <year>2020</year>
+  <volume>35</volume>
+  <fpage>101664</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.tmaid.2020.101664</pub-id>
+  <pub-id pub-id-type="pmid">32278758</pub-id>
+ </element-citation>
+</ref>

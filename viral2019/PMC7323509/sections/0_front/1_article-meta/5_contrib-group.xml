@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>dos Santos Bezerra</surname>
+   <given-names>Rafael</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>de Melo Jorge</surname>
+   <given-names>Daniel Macedo</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Castro</surname>
+   <given-names>Ítalo Araújo</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Moretto</surname>
+   <given-names>Edson Lara</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Scalon de Oliveira</surname>
+   <given-names>Leonardo</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ubiali</surname>
+   <given-names>Eugênia Maria Amorim</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Covas</surname>
+   <given-names>Dimas Tadeu</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Arruda</surname>
+   <given-names>Eurico</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kashima</surname>
+   <given-names>Simone</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Slavov</surname>
+   <given-names>Svetoslav Nanev</given-names>
+  </name>
+ </contrib>
+ <aff id="aff1">Blood Center of Ribeirao Preto, Ribeirao Preto, Brazil (R.S. Bezerra, E.L. Moretto, L.S. Oliveira, E.M.A. Ubiali, D.T. Covas, S. Kashima, S.N. Slavov); </aff>
+ <aff id="aff2">Faculty of Medicine of Ribeirao Preto–University of São Paulo, Ribeirao Preto (D.M.M. Jorge, I.A. Castro, E. Arruda)</aff>
+</contrib-group>

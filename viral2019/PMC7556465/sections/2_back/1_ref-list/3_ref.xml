@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0240013.ref003">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Ackermann</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Verleden</surname>
+   <given-names>SE</given-names>
+  </name>, 
+  <name>
+   <surname>Kuehnel</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>Pulmonary vascular endothelialitis, thrombosis, and angiogenesis in Covid-19</article-title>. 
+  <source>N Engl J Med</source>
+  <year>2020</year>;
+  <volume>383</volume>:
+  <fpage>120</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1056/NEJMoa2015432</pub-id> (Available at 
+  <ext-link ext-link-type="uri" xlink:href="https://www.nejm.org/doi/full/10.1056/NEJMoa2015432" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.nejm.org/doi/full/10.1056/NEJMoa2015432</ext-link>) 
+  <?supplied-pmid 32437596?>
+  <pub-id pub-id-type="pmid">32437596</pub-id>
+ </mixed-citation>
+</ref>

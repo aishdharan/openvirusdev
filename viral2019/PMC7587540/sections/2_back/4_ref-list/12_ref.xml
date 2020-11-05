@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR12">
+ <label>12.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chang</surname>
+    <given-names>CC</given-names>
+   </name>
+   <name>
+    <surname>Crane</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Mina</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Post</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Cameron</surname>
+    <given-names>BA</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>HIV and co-infections</article-title>
+  <source>Immunological Reviews</source>
+  <year>2013</year>
+  <volume>254</volume>
+  <issue>1</issue>
+  <fpage>114</fpage>
+  <lpage>142</lpage>
+  <pub-id pub-id-type="doi">10.1111/imr.12063</pub-id>
+  <pub-id pub-id-type="pmid">23772618</pub-id>
+ </element-citation>
+</ref>

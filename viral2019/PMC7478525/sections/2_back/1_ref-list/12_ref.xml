@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R12">
+ <label>[12]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Yue</surname>
+    <given-names>Y</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Spatial analysis of dengue fever and exploration of its environmental and socio-economic risk factors using ordinary least squares: a case study in five districts of Guangzhou City, China, 2014</article-title>. 
+  <source>Int J Infect Dis</source>
+  <year>2018</year>;
+  <volume>75</volume>:
+  <fpage>39</fpage>
+  <lpage>48</lpage>.
+  <pub-id pub-id-type="pmid">30121308</pub-id>
+ </mixed-citation>
+</ref>

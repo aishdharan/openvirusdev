@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>(MCC: worst value = −1; best value = +1)
+ <disp-formula id="deqn18">
+  <label>(18)</label>
+  <tex-math id="M18">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {F}_{\mathrm{Score}}=\frac{2\mathrm{Tp}}{2\mathrm{Tp}+\mathrm{Fp}+\mathrm{Fn}}\times 100\% \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

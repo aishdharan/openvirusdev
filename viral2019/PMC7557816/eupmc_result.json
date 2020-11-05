@@ -1,0 +1,738 @@
+{
+  "id": [
+    "32899416"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32899416"
+  ],
+  "pmcid": [
+    "PMC7557816"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7557816"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/pathogens9090728"
+  ],
+  "title": [
+    "Trends of the Dengue Serotype-4 Circulation with Epidemiological, Phylogenetic, and Entomological Insights in Lao PDR between 2015 and 2019."
+  ],
+  "authorString": [
+    "Calvez E, Pommelet V, Somlor S, Pompon J, Viengphouthong S, Bounmany P, Chindavong TA, Xaybounsou T, Prasayasith P, Keosenhom S, Brey PT, Telle O, Choisy M, Marcombe S, Grandadam M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Calvez E"
+          ],
+          "firstName": [
+            "Elodie"
+          ],
+          "lastName": [
+            "Calvez"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pommelet V"
+          ],
+          "firstName": [
+            "Virginie"
+          ],
+          "lastName": [
+            "Pommelet"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Epidemiology Unit, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Somlor S"
+          ],
+          "firstName": [
+            "Somphavanh"
+          ],
+          "lastName": [
+            "Somlor"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pompon J"
+          ],
+          "firstName": [
+            "Julien"
+          ],
+          "lastName": [
+            "Pompon"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1110-9039",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Emerging Infectious Diseases, Duke-NUS Medical School, Singapore 169857, Singapore."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "MIVEGEC, University of Montpellier, CNRS, IRD, 34394 Montpellier, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Viengphouthong S"
+          ],
+          "firstName": [
+            "Souksakhone"
+          ],
+          "lastName": [
+            "Viengphouthong"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bounmany P"
+          ],
+          "firstName": [
+            "Phaithong"
+          ],
+          "lastName": [
+            "Bounmany"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chindavong TA"
+          ],
+          "firstName": [
+            "Thep Aksone"
+          ],
+          "lastName": [
+            "Chindavong"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xaybounsou T"
+          ],
+          "firstName": [
+            "Thonglakhone"
+          ],
+          "lastName": [
+            "Xaybounsou"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Prasayasith P"
+          ],
+          "firstName": [
+            "Phoyphaylinh"
+          ],
+          "lastName": [
+            "Prasayasith"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Keosenhom S"
+          ],
+          "firstName": [
+            "Sitsana"
+          ],
+          "lastName": [
+            "Keosenhom"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Brey PT"
+          ],
+          "firstName": [
+            "Paul T"
+          ],
+          "lastName": [
+            "Brey"
+          ],
+          "initials": [
+            "PT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medical Entomology and Vector Borne Disease Unit, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Telle O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Telle"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9473-8406",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre de Sciences Humaines (CHS), Centre National de la Recherche Scientifique (CNRS), Delhi 110001, India."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Center for Policy Research (CPR), Delhi 110001, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Choisy M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Choisy"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5187-6390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Nuffield Department of Medicine, University of Oxford, Oxford OX3 7LF, UK."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Oxford University Clinical Research Unit, Ho Chi Minh City 700000, Vietnam."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Marcombe S"
+          ],
+          "firstName": [
+            "Sébastien"
+          ],
+          "lastName": [
+            "Marcombe"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0425-6228",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Medical Entomology and Vector Borne Disease Unit, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grandadam M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Grandadam"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Institut de Recherche Biomédicale des Armées, 91220 Brétigny-sur-Orge, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1110-9039",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9473-8406",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5187-6390",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0425-6228",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "full_text",
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "3006438"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pathogens (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Pathogens"
+          ],
+          "medlineAbbreviation": [
+            "Pathogens"
+          ],
+          "NLMid": [
+            "101596317"
+          ],
+          "ISSN": [
+            "2076-0817"
+          ],
+          "ESSN": [
+            "2076-0817"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Dengue outbreaks have regularly been recorded in Lao People's Democratic Republic (PDR) since the first detection of the disease in 1979. In 2012, an integrated arbovirus surveillance network was set up in Lao PDR and an entomological surveillance has been implemented since 2016 in Vientiane Capital. Here, we report a study combining epidemiological, phylogenetic, and entomological analyzes during the largest DENV-4 epidemic ever recorded in Lao PDR (2015-2019). Strikingly, from 2015 to 2019, we reported the DENV-4 emergence and spread at the country level after two large epidemics predominated by DENV-3 and DENV-1, respectively, in 2012-2013 and 2015. Our data revealed a significant difference in the median age of the patient infected by DENV-4 compared to the other serotypes. Phylogenetic analysis demonstrated the circulation of DENV-4 Genotype I at the country level since at least 2013. The entomological surveillance showed a predominance of Aedesaegypti compared to Aedesalbopictus and high abundance of these vectors in dry and rainy seasons between 2016 and 2019, in Vientiane Capital. Overall, these results emphasized the importance of an integrated approach to evaluate factors, which could impact the circulation and the epidemiological profile of dengue viruses, especially in endemic countries like Lao PDR."
+  ],
+  "affiliation": [
+    "Arbovirus and Emerging Viral Diseases Laboratory, Institut Pasteur du Lao PDR, Vientiane 01030, Laos."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "grant n° CZZ 2146 01 (Ecomore2 project)"
+          ],
+          "agency": [
+            "Agence Française de Développement"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phylogeny",
+        "epidemic",
+        "Dengue",
+        "Lao Pdr",
+        "Denv-4",
+        "Aedes Vectors"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/pathogens9090728"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7557816"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7557816?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-09"
+  ],
+  "firstIndexDate": [
+    "2020-09-09"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-24"
+  ],
+  "dateOfRevision": [
+    "2020-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-03"
+  ],
+  "firstPublicationDate": [
+    "2020-09-03"
+  ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B10">
+ <label>10.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Mounce</surname>
+    <given-names>BC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Cesaro</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Vlajnić</surname>
+    <given-names>L</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Vidiņa</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Vallet</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Weger-Lucarelli</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Passoni</surname>
+    <given-names>G</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Stapleford</surname>
+    <given-names>KA</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Levraud</surname>
+    <given-names>JP</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Vignuzzi</surname>
+    <given-names>M</given-names>
+   </name>
+  </person-group>
+  <year>2017</year>
+  <article-title>Chikungunya virus overcomes polyamine depletion by mutation of 
+   <italic>nsP1</italic> and the opal stop codon to confer enhanced replication and fitness
+  </article-title>. 
+  <source>J Virol</source>
+  <volume>91</volume>:
+  <elocation-id>e00344-17</elocation-id>. doi:
+  <pub-id pub-id-type="doi">10.1128/JVI.00344-17</pub-id>.
+  <pub-id pub-id-type="pmid">28539441</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B1">
+ <label>1</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Frank</surname>
+    <given-names>TD</given-names>
+   </name>
+   <name>
+    <surname>Carter</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Jahagirdar</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Biehl</surname>
+    <given-names>MH</given-names>
+   </name>
+   <name>
+    <surname>Douwes-Schultz</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Larson</surname>
+    <given-names>SL</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Global, regional, and national incidence, prevalence, and mortality of HIV, 1980-2017, and forecasts to 2030, for 195 countries and territories: a systematic analysis for the Global Burden of Diseases, Injuries, and Risk Factors Study 2017</article-title>
+  <source>Lancet HIV</source>
+  <year>2019</year>
+  <date-in-citation content-type="access-date">Feb 1, 2020</date-in-citation>
+  <volume>6</volume>
+  <issue>12</issue>
+  <fpage>e831</fpage>
+  <lpage>e859</lpage>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1016/S2352-3018(19)30196-1</pub-id>
+  <pub-id pub-id-type="pmid">31439534</pub-id>
+ </element-citation>
+</ref>

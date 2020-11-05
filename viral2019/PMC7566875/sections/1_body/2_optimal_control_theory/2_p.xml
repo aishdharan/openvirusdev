@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e5330">In this Section we model the imposition of non-pharmaceutical interventions (NPIs) by replacing the constant value 
+ <inline-formula>
+  <math id="d1e5333" display="inline" altimg="si49.svg">
+   <msub>
+    <mrow>
+     <mi>β</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> in Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> with a piecewise-constant function denoted by 
+ <inline-formula>
+  <math id="d1e5348" display="inline" altimg="si112.svg">
+   <mrow>
+    <mi>β</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. We solve the equations from the initial time 
+ <inline-formula>
+  <math id="d1e5362" display="inline" altimg="si67.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">o</mi>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mi mathvariant="bold-fraktur">f</mi>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mi mathvariant="bold-fraktur">e</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> (initial conditions 
+ <xref rid="fd4" ref-type="disp-formula">(4)</xref>) out to a fixed final time 
+ <inline-formula>
+  <math id="d1e5393" display="inline" altimg="si114.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">T</mi>
+   </mrow>
+  </math>
+ </inline-formula>. Specifically, we take: 
+ <disp-formula id="fd9a">
+  <label>(9a)</label>
+  <math id="d1e5409" display="block" altimg="si115.svg">
+   <mrow>
+    <mi>β</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mfenced open="{">
+     <mrow>
+      <mtable align="axis" equalrows="false" columnlines="none" equalcolumns="false" class="array">
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mspace width="2em"/>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>∈</mo>
+         <mrow>
+          <mo>(</mo>
+          <mo>−</mo>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">o</mi>
+            <mi mathvariant="bold-fraktur">f</mi>
+            <mi mathvariant="bold-fraktur">f</mi>
+            <mi mathvariant="bold-fraktur">s</mi>
+            <mi mathvariant="bold-fraktur">e</mi>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+           <mrow>
+            <mn>0</mn>
+           </mrow>
+          </msub>
+          <mo>]</mo>
+         </mrow>
+         <mo>,</mo>
+         <mspace width="1em"/>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi>β</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+         <mfenced open="[" close="]">
+          <mrow>
+           <mn>1</mn>
+           <mo>−</mo>
+           <mi mathvariant="bold-fraktur">u</mi>
+           <mrow>
+            <mo>(</mo>
+            <mi mathvariant="bold-fraktur">t</mi>
+            <mo>)</mo>
+           </mrow>
+          </mrow>
+         </mfenced>
+         <mo>,</mo>
+         <mspace width="2em"/>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>∈</mo>
+         <mrow>
+          <mo>(</mo>
+          <msub>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+           </mrow>
+           <mrow>
+            <mn>0</mn>
+           </mrow>
+          </msub>
+          <mo>,</mo>
+          <mi mathvariant="bold-fraktur">T</mi>
+          <mo>]</mo>
+         </mrow>
+         <mo>.</mo>
+         <mspace width="1em"/>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </mfenced>
+   </mrow>
+  </math>
+ </disp-formula>Here, 
+ <inline-formula>
+  <math id="d1e5530" display="inline" altimg="si118.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is a second piecewise-constant functions. In this way, the model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> is solved with no controls for 
+ <inline-formula>
+  <math id="d1e5547" display="inline" altimg="si119.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">≤</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>; controls are introduced at time 
+ <inline-formula>
+  <math id="d1e5562" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. The time 
+ <inline-formula>
+  <math id="d1e5573" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is fixed. For consistency, the following bounds apply to 
+ <inline-formula>
+  <math id="d1e5583" display="inline" altimg="si118.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>: 
+ <disp-formula id="fd9b">
+  <label>(9b)</label>
+  <math id="d1e5602" display="block" altimg="si123.svg">
+   <mrow>
+    <mn>0</mn>
+    <mo linebreak="goodbreak">≤</mo>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">≤</mo>
+    <mn>1</mn>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak">∈</mo>
+    <mrow>
+     <mo>[</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mn>0</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mi mathvariant="bold-fraktur">T</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula> The piecewise-constant function 
+ <inline-formula>
+  <math id="d1e5649" display="inline" altimg="si118.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is characterized as follows: 
+ <disp-formula id="fd10">
+  <label>(10)</label>
+  <math id="d1e5669" display="block" altimg="si125.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <mfenced open="{">
+     <mrow>
+      <mtable align="axis" equalrows="false" columnlines="none" equalcolumns="false" class="array">
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">u</mi>
+          </mrow>
+          <mrow>
+           <mn>1</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mspace width="1em"/>
+        </mtd>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">t</mi>
+          </mrow>
+          <mrow>
+           <mn>0</mn>
+          </mrow>
+         </msub>
+         <mo>&lt;</mo>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>≤</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">t</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">s</mi>
+           <mn>1</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">u</mi>
+          </mrow>
+          <mrow>
+           <mn>2</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mspace width="1em"/>
+        </mtd>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">t</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">s</mi>
+           <mn>1</mn>
+          </mrow>
+         </msub>
+         <mo>&lt;</mo>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>≤</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">t</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">s</mi>
+           <mn>2</mn>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <mo>⋮</mo>
+         <mspace width="1em"/>
+        </mtd>
+        <mtd class="array" columnalign="left">
+         <div class="mphantom" xmlns="http://www.w3.org/1999/xhtml">
+          <mi mathvariant="bold-fraktur" xmlns="">a</mi>
+         </div>
+        </mtd>
+       </mtr>
+       <mtr>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">u</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">n</mi>
+          </mrow>
+         </msub>
+         <mo>,</mo>
+         <mspace width="1em"/>
+        </mtd>
+        <mtd class="array" columnalign="left">
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">t</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">s</mi>
+           <mo>,</mo>
+           <mi mathvariant="bold-fraktur">n</mi>
+           <mo linebreak="badbreak">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </msub>
+         <mo>&lt;</mo>
+         <mi mathvariant="bold-fraktur">t</mi>
+         <mo>≤</mo>
+         <mi mathvariant="bold-fraktur">T</mi>
+         <mo>.</mo>
+        </mtd>
+       </mtr>
+      </mtable>
+     </mrow>
+    </mfenced>
+   </mrow>
+  </math>
+ </disp-formula>Here, 
+ <inline-formula>
+  <math id="d1e5810" display="inline" altimg="si311.svg">
+   <mi mathvariant="bold-fraktur">n</mi>
+  </math>
+ </inline-formula> is an integer (one or greater), 
+ <inline-formula>
+  <math id="d1e5815" display="inline" altimg="si131.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> are real numbers between zero and one, and 
+ <inline-formula>
+  <math id="d1e5839" display="inline" altimg="si132.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> are switching times (real numbers between 
+ <inline-formula>
+  <math id="d1e5874" display="inline" altimg="si120.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">t</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>
+ <inline-formula>
+  <math id="d1e5884" display="inline" altimg="si134.svg">
+   <mi mathvariant="bold-fraktur">T</mi>
+  </math>
+ </inline-formula>, such that 
+ <inline-formula>
+  <math id="d1e5889" display="inline" altimg="si135.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">&lt;</mo>
+    <mo linebreak="goodbreak" linebreakstyle="after">⋯</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">&lt;</mo>
+    <mi mathvariant="bold-fraktur">T</mi>
+   </mrow>
+  </math>
+ </inline-formula>). In practice, the switching times correspond to how often the NPIs are updated.
+</p>

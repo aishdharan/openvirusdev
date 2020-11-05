@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>COVID-19</term>
+   <def>
+    <p id="Par5">Coronavirus disease 2019</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SARS-CoV-2</term>
+   <def>
+    <p id="Par6">Severe acute respiratory syndrome coronavirus 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>S/CO</term>
+   <def>
+    <p id="Par7">S/Cut Off</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ARDS</term>
+   <def>
+    <p id="Par8">Acute respiratory distress syndrome</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CT</term>
+   <def>
+    <p id="Par9">Computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CRP</term>
+   <def>
+    <p id="Par10">C-reactive protein</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PCT</term>
+   <def>
+    <p id="Par11">Procalcitonin</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CDC</term>
+   <def>
+    <p id="Par12">Centre for Disease Control and Prevention</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>RT-PCR</term>
+   <def>
+    <p id="Par13">Reverse transcription polymerase chain reaction</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SD</term>
+   <def>
+    <p id="Par14">Standard deviation</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>IQR</term>
+   <def>
+    <p id="Par15">Interquartile range</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MODS</term>
+   <def>
+    <p id="Par16">Multiple organ dysfunction syndrome</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ECMO</term>
+   <def>
+    <p id="Par17">Extracorporeal membrane oxygenation</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

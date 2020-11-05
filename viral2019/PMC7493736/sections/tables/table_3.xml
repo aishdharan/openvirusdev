@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl3">
+ <label>Table 3</label>
+ <caption>
+  <p>Summarized concentrations of phenothiazines inhibiting RNA virus replication.</p>
+ </caption>
+ <alt-text id="alttext0030">Table 3</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Virus</th>
+    <th>Drug</th>
+    <th>Concentration inhibiting viral replication [μM]</th>
+    <th>Source</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">DENV-2</td>
+    <td align="left">Prochlorperazine</td>
+    <td align="left">EC
+     <sub>50</sub> = 137 nM
+    </td>
+    <td align="left">
+     <xref rid="bib53" ref-type="bibr">Simanjuntak et al. (2015)</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">MERS-CoV</td>
+    <td align="left">Chlorpromazine</td>
+    <td align="left">12 μM (complete inhibition)</td>
+    <td align="left">(Wilde et al. 2014)</td>
+   </tr>
+   <tr>
+    <td align="left">SINV</td>
+    <td align="left">Thioridazine</td>
+    <td align="left">IC
+     <sub>50</sub> = 37.3 μM
+    </td>
+    <td align="left">
+     <xref rid="bib47" ref-type="bibr">Pohjala et al. (2011)</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="3">SFV</td>
+    <td align="left">Chlorpromazine</td>
+    <td align="left">IC
+     <sub>50</sub> = 15.7 μM
+    </td>
+    <td align="left">
+     <xref rid="bib47" ref-type="bibr">Pohjala et al. (2011)</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Perphenazine</td>
+    <td align="left">IC
+     <sub>50</sub> = 25.1 μM
+    </td>
+    <td align="left">
+     <xref rid="bib47" ref-type="bibr">Pohjala et al. (2011)</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">Thioridazine</td>
+    <td align="left">IC
+     <sub>50</sub> = 14.9 μM and 19.3 μM
+    </td>
+    <td align="left">
+     <xref rid="bib47" ref-type="bibr">Pohjala et al. (2011)</xref>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">ZEBOV-GFP</td>
+    <td align="left">Chlorpromazine</td>
+    <td align="left">10 μg/ml i.e. 31.36 μM (complete inhibition)</td>
+    <td align="left">
+     <xref rid="bib4" ref-type="bibr">Bhattacharyya et al. (2010)</xref>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>DENV-2 - Dengue virus serotype 2, MERS - Middle East respiratory syndrome, SFV - Semliki Forest virus, SINV - Sindbis virus, ZEBOV - GFP-expressing replication-competent EBOV Zaire.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B23">
+ <label>23.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chen</surname>
+    <given-names>N</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Zhou</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Zhu</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>He</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Ye</surname>
+    <given-names>M</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Two novel porcine epidemic diarrhea virus (PEDV) recombinants from a natural recombinant and distinct subtypes of PEDV variants</article-title>. 
+  <source>Virus Res.</source> (
+  <year>2017</year>) 
+  <volume>242</volume>:
+  <fpage>90</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.virusres.2017.09.013</pub-id>
+  <?supplied-pmid 28947336?>
+  <pub-id pub-id-type="pmid">28947336</pub-id>
+ </mixed-citation>
+</ref>

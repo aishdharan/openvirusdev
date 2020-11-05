@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R5">
+ <label>5. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Wilson</surname>
+   <given-names>IB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lee</surname>
+   <given-names>Y</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Michaud</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Fowler</surname>
+   <given-names>FJ</given-names>
+   <suffix>Jr</suffix>
+  </string-name>, 
+  <string-name>
+   <surname>Rogers</surname>
+   <given-names>WH</given-names>
+  </string-name>. 
+  <article-title>Validation of a new three-item self-report measure for medication adherence.</article-title>
+  <source>AIDS Behav</source>
+  <year>2016</year>;
+  <volume>20</volume>:
+  <fpage>2700</fpage>–
+  <lpage>8</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s10461-016-1406-x</pub-id>
+  <?supplied-pmid 27098408?>
+  <pub-id pub-id-type="pmid">27098408</pub-id>
+ </mixed-citation>
+</ref>

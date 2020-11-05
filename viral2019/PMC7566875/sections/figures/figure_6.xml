@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig6">
+ <label>Fig. 6</label>
+ <caption>
+  <p>Time evolution of the outbreak for three scenarios: disease outbreak with controls 
+   <inline-formula>
+    <math id="d1e478" display="inline" altimg="si240.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>7</mn>
+     </mrow>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="d1e501" display="inline" altimg="si241.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>8</mn>
+     </mrow>
+    </math>
+   </inline-formula> and also, disease outbreak with no controls. The 
+   <inline-formula>
+    <math id="d1e524" display="inline" altimg="si244.svg">
+     <mrow>
+      <mo>−</mo>
+      <mo>∘</mo>
+     </mrow>
+    </math>
+   </inline-formula> curves show the actual course of the outbreak over the time interval for which the model is fitted to the data.
+  </p>
+ </caption>
+ <graphic xlink:href="gr6_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

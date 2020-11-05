@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="jmv25723-bib-0011">
+ <label>11</label>
+ <mixed-citation publication-type="journal" id="jmv25723-cit-0011">
+  <string-name>
+   <surname>Walker</surname>
+   <given-names>PR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Pybus</surname>
+   <given-names>OG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Rambaut</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Holmes</surname>
+   <given-names>EC</given-names>
+  </string-name>. 
+  <article-title>Comparative population dynamics of HIV‐1 subtypes B and C: subtype‐specific differences in patterns of epidemic growth</article-title>. 
+  <source xml:lang="en">Infect Genet Evol</source>. 
+  <year>2005</year>;
+  <volume>5</volume>(
+  <issue>3</issue>):
+  <fpage>199</fpage>‐
+  <lpage>208</lpage>.
+  <pub-id pub-id-type="pmid">15737910</pub-id>
+ </mixed-citation>
+</ref>

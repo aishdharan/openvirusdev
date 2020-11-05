@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lei</surname>
+   <given-names>Hao</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0001">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xu</surname>
+   <given-names>Modi</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0002">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Xiao</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0002">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Xie</surname>
+   <given-names>Yu</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0002">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Du</surname>
+   <given-names>Xiangjun</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0002">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Tao</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Lei</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Dayan</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0003">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Shu</surname>
+   <given-names>Yuelong</given-names>
+  </name>
+  <xref ref-type="aff" rid="AF0002">2</xref>
+  <xref ref-type="corresp" rid="c1"/>
+  <!--<email>shuylong@mail.sysu.edu.cn</email>-->
+ </contrib>
+</contrib-group>

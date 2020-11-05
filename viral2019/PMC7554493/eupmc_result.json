@@ -1,0 +1,641 @@
+{
+  "id": [
+    "33096290"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33096290"
+  ],
+  "pmcid": [
+    "PMC7554493"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7554493"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.jcv.2020.104661"
+  ],
+  "title": [
+    "Factors associated with clinical outcomes in patients with Coronavirus Disease 2019 in Guangzhou, China."
+  ],
+  "authorString": [
+    "Lei C, Lin W, Deng X, Hu F, Chen F, Cai W, Li Y, Wen C, Guan Y, Wang J, Chen X, Cao Y, Li F, Tang X, Li L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lei C"
+          ],
+          "firstName": [
+            "Chunliang"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin W"
+          ],
+          "firstName": [
+            "Weiyin"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deng X"
+          ],
+          "firstName": [
+            "Xilong"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hu F"
+          ],
+          "firstName": [
+            "Fengyu"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen F"
+          ],
+          "firstName": [
+            "Fengjuan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cai W"
+          ],
+          "firstName": [
+            "Weiping"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yueping"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wen C"
+          ],
+          "firstName": [
+            "Chunyan"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guan Y"
+          ],
+          "firstName": [
+            "Yujuan"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiaoting"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cao Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tang X"
+          ],
+          "firstName": [
+            "Xiaoping"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China. Electronic address: tangxiaopinggz@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Linghua"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China. Electronic address: llheliza@126.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "133"
+      ],
+      "journalIssueId": [
+        "3040545"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Virol"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Virol"
+          ],
+          "NLMid": [
+            "9815671"
+          ],
+          "ISSN": [
+            "1386-6532"
+          ],
+          "ESSN": [
+            "1873-5967"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "104661"
+  ],
+  "abstractText": [
+    "BACKGROUND:Coronavirus Disease 2019 (COVID-19) is threatening billions of people. We described the clinical characteristics and explore virological and immunological factors associated with clinical outcomes. METHODS:297 COVID-19 patients hospitalized in Guangzhou Eighth People's Hospital between January 20 and February 20, 2020 were included. Epidemiological, clinical and laboratory data were collected and analyzed. Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) RNA in respiratory tract, blood samples and digestive tract was detected and lymphocyte subsets were tested periodically. RESULT:Among the 297 patients (median age of 48 years), 154 (51.9 %) were female, 245 (82.5 %) mild/moderate cases, and 52 (17.5 %) severe/critical cases. 270 patients were detected for SARS-CoV-2 RNA in anal swabs and/or blood samples, and the overall positive rate was 23.0 % (62/270), higher in severe/critical cases than in mild/moderate cases (52.0 % vs. 16.4 %, P < 0.001). The CD4/CD8 ratio on admission was significantly higher in severe/critical cases than in mild/moderate cases (1.84 vs. 1.50, P = 0.022). During a median follow-up period of 17 days, 36 (12.1 %) patients were admitted to intensive care unit (ICU), 16 (5.4 %) patients developed respiratory failure and underwent mechanical ventilation, four (1.3 %) patients needed extracorporeal membrane oxygenation (ECMO), only one (0.34 %) patients died of multiple organ failure. Detectable SARS-CoV-2 RNA in anal swabs and/or blood samples, as well as higher CD4/CD8 ratio were independent risk factors of respiratory failure and ICU admission. CONCLUSIONS:Most of COVID-19 patients in Guangzhou are mild/moderate, and presence of extrapulmonary virus and higher CD4/CD8 ratio are associated with higher risk of worse outcomes."
+  ],
+  "affiliation": [
+    "Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virus",
+        "respiratory failure",
+        "Extrapulmonary",
+        "Cd4/cd8 Ratio",
+        "Icu Admission",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jcv.2020.104661"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7554493"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7554493?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-23"
+  ],
+  "firstIndexDate": [
+    "2020-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-18"
+  ],
+  "dateOfRevision": [
+    "2020-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-14"
+  ],
+  "firstPublicationDate": [
+    "2020-10-14"
+  ]
+}

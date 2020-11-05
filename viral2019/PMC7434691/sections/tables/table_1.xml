@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl1">
+ <label>Table 1</label>
+ <caption>
+  <p>Positive FilmArray results for respiratory tract microbiologic characterization in patients according to SARS-CoV-2 infection test result</p>
+ </caption>
+ <alt-text id="alttext0020">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Parameter</th>
+    <th>FilmArray POSITIVE SARS-COV-2 NEGATIVE</th>
+    <th>FilmArray POSITIVE SARS-COV-2 POSITIVE</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>No. of patients</td>
+    <td>53</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>Age (years) (±SD)</td>
+    <td>62.4 ± 18</td>
+    <td>63.3 ± 18</td>
+   </tr>
+   <tr>
+    <td>Sex (F/M)</td>
+    <td>25/28</td>
+    <td>4/6</td>
+   </tr>
+   <tr>
+    <td>No. of nasopharyngeal swabs</td>
+    <td>40</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>No. of other type of specimens</td>
+    <td>13
+     <xref rid="tbl1fna" ref-type="table-fn">a</xref>
+    </td>
+    <td>2
+     <xref rid="tbl1fnb" ref-type="table-fn">b</xref>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="3">No. of pathogens detected</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Staphylococcus aureus</italic>
+    </td>
+    <td>18</td>
+    <td>7</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Moraxella catarrhalis</italic>
+    </td>
+    <td>7</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td> Haemophilus influenzae</td>
+    <td>13</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Streptococcus agalactiae</italic>
+    </td>
+    <td>5</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Mycoplasma pneumoniae</italic>
+    </td>
+    <td>4</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Streptococcus pneumoniae</italic>
+    </td>
+    <td>3</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Streptococcus pyogenes</italic>
+    </td>
+    <td>3</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Pseudomonas aeruginosa</italic>
+    </td>
+    <td>2</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Enterobacter cloacae</italic>
+    </td>
+    <td>3</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Klebsiella oxytoca</italic>
+    </td>
+    <td>1</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Klebsiella pneumoniae</italic>
+    </td>
+    <td>4</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td> 
+     <italic>Escherichia coli</italic>
+    </td>
+    <td>3</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td> Adenovirus</td>
+    <td>1</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> Influenza virus B</td>
+    <td>4</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> Influenza virus A</td>
+    <td>5</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> RSV</td>
+    <td>2</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> Rhinovirus/enterovirus</td>
+    <td>4</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> Coronavirus (OC43, NL63, 229E)</td>
+    <td>4</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td> Metapneumovirus</td>
+    <td>3</td>
+    <td>—</td>
+   </tr>
+   <tr>
+    <td>Total pathogens</td>
+    <td>89</td>
+    <td>14</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>SARS-CoV-2, severe acute respiratory syndrome coronavirus 2.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fna">
+   <label>a</label>
+   <p id="ntpara0015">Sputum (
+    <italic>n</italic> = 6), bronchoalveolar lavage (
+    <italic>n</italic> = 4) and brochoaspirates (
+    <italic>n</italic> = 3).
+   </p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fnb">
+   <label>b</label>
+   <p id="ntpara0020">Bronchoaspirates (
+    <italic>n</italic> = 2).
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

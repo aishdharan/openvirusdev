@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Sun</surname>
+   <given-names>Niuniu</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Wei</surname>
+   <given-names>Luoqun</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0003">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Hongyun</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0004">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Xianru</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Gao</surname>
+   <given-names>Mingxia</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0006">
+  <name>
+   <surname>Hu</surname>
+   <given-names>Xinjun</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0007">
+  <name>
+   <surname>Shi</surname>
+   <given-names>Suling</given-names>
+  </name>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+ </contrib>
+ <aff id="aff0001">
+  <label>a</label>Humanities Teaching and Research Office, School of Nursing, Henan University of Science and Technology, The First Affiliated Hospital of Henan University of Science and Technology, Luoyang, China
+ </aff>
+ <aff id="aff0002">
+  <label>b</label>Department of Infection, The First Affiliated Hospital, and College of Clinical Medicine of Henan University of Science and Technology, Luoyang, China
+ </aff>
+</contrib-group>

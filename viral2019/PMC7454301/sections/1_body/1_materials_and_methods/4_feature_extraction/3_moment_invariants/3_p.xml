@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Finally, to get the seven moment invariants, use these equations:
+ <disp-formula id="deqn07">
+  <label>(7)</label>
+  <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {\rho}_1=\frac{1}{\mu^4}\left|\begin{array}{ccc}{\mu}_{2\dots 0}&amp; \dots &amp; {\mu}_{1\dots 1}\\{}\dots &amp; \dots &amp; \dots \\{}{\mu}_{1\dots 1}&amp; \dots &amp; {\mu}_{0\dots 2}\end{array}\right| \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+ <disp-formula id="deqn08">
+  <label>(8)</label>
+  <tex-math id="M8">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {\rho}_2=\frac{1}{\mu^4}\left({\mu}_{20}{\mu}_{02}-{\mu}_{11}^2\right) \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+ <disp-formula id="deqn09">
+  <label>(9)</label>
+  <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {\rho}_3=\frac{1}{\mu^{10}}\left[{\left({\mu}_{30}{\mu}_{03}-{\mu}_{21}{\mu}_{12}\right)}^2-4\left({\mu}_{30}{\mu}_{12}-{\mu}_{21}^2\right)\left({\mu}_{21}{\mu}_{03}-{\mu}_{12}^2\right)\right] \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+ <disp-formula id="deqn10">
+  <label>(10)</label>
+  <tex-math id="M10">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {\rho}_4=\frac{1}{\mu^6}\left({\mu}_{40}{\mu}_{04}-4{\mu}_{31}{\mu}_{13}-3{\mu}_{22}^2\right) \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+ <disp-formula id="deqn11">
+  <label>(11)</label>
+  <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} {\rho}_5=\frac{1}{\mu^9}\left({\mu}_{40}{\mu}_{22}{\mu}_{04}+2{\mu}_{31}{\mu}_{22}{\mu}_{13}-{\mu}_{40}{\mu}_{13}^2-{\mu}_{31}^2{\mu}_{04}-{\mu}_{22}^3\right) \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+ <disp-formula id="deqn12">
+  <label>(12)</label>
+  <tex-math id="M12">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{eqnarray*} &amp;&amp; {\rho}_6=\frac{1}{\mu^5}\left({\mu}_{200}{\mu}_{020}{\mu}_{002}+2{\mu}_{110}{\mu}_{101}{\mu}_{011} \right. \\ &amp;&amp; \quad \left. - {\mu}_{200}{\mu}_{011}^2-{\mu}_{110}^2{\mu}_{002}-{\mu}_{101}^2{\mu}_{020}\right)\nonumber \end{eqnarray*}\end{document}</tex-math>
+ </disp-formula>
+ <disp-formula id="deqn13">
+  <label>(13)</label>
+  <tex-math id="M13">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{eqnarray*}&amp;&amp; {\rho}_7=\left({\mu}_{20}^2{\mu}_{04}\right)-4{\mu}_{20}{\mu}_{11}{\mu}_{13}+2{\mu}_{20}{\mu}_{02}{\mu}_{22}+4{\mu}_{11}^2{\mu}_{22} \\ &amp;&amp; \quad -4{\mu}_{11}{\mu}_{02}{\mu}_{31}+{\mu}_{02}^2{\mu}_{40}\nonumber \end{eqnarray*}\end{document}</tex-math>
+ </disp-formula> where 
+ <italic>ρ</italic>
+ <sub>1</sub> to 
+ <italic>ρ</italic>
+ <sub>7</sub> represents the seven moment invariants, 
+ <italic>μ</italic> is the central moment gotten from Equation (
+ <xref ref-type="disp-formula" rid="deqn05">5</xref>), 
+ <italic>α</italic> is the intensity function and 
+ <italic>ν
+  <sub>r</sub>
+ </italic> is the 
+ <italic>n</italic>-dimensional moments of order 
+ <italic>r</italic> obtained from Equation (
+ <xref ref-type="disp-formula" rid="deqn04">4</xref>).
+</p>

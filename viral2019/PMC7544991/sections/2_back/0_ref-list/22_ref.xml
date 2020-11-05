@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B22">
+ <label>22.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Chandrashekar</surname>
+    <given-names>A</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Martinot</surname>
+    <given-names>AJ</given-names>
+   </name>
+   <name>
+    <surname>McMahan</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Mercado</surname>
+    <given-names>NB</given-names>
+   </name>
+   <name>
+    <surname>Peter</surname>
+    <given-names>L</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>SARS-CoV-2 infection protects against rechallenge in rhesus macaques</article-title>. 
+  <source>Science.</source> (
+  <year>2020</year>) 
+  <volume>369</volume>:
+  <fpage>812</fpage>–
+  <lpage>7</lpage>. 
+  <pub-id pub-id-type="doi">10.1126/science.abc4776</pub-id>
+  <?supplied-pmid 32434946?>
+  <pub-id pub-id-type="pmid">32434946</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="cit0013">
+ <label>13.</label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Zou</surname>
+   <given-names>L</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ruan</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Huang</surname>
+   <given-names>M</given-names>
+  </string-name>, et al. 
+  <article-title>SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients</article-title>. 
+  <source>
+   <italic toggle="yes">N Engl J Med</italic>
+  </source>. 
+  <year>2020</year>;
+  <volume>382</volume>(
+  <issue>12</issue>):
+  <fpage>1177</fpage>–
+  <lpage>1179</lpage>. doi:
+  <pub-id pub-id-type="doi">10.1056/NEJMc2001737</pub-id>
+  <pub-id pub-id-type="pmid">32074444</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>EOF was first proposed by the statistician Pearson in 1902 [
+ <xref rid="B28-ijerph-17-07664" ref-type="bibr">28</xref>], and is known as the spatiotemporal decomposition in geological applications [
+ <xref rid="B29-ijerph-17-07664" ref-type="bibr">29</xref>,
+ <xref rid="B30-ijerph-17-07664" ref-type="bibr">30</xref>,
+ <xref rid="B31-ijerph-17-07664" ref-type="bibr">31</xref>,
+ <xref rid="B32-ijerph-17-07664" ref-type="bibr">32</xref>,
+ <xref rid="B33-ijerph-17-07664" ref-type="bibr">33</xref>,
+ <xref rid="B34-ijerph-17-07664" ref-type="bibr">34</xref>,
+ <xref rid="B35-ijerph-17-07664" ref-type="bibr">35</xref>]. The absolute value of the time series coefficient represents the degree of air pollution, the closer it comes to zero, better the air quality is. This study firstly calculated the average PM
+ <sub>2.5</sub> concentration 
+ <inline-formula>
+  <math id="mm2">
+   <mrow>
+    <mrow>
+     <mover accent="true">
+      <mrow>
+       <msub>
+        <mi>P</mi>
+        <mrow>
+         <mi>i</mi>
+         <mi>j</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mo stretchy="true">¯</mo>
+     </mover>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> of 1657 stations in 367 prefecture-level cities in 31 provinces of China (excluding Hong Kong, Macao, and Taiwan) from 2014 to 2019, then estimates the PM
+ <sub>2.5</sub> concentrations anomalies 
+ <inline-formula>
+  <math id="mm3">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>P</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and the covariance matrix 
+ <inline-formula>
+  <math id="mm4">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>A</mi>
+      <mrow>
+       <mi>j</mi>
+       <mi>k</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, 
+ <disp-formula id="FD1-ijerph-17-07664">
+  <label>(1)</label>
+  <math id="mm5">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>P</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <msub>
+        <mi>P</mi>
+        <mrow>
+         <mi>i</mi>
+         <mi>j</mi>
+        </mrow>
+       </msub>
+       <mo>−</mo>
+       <mover accent="true">
+        <mrow>
+         <msub>
+          <mi>P</mi>
+          <mrow>
+           <mi>i</mi>
+           <mi>j</mi>
+          </mrow>
+         </msub>
+        </mrow>
+        <mo stretchy="true">¯</mo>
+       </mover>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula>
+ <disp-formula id="FD2-ijerph-17-07664">
+  <label>(2)</label>
+  <math id="mm6">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>A</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>k</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mn>1</mn>
+      <mi>m</mi>
+     </mfrac>
+     <mo>·</mo>
+     <msub>
+      <mi>P</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>·</mo>
+     <msup>
+      <mrow>
+       <mrow>
+        <mo>(</mo>
+        <mrow>
+         <msub>
+          <mi>P</mi>
+          <mrow>
+           <mi>n</mi>
+           <mi>k</mi>
+          </mrow>
+         </msub>
+        </mrow>
+        <mo>)</mo>
+       </mrow>
+      </mrow>
+      <mi>T</mi>
+     </msup>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm7">
+   <mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>,</mo>
+     <mi>m</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> represents the year, 
+ <inline-formula>
+  <math id="mm8">
+   <mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>=</mo>
+     <mi>m</mi>
+     <mo>=</mo>
+     <mn>1</mn>
+     <mo>,</mo>
+     <mn>2</mn>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+     <mn>6</mn>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>; and 
+ <inline-formula>
+  <math id="mm9">
+   <mrow>
+    <mrow>
+     <mi>j</mi>
+     <mo>,</mo>
+     <mi>k</mi>
+     <mo>,</mo>
+     <mi>n</mi>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the station at each city, 
+ <inline-formula>
+  <math id="mm10">
+   <mrow>
+    <mrow>
+     <mi>j</mi>
+     <mo>=</mo>
+     <mi>k</mi>
+     <mo>=</mo>
+     <mi>n</mi>
+     <mo>=</mo>
+     <mn>1</mn>
+     <mo>,</mo>
+     <mn>2</mn>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> 1657; 
+ <inline-formula>
+  <math id="mm11">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>A</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>k</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is a real symmetric, positive definite square matrix of order 
+ <inline-formula>
+  <math id="mm12">
+   <mrow>
+    <mi>n</mi>
+   </mrow>
+  </math>
+ </inline-formula>. The Jacobi method was used to solve the eigenvalues 
+ <inline-formula>
+  <math id="mm13">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>λ</mi>
+      <mn>1</mn>
+     </msub>
+     <mo>≥</mo>
+     <msub>
+      <mi>λ</mi>
+      <mn>2</mn>
+     </msub>
+     <mo>≥</mo>
+     <msub>
+      <mi>λ</mi>
+      <mn>3</mn>
+     </msub>
+     <mo>≥</mo>
+     <mo>⋯</mo>
+     <mo>≥</mo>
+     <msub>
+      <mi>λ</mi>
+      <mi>k</mi>
+     </msub>
+     <mo>≥</mo>
+     <mo>⋯</mo>
+     <mo>≥</mo>
+     <msub>
+      <mi>λ</mi>
+      <mi>n</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and eigenvectors of the covariance matrix 
+ <inline-formula>
+  <math id="mm14">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>A</mi>
+      <mrow>
+       <mi>j</mi>
+       <mi>k</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. The eigenvalues and corresponding eigenvectors can be formulated by, 
+ <disp-formula id="FD3-ijerph-17-07664">
+  <label>(3)</label>
+  <math id="mm15">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>A</mi>
+      <mrow>
+       <mi>n</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>·</mo>
+     <msub>
+      <mi>X</mi>
+      <mi>k</mi>
+     </msub>
+     <mo>=</mo>
+     <msub>
+      <mi>λ</mi>
+      <mi>k</mi>
+     </msub>
+     <mo>·</mo>
+     <msub>
+      <mi>X</mi>
+      <mi>k</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm16">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>X</mi>
+      <mrow>
+       <mi>n</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the natural orthogonal function of the original field 
+ <inline-formula>
+  <math id="mm17">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>P</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, and its time series coefficient can be expressed as, 
+ <disp-formula id="FD4-ijerph-17-07664">
+  <label>(4)</label>
+  <math id="mm18">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>T</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <msub>
+      <mi>P</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>·</mo>
+     <msub>
+      <mi>X</mi>
+      <mrow>
+       <mi>n</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mrow>
+      <mo>[</mo>
+      <mrow>
+       <mtable>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mn>11</mn>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mn>12</mn>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mo>…</mo>
+         </mtd>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mn>1</mn>
+             <mi>n</mi>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mn>21</mn>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mn>22</mn>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mo>…</mo>
+         </mtd>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mn>2</mn>
+             <mi>n</mi>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mo>…</mo>
+         </mtd>
+         <mtd>
+          <mo>…</mo>
+         </mtd>
+         <mtd>
+          <mo>…</mo>
+         </mtd>
+         <mtd>
+          <mo>…</mo>
+         </mtd>
+        </mtr>
+        <mtr>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mi>m</mi>
+             <mn>1</mn>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mi>m</mi>
+             <mn>2</mn>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+         <mtd>
+          <mo>…</mo>
+         </mtd>
+         <mtd>
+          <mrow>
+           <msub>
+            <mi>T</mi>
+            <mrow>
+             <mi>m</mi>
+             <mi>n</mi>
+            </mrow>
+           </msub>
+          </mrow>
+         </mtd>
+        </mtr>
+       </mtable>
+      </mrow>
+      <mo>]</mo>
+     </mrow>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm19">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>T</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="mm20">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>P</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> are matrices with the same order. The original field can be represented as a linear combination of natural orthogonal functions, 
+ <disp-formula id="FD5-ijerph-17-07664">
+  <label>(5)</label>
+  <math id="mm21">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>P</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>t</mi>
+       <mo>,</mo>
+       <mi>s</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msub>
+      <mi>T</mi>
+      <mrow>
+       <mi>m</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mi>t</mi>
+      <mo>)</mo>
+     </mrow>
+     <mo>·</mo>
+     <msub>
+      <mi>X</mi>
+      <mrow>
+       <mi>n</mi>
+       <mi>n</mi>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo>(</mo>
+      <mi>s</mi>
+      <mo>)</mo>
+     </mrow>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm22">
+   <mrow>
+    <mi>s</mi>
+   </mrow>
+  </math>
+ </inline-formula> represents the space point and 
+ <inline-formula>
+  <math id="mm23">
+   <mrow>
+    <mi>t</mi>
+   </mrow>
+  </math>
+ </inline-formula> represents the observation time. In general, the most important information in the original field can be fully reflected by the first few eigenvectors and time series coefficients.
+</p>

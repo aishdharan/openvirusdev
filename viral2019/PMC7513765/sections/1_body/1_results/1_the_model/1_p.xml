@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0065">Our model considers isolated (i.e. no cross-mixing), zero-growth (i.e. death rate equal to birth rate), groups of individuals in whom an efficacious anti-viral immune response has either been elicited (Susceptible → Infected → Recovered: SIR) or not (Susceptible → Infected → Recovered → Susceptible: SIRS). The inefficiency of the anti-viral immune response is parameterized through a population loss-of-immunity (LOI) rate γ
+ <sub>in</sub> (zero for no LOI). Other parameters of the model are the rate of contacts β (proportional to the reproductive parameter R
+ <sub>t:</sub> with R
+ <sub>t=0</sub> = R
+ <sub>0</sub> being the intrinsic reproductive number of the epidemic), the rate of recovery γ
+ <sub>out</sub>, the rate of deaths μ, lockdown/phase-2 halving/doubling times, when considered (see below), and the efficiency ε of the solar pump (see below).
+</p>

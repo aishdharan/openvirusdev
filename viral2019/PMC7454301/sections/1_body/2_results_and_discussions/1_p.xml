@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In the COVID-19/SARS-CoV classification process, the cascade-forward NN and the KNN algorithm succeeded to recognize all the testing genes successfully (Tp = 30, Fp = 0, Tn = 30 and Fn = 0). But in the COVID-19/MERS-CoV classification process, the KNN algorithm could recognize all the testing genes successfully (Tp = 30, Fp = 0, Tn = 30 and Fn = 0), while the cascade-forward NN failed to identify one testing gene of MERS-CoV epidemic (Tp = 30, Fp = 0, Tn = 29 and Fn = 1). The COVID-19/SARS-CoV/MERS-CoV classification process showed that the KNN algorithm succeeded to recognize all the testing genes successfully (T1 = 30, F1 = 0, T2 = 30, F2 = 0, T3 = 30 and F3 = 0) while the cascade-forward NN has one false negative in MERS-CoV gene identification (T1 = 30, F1 = 0, T2 = 30, F2 = 0, T3 = 29 and F3 = 1); see 
+ <xref rid="TB1" ref-type="table">Tables 1</xref> and 
+ <xref rid="TB2" ref-type="table">2</xref>. From these results, it is obvious that the KNN classifier can differentiate the three different types of epidemic in all the classification processes with least error rates.
+</p>

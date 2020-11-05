@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>To examine the epidemic dynamics as a function of the seasonal temperature variance, we simulated two different sets of temperature regimes, with a fixed arrival date in mid-summer (August 15). In the first set of temperature regimes (historical; 
+ <italic>T</italic>
+ <sub>
+  <italic>mean</italic>
+ </sub> varied from 19.0°C to 22.0°C and 
+ <italic>T</italic>
+ <sub>
+  <italic>range</italic>
+ </sub> varied from 4.0°C to 6.0°C, both in increments of 0.2°C), all simulations resulted in an epidemic, with a classical unimodal peak. The timing and magnitude of the epidemic peak both responded differently as a function of starting temperature (calculated for August 15 from 
+ <italic>T</italic>
+ <sub>
+  <italic>mean</italic>
+ </sub> and 
+ <italic>T</italic>
+ <sub>
+  <italic>range</italic>
+ </sub> using 
+ <xref ref-type="disp-formula" rid="pntd.0008679.e016">Eq 16</xref>) with time to peak being less sensitive. Epidemic peak size increases monotonically with an increase in starting temperature, i.e. warmer temperatures at onset produce larger epidemics within a shorter peak time and vice versa (
+ <xref ref-type="fig" rid="pntd.0008679.g004">Fig 4A</xref>). The final epidemic size was insensitive to starting temperatures, as all simulations within this regime produced final epidemic sizes of 100% of the population infected.
+</p>

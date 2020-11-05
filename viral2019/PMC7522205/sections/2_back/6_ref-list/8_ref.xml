@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR8">
+ <label>8.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Vasan</surname>
+    <given-names>A</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Different rates of disease progression of HIV type 1 infection in Tanzania based on infecting subtype</article-title>
+  <source>Clin. Infect. Dis.</source>
+  <year>2006</year>
+  <volume>42</volume>
+  <fpage>843</fpage>
+  <lpage>852</lpage>
+  <pub-id pub-id-type="doi">10.1086/499952</pub-id>
+  <?supplied-pmid 16477563?>
+  <pub-id pub-id-type="pmid">16477563</pub-id>
+ </element-citation>
+</ref>

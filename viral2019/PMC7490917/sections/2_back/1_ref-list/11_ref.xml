@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R11">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Ren</surname>
+    <given-names>S-Y</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wang</surname>
+    <given-names>W-B</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hao</surname>
+    <given-names>Y-G</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Stability and infectivity of coronaviruses in inanimate environments</article-title>. 
+  <source>World J Clin Cases</source>
+  <year>2020</year>;
+  <volume>8</volume>:
+  <fpage>1391</fpage>–
+  <lpage>9</lpage>. 
+  <pub-id pub-id-type="doi">10.12998/wjcc.v8.i8.1391</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32368532?>
+  <pub-id pub-id-type="pmid">32368532</pub-id>
+ </mixed-citation>
+</ref>

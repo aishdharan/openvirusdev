@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR34">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Khan</surname>
+    <given-names>AS</given-names>
+   </name>
+   <name>
+    <surname>Khabbaz</surname>
+    <given-names>RF</given-names>
+   </name>
+   <name>
+    <surname>Armstrong</surname>
+    <given-names>LR</given-names>
+   </name>
+   <name>
+    <surname>Holman</surname>
+    <given-names>RC</given-names>
+   </name>
+   <name>
+    <surname>Bauer</surname>
+    <given-names>SP</given-names>
+   </name>
+   <name>
+    <surname>Graber</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Strine</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Miller</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Reef</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Tappero</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Rollin</surname>
+    <given-names>PE</given-names>
+   </name>
+   <name>
+    <surname>Nichol</surname>
+    <given-names>ST</given-names>
+   </name>
+   <name>
+    <surname>Zaki</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Bryan</surname>
+    <given-names>RT</given-names>
+   </name>
+   <name>
+    <surname>Chapman</surname>
+    <given-names>LE</given-names>
+   </name>
+   <name>
+    <surname>Peters</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Ksiazek</surname>
+    <given-names>TG</given-names>
+   </name>
+  </person-group>
+  <article-title>Hantavirus pulmonary syndrome: the first 100 us cases</article-title>
+  <source>J Infect Dis</source>
+  <year>1996</year>
+  <volume>173</volume>
+  <fpage>1297</fpage>
+  <lpage>1303</lpage>
+  <pub-id pub-id-type="doi">10.1093/infdis/173.6.1297</pub-id>
+  <?supplied-pmid 8648200?>
+  <pub-id pub-id-type="pmid">8648200</pub-id>
+ </element-citation>
+</ref>

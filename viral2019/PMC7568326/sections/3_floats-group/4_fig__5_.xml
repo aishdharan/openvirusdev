@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig05" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 5.</label>
+ <caption>
+  <p>Proof-of-principle strategy for achieving herd immunity. This strategy 1) achieves herd immunity with minimal social distancing duration 2) without exceeding hospital capacity, and 3) prevents infection among the most vulnerable. We simulated a reduced two-age group (
+   <inline-formula>
+    <math id="i18">
+     <mo>&lt;</mo>
+     <mn>60</mn>
+    </math>
+   </inline-formula> y old and 
+   <inline-formula>
+    <math id="i19">
+     <mo>≥</mo>
+     <mn>60</mn>
+    </math>
+   </inline-formula> y old) model, assuming that all 
+   <inline-formula>
+    <math id="i20">
+     <mo>≥</mo>
+     <mn>60</mn>
+    </math>
+   </inline-formula>-y-old individuals completely isolate. (
+   <italic>A</italic>) To achieve herd immunity in the minimum time requires control measures that fix the rate of new hospitalized cases to ensure hospital beds are at the maximum acceptable capacity until herd immunity is achieved (results showing taking capacity to be 1
+   <inline-formula>
+    <math id="i21">
+     <mo>×</mo>
+    </math>
+   </inline-formula> and 2
+   <inline-formula>
+    <math id="i22">
+     <mo>×</mo>
+    </math>
+   </inline-formula> the average hospital burden of April). (
+   <italic>B</italic>) The reduction in contacts (via the product of self-isolation and social distancing) among 
+   <inline-formula>
+    <math id="i23">
+     <mo>&lt;</mo>
+     <mn>60</mn>
+    </math>
+   </inline-formula>-y-olds needs to vary nonlinearly. Until the hospital burden hits the hospital capacity, there is no social distancing; subsequently, it is tuned to ensure 
+   <inline-formula>
+    <math id="i24">
+     <msub>
+      <mrow>
+       <mi>R</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">e</mi>
+       <mi mathvariant="normal">ff</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mn>1</mn>
+    </math>
+   </inline-formula>; that is, the epidemic neither grows nor shrinks. Contact rates have to then gradually increase to exactly balance the reduction in 
+   <inline-formula>
+    <math id="i25">
+     <msub>
+      <mrow>
+       <mi>R</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">e</mi>
+       <mi mathvariant="normal">ff</mi>
+      </mrow>
+     </msub>
+    </math>
+   </inline-formula> due to susceptible depletion. Eventually, there are no longer enough 
+   <inline-formula>
+    <math id="i26">
+     <mo>&lt;</mo>
+     <mn>60</mn>
+    </math>
+   </inline-formula>-y-old susceptible individuals to sustain the epidemic, and 
+   <inline-formula>
+    <math id="i27">
+     <msub>
+      <mrow>
+       <mi>R</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="normal">e</mi>
+       <mi mathvariant="normal">ff</mi>
+      </mrow>
+     </msub>
+     <mo>&lt;</mo>
+     <mn>1</mn>
+    </math>
+   </inline-formula>. (
+   <italic>C</italic>) While this strategy ensures that the final reproductive number drops below 1 if individuals 
+   <inline-formula>
+    <math id="i28">
+     <mo>≥</mo>
+     <mn>60</mn>
+    </math>
+   </inline-formula> y old remain in isolation, if they return to pre-COVID-19 contact rates, then whether the reduction in susceptibles is sufficient to achieve herd immunity depends on the hospital capacity. The greater the proportion of the population that needs protecting, the greater the hospital capacity needed to achieve herd immunity. (
+   <italic>D</italic>) The duration of social distancing also depends on the available hospital capacity. For the parameters considered, if hospital capacity is less than around 20,000, then it is not possible to achieve herd immunity without individuals aged 
+   <inline-formula>
+    <math id="i29">
+     <mo>≥</mo>
+     <mn>60</mn>
+    </math>
+   </inline-formula> y remaining socially distanced.
+  </p>
+ </caption>
+ <graphic id="gra5" xlink:href="pnas.2008087117fig05" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

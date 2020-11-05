@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0115">
+ <label>23</label>
+ <element-citation publication-type="journal" id="h0115">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Pan</surname>
+    <given-names>A.n.</given-names>
+   </name>
+   <name>
+    <surname>Liu</surname>
+    <given-names>L.i.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Guo</surname>
+    <given-names>H.</given-names>
+   </name>
+   <name>
+    <surname>Hao</surname>
+    <given-names>X.</given-names>
+   </name>
+   <name>
+    <surname>Wang</surname>
+    <given-names>Q.i.</given-names>
+   </name>
+  </person-group>
+  <article-title>Association of public health interventions with the epidemiology of the COVID-19 outbreak in Wuhan, China</article-title>
+  <source>JAMA</source>
+  <volume>323</volume>
+  <issue>19</issue>
+  <year>2020</year>
+  <fpage>1915</fpage>
+  <lpage>1923</lpage>
+  <pub-id pub-id-type="pmid">32275295</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Next, we examine the epidemic dynamics as a function of seasonal temperature variation. Utilizing the same compartmental framework with default starting conditions and parameter values, we ran sets of simulations under two different temperature regimes [
+ <xref rid="pntd.0008679.ref018" ref-type="bibr">18</xref>]. First, we simulated a set of temperature regimes as observed in the historical decadal data for Funchal, Madeira. The mean temperature varied from 19.0 °C to 21.0 °C in increments of 0.2 °C, while the temperature range (i.e. 
+ <italic>T</italic>
+ <sub>
+  <italic>max</italic>
+ </sub> − 
+ <italic>T</italic>
+ <sub>
+  <italic>min</italic>
+ </sub>) varied from 4.0 °C to 6.0 °C, in the same increments of 0.2 °C, resulting in 121 simulation runs. The variability in epidemic dynamics is then examined as a function of starting temperature. Starting temperature is defined as the temperature on the day of introduction of the virus (
+ <italic>t</italic>
+ <sub>
+  <italic>crit</italic>
+ </sub>), as derived from the temperature curves.
+</p>

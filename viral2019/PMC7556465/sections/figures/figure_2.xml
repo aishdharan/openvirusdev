@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pone.0240013.g002" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pone.0240013.g002</object-id>
+ <label>Fig 2</label>
+ <caption>
+  <title>Distribution of COVID-19 related deaths.</title>
+  <p>Epidemic curve of COVID-19 associated deaths with log-linear regression line and 95% CI estimated before and after peak of 6 deaths around April 12.</p>
+ </caption>
+ <graphic xlink:href="pone.0240013.g002" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

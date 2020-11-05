@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par11">Epidemic threshold 
+ <inline-formula id="IEq1">
+  <alternatives>
+   <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\beta _c$$\end{document}</tex-math>
+   <math id="M2">
+    <msub>
+     <mi>β</mi>
+     <mi>c</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq1.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> plays an important role in epidemic spreading. For a large-scale system, when the infection rate 
+ <inline-formula id="IEq2">
+  <alternatives>
+   <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\beta &gt; \beta _c$$\end{document}</tex-math>
+   <math id="M4">
+    <mrow>
+     <mi>β</mi>
+     <mo>&gt;</mo>
+     <msub>
+      <mi>β</mi>
+      <mi>c</mi>
+     </msub>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq2.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, the proportion of infected individuals will reach a limited proportion. Otherwise, if 
+ <inline-formula id="IEq3">
+  <alternatives>
+   <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\beta &lt;\beta _c$$\end{document}</tex-math>
+   <math id="M6">
+    <mrow>
+     <mi>β</mi>
+     <mo>&lt;</mo>
+     <msub>
+      <mi>β</mi>
+      <mi>c</mi>
+     </msub>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq3.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, the proportion of infected people will reduce to almost zero. Therefore, to control the outbreak of epidemics, reducing the infection rate is one of the effective ways. Research shows that frequent absorption, wearing a mask, and disconnecting from the infectious individuals will reduce the probability of infection and then effectively control or slow the outbreak of an epidemic [
+ <xref ref-type="bibr" rid="CR34">34</xref>]. Additionally, studies have shown that quarantining, closing schools, and restricting individuals from attending public events can make people’s contact networks sparse and reduce infection rate [
+ <xref ref-type="bibr" rid="CR35">35</xref>]. In 2011, Jin et al. developed an epidemiological model of influenza A, demonstrating that an immunization strategy targeting specific populations with given connectivity can greatly reduce epidemic spreading [
+ <xref ref-type="bibr" rid="CR36">36</xref>]. Two years later, Guo et al. introduced a continuous-time adaptive susceptible–infectious–susceptible (ASIS) model, proving that the adaption of the topology can inhibit infection [
+ <xref ref-type="bibr" rid="CR37">37</xref>]. In the same year, Peng et al. investigate several epidemiological models, including susceptibility, infection, and incomplete vaccination segment models, on the Watts–Strogatz small world, Barabasi–Albert scale-free, and random scale-free networks, for analyzing the epidemic threshold and infection rate [
+ <xref ref-type="bibr" rid="CR38">38</xref>]. More information can be found in the review papers [
+ <xref ref-type="bibr" rid="CR39">39</xref>]. However, to our understanding, most of the literature about epidemiological models analyzing the propagation in a network is based on analytical methods and large-scale simulations, without the support of real-world data.
+</p>

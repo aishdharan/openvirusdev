@@ -1,0 +1,343 @@
+{
+  "id": [
+    "PMC7591948"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7591948"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7591948"
+      ]
+    }
+  ],
+  "title": [
+    "Mental health research in response to the COVID-19, Ebola, and H1N1 outbreaks: A comparative bibliometric analysis"
+  ],
+  "authorString": [
+    "Maalouf F, Medawar B, Meho L, Akl E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maalouf F"
+          ],
+          "firstName": [
+            "Fadi T."
+          ],
+          "lastName": [
+            "Maalouf"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Psychiatry, Faculty of Medicine, American University of Beirut, Beirut, Lebanon"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Medawar B"
+          ],
+          "firstName": [
+            "Bernadette"
+          ],
+          "lastName": [
+            "Medawar"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a Department of Psychiatry, Faculty of Medicine, American University of Beirut, Beirut, Lebanon"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Meho L"
+          ],
+          "firstName": [
+            "Lokman I."
+          ],
+          "lastName": [
+            "Meho"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b University Libraries, American University of Beirut, Beirut, Lebanon"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Akl E"
+          ],
+          "firstName": [
+            "Elie A."
+          ],
+          "lastName": [
+            "Akl"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "c Department of Internal Medicine, American University of Beirut, Beirut, Lebanon"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3029742"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of psychiatric research"
+          ],
+          "ISOAbbreviation": [
+            "J Psychiatr Res"
+          ],
+          "medlineAbbreviation": [
+            "J Psychiatr Res"
+          ],
+          "NLMid": [
+            "0376331"
+          ],
+          "ISSN": [
+            "0022-3956"
+          ],
+          "ESSN": [
+            "1879-1379"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Introduction Both the COVID-19 pandemic and its management have had a negative impact on mental health worldwide. There is a growing body of research on mental health as it relates to the pandemic. The objective of this study is to use bibliometric analyses to assess the mental health research output related to the COVID-19 pandemic and compare it to that of the West Africa Ebola and H1N1 outbreaks. Methodology We performed comprehensive searches in Embase, PubMed, and Scopus databases, and included all types of documents related to the three outbreaks published since the respective beginnings up to August 26, 2020. Results Despite the shorter time since the beginning of the COVID-19 pandemic, relative to Ebola and H1N1, we found a much greater number of mental health documents related to COVID-19 (n = 3070) compared to the two other outbreaks (127 for Ebola and 327 for H1N1). The proportion of documents in the top 10% journals was 31% for COVID-19, 24% for Ebola, and 40% for H1N1. Authors affiliated with institutions located in high-income countries published or contributed to 79% of all documents followed by authors from upper-middle-income countries (23%), lower-middle-income countries (10%), and low-income countries (2%). Approximately 19% of the documents reported receiving funding and 23% were the product of international collaboration. Conclusion Mental health research output is already greater for COVID-19 compared to Ebola and H1N1 combined. A minority of documents reported funding, was the product of international collaboration, or was published by authors located in low-income countries during the three outbreaks in general, and the COVID-19 pandemic in particular."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Psychiatry",
+        "Mental health",
+        "bibliometrics",
+        "H1n1",
+        "Ebola",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7591948/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7591948/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7591948"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7591948?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-30"
+  ],
+  "firstIndexDate": [
+    "2020-10-30"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-30"
+  ],
+  "dateOfRevision": [
+    "2020-11-04"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-28"
+  ],
+  "firstPublicationDate": [
+    "2020-10-28"
+  ]
+}

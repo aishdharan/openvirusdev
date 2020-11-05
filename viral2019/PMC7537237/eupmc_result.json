@@ -1,0 +1,265 @@
+{
+  "id": [
+    "PMC7537237"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7537237"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7537237"
+      ]
+    }
+  ],
+  "title": [
+    "A chimeric being from Kyushu, Japan: Amabie's revival during Covid‐19"
+  ],
+  "authorString": [
+    "MERLI C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "MERLI C"
+          ],
+          "firstName": [
+            "CLAUDIA"
+          ],
+          "lastName": [
+            "MERLI"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "36"
+      ],
+      "journalIssueId": [
+        "3030277"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Anthropology today"
+          ],
+          "ISOAbbreviation": [
+            "Anthropol Today"
+          ],
+          "medlineAbbreviation": [
+            "Anthropol Today"
+          ],
+          "NLMid": [
+            "9888754"
+          ],
+          "ISSN": [
+            "0268-540X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "6-10"
+  ],
+  "abstractText": [
+    "This article explores how the resurgence of a forgotten chimeric figure from the Japanese history of disasters and epidemics intersects with some central ecological and political discourses in the context of the Covid‐19 pandemic, especially those associated with culinary practices, human rights and relations with other historical epidemics. Presented as a mascot but viewed as an icon of protection, this uncanny little yōkai from southern Japan in the pre‐modern Edo period addresses our lives as they are caught in a suspension of our usual temporal and spatial dimensions. A monster, a hyperobject and an art effigy of our pandemic present."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537237/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537237/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7537237"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7537237?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-09"
+  ],
+  "firstIndexDate": [
+    "2020-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-09"
+  ],
+  "dateOfRevision": [
+    "2020-10-15"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-01"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "id": [
+    "33079032"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33079032"
+  ],
+  "pmcid": [
+    "PMC7588517"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7588517"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3201/eid2611.191766"
+  ],
+  "title": [
+    "Measuring Timeliness of Outbreak Response in the World Health Organization African Region, 2017-2019."
+  ],
+  "authorString": [
+    "Impouma B, Roelens M, Williams GS, Flahault A, Codeço CT, Moussana F, Farham B, Hamblion EL, Mboussou F, Keiser O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Impouma B"
+          ],
+          "firstName": [
+            "Benido"
+          ],
+          "lastName": [
+            "Impouma"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Roelens M"
+          ],
+          "firstName": [
+            "Maroussia"
+          ],
+          "lastName": [
+            "Roelens"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Williams GS"
+          ],
+          "firstName": [
+            "George Sie"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "GS"
+          ]
+        },
+        {
+          "fullName": [
+            "Flahault A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "Flahault"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Codeço CT"
+          ],
+          "firstName": [
+            "Claudia Torres"
+          ],
+          "lastName": [
+            "Codeço"
+          ],
+          "initials": [
+            "CT"
+          ]
+        },
+        {
+          "fullName": [
+            "Moussana F"
+          ],
+          "firstName": [
+            "Fleury"
+          ],
+          "lastName": [
+            "Moussana"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Farham B"
+          ],
+          "firstName": [
+            "Bridget"
+          ],
+          "lastName": [
+            "Farham"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Hamblion EL"
+          ],
+          "firstName": [
+            "Esther L"
+          ],
+          "lastName": [
+            "Hamblion"
+          ],
+          "initials": [
+            "EL"
+          ]
+        },
+        {
+          "fullName": [
+            "Mboussou F"
+          ],
+          "firstName": [
+            "Franck"
+          ],
+          "lastName": [
+            "Mboussou"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Keiser O"
+          ],
+          "firstName": [
+            "Olivia"
+          ],
+          "lastName": [
+            "Keiser"
+          ],
+          "initials": [
+            "O"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "3040473"
+      ],
+      "dateOfPublication": [
+        "2020 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Emerging infectious diseases"
+          ],
+          "ISOAbbreviation": [
+            "Emerg Infect Dis"
+          ],
+          "medlineAbbreviation": [
+            "Emerg Infect Dis"
+          ],
+          "NLMid": [
+            "9508155"
+          ],
+          "ISSN": [
+            "1080-6040"
+          ],
+          "ESSN": [
+            "1080-6059"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "2555-2564"
+  ],
+  "abstractText": [
+    "Large-scale protracted outbreaks can be prevented through early detection, notification, and rapid control. We assessed trends in timeliness of detecting and responding to outbreaks in the African Region reported to the World Health Organization during 2017-2019. We computed the median time to each outbreak milestone and assessed the rates of change over time using univariable and multivariable Cox proportional hazard regression analyses. We selected 296 outbreaks from 348 public reported health events and evaluated 184 for time to detection, 232 for time to notification, and 201 for time to end. Time to detection and end decreased over time, whereas time to notification increased. Multiple factors can account for these findings, including scaling up support to member states after the World Health Organization established its Health Emergencies Programme and support given to countries from donors and partners to strengthen their core capacities for meeting International Health Regulations."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Communicable Diseases",
+        "World Health Organization",
+        "Disease Outbreaks",
+        "Foodborne Diseases",
+        "Time To Detection",
+        "Vector-borne Diseases",
+        "Outbreak Response",
+        "Waterborne Diseases",
+        "Vaccine-preventable Diseases",
+        "Who African Region",
+        "Refugee Populations",
+        "Integrated Disease Surveillance And Response Strategy",
+        "Who Health Emergencies Programme",
+        "Internally-displaced Populations",
+        "Time To Control",
+        "Time To Notification"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3201/eid2611.191766"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7588517"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7588517?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-20"
+  ],
+  "firstIndexDate": [
+    "2020-10-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-11-02"
+  ],
+  "dateOfRevision": [
+    "2020-11-01"
+  ],
+  "firstPublicationDate": [
+    "2020-11-01"
+  ],
+  "embargoDate": [
+    "2020-11-01"
+  ]
+}

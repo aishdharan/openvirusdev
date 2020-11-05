@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="para9001">
+ <boxed-text id="tbox0002">
+  <caption>
+   <title>Research in context</title>
+  </caption>
+  <sec id="sec0001">
+   <title>Evidence before this study</title>
+   <p id="para0006">We searched PubMed for articles published before 14th May 2020 with the terms: “HIV”[Title] AND (“COVID-19″[Title] OR “SARS-CoV-2″[Title] OR “coronavirus”[Title])) AND “Africa”[All Fields]) AND (“Data”[Title] OR “Model”[Title]). No search results were returned. A recent editorial in 
+    <italic>The Lancet HIV</italic>
+    <xref rid="bib0001" ref-type="bibr">[1]</xref> noted the growing concern about the impact of disruptions to HIV programs during the COVID-19 pandemic and the relevant policy developments that are in progress currently. In a ‘Feature’ article, 
+    <italic>The Lancet HIV</italic> describe disruptions that have already been reported anecdotally in TB programs 
+    <xref rid="bib0002" ref-type="bibr">[2]</xref>.
+   </p>
+  </sec>
+  <sec id="sec0002">
+   <title>Added value of this study</title>
+   <p id="para0007">We provided a full modelling exploration of the potential impact of disruptions in four sub-Saharan countries, examine how this impact is affected by assumptions made in the model and make a comparison between the potential impact of the COVID-19 epidemic in the same settings.</p>
+  </sec>
+  <sec id="sec0003">
+   <title>Implications of all the available evidence</title>
+   <p id="para0008">It is clear that the most important element of HIV programs to be maintained is the continuity of ART, although the potential impact of a disruptions is highly uncertain – due to not knowing the extent of any disruption and not knowing what the mortality risk is for those with ART interrupted. The impact could be very limited, but, under ‘reasonable worst-case assumptions,’ has the potential to be extremely high – even to the point of being comparable with the range of deaths projected under reasonable worst-case scenarios for COVID-19. This highlights how dependent so many persons are on ART programs in sub-Saharan Africa and the high priority that must be placed on ensuring that their treatment continues throughout the COVID-19 pandemic.</p>
+  </sec>
+  <notes notes-type="alt-text" specific-use="for-accessibility" id="alte1">
+   <p>Alt-text: Unlabelled box</p>
+  </notes>
+ </boxed-text>
+</p>

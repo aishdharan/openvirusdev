@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>[4]</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Simmons</surname>
+    <given-names>CP</given-names>
+   </name>
+   <name>
+    <surname>Farrar</surname>
+    <given-names>JJ</given-names>
+   </name>
+   <name>
+    <surname>Nguyen</surname>
+    <given-names>VVC</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Current concepts dengue</article-title>. 
+  <source>New Engl J Med</source>
+  <year>2012</year>;
+  <volume>366</volume>:
+  <fpage>1423</fpage>
+  <lpage>32</lpage>.
+  <pub-id pub-id-type="pmid">22494122</pub-id>
+ </mixed-citation>
+</ref>

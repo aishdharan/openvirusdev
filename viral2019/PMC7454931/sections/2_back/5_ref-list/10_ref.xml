@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib10">
+ <label>10</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Wells</surname>
+    <given-names>CR</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Sah</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Moghadas</surname>
+    <given-names>SM</given-names>
+   </name>
+   <etal>et al</etal>.
+  </person-group>
+  <article-title>Impact of international travel and border control measures on the global spread of the novel 2019 coronavirus outbreak</article-title>. 
+  <source>Proc Natl Acad Sci USA</source>. 
+  <year>2020</year>;
+  <volume>117</volume>(
+  <issue>13</issue>):
+  <fpage>7504</fpage>–
+  <lpage>9</lpage>.
+  <pub-id pub-id-type="pmid">32170017</pub-id>
+ </mixed-citation>
+</ref>

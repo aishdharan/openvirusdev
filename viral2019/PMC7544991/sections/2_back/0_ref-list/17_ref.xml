@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B17">
+ <label>17.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Weitz</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Beckett</surname>
+    <given-names>SJ</given-names>
+   </name>
+   <name>
+    <surname>Coenen</surname>
+    <given-names>AR</given-names>
+   </name>
+   <name>
+    <surname>Demory</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Dominguez-Mirazo</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Dushoff</surname>
+    <given-names>J</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Modeling shield immunity to reduce COVID-19 epidemic spread</article-title>. 
+  <source>Nat Med</source>. (
+  <year>2020</year>) 
+  <volume>26</volume>:
+  <fpage>849</fpage>–
+  <lpage>54</lpage>. 
+  <pub-id pub-id-type="doi">10.1038/s41591-020-0895-3</pub-id>
+  <?supplied-pmid 32382154?>
+  <pub-id pub-id-type="pmid">32382154</pub-id>
+ </mixed-citation>
+</ref>

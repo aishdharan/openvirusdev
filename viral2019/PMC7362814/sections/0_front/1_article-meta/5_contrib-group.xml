@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="aut0005">
+  <name>
+   <surname>Durán C</surname>
+   <given-names>Sandra C.</given-names>
+  </name>
+  <email>sduran@unisalle.edu.co</email>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="cor0005" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0010">
+  <name>
+   <surname>Mayorga G</surname>
+   <given-names>Diana C.</given-names>
+  </name>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+ </contrib>
+ <aff id="aff0005">
+  <label>a</label>La Salle University, Health and Sciences Faculty, Optometry Program, Primary Eye Care Group, Bogotá, Colombia
+ </aff>
+ <aff id="aff0010">
+  <label>b</label>National University of Colombia, Pharmacy Faculty, Cancer Pharmacogenetics Group, Bogotá, Colombia
+ </aff>
+</contrib-group>

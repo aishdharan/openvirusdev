@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The reported cases of COVID-19 were collected from December 8, 2019 to March 12, 2020 using Tencent real-time tracking [
+ <xref rid="pone.0238411.ref006" ref-type="bibr">6</xref>], Ifeng real-time tracking [
+ <xref rid="pone.0238411.ref007" ref-type="bibr">7</xref>] and data from the National Health Commission of the People’s Republic of China [
+ <xref rid="pone.0238411.ref008" ref-type="bibr">8</xref>]. Our data include new infections, new cures, new deaths, daily recoveries, cumulative diagnoses, cumulative discharges, and cumulative deaths each day. Because our data were on a daily basis, our model was iterated to produce daily results.
+</p>

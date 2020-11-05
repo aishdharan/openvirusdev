@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Figure 1</label>
+ <caption>
+  <p>(a) A 13-year-old asymptomatic male patient infected with the 2019-nCoV, with a history of close contact with confirmed 2019-nCoV-infected patients. The bedside radiograph indicated no obvious abnormality. (b) A 3-year-old male patient, presented with a stuffy nose and rhinorrhoea, with a history of close contact with confirmed 2019-nCoV-infected patients. Bedside radiographs indicated increased and/or disordered bilateral bronchovascular shadows and dense hilar shadows.</p>
+ </caption>
+ <alt-text id="alttext0010">Figure 1</alt-text>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

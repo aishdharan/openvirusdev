@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="ijerph-17-07664-f009" orientation="portrait" position="float">
+ <label>Figure 9</label>
+ <caption>
+  <p>Spatial distribution of regression coefficient (×
+   <inline-formula>
+    <math id="mm52">
+     <mrow>
+      <mrow>
+       <msup>
+        <mrow>
+         <mn>10</mn>
+        </mrow>
+        <mrow>
+         <mo>−</mo>
+         <mn>3</mn>
+        </mrow>
+       </msup>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula>) between PM
+   <sub>2.5</sub> concentration and six explanatory variables. (
+   <bold>a</bold>) urban GDP; (
+   <bold>b</bold>) the area of urban green space; (
+   <bold>c</bold>) road area; (
+   <bold>d</bold>) number of taxis; (
+   <bold>e</bold>) number of buses; and (
+   <bold>f</bold>) number of factories.
+  </p>
+ </caption>
+ <graphic xlink:href="ijerph-17-07664-g009" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

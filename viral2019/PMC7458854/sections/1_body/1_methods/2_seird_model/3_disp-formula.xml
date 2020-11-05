@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disp-formula>
+ <alternatives>
+  <math id="m2">
+   <mstyle scriptlevel="+1">
+    <mfrac>
+     <mrow>
+      <mi>d</mi>
+      <mi>E</mi>
+      <mfenced separators="|">
+       <mrow>
+        <mi>t</mi>
+       </mrow>
+      </mfenced>
+     </mrow>
+     <mrow>
+      <mi>d</mi>
+      <mi>t</mi>
+     </mrow>
+    </mfrac>
+    <mi> </mi>
+    <mo>=</mo>
+    <mi> </mi>
+    <mi>β</mi>
+    <mi> </mi>
+    <mo>×</mo>
+    <mi> </mi>
+    <mi>I</mi>
+    <mfenced separators="|">
+     <mrow>
+      <mi>t</mi>
+     </mrow>
+    </mfenced>
+    <mi> </mi>
+    <mo>×</mo>
+    <mi> </mi>
+    <mfrac>
+     <mrow>
+      <mi>S</mi>
+      <mfenced separators="|">
+       <mrow>
+        <mi>t</mi>
+       </mrow>
+      </mfenced>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+    <mi> </mi>
+    <mo>−</mo>
+    <mi> </mi>
+    <mi>δ</mi>
+    <mi> </mi>
+    <mo>×</mo>
+    <mi> </mi>
+    <mi>E</mi>
+    <mfenced separators="|">
+     <mrow>
+      <mi>t</mi>
+     </mrow>
+    </mfenced>
+   </mstyle>
+  </math>
+  <graphic xlink:href="jkms-35-e317-e002.jpg" position="float" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </alternatives>
+ <label>(2)</label>
+</disp-formula>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref3">
+ <label>3</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Eldin</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>JC Lagier</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mailhe</surname>
+    <given-names>PG</given-names>
+   </name>
+  </person-group>
+  <article-title>Probable aircraft transmission of covid-19 in-flight from the Central African Republic to France</article-title>. 
+  <source>Travel Med Infect Dis</source>
+  <year>2020</year>; 
+  <volume>35</volume>:
+  <elocation-id>101643</elocation-id>
+  <pub-id pub-id-type="doi">10.1016/j.tmaid.2020.101643</pub-id>.
+  <pub-id pub-id-type="pmid">32247016</pub-id>
+ </mixed-citation>
+</ref>

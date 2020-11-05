@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib0080">
+ <element-citation publication-type="journal" id="sbref0080">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gelman</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Meng</surname>
+    <given-names>X.-L.</given-names>
+   </name>
+  </person-group>
+  <article-title>Simulating normalizing constants: from importance sampling to bridge sampling to path sampling</article-title>
+  <source>Stat. Sci.</source>
+  <volume>13</volume>
+  <year>2020</year>
+  <fpage>163</fpage>
+  <lpage>185</lpage>
+ </element-citation>
+</ref>

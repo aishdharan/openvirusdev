@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib44">
+ <label>44</label>
+ <element-citation publication-type="journal" id="sref44">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Lewandowski</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Pullan</surname>
+    <given-names>S.T.</given-names>
+   </name>
+  </person-group>
+  <article-title>Metagenomic nanopore sequencing of influenza virus direct from clinical respiratory samples</article-title>
+  <source>J Clin Microbiol</source>
+  <volume>58</volume>
+  <year>2019</year>
+  <comment>e00963-19</comment>
+ </element-citation>
+</ref>

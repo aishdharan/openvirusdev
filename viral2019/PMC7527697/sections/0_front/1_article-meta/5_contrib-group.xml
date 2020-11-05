@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au10">
+  <name>
+   <surname>Barnabas</surname>
+   <given-names>Ruanne V</given-names>
+  </name>
+  <degrees>MBChB</degrees>
+  <email>rbarnaba@uw.edu</email>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="aff3" ref-type="aff">c</xref>
+  <xref rid="aff5" ref-type="aff">e</xref>
+  <xref rid="cor1" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au20">
+  <name>
+   <surname>Szpiro</surname>
+   <given-names>Adam A</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff4" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au30">
+  <name>
+   <surname>van Rooyen</surname>
+   <given-names>Heidi</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>PhD</degrees>
+  <xref rid="aff6" ref-type="aff">f</xref>
+  <xref rid="aff7" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au40">
+  <name>
+   <surname>Asiimwe</surname>
+   <given-names>Stephen</given-names>
+  </name>
+  <degrees>MBChB</degrees>
+  <xref rid="aff8" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au50">
+  <name>
+   <surname>Pillay</surname>
+   <given-names>Deenan</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>PhD</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au60">
+  <name>
+   <surname>Ware</surname>
+   <given-names>Norma C</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff10" ref-type="aff">j</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au70">
+  <name>
+   <surname>Schaafsma</surname>
+   <given-names>Torin T</given-names>
+  </name>
+  <degrees>MSc</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au80">
+  <name>
+   <surname>Krows</surname>
+   <given-names>Meighan L</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au90">
+  <name>
+   <surname>van Heerden</surname>
+   <given-names>Alastair</given-names>
+  </name>
+  <xref rid="aff6" ref-type="aff">f</xref>
+  <xref rid="aff7" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au100">
+  <name>
+   <surname>Joseph</surname>
+   <given-names>Philip</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au110">
+  <name>
+   <surname>Shahmanesh</surname>
+   <given-names>Maryam</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au120">
+  <name>
+   <surname>Wyatt</surname>
+   <given-names>Monique A</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <xref rid="aff10" ref-type="aff">j</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au130">
+  <name>
+   <surname>Sausi</surname>
+   <given-names>Kombi</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff6" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au140">
+  <name>
+   <surname>Turyamureeba</surname>
+   <given-names>Bosco</given-names>
+  </name>
+  <degrees>MSc</degrees>
+  <xref rid="aff8" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au150">
+  <name>
+   <surname>Sithole</surname>
+   <given-names>Nsika</given-names>
+  </name>
+  <degrees>BA</degrees>
+  <xref rid="aff9" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au160">
+  <name>
+   <surname>Morrison</surname>
+   <given-names>Susan</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au170">
+  <name>
+   <surname>Shapiro</surname>
+   <given-names>Adrienne E</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au180">
+  <name>
+   <surname>Roberts</surname>
+   <given-names>D Allen</given-names>
+  </name>
+  <degrees>MPH</degrees>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au190">
+  <name>
+   <surname>Thomas</surname>
+   <given-names>Katherine K</given-names>
+  </name>
+  <degrees>MSc</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au200">
+  <name>
+   <surname>Koole</surname>
+   <given-names>Olivier</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff11" ref-type="aff">k</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au210">
+  <name>
+   <surname>Bershteyn</surname>
+   <given-names>Anna</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref rid="aff12" ref-type="aff">l</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au220">
+  <name>
+   <surname>Ehrenkranz</surname>
+   <given-names>Peter</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref rid="aff13" ref-type="aff">m</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au230">
+  <name>
+   <surname>Baeten</surname>
+   <given-names>Jared M</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>MD</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au240">
+  <name>
+   <surname>Celum</surname>
+   <given-names>Connie</given-names>
+  </name>
+  <degrees>Prof</degrees>
+  <degrees>MD</degrees>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="aff2" ref-type="aff">b</xref>
+  <xref rid="aff3" ref-type="aff">c</xref>
+ </contrib>
+ <on-behalf-of>for the Delivery Optimization of Antiretroviral Therapy (DO ART) Study Team
+  <xref rid="fn1" ref-type="fn">†</xref>
+ </on-behalf-of>
+ <aff id="aff1">
+  <label>a</label>Department of Global Health, University of Washington, Seattle, WA, USA
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Division of Allergy and Infectious Diseases, University of Washington, Seattle, WA, USA
+ </aff>
+ <aff id="aff3">
+  <label>c</label>Department of Epidemiology, University of Washington, Seattle, WA, USA
+ </aff>
+ <aff id="aff4">
+  <label>d</label>Department of Biostatistics, University of Washington, Seattle, WA, USA
+ </aff>
+ <aff id="aff5">
+  <label>e</label>Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
+ </aff>
+ <aff id="aff6">
+  <label>f</label>Human Sciences Research Council, Sweetwaters, KwaZulu-Natal, South Africa
+ </aff>
+ <aff id="aff7">
+  <label>g</label>MRC/Wits Developmental Pathways for Health Research Unit, University of the Witwatersrand, Johannesburg, South Africa
+ </aff>
+ <aff id="aff8">
+  <label>h</label>Integrated Community-Based Initiatives, Kabwohe, Uganda
+ </aff>
+ <aff id="aff9">
+  <label>i</label>Africa Health Research Institute, KwaZulu-Natal, South Africa
+ </aff>
+ <aff id="aff10">
+  <label>j</label>Harvard Medical School, Boston, MA, USA
+ </aff>
+ <aff id="aff11">
+  <label>k</label>London School of Hygiene &amp; Tropical Medicine, London, UK
+ </aff>
+ <aff id="aff12">
+  <label>l</label>New York University School of Medicine, New York, NY, USA
+ </aff>
+ <aff id="aff13">
+  <label>m</label>The Bill &amp; Melinda Gates Foundation, Seattle, WA, USA
+ </aff>
+</contrib-group>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab3">
+ <label>Table 3</label>
+ <caption>
+  <p>Neurologic manifestations of the human coronaviruses, and their potential etiologies</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>CNS manifestation</th>
+    <th>Potential pathogenesis</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Febrile seizures in children</td>
+    <td>Fever as trigger, possible cytokine response to infection; no evidence of direct CNS viral effect</td>
+   </tr>
+   <tr>
+    <td>General seizures in adults and children</td>
+    <td>Uncertain trigger, may be generalized CNS response to systemic illness, inclusive of hypoxia, cytokine storm, and microvascular abnormalities; CNS virus (patients with CSF detection are documented) with possible neuronal infection (unproven); CNS inflammation (patients with CSF pleocytosis have been documented)</td>
+   </tr>
+   <tr>
+    <td>Meningitis and meningoencephalitis</td>
+    <td>Inflammatory cell invasion of CNS (documented through CSF analysis and rare post mortem cases), possible mononuclear cell trafficking with our without viral infection of monocytes; or immune response to primary brain infection of uncertain cell type (infection not well documented for many species)</td>
+   </tr>
+   <tr>
+    <td>Stroke (both large vessel ischemic infarction and intracranial hemorrhage)</td>
+    <td>Coronavirus-associated coagulopathy; antiphospholipid antibodies; direct endothelial infection</td>
+   </tr>
+   <tr>
+    <td>Anosmia and hypogeusia</td>
+    <td>Infection of nasopharyngeal mucosa (well documented); possible infection of neuroepithelium (not established); concern for olfactory bulb, tract, and primary cortical infection (not documented in humans)</td>
+   </tr>
+   <tr>
+    <td>Non-focal phenomena: changes in sensorium including lethargy and confusion; agitation; dizziness; headache</td>
+    <td>Possibly a generalized CNS response to hypoxemia, cytokine storms, and microangiopathy of critical disease; or undisclosed inflammatory/infectious pathology in the absence of a diagnostic neurologic workup</td>
+   </tr>
+   <tr>
+    <td>Acute disseminated encephalomyelitis and hemorrhagic necrotizing encephalopathy</td>
+    <td>Para-infectious immune response</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

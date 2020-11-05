@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0020">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="ulist0010">
+   <list-item id="u0010">
+    <label>•</label>
+    <p id="p0010">We present a model of epidemics that includes daily resonance by solar UV photons</p>
+   </list-item>
+   <list-item id="u0015">
+    <label>•</label>
+    <p id="p0015">The model explains the seasonality and latitude dependence of respiratory diseases</p>
+   </list-item>
+   <list-item id="u0020">
+    <label>•</label>
+    <p id="p0020">It explains the differences in the prevalence of COVID-19 observed at different latitudes</p>
+   </list-item>
+   <list-item id="u0025">
+    <label>•</label>
+    <p id="p0025">It models well the Italian data of SARS-CoV-2 over the monitored six-month period</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

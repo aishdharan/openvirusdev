@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Characteristics of women diagnosed with HIV, Israel, 2010–2018</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th/>
+    <th>All years (2010–2018) 
+     <italic>N</italic> = 763
+    </th>
+    <th>2010–2012 
+     <italic>N</italic> = 246
+    </th>
+    <th>2013–2015 
+     <italic>N</italic> = 257
+    </th>
+    <th>2016–2018 
+     <italic>N</italic> = 260
+    </th>
+    <th>
+     <italic>p value</italic>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>Median age at diagnosis (IQR)</td>
+    <td>38 (31–46)</td>
+    <td>37 (29–43)</td>
+    <td>37 (30–46)</td>
+    <td>40 (34–48)</td>
+    <td>&lt; 0.001</td>
+   </tr>
+   <tr>
+    <td colspan="6">Place of birth, n (%)</td>
+   </tr>
+   <tr>
+    <td> SSA</td>
+    <td>246 (32.2)</td>
+    <td>110 (44.7)</td>
+    <td>64 (24.9)</td>
+    <td>72 (27.7)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> FSU</td>
+    <td>314 (41.2)</td>
+    <td>77 (31.3)</td>
+    <td>107 (41.6)</td>
+    <td>130 (50)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Israel</td>
+    <td>87 (11.4)</td>
+    <td>30 (12.2)</td>
+    <td>32 (12.5)</td>
+    <td>25 (9.6)</td>
+    <td>&lt; 0.001</td>
+   </tr>
+   <tr>
+    <td> Other/Unknown</td>
+    <td>116 (15.2)</td>
+    <td>29 (11.8)</td>
+    <td>54 (21)</td>
+    <td>33 (12.7)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td colspan="6">Risk Groups, n (%)</td>
+   </tr>
+   <tr>
+    <td> Sexual contact</td>
+    <td>629 (82.4)</td>
+    <td>202 (82.1)</td>
+    <td>211 (82.1)</td>
+    <td>216 (83.1)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> IDU</td>
+    <td>83 (10.9)</td>
+    <td>34 (13.8)</td>
+    <td>33 (12.8)</td>
+    <td>16 (6.2)</td>
+    <td>0.001</td>
+   </tr>
+   <tr>
+    <td> Other/Unknown</td>
+    <td>51 (6.7)</td>
+    <td>10 (4.1)</td>
+    <td>13 (5.1)</td>
+    <td>28 (10.8)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>HIV-1 Subtype (N)</td>
+    <td>337</td>
+    <td>123</td>
+    <td>109</td>
+    <td>105</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> A, n (%)</td>
+    <td>130 (38.6)</td>
+    <td>45 (36.6)</td>
+    <td>40 (36.7)</td>
+    <td>45 (42.9)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> B, n (%)</td>
+    <td>34 (10.1)</td>
+    <td>10 (8.1)</td>
+    <td>17 (15.6)</td>
+    <td>7 (6.7)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> C, n (%)</td>
+    <td>141 (41.8)</td>
+    <td>61 (49.6)</td>
+    <td>44 (40.4)</td>
+    <td>36 (34.3)</td>
+    <td>0.014</td>
+   </tr>
+   <tr>
+    <td> G/AG, n (%)</td>
+    <td>23 (6.8)</td>
+    <td>3 (2.4)</td>
+    <td>7 (6.4)</td>
+    <td>13 (12.4)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td> Other, n (%)</td>
+    <td>9 (2.7)</td>
+    <td>4 (3.3)</td>
+    <td>1 (0.9)</td>
+    <td>4 (3.8)</td>
+    <td/>
+   </tr>
+   <tr>
+    <td>CD4 (cells/mm*3) (
+     <italic>n</italic> = 171), median (IQR)
+    </td>
+    <td>263 (121–466)</td>
+    <td>285 (146–496)</td>
+    <td>270 (133–492)</td>
+    <td>234 (73–394)</td>
+    <td>0.283</td>
+   </tr>
+   <tr>
+    <td>VL (Log c/mL) (
+     <italic>n</italic> = 236), median (IQR)
+    </td>
+    <td>4.5 (3.9–5.4)</td>
+    <td>4.4 (3.7–5.4)</td>
+    <td>4.6 (4.1–5.2)</td>
+    <td>4.8 (4.3–5.3)</td>
+    <td>0.519</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>Data are presented as n (%) or median (IQR); 
+   <italic>IQR</italic> Interquartile range, 
+   <italic>VL</italic> Viral load, 
+   <italic>SSA</italic> Sub-Saharan Africa, 
+   <italic>FSU</italic> Former Soviet Union, 
+   <italic>IDU</italic> Injecting drug users.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

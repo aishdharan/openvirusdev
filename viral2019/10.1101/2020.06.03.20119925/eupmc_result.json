@@ -1,0 +1,467 @@
+{
+  "id": [
+    "PPR171972"
+  ],
+  "source": [
+    "PPR"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PPR171972"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1101/2020.06.03.20119925"
+  ],
+  "title": [
+    "Early phylodynamics analysis of the COVID-19 epidemic in France"
+  ],
+  "authorString": [
+    "Danesh G, Elie B, Michalakis Y, Sofonea MT, Bal A, Behillil S, Destras G, Boutolleau D, Burrel S, Marcelin A, Plantier J, Thibault V, Simon-Loriere E, van der Werf S, Lina B, Josset L, Enouf V, Alizon S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Danesh G"
+          ],
+          "firstName": [
+            "Gonché"
+          ],
+          "lastName": [
+            "Danesh"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8688-7666",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Elie B"
+          ],
+          "firstName": [
+            "Baptiste"
+          ],
+          "lastName": [
+            "Elie"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Michalakis Y"
+          ],
+          "firstName": [
+            "Yannis"
+          ],
+          "lastName": [
+            "Michalakis"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Sofonea MT"
+          ],
+          "firstName": [
+            "Mircea"
+          ],
+          "lastName": [
+            "Sofonea"
+          ],
+          "initials": [
+            "MT"
+          ]
+        },
+        {
+          "fullName": [
+            "Bal A"
+          ],
+          "firstName": [
+            "Antonin"
+          ],
+          "lastName": [
+            "Bal"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Behillil S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Behillil"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Destras G"
+          ],
+          "firstName": [
+            "Grégory"
+          ],
+          "lastName": [
+            "Destras"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Boutolleau D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Boutolleau"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Burrel S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Burrel"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Marcelin A"
+          ],
+          "firstName": [
+            "Anne-Geneviève"
+          ],
+          "lastName": [
+            "Marcelin"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Plantier J"
+          ],
+          "firstName": [
+            "Jean-Christophe"
+          ],
+          "lastName": [
+            "Plantier"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Thibault V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Thibault"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Simon-Loriere E"
+          ],
+          "firstName": [
+            "Etienne"
+          ],
+          "lastName": [
+            "Simon-Loriere"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "van der Werf S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "van der Werf"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Lina B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Lina"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8959-2123",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Josset L"
+          ],
+          "firstName": [
+            "Laurence"
+          ],
+          "lastName": [
+            "Josset"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Enouf V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Enouf"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Alizon S"
+          ],
+          "firstName": [
+            "Samuel"
+          ],
+          "lastName": [
+            "Alizon"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8688-7666",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8959-2123",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "recommended_reviews",
+        "altmetrics"
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "France was one of the first countries to be reached by the COVID-19 pandemic. Here, we analyse 196 SARS-Cov-2 genomes collected between Jan 24 and Mar 24 2020, and perform a phylodynamics analysis. In particular, we analyse the doubling time, reproduction number (Rt) and infection duration associated with the epidemic wave that was detected in incidence data starting from Feb 27. Different models suggest a slowing down of the epidemic in Mar, which would be consistent with the implementation of the national lock-down on Mar 17. The inferred distributions for the effective infection duration and Rt are in line with those estimated from contact tracing data. Finally, based on the available sequence data, we estimate that the French epidemic wave originated between mid-Jan and early Feb. Overall, this analysis shows the potential to use sequence genomic data to inform public health decisions in an epidemic crisis context and calls for further analyses with denser sampling."
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Preprint"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "medRxiv"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1101/2020.06.03.20119925"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/article/PPR/PPR171972"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/api/fulltextRepo?pprId=PPR171972&type=FILE&fileName=EMS91009-pdf.pdf&mimeType=application/pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-06-06"
+  ],
+  "firstIndexDate": [
+    "2020-06-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-15"
+  ],
+  "firstPublicationDate": [
+    "2020-06-04"
+  ]
+}

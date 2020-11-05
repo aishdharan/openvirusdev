@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="pntd.0008679.g003" orientation="portrait" position="float">
+ <object-id pub-id-type="doi">10.1371/journal.pntd.0008679.g003</object-id>
+ <label>Fig 3</label>
+ <caption>
+  <title>Quantities of interest (QOI) as a function of arrival date.</title>
+  <p>QOI vs date of arrival that resulted in an epidemic by calendar date. The x-axis is the date of arrival of an infectious human, the simulation start date of February 15. The blue square points represent the time to peak infection in humans (in days). The red diamond points represent the maximum number of humans infected at any given point during the simulation. The green circle points represent the final (or cumulative) epidemic size at the end of the simulation; this is represented as the proportion of humans infected (rather than number). Simulations for arrivals dates in July to September had a classical unimodal peak, while other dates resulted in a prolonged low-level transmission, with bimodal peaks.</p>
+ </caption>
+ <graphic xlink:href="pntd.0008679.g003" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

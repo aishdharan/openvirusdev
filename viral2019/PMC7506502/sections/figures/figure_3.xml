@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig0003">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Solution of the system 
+   <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref> versus time using the method 
+   <xref rid="eq0027" ref-type="disp-formula">(3.2)</xref>, considering (a) a system free of COVID-19 and (b) a system with the presence of COVID-19. We employed the parameters of 
+   <xref rid="tbl0001" ref-type="table">Table 1</xref>, and the initial conditions are 
+   <inline-formula>
+    <math id="M140" altimg="si1.svg">
+     <mrow>
+      <msub>
+       <mi>S</mi>
+       <mn>0</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>0.5</mn>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </inline-formula>
+   <inline-formula>
+    <math id="M141" altimg="si2.svg">
+     <mrow>
+      <msub>
+       <mi>E</mi>
+       <mn>0</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>0.2</mn>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </inline-formula>
+   <inline-formula>
+    <math id="M142" altimg="si3.svg">
+     <mrow>
+      <msub>
+       <mi>I</mi>
+       <mn>0</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>0.1</mn>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </inline-formula>
+   <inline-formula>
+    <math id="M143" altimg="si4.svg">
+     <mrow>
+      <msub>
+       <mi>Q</mi>
+       <mn>0</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>0.1</mn>
+      <mo>,</mo>
+     </mrow>
+    </math>
+   </inline-formula>
+   <inline-formula>
+    <math id="M144" altimg="si5.svg">
+     <mrow>
+      <msub>
+       <mi>R</mi>
+       <mn>0</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>0.1</mn>
+     </mrow>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="M145" altimg="si6.svg">
+     <mrow>
+      <mi>τ</mi>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>0.01</mn>
+     </mrow>
+    </math>
+   </inline-formula>. (c) Dynamics of the model 
+   <xref rid="eq0001" ref-type="disp-formula">(2.1)</xref> when it transits from COVID-19 present to COVID-19 absent with 
+   <inline-formula>
+    <math id="M146" altimg="si7.svg">
+     <mrow>
+      <msub>
+       <mi>q</mi>
+       <mn>1</mn>
+      </msub>
+      <mo linebreak="goodbreak">=</mo>
+      <mn>0.014</mn>
+     </mrow>
+    </math>
+   </inline-formula>. (d) Dynamics of the infected individuals depending on the parameter 
+   <italic>q</italic>
+   <sub>1</sub>.
+  </p>
+ </caption>
+ <alt-text id="at0003">Fig. 3</alt-text>
+ <graphic xlink:href="gr3_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

@@ -1,0 +1,414 @@
+{
+  "id": [
+    "33080715"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33080715"
+  ],
+  "pmcid": [
+    "PMC7572017"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7572017"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1097/md.0000000000022688"
+  ],
+  "title": [
+    "A systematic review of etiology, epidemiology, clinical manifestations, image findings, and medication of 2019 Corona Virus Disease-19 in Wuhan, China."
+  ],
+  "authorString": [
+    "Xu J, Ma XP, Bai L, Wang M, Deng W, Ning N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Jia"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Information Technology Center, West China Hospital, Sichuan University (Engineering Research Center of Medical Information Technology, Ministry of Education)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ma XP"
+          ],
+          "firstName": [
+            "Xue-Ping"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "XP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "West China School of Nursing."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bai L"
+          ],
+          "firstName": [
+            "Long"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiation Oncology, Cancer Center."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Miao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Public Affairs Department."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Deng W"
+          ],
+          "firstName": [
+            "Wu"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Information Technology Center, West China Hospital, Sichuan University (Engineering Research Center of Medical Information Technology, Ministry of Education)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ning N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Ning"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Orthopaedics, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "42"
+      ],
+      "volume": [
+        "99"
+      ],
+      "journalIssueId": [
+        "3041307"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0304-5412"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e22688"
+  ],
+  "abstractText": [
+    "BACKGROUND:Unknown origin pneumonia has been furiously spreading since the late of December 2019, subsequently spread to approximately all provinces and areas in China and many countries, which was announced as a Public Health Emergency of International Concern by World Health Organization (WHO). The studies on 2019 Corona Virus Disease-19 (COVID-19) conducted from various fields around the world. Herein, the objective of the present study is to summarize the etiology, epidemiology, clinical manifestations, image findings, traceability analysis, and drug development of COVID-19. METHODS:The following electronic databases were searched: Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, EMBASE, Cochrane Library, China National Knowledge Infrastructure (CNKI), Chinese Biomedical Literature Database, VIP Chinese Science and Technology Periodical Database, and Wanfang Data. Other relevant literature will be manually searched as a compliment. We have reviewed etiology, epidemiology, clinical manifestations, image findings, and medication from case reports and retrospective clinical studies relating to COVID-19 published since the outbreak. RESULTS:The coronavirus is closely related to bat coronavirus and pangolin coronavirus. Besides, the infection pathway is confirmed to be the respiratory and digestive systems. The virus indicates person-to-person transmission and some patients present asymptomatic. The elderly have a higher mortality rate. Rapid and sensitive nucleic acid testing is usually used as a basis for diagnosis. Currently, there is no specific vaccine and antiviral drug. Intervention actions such as travel bans and quarantine adopted have effectively reduced the spread of the epidemic. CONCLUSION:This systemic review will provide high-quality evidence to summarize etiology, epidemiology, clinical manifestations, image findings, traceability analysis, drug development in patients with COVID-19."
+  ],
+  "affiliation": [
+    "Information Technology Center, West China Hospital, Sichuan University (Engineering Research Center of Medical Information Technology, Ministry of Education)."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000022688"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7572017"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7572017?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-21"
+  ],
+  "firstIndexDate": [
+    "2020-10-21"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-31"
+  ],
+  "dateOfRevision": [
+    "2020-10-30"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

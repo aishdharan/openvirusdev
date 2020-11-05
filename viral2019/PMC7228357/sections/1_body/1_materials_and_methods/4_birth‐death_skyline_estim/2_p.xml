@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The birth‐death skyline model implemented in Beast 2.48 was used to infer changes in the effective reproductive number (
+ <italic>R</italic>
+ <sub>e</sub>), and other epidemiological parameters such as the death/recovery rate (
+ <italic>δ</italic>), the transmission rate (
+ <italic>λ</italic>), the origin of the epidemic, and the sampling proportion (
+ <italic>ρ</italic>).
+ <xref rid="jmv25723-bib-0009" ref-type="ref">
+  <sup>9</sup>
+ </xref> Given that the samples were collected during a short period of time, a “birth‐death contemporary” model was used.
+</p>

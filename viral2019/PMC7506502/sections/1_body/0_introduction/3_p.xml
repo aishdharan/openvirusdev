@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0007">As many other problems associated to the study of COVID-19, the reliable prediction of its dynamics is an important topic of investigation from the epidemiological point of view. In general, the dynamics of epidemics is a highly transited topic of research in mathematics and simulation. There are various families of models depending on the assumptions on the mechanisms of propagation. For example, there are susceptible-infected-susceptible (SIS) systems which have been used to model nonlinear incidence rates and double epidemic hypotheses 
+ <xref rid="bib0008" ref-type="bibr">[8]</xref>, susceptible-infected-recovered (SIR) models which are employed to consider the awareness of the presence of a disease 
+ <xref rid="bib0009" ref-type="bibr">[9]</xref>, susceptible-exposed-infected-recovered (SEIR) models that predict the propagation of epidemics with non-local reaction functions 
+ <xref rid="bib0010" ref-type="bibr">[10]</xref>, susceptible-exposed-infected-quarantined-recovered (SEIQR) systems used to account for adjusted incidence and imperfect vaccinations 
+ <xref rid="bib0011" ref-type="bibr">[11]</xref>, among other examples. It is worth pointing out that most of the deterministic models available in the literature are based on the use of ordinary differential equations, which means that a constant diffusion among the population is assumed. However, there are approaches which hinge on the use of systems of partial differential equations in order to account for imperfect mixing modelled by diffusion 
+ <xref rid="bib0012" ref-type="bibr">[12]</xref>, 
+ <xref rid="bib0013" ref-type="bibr">[13]</xref>, 
+ <xref rid="bib0014" ref-type="bibr">[14]</xref>, 
+ <xref rid="bib0015" ref-type="bibr">[15]</xref>. In the present work, we focus our attention to the spreading of COVID-19 in populations where the diffusion is constant.
+</p>

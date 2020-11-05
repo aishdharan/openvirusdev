@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3294">We evaluate the prediction accuracy first on the Chinese province Hubei. In December 2019, the first cases of COVID-19 were detected in Wuhan, the capital of Hubei. The first case outside Wuhan was reported on January 21. From January 24 onwards, the whole province Hubei was under lockdown, prohibiting any non-urgent travels. On February 15, the local government in Hubei changed the diagnosing policy, causing an erratic increase in the number of reported cases on February 15. Therefore we restrict ourselves to the period from January 21 to February 14. The reported cases are provided by the 
+ <xref rid="b15" ref-type="bibr">Health Commission of Hubei (2020)</xref>. The majority of COVID-19 patients were reported in Wuhan, as shown in 
+ <xref rid="fig1" ref-type="fig">Fig. 1</xref>. We have removed Shennongjia from our analysis, because of the small number of infections in that region.
+</p>

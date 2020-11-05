@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ak005">
+ <sec id="s0080">
+  <title>Acknowledgements</title>
+  <p id="p0145">This research was supported by the Bill &amp; Melinda Gates Foundation (Project INV-006261): “COVID-19: public health governance &amp; service delivery systems in China”, 2020-2022. It was also supported by the 
+   <funding-source id="gp010">
+    <institution-wrap>
+     <institution-id institution-id-type="doi">10.13039/100005156</institution-id>
+     <institution>Alexander von Humboldt Foundation</institution>
+    </institution-wrap>
+   </funding-source>, through the Alexander von Humboldt Professor award, funded by the 
+   <funding-source id="gp005">
+    <institution-wrap>
+     <institution-id institution-id-type="doi">10.13039/501100002347</institution-id>
+     <institution>Federal Ministry of Education and Research</institution>
+    </institution-wrap>
+   </funding-source>, Germany.
+  </p>
+ </sec>
+ <sec id="s0085">
+  <title>Compliance with ethics guidelines</title>
+  <p id="p0150">Simiao Chen, Qiushi Chen, Weizhong Yang, Lan Xue, Yuanli Liu, Juntao Yang, Chen Wang and Till Bärnighausen declare that they have no conflict of interest or financial conflicts to disclose.</p>
+ </sec>
+</ack>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig02" fig-type="figure" orientation="portrait" position="float">
+ <label>Fig. 2.</label>
+ <caption>
+  <p>Prospects for disease suppression. Simulations of the age-structured SEIR model performed assuming control measures are initiated when there is a total of 10,000 infectious individuals in the population. The different control measures and strengths are listed in 
+   <xref ref-type="sec" rid="s3">
+    <italic>Materials and Methods</italic>
+   </xref>. (
+   <italic>A</italic>) Whether suppression is possible depends on both the self-isolation observance rate and the proportion of infections due to symptomatic individuals. More extensive social distancing measures increase the ranges of these two parameters for which suppression is possible. (
+   <italic>B</italic>) Increases in self-isolation effectiveness drive down the reproductive number, which also depends on the social distancing measures employed. (
+   <italic>C</italic>) The time taken for COVID-19 to be suppressed (modeled as a 100-fold reduction in infectious individuals) depends on the amount the reproductive number is decreased below one.
+  </p>
+ </caption>
+ <graphic id="gra2" xlink:href="pnas.2008087117fig02" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

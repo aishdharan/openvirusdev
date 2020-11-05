@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Holt-Lunstad</surname>
+    <given-names>J</given-names>
+   </name>
+   <name>
+    <surname>Smith</surname>
+    <given-names>TB</given-names>
+   </name>
+   <name>
+    <surname>Baker</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Harris</surname>
+    <given-names>T</given-names>
+   </name>
+   <name>
+    <surname>Stephenson</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Loneliness and Social Isolation as Risk Factors for Mortality</article-title>
+  <source> Perspectives on Psychological Science</source>
+  <year>2015</year>
+  <volume>10</volume>
+  <issue>2</issue>
+  <fpage>227</fpage>
+  <lpage>37</lpage>
+  <pub-id pub-id-type="pmid">25910392</pub-id>
+ </element-citation>
+</ref>

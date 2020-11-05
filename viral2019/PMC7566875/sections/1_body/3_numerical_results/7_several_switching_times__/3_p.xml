@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e9947"> The results in 
+ <xref rid="fig8" ref-type="fig">Fig. 8</xref> are for 
+ <inline-formula>
+  <math id="d1e9956" display="inline" altimg="si314.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">≤</mo>
+    <mn>12</mn>
+   </mrow>
+  </math>
+ </inline-formula>; we do not rule out that for 
+ <inline-formula>
+  <math id="d1e9966" display="inline" altimg="si315.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>12</mn>
+   </mrow>
+  </math>
+ </inline-formula>, a mitigation strategy may become competitive with a suppression strategy. However, all mitigation strategies (no matter how many switches) have an inherent instability-like behaviour — small deviations from the optimal control lead to large deviations in the outcome of the epidemic. This is illustrated in 
+ <xref rid="fig10" ref-type="fig">Fig. 10</xref>, where we show 10 different simulation results corresponding to control sequences that are within 10% of the optimal control. In several cases, this small deviation away from the optimal control leads to a breach of the state constraint concerning ICU capacity by a factor of 4. Thus, the maintenance of the state constraints is highly sensitive to small deviations away from the optimal control. Now, the non-pharmaceutical interventions discussed in this article are population-based interventions, concerning such public-health initiatives as social distancing, testing suspect cases, quarantining infected individuals, up to so-called ‘lockdown’ of entire populations. It can be appreciated that these are blunt tools for epidemic control, and are dependent on a high degree of compliance from the public. Consequently, a deviation of 10% in the implementation of these controls seems reasonable. And yet such a small deviation leads to a four-fold breach in the ICU capacity. This sensitivity in the outcomes to small deviations in the controls is another reason why the mitigation strategy is inferior to the suppression strategy.
+</p>

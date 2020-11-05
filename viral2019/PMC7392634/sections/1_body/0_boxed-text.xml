@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BX1" position="float" orientation="portrait">
+ <caption>
+  <title>Summary box</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes COVID-19, has spread to nearly all countries of the world in only a few months. It is unique that an emerging respiratory virus becomes a pandemic, and can continue human-to-human transmission unabated, probably permanently.</p>
+  </list-item>
+  <list-item>
+   <p>Depending on the context, the trajectory and the impact of the COVID-19 epidemic vary widely across affected countries. This is in fact the case with most infectious diseases.</p>
+  </list-item>
+  <list-item>
+   <p>Despite limited initial knowledge on COVID-19, most societies have deployed draconian measures, including lockdowns, to contain the virus and mitigate its impact. This had variable success, but invariably with profound socioeconomic collateral effects.</p>
+  </list-item>
+  <list-item>
+   <p>Through research and rapid sharing of its findings, progressively more insights on SARS-CoV-2 and COVID-19 have been uncovered (knowns), mainly based on evidence from China, Europe and the USA; however, important knowledge gaps remain (unknowns).</p>
+  </list-item>
+  <list-item>
+   <p>The different COVID-19 epidemics and the responses unfolding in the Global South are little described, analysed or understood. Insights from these less researched contexts are important for discerning potential future scenarios, not only for the first wave in virgin territories still untouched by COVID-19, but also for future waves.</p>
+  </list-item>
+  <list-item>
+   <p>More understanding of lived experiences of people in a variety of contexts is necessary to get a full global picture and allow learning from this variety.</p>
+  </list-item>
+  <list-item>
+   <p>
+    <ext-link ext-link-type="uri" xlink:href="https://blogs.bmj.com/bmjgh/2020/05/26/from-models-to-narratives-and-back-a-call-for-on-the-ground-analyses-of-covid-19-spread-and-response-in-africa/" xmlns:xlink="http://www.w3.org/1999/xlink">BMJ Global Health and Emerging Voices for Global Health have launched a call</ext-link> for such on-the-ground narratives and analyses on the epidemics of, and responses to, COVID-19.
+   </p>
+  </list-item>
+ </list>
+</boxed-text>

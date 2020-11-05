@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>ACE2</term>
+   <def>
+    <p id="Par2">Angiotensin-converting enzyme 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>BCoV</term>
+   <def>
+    <p id="Par3">Bovine coronavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CCoV</term>
+   <def>
+    <p id="Par4">Canine coronavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CoV</term>
+   <def>
+    <p id="Par5">Coronaviruses</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>COVID-19</term>
+   <def>
+    <p id="Par6">Coronavirus disease 2019</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>DPP4</term>
+   <def>
+    <p id="Par7">Dipeptidyl peptidase 4</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FECV</term>
+   <def>
+    <p id="Par8">Feline enteric coronavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FIP</term>
+   <def>
+    <p id="Par9">Feline infectious peritonitis</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>FIPV</term>
+   <def>
+    <p id="Par10">Feline infectious peritonitis virus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>GI</term>
+   <def>
+    <p id="Par11">Gastrointestinal</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HCoV</term>
+   <def>
+    <p id="Par12">Human coronavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HCoV-229E</term>
+   <def>
+    <p id="Par13">Human coronavirus 229E</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HCoV-HKU1</term>
+   <def>
+    <p id="Par14">Human coronavirus HKU1</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HCoV-NL63</term>
+   <def>
+    <p id="Par15">Human coronavirus NL63</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>HCoV-OC43</term>
+   <def>
+    <p id="Par16">Human coronavirus OC43</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MERS-CoV</term>
+   <def>
+    <p id="Par17">Middle East respiratory syndrome</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PDCoV</term>
+   <def>
+    <p id="Par18">Porcine delta coronavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>PEDV</term>
+   <def>
+    <p id="Par19">Porcine epidemic diarrhea virus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SADS-CoV</term>
+   <def>
+    <p id="Par20">Swine acute diarrhea syndrome coronavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SARS-CoV</term>
+   <def>
+    <p id="Par21">Severe acute respiratory syndrome coronavirus</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SARS-CoV-2</term>
+   <def>
+    <p id="Par22">Severe acute respiratory syndrome coronavirus 2</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TGEV</term>
+   <def>
+    <p id="Par23">Transmissible gastroenteritis virus</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

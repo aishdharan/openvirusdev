@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Similar analyses were performed to evaluate the effectiveness of intensive community screening. For Wuhan city and China excluding Hubei, the 
+ <italic>α</italic> values from February 16 to March 10 were predicted using data from February 6 to February 15, and the 
+ <italic>φ</italic> values from February 16 to March 11 were predicted using data from February 11 to February 15. Then we used the predicted 
+ <italic>α</italic> values to calculate 
+ <italic>daily</italic>_
+ <italic>recover</italic>_
+ <italic>num</italic>, and infections from February 16 to March 11 were modeled using the predicted values of 
+ <italic>α</italic> and 
+ <italic>daily</italic>_
+ <italic>recover</italic>_
+ <italic>num</italic>. Infections in Wuhan city and China excluding Hubei were predicted to be 116003 and 388, respectively, on March 11. In reality, with intensive community screening, the numbers of infections in Wuhan city and China excluding Hubei were 15892 and 610, respectively, on March 11 (
+ <xref ref-type="fig" rid="pone.0238411.g004">Fig 4</xref>).
+</p>

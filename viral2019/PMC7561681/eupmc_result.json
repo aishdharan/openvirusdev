@@ -1,0 +1,748 @@
+{
+  "id": [
+    "33060262"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33060262"
+  ],
+  "pmcid": [
+    "PMC7561681"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7561681"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1128/mra.00438-20"
+  ],
+  "title": [
+    "Complete Coding Sequences of 22 East/Central/South African Genotype Chikungunya Virus Isolates from Thailand (2018 to 2019)."
+  ],
+  "authorString": [
+    "Chinnawirotpisan P, Chusri S, Manasatienkij W, Joonlasak K, Huang AT, Poolpanichupatam Y, Lohachanakul J, Rungrojcharoenkit K, Thaisomboonsuk B, Buddhari D, Anderson KB, Simasatien S, Suwanpakdee D, Watanaveeradej V, Supadish PO, Suntarattiwong P, Jones AR, Fernandez S, Klungthong C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chinnawirotpisan P"
+          ],
+          "firstName": [
+            "Piyawan"
+          ],
+          "lastName": [
+            "Chinnawirotpisan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8472-2120",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand piyawanc.fsn@afrims.org."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chusri S"
+          ],
+          "firstName": [
+            "Sarunyou"
+          ],
+          "lastName": [
+            "Chusri"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Infectious Disease, Department of Internal Medicine, Faculty of Medicine, Prince of Songkhla University, Songkhla, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Manasatienkij W"
+          ],
+          "firstName": [
+            "Wudtichai"
+          ],
+          "lastName": [
+            "Manasatienkij"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Joonlasak K"
+          ],
+          "firstName": [
+            "Khajohn"
+          ],
+          "lastName": [
+            "Joonlasak"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang AT"
+          ],
+          "firstName": [
+            "Angkana T"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Poolpanichupatam Y"
+          ],
+          "firstName": [
+            "Yongyuth"
+          ],
+          "lastName": [
+            "Poolpanichupatam"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lohachanakul J"
+          ],
+          "firstName": [
+            "Jindarat"
+          ],
+          "lastName": [
+            "Lohachanakul"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rungrojcharoenkit K"
+          ],
+          "firstName": [
+            "Kamonthip"
+          ],
+          "lastName": [
+            "Rungrojcharoenkit"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Thaisomboonsuk B"
+          ],
+          "firstName": [
+            "Butsaya"
+          ],
+          "lastName": [
+            "Thaisomboonsuk"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Buddhari D"
+          ],
+          "firstName": [
+            "Darunee"
+          ],
+          "lastName": [
+            "Buddhari"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson KB"
+          ],
+          "firstName": [
+            "Kathryn B"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "KB"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Microbiology and Immunology, SUNY Upstate Medical University, Syracuse, New York, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Simasatien S"
+          ],
+          "firstName": [
+            "Sriluck"
+          ],
+          "lastName": [
+            "Simasatien"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pediatrics, Phramongkutklao Hospital, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suwanpakdee D"
+          ],
+          "firstName": [
+            "Detchvijitr"
+          ],
+          "lastName": [
+            "Suwanpakdee"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pediatrics, Phramongkutklao Hospital, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Watanaveeradej V"
+          ],
+          "firstName": [
+            "Veerachai"
+          ],
+          "lastName": [
+            "Watanaveeradej"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pediatrics, Phramongkutklao Hospital, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Supadish PO"
+          ],
+          "firstName": [
+            "Pra-On"
+          ],
+          "lastName": [
+            "Supadish"
+          ],
+          "initials": [
+            "PO"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pediatrics, Queen Sirikit National Institute of Child Health, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Suntarattiwong P"
+          ],
+          "firstName": [
+            "Piyarat"
+          ],
+          "lastName": [
+            "Suntarattiwong"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pediatrics, Queen Sirikit National Institute of Child Health, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jones AR"
+          ],
+          "firstName": [
+            "Anthony R"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fernandez S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Fernandez"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Klungthong C"
+          ],
+          "firstName": [
+            "Chonticha"
+          ],
+          "lastName": [
+            "Klungthong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8472-2120",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "42"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "3038978"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbiology resource announcements"
+          ],
+          "ISOAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "medlineAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "NLMid": [
+            "101728794"
+          ],
+          "ISSN": [
+            "2576-098X"
+          ],
+          "ESSN": [
+            "2576-098X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "The coding-complete genome sequences of 22 chikungunya virus strains collected from the 2018-2019 outbreak in Thailand are reported. All sequences belong to the East/Central/South African (ECSA) genotype and contain two mutations, E1:K211E and E2:V264A, which were previously shown to be associated with increased viral infectivity, dissemination, and transmission in Aedes aegypti."
+  ],
+  "affiliation": [
+    "Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand piyawanc.fsn@afrims.org."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/MRA.00438-20"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7561681"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7561681?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "biosample"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-10-16"
+  ],
+  "firstIndexDate": [
+    "2020-10-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-11-01"
+  ],
+  "dateOfRevision": [
+    "2020-10-31"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-15"
+  ],
+  "firstPublicationDate": [
+    "2020-10-15"
+  ]
+}

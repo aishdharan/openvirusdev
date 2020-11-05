@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib5">
+ <label>5</label>
+ <element-citation publication-type="journal" id="sref5">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>S.</given-names>
+   </name>
+   <name>
+    <surname>Pan</surname>
+    <given-names>C.</given-names>
+   </name>
+  </person-group>
+  <article-title>Differentiating diagnosis of COVID-19 or influenza in patients based on laboratory data during flu season</article-title>
+  <comment>Sep</comment>
+  <source>EClinicalMedicine</source>
+  <volume>26</volume>
+  <year>2020</year>
+  <fpage>100511</fpage>
+  <pub-id pub-id-type="doi">10.1016/j.eclinm.2020.100511</pub-id>
+  <comment>Epub 2020 Aug 25. PMID: 32864591; PMCID: PMC7445122</comment>
+  <pub-id pub-id-type="pmid">32864591</pub-id>
+ </element-citation>
+</ref>

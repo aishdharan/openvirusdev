@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Fauci</surname>
+   <given-names>AS</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Redfield</surname>
+   <given-names>RR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sigounas</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Weahkee</surname>
+   <given-names>MD</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Giroir</surname>
+   <given-names>BP</given-names>
+  </string-name>. 
+  <article-title>Ending the HIV epidemic: a plan for the United States.</article-title>
+  <source>JAMA</source>
+  <year>2019</year>;
+  <volume>321</volume>:
+  <fpage>844</fpage>–
+  <lpage>5</lpage>. 
+  <pub-id pub-id-type="doi">10.1001/jama.2019.1343</pub-id>
+  <?supplied-pmid 30730529?>
+  <pub-id pub-id-type="pmid">30730529</pub-id>
+ </mixed-citation>
+</ref>

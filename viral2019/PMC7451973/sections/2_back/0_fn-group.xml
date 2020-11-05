@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fn-group>
+ <fn id="FN1">
+  <label>*</label>
+  <p>
+   <ext-link ext-link-type="uri" xlink:href="https://cdafound.org/" xmlns:xlink="http://www.w3.org/1999/xlink">https://cdafound.org/</ext-link>.
+  </p>
+ </fn>
+ <fn id="FN2">
+  <label>†</label>
+  <p>The catastrophic health-care expenditure level is a financial metric that determines the limit of out-of-pocket spending that will prevent a family from becoming financially destitute; the amount for Uzbekistan was calculated to be US$925, using per capita expenditure data from the World Bank and household size data from the United Nations.</p>
+ </fn>
+ <fn id="FN3">
+  <label>§</label>
+  <p>
+   <ext-link ext-link-type="uri" xlink:href="https://www.indexmundi.com/uzbekistan/demographics_profile.html" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.indexmundi.com/uzbekistan/demographics_profile.html</ext-link>.
+  </p>
+ </fn>
+</fn-group>

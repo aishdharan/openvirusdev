@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R7">
+ <label>7. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Hoffmann</surname>
+   <given-names>E</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Stech</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Guan</surname>
+   <given-names>Y</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Webster</surname>
+   <given-names>RG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Perez</surname>
+   <given-names>DR</given-names>
+  </string-name>. 
+  <article-title>Universal primer set for the full-length amplification of all influenza A viruses.</article-title>
+  <source>Arch Virol</source>. 
+  <year>2001</year>;
+  <volume>146</volume>:
+  <fpage>2275</fpage>–
+  <lpage>89</lpage>. 
+  <pub-id pub-id-type="doi">10.1007/s007050170002</pub-id>
+  <?supplied-pmid 11811679?>
+  <pub-id pub-id-type="pmid">11811679</pub-id>
+ </mixed-citation>
+</ref>

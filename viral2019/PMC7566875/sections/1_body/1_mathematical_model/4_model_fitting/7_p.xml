@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e5295">Finally, we emphasize that the focus of this article is on developing a numerical framework for optimal control for epidemic outbreaks. Therefore, quantifying the uncertainty in the fit of the SEIR model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> to the epidemiological data takes a back seat. However, in 
+ <xref rid="appA" ref-type="sec">Appendix A</xref>, along with the optimal parameter values corresponding to Eq. 
+ <xref rid="fd6" ref-type="disp-formula">(6)</xref>, we also provide the confidence intervals for the same, as well as confidence intervals for the basic reproductive number 
+ <inline-formula>
+  <math id="d1e5312" display="inline" altimg="si47.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> and the effective reproductive numbers in 
+ <xref rid="tbl1" ref-type="table">Table 1</xref>.
+</p>

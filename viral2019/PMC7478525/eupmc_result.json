@@ -1,0 +1,635 @@
+{
+  "id": [
+    "32899041"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32899041"
+  ],
+  "pmcid": [
+    "PMC7478525"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7478525"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1097/md.0000000000021982"
+  ],
+  "title": [
+    "Epidemiological characteristics of dengue in mainland China from 1990 to 2019: A descriptive analysis."
+  ],
+  "authorString": [
+    "Lin H, Wang X, Li Z, Li K, Lin C, Yang H, Yang W, Ye X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lin H"
+          ],
+          "firstName": [
+            "Haixiong"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The First School of Clinical Medicine, Guangzhou University of Chinese Medicine, Guangzhou, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaotong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Clinical Medical College of Acupuncture, Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine, Guangzhou, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zige"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The First School of Clinical Medicine, Guangzhou University of Chinese Medicine, Guangzhou, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li K"
+          ],
+          "firstName": [
+            "Kangju"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The First School of Clinical Medicine, Guangzhou University of Chinese Medicine, Guangzhou, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lin C"
+          ],
+          "firstName": [
+            "Chunni"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Foreign Languages, Xinhua College of Sun Yat-sen University, Dongguan, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Huijun"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Six School of Clinical Medicine, Guangzhou University of Chinese Medicine, Guangzhou, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang W"
+          ],
+          "firstName": [
+            "Weiqin"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "The Eighth Affiliated Hospital, Sun Yat-sen University, Shenzhen, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ye X"
+          ],
+          "firstName": [
+            "Xiaopeng"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Bao'an Traditional Chinese Medicine Hospital Group, Guangzhou University of Chinese Medicine, Shenzhen, People's Republic of China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "36"
+      ],
+      "volume": [
+        "99"
+      ],
+      "journalIssueId": [
+        "3008725"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "medlineAbbreviation": [
+            "Medicine (Baltimore)"
+          ],
+          "NLMid": [
+            "2985248R"
+          ],
+          "ISSN": [
+            "0304-5412"
+          ],
+          "ESSN": [
+            "1536-5964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e21982"
+  ],
+  "abstractText": [
+    "In the past 30 years, dengue has undergone dramatic changes in China every year. This study explores the epidemiological trend of dengue in China during this period to identify high-risk seasons, regions, ages, susceptible populations, and provide information for dengue prevention and control activities.Dengue data from 1990 to 2019 were derived from the Public Health Science Data Center, Web of Science, China National Knowledge Infrastructure, PubMed, and Centers for Disease Control and Prevention of the corresponding province. GraphPad Prism 7 was conducted to generate disease evolution maps, occupational heat maps, and monthly heat maps of dengue cases and deaths in mainland China and Guangdong Province. Excel 2016 was used to create a cyclone map of age and gender distribution. Powerpoint 2016 was performed to create geographic maps.From 1990 to 2019, the annual number of dengue cases showed an increasing trend and reaching a peak in 2014, with 46,864 dengue cases (incidence rate: 3.4582/100,000), mainly contributed by Guangdong Province (45,189 cases, accounting for 96.43%). Dengue pandemics occurred every 4 to 6 years. The prevalence of dengue fever was Autumn, which was generally prevalent from June to December and reached its peak from September to November. The provinces reporting dengue cases each year have expanded from the southeastern coastal region to the southwest, central, northeast, and northwest regions, and the provinces with a high incidence were Guangdong, Guangxi, Yunnan, Fujian, and Zhejiang. People aged 25 to 44 years were more susceptible to dengue virus infection. And most of them were male patients. Dengue mainly occurs in the following groups: students, business service staffs, workers, farmers, retired staffs, housewives, and the unemployed. Four provinces reported deaths from dengue, namely Guangdong Province, Zhejiang Province, Henan Province, and Hunan Province.The dengue fever epidemic occurred every 4 to 6 years, mostly in autumn. The endemic areas were Guangdong, Guangxi, Yunnan, Fujian, and Zhejiang provinces. People aged 25 to 44 years, men, students, business service staffs, workers, farmers, retired staffs, housewives, and the unemployed were more susceptible to dengue fever. These findings help to develop targeted public health prevention and control measures."
+  ],
+  "affiliation": [
+    "The First School of Clinical Medicine, Guangzhou University of Chinese Medicine, Guangzhou, People's Republic of China."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dengue"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Factual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Geography, Medical"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "AIM"
+          ],
+          "name": [
+            "Core clinical journals"
+          ]
+        },
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1097/MD.0000000000021982"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7478525"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7478525?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2020-09-21"
+  ],
+  "dateOfCreation": [
+    "2020-09-09"
+  ],
+  "firstIndexDate": [
+    "2020-09-09"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-10-01"
+  ],
+  "firstPublicationDate": [
+    "2020-09-01"
+  ]
+}

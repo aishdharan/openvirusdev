@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="jmv25723-bib-0007">
+ <label>7</label>
+ <mixed-citation publication-type="journal" id="jmv25723-cit-0007">
+  <string-name>
+   <surname>Baele</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Lemey</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bedford</surname>
+   <given-names>T</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Rambaut</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Suchard</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Alekseyenko</surname>
+   <given-names>AV</given-names>
+  </string-name>. 
+  <article-title>Improving the accuracy of demographic and molecular clock model comparison while accommodating phylogenetic uncertainty</article-title>. 
+  <source xml:lang="en">Mol Biol Evol</source>. 
+  <year>2012</year>;
+  <volume>29</volume>(
+  <issue>9</issue>):
+  <fpage>2157</fpage>‐
+  <lpage>2167</lpage>.
+  <pub-id pub-id-type="pmid">22403239</pub-id>
+ </mixed-citation>
+</ref>

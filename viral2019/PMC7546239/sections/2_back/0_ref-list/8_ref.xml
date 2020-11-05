@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b8">
+ <element-citation publication-type="journal" id="sb8">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Van den Driessche</surname>
+    <given-names>P.</given-names>
+   </name>
+   <name>
+    <surname>Watmough</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>Reproduction numbers and sub-threshold endemic equilibria for compartmental models of disease transmission</article-title>
+  <source>Mathematical Biosciences</source>
+  <volume>180</volume>
+  <issue>1</issue>
+  <year>2002</year>
+  <fpage>29</fpage>
+  <lpage>48</lpage>
+  <pub-id pub-id-type="doi">10.1016/S0025-5564(02)00108-6</pub-id>
+  <comment>URL 
+   <ext-link ext-link-type="uri" xlink:href="http://www.sciencedirect.com/science/article/pii/S0025556402001086" id="interref8" xmlns:xlink="http://www.w3.org/1999/xlink">http://www.sciencedirect.com/science/article/pii/S0025556402001086</ext-link>
+  </comment>
+  <pub-id pub-id-type="pmid">12387915</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Yakob</surname>
+   <given-names>L</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Clements</surname>
+   <given-names>ACA</given-names>
+  </string-name>. 
+  <article-title>A mathematical model of chikungunya dynamics and control: the major epidemic on Réunion Island.</article-title>
+  <source>PLoS One</source>. 
+  <year>2013</year>;
+  <volume>8</volume>:
+  <elocation-id>e57448</elocation-id>. 
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0057448</pub-id>
+  <?supplied-pmid 23554860?>
+  <pub-id pub-id-type="pmid">23554860</pub-id>
+ </mixed-citation>
+</ref>

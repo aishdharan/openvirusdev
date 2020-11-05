@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The SEIR component of our model describes the human population represented as susceptible (
+ <italic>S</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>), exposed (infected but not infectious) (
+ <italic>E</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>), infectious (
+ <italic>I</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>), and recovered (immune) (
+ <italic>R</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>). Our model assumes the human population (
+ <italic>N</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>) to be constant, not subject to demography as we considered a single outbreak with a duration in the order of a year. A susceptible individual enters the exposed class (
+ <italic>E</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>) after being successfully infected, by an infectious mosquito bite. We do not explicitly account for repeated biting, interrupted feeds, or alternative host preferences. We also assume that not every infectious bite leads to successful human infection. Once a human individual is exposed, they enter an intrinsic incubation period, until they become infectious. They then move to the infectious class (
+ <italic>I</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>) and can transmit the virus back to a susceptible mosquito. We assumed a single infectious class and did not further discriminate between the symptomatic or asymptomatic individuals as previous evidence demonstrates that asymptomatic individuals can transmit the virus [
+ <xref rid="pntd.0008679.ref032" ref-type="bibr">32</xref>]. We assume that humans stay infectious for a period after which they recover. Once a human individual enters the recovered/immune class (
+ <italic>R</italic>
+ <sub>
+  <italic>h</italic>
+ </sub>), we assume a lifelong immunity, as multiple co-circulating serotypes of dengue virus were not considered. A resulting schematic representation of the model is shown in 
+ <xref ref-type="fig" rid="pntd.0008679.g001">Fig 1</xref>.
+</p>

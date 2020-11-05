@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e6024">We quantify the cost to the economy of implementing a sequence 
+ <inline-formula>
+  <math id="d1e6027" display="inline" altimg="si144.svg">
+   <mrow>
+    <mo>{</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo>}</mo>
+   </mrow>
+  </math>
+ </inline-formula> of controls by the cost function 
+ <disp-formula id="fd11">
+  <label>(11)</label>
+  <math id="d1e6061" display="block" altimg="si145.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">J</mi>
+    <mo linebreak="goodbreak">=</mo>
+    <munderover>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </munderover>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">i</mi>
+      </mrow>
+     </msub>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">i</mi>
+       <mo linebreak="badbreak">−</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>with the convention that 
+ <inline-formula>
+  <math id="d1e6125" display="inline" altimg="si146.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e6150" display="inline" altimg="si147.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">T</mi>
+   </mrow>
+  </math>
+ </inline-formula>. As such, 
+ <inline-formula>
+  <math id="d1e6169" display="inline" altimg="si247.svg">
+   <mi mathvariant="bold-fraktur">J</mi>
+  </math>
+ </inline-formula> is a function of the real variables 
+ <inline-formula>
+  <math id="d1e6174" display="inline" altimg="si149.svg">
+   <mrow>
+    <mo>{</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>}</mo>
+   </mrow>
+  </math>
+ </inline-formula>. The rationale for this choice is as follows. The aim of each NPI is to reduce the transmission of the virus. Other than the ‘easy’ interventions such as public information campaigns, handwashing, etc. the interventions aim to reduce the number of daily contacts between individuals. Assuming economic activity is proportional to this number of contacts, there is a natural linear relationship between the level of the NPIs and the cost to the economy (e.g. if people’s daily contracts are reduced by 10%, then one can expect economic activity to be reduced by the same factor). However, we recognize that some of the more intense NPIs may carry a disproportionate cost to the economy and for that reason, the linear relationship in Eq. 
+ <xref rid="fd11" ref-type="disp-formula">(11)</xref> may break down as 
+ <inline-formula>
+  <math id="d1e6241" display="inline" altimg="si150.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">i</mi>
+     </mrow>
+    </msub>
+    <mo>→</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula>. For that reason, in what follows, we investigate the robustness of our results to the assumption of a linear cost function (Section 
+ <xref rid="sec4" ref-type="sec">4</xref>).
+</p>

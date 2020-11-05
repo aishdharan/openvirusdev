@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="p0035">Our primary data sources were the daily updates of the COVID-19 epidemic published by China’s national and provincial Health Commissions, including the cumulative number of confirmed cases, deaths, and recoveries, for both China as a whole and Hubei province 
+ <xref rid="b0130" ref-type="bibr">[26]</xref>, 
+ <xref rid="b0135" ref-type="bibr">[27]</xref>. We used the average incubation period for the duration of the latent infection period in our model 
+ <xref rid="b0140" ref-type="bibr">[28]</xref>. We estimated the values of other model parameters and the initial epidemic conditions using model calibration 
+ <xref rid="b0145" ref-type="bibr">[29]</xref>, 
+ <xref rid="b0150" ref-type="bibr">[30]</xref>. Calibration targets included daily increments of confirmed cases, cumulative number of deaths, and cumulative number of recoveries from 20 January 2020 to 31 January 2020, separately for Hubei province and the combined total of the other provinces in China. We used a direct search algorithm 
+ <xref rid="b0145" ref-type="bibr">[29]</xref> to identify the model parameter values that resulted in the closest match between the projected outcomes and the calibration targets. To account for uncertainties in the model parameters, we repeated the calibration process for 1000 replications and collected the set of calibrated parameters with a total calibration error no larger than 20% above the minimum error. Further details of the model parameter description can be found in 
+ <xref rid="s0095" ref-type="sec">Section S2 in Appendix A</xref>. Our calibrated model performed well in capturing the overall trend of the reported numbers of confirmed cases, deaths, and recoveries during the calibration period (
+ <xref rid="s0095" ref-type="sec">Fig. S2 in Appendix A</xref>). The calibration results suggest that the transmission rate during the outbreak-control holiday was 55% of the rate before the holiday in Hubei province and 45% of the rate before the holiday in all other provinces of China.
+</p>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R3">
+ <label>3. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Sobata</surname>
+   <given-names>R</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Matsumoto</surname>
+   <given-names>C</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Igarashi</surname>
+   <given-names>M</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Uchida</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Momose</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Hino</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <etal>et al.</etal>
+  <article-title>No viremia of pandemic (H1N1) 2009 was demonstrated in blood donors who had donated blood during the probable incubation period.</article-title>
+  <source>Transfusion</source>. 
+  <year>2011</year>;
+  <volume>51</volume>:
+  <fpage>1949</fpage>–
+  <lpage>56</lpage>. 
+  <pub-id pub-id-type="doi">10.1111/j.1537-2995.2011.03109.x</pub-id>
+  <?supplied-pmid 21414008?>
+  <pub-id pub-id-type="pmid">21414008</pub-id>
+ </mixed-citation>
+</ref>

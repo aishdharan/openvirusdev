@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR23">
+ <label>23.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liu</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Linder</surname>
+    <given-names>CR</given-names>
+   </name>
+   <name>
+    <surname>Warnow</surname>
+    <given-names>T</given-names>
+   </name>
+  </person-group>
+  <article-title>RAxML and FastTree: comparing two methods for large-scale maximum likelihood phylogeny estimation</article-title>
+  <source>PLoS One</source>
+  <year>2011</year>
+  <volume>6</volume>
+  <issue>11</issue>
+  <fpage>e27731</fpage>
+  <pub-id pub-id-type="doi">10.1371/journal.pone.0027731</pub-id>
+  <pub-id pub-id-type="pmid">22132132</pub-id>
+ </element-citation>
+</ref>

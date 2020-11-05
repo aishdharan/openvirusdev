@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref1">
+ <label>[1]</label>
+ <element-citation publication-type="web">
+  <collab>The Daily Star</collab>
+  <article-title>Rise in dengue cases rings alarm</article-title>
+  <date-in-citation content-type="access-date">
+   <day>30</day>
+   <month>3</month>
+   <year>2020</year>
+  </date-in-citation>
+  <comment>Available via 
+   <uri xlink:href="https://www.thedailystar.net/frontpage/news/rise-dengue-cases-rings-alarm-1881676" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.thedailystar.net/frontpage/news/rise-dengue-cases-rings-alarm-1881676</uri>
+  </comment>
+ </element-citation>
+</ref>

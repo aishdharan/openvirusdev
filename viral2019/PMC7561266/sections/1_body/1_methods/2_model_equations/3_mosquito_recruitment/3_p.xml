@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Actual quantifications of mosquito population density remain a grey area. However, the majority of dengue models [
+ <xref rid="pntd.0008679.ref008" ref-type="bibr">8</xref>, 
+ <xref rid="pntd.0008679.ref028" ref-type="bibr">28</xref>, 
+ <xref rid="pntd.0008679.ref033" ref-type="bibr">33</xref>, 
+ <xref rid="pntd.0008679.ref034" ref-type="bibr">34</xref>, 
+ <xref rid="pntd.0008679.ref048" ref-type="bibr">48</xref>] have adopted the use of a mosquito-to-human ratio of 2:1. We adopted this framework for setting the estimated number of mosquitoes recruited during the unimodal peak season (
+ <italic>r</italic>
+ <sub>
+  <italic>δ</italic>
+ </sub>). From the derived number of mosquitoes recruited during the peak season, we assumed an additional 5% to be added in the baseline, year-round recruitment (
+ <italic>R</italic>
+ <sub>
+  <italic>base</italic>
+ </sub>). The recruitment of susceptible mosquitoes is specified by the following equations: 
+ <disp-formula id="pntd.0008679.e010">
+  <alternatives>
+   <graphic xlink:href="pntd.0008679.e010.jpg" id="pntd.0008679.e010g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M10">
+    <mi>ρ</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <mi>ρ</mi>
+     </mrow>
+     <mrow>
+      <mi>b</mi>
+      <mspace width="2pt"/>
+     </mrow>
+    </msub>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>+</mo>
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mi>p</mi>
+      <mi>e</mi>
+      <mi>a</mi>
+      <mi>k</mi>
+     </mrow>
+    </msub>
+    <mi>δ</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+   </math>
+  </alternatives>
+  <label>(10)</label>
+ </disp-formula> Where, 
+ <disp-formula id="pntd.0008679.e011">
+  <alternatives>
+   <graphic xlink:href="pntd.0008679.e011.jpg" id="pntd.0008679.e011g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M11">
+    <msub>
+     <mrow>
+      <mi>δ</mi>
+     </mrow>
+     <mrow>
+      <mspace width="2pt"/>
+     </mrow>
+    </msub>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mn>2</mn>
+        <mi>π</mi>
+        <mi>σ</mi>
+       </mrow>
+       <mrow>
+        <mi>k</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mspace width="2pt"/>
+    <mi>e</mi>
+    <mi>x</mi>
+    <mi>p</mi>
+    <mo>(</mo>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mn>1</mn>
+       <msup>
+        <mrow>
+         <mo>(</mo>
+         <mrow>
+          <msub>
+           <mrow>
+            <mi>q</mi>
+           </mrow>
+           <mrow>
+            <mi>k</mi>
+           </mrow>
+          </msub>
+          <mo>-</mo>
+          <mi>t</mi>
+         </mrow>
+         <mo>)</mo>
+        </mrow>
+        <mrow>
+         <mn>2</mn>
+        </mrow>
+       </msup>
+      </mrow>
+      <mrow>
+       <msubsup>
+        <mrow>
+         <mn>2</mn>
+         <mi>σ</mi>
+        </mrow>
+        <mrow>
+         <mi>k</mi>
+        </mrow>
+        <mrow>
+         <mn>2</mn>
+        </mrow>
+       </msubsup>
+      </mrow>
+     </mfrac>
+    </mrow>
+    <mo>)</mo>
+   </math>
+  </alternatives>
+  <label>(11)</label>
+ </disp-formula>
+ <disp-formula id="pntd.0008679.e012">
+  <alternatives>
+   <graphic xlink:href="pntd.0008679.e012.jpg" id="pntd.0008679.e012g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M12">
+    <msub>
+     <mrow>
+      <mi>ρ</mi>
+     </mrow>
+     <mrow>
+      <mi>b</mi>
+     </mrow>
+    </msub>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mfrac>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>R</mi>
+       </mrow>
+       <mrow>
+        <mi>b</mi>
+        <mi>a</mi>
+        <mi>s</mi>
+        <mi>e</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+      <mi>v</mi>
+     </mrow>
+    </mfrac>
+   </math>
+  </alternatives>
+  <label>(12)</label>
+ </disp-formula>
+ <disp-formula id="pntd.0008679.e013">
+  <alternatives>
+   <graphic xlink:href="pntd.0008679.e013.jpg" id="pntd.0008679.e013g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M13">
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mi>p</mi>
+      <mi>e</mi>
+      <mi>a</mi>
+      <mi>k</mi>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <mi>r</mi>
+     </mrow>
+     <mrow>
+      <mi>δ</mi>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+     <mrow>
+      <mi>h</mi>
+     </mrow>
+    </msub>
+   </math>
+  </alternatives>
+  <label>(13)</label>
+ </disp-formula>
+ <disp-formula id="pntd.0008679.e014">
+  <alternatives>
+   <graphic xlink:href="pntd.0008679.e014.jpg" id="pntd.0008679.e014g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M14">
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mi>b</mi>
+      <mi>a</mi>
+      <mi>s</mi>
+      <mi>e</mi>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mi>p</mi>
+      <mi>e</mi>
+      <mi>a</mi>
+      <mi>k</mi>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi>p</mi>
+     </mrow>
+     <mrow>
+      <mi>b</mi>
+      <mi>a</mi>
+      <mi>s</mi>
+      <mi>e</mi>
+     </mrow>
+    </msub>
+   </math>
+  </alternatives>
+  <label>(14)</label>
+ </disp-formula>
+ <disp-formula id="pntd.0008679.e015">
+  <alternatives>
+   <graphic xlink:href="pntd.0008679.e015.jpg" id="pntd.0008679.e015g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M15">
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mi>t</mi>
+      <mi>o</mi>
+      <mi>t</mi>
+     </mrow>
+    </msub>
+    <mo>=</mo>
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mi>p</mi>
+      <mi>e</mi>
+      <mi>a</mi>
+      <mi>k</mi>
+     </mrow>
+    </msub>
+    <mo>+</mo>
+    <msub>
+     <mrow>
+      <mi>R</mi>
+     </mrow>
+     <mrow>
+      <mi>b</mi>
+      <mi>a</mi>
+      <mi>s</mi>
+      <mi>e</mi>
+     </mrow>
+    </msub>
+   </math>
+  </alternatives>
+  <label>(15)</label>
+ </disp-formula>
+</p>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref3">
+ <label>3</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Zu</surname>
+    <given-names>ZY</given-names>
+   </name>
+   <name>
+    <surname>Jiang</surname>
+    <given-names>MD</given-names>
+   </name>
+   <name>
+    <surname>Xu</surname>
+    <given-names>PP</given-names>
+   </name>
+   <name>
+    <surname>Chen</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Ni</surname>
+    <given-names>QQ</given-names>
+   </name>
+   <name>
+    <surname>Lu</surname>
+    <given-names>GM</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Coronavirus disease 2019 (COVID-19): A perspective from China</article-title>
+  <source>Radiology</source>
+  <year>2020</year>
+  <fpage>200490</fpage>
+  <comment>doi: 10.1148/radiol.2020200490</comment>
+ </element-citation>
+</ref>

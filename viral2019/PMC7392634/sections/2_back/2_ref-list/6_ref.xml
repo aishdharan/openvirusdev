@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R6">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Ding</surname>
+    <given-names>Q</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lu</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Fan</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>The clinical characteristics of pneumonia patients coinfected with 2019 novel coronavirus and influenza virus in Wuhan, China</article-title>. 
+  <source>J Med Virol</source>
+  <year>2020</year>;
+  <volume>382</volume>. 
+  <pub-id pub-id-type="doi">10.1002/jmv.25781</pub-id>. [Epub ahead of print: 20 Mar 2020].
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32196707?>
+ </mixed-citation>
+</ref>

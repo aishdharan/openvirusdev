@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trans-abstract xml:lang="pt">
+ <sec>
+  <title>Objetivo:</title>
+  <p>avaliar a razão custo-efetividade e o impacto orçamentário do envio de mensagens de texto, associadas às consultas médicas, para redução da carga viral de pacientes infectados com o Vírus da Imunodeficiência Humana.</p>
+ </sec>
+ <sec>
+  <title>Método:</title>
+  <p>ensaio clínico randomizado, base para o desenvolvimento de um modelo de coorte dinâmica com estados de Markov a fim de comparar consultas médicas para adultos infectados pelo Vírus da Imunodeficiência Humana 
+   <italic>versus</italic> a estratégia alternativa que associou consultas médicas, ao envio de mensagens de texto pelo telefone.
+  </p>
+ </sec>
+ <sec>
+  <title>Resultados:</title>
+  <p>participaram do estudo 156 adultos. Quanto à carga viral, foi verificado que no grupo controle houve aumento, no grupo intervenção A (mensagens semanais) houve redução (p=0,002) e no grupo B (mensagens quinzenais) não houve diferença estatisticamente significante. O envio de mensagens de texto evitaria 286.538 novas infecções pelo Vírus da Imunodeficiência Humana e 282 mortes no período de 20 anos, ao comparar com o tratamento padrão. A estratégia alternativa resultaria em uma economia de R$ 14 bilhões nos custos de tratamento.</p>
+ </sec>
+ <sec>
+  <title>Conclusão:</title>
+  <p>o envio semanal de mensagens em associação ao tratamento padrão pode reduzir a carga viral circulante por seu efeito na diminuição de novas infeções, além da redução de custos em saúde.</p>
+ </sec>
+</trans-abstract>

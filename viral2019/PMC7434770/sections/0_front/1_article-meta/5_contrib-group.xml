@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Figueroa</surname>
+   <given-names>Javier M.</given-names>
+  </name>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Boddu</surname>
+   <given-names>James</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Kader</surname>
+   <given-names>Michael</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au4">
+  <name>
+   <surname>Berry</surname>
+   <given-names>Katherine</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au5">
+  <name>
+   <surname>Kumar</surname>
+   <given-names>Vignessh</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au6">
+  <name>
+   <surname>Ayala</surname>
+   <given-names>Veronica</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au7">
+  <name>
+   <surname>Vanni</surname>
+   <given-names>Steven</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au8">
+  <name>
+   <surname>Jagid</surname>
+   <given-names>Jonathan</given-names>
+  </name>
+ </contrib>
+ <aff id="aff1">Department of Neurosurgery, University of Miami Miller School of Medicine, Miami, Florida, USA</aff>
+</contrib-group>

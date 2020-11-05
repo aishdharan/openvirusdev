@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Taguchi</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Matsuyama</surname>
+    <given-names>S</given-names>
+   </name>
+  </person-group>
+  <article-title>Soluble Receptor Potentiates Receptor-Independent Infection by Murine Coronavirus</article-title>
+  <source> Journal of Virology</source>
+  <year>2002</year>
+  <volume>76</volume>
+  <issue>3</issue>
+  <fpage>950</fpage>
+  <lpage>8</lpage>
+  <pub-id pub-id-type="pmid">11773370</pub-id>
+ </element-citation>
+</ref>

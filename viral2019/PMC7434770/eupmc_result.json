@@ -1,0 +1,451 @@
+{
+  "id": [
+    "32822955"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32822955"
+  ],
+  "pmcid": [
+    "PMC7434770"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7434770"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1016/j.wneu.2020.08.083"
+  ],
+  "title": [
+    "The Effects of Lockdown During the SARS-CoV-2 Pandemic on Neuro-Trauma Related Hospital Admissions."
+  ],
+  "authorString": [
+    "Figueroa JM, Boddu J, Kader M, Berry K, Kumar V, Ayala V, Vanni S, Jagid J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Figueroa JM"
+          ],
+          "firstName": [
+            "Javier M"
+          ],
+          "lastName": [
+            "Figueroa"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery. Electronic address: Javier.Figueroa@jhsmiami.org."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Boddu J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Boddu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kader M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Kader"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Berry K"
+          ],
+          "firstName": [
+            "Katherine"
+          ],
+          "lastName": [
+            "Berry"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar V"
+          ],
+          "firstName": [
+            "Vignessh"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ayala V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Ayala"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Vanni S"
+          ],
+          "firstName": [
+            "Steven"
+          ],
+          "lastName": [
+            "Vanni"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jagid J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Jagid"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "University of Miami Miller School of Medicine, Department of Neurosurgery."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2988011"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "World neurosurgery"
+          ],
+          "ISOAbbreviation": [
+            "World Neurosurg"
+          ],
+          "medlineAbbreviation": [
+            "World Neurosurg"
+          ],
+          "NLMid": [
+            "101528275"
+          ],
+          "ISSN": [
+            "1878-8750"
+          ],
+          "ESSN": [
+            "1878-8769"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Background The response to the global SARS-CoV-2 pandemic culminated in mandatory isolation throughout the world, with nation-wide confinement orders issued to decrease viral spread. These drastic measures were successful in \"flattening the curve\" and maintaining the prior rate of COVID-19 infections and deaths. To date, the effects of the COVID-19 pandemic on neuro-trauma has not been reported. Methods We retrospectively analyzed hospital admissions from Ryder Trauma Center at Jackson Memorial Hospital, during the months of March and April from 2016-2020. Specifically, we identified all patients who had cranial neuro trauma consisting of traumatic brain injury (TBI) and/or skull fractures, as well as spinal neuro trauma consisting of vertebral fractures and/or spinal cord injury (SCI). We then performed chart review to determine mechanism of injury and if emergent surgical intervention was required. Results Compared to previous years, we saw a significant decline in the number of neuro-traumas during the pandemic, with a 62% decline after the lockdown began. The number of emergent neuro-trauma surgical cases also significantly decreased by 84% in the month of April. Interestingly, while the number of vehicular traumas decreased by 77%, there was a significant 100% increase in the number of gunshot wounds. Conclusions Population seclusion had a direct effect on the frequency of neuro-trauma, while the change in relative proportion of certain mechanisms may be associated with the psychosocial effects of social distancing and quarantine."
+  ],
+  "affiliation": [
+    "University of Miami Miller School of Medicine, Department of Neurosurgery. Electronic address: Javier.Figueroa@jhsmiami.org."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pandemic",
+        "Admissions",
+        "Neuro-trauma",
+        "Lockdown",
+        "Covid-19"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.wneu.2020.08.083"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7434770"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7434770?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-22"
+  ],
+  "firstIndexDate": [
+    "2020-08-22"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-21"
+  ],
+  "dateOfRevision": [
+    "2020-09-09"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-18"
+  ],
+  "firstPublicationDate": [
+    "2020-08-18"
+  ]
+}

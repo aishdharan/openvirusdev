@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The sizes of the three considered populations were obtained from recent nationwide surveys and are presented in 
+ <xref rid="T1" ref-type="table">table 1</xref> (individual calculations of these numbers are outlined in 
+ <xref ref-type="supplementary-material" rid="SP1">online supplementary table 1</xref>). The model also assumes an annual growth rate of 2.4%
+ <xref rid="R13" ref-type="bibr">13</xref> in Rwanda’s population, as well as separate mortality rates for HIV negative individuals, undiagnosed or non-virally suppressed HIV+ individuals and virally suppressed HIV+ individuals on ART (see 
+ <xref ref-type="supplementary-material" rid="SP1">online supplementary table 2</xref>). Movement of individuals between the different population groups were considered as follows: We assumed that 47 750 active FSWs reside in Rwanda and that, on average, FSW would remain active for 10 years before retiring; as a base case, that the number of FSWs would remain constant over the next 10 years (relative to country population growth). Identical entry and exit rates were assumed for sex clients. For scenario analyses where the size of the FSW population was allowed to vary over time, the size of the sex client population was modified accordingly by holding number of sexual encounters and sex clients per FSW constant (the same as assumed for the base case) and mathematically solving for number of sex clients.
+</p>

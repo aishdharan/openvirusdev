@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B30">
+ <label>30.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Leung</surname>
+    <given-names>WK</given-names>
+   </name>
+   <span xml:space="preserve" class="x" xmlns="http://www.w3.org/1999/xhtml">, </span>
+   <name name-style="western">
+    <surname>To</surname>
+    <given-names>KF</given-names>
+   </name>
+   <span xml:space="preserve" class="x" xmlns="http://www.w3.org/1999/xhtml">, </span>
+   <name name-style="western">
+    <surname>Chan</surname>
+    <given-names>PK</given-names>
+   </name>
+  </person-group>
+  <etal/>
+  <article-title>Enteric involvement of severe acute respiratory syndrome-associated coronavirus infection</article-title>. 
+  <source>Gastroenterology</source>
+  <volume>125</volume>(
+  <issue>4</issue>), 
+  <fpage>1011</fpage>–
+  <lpage>1017</lpage> (
+  <year>2003</year>).
+  <pub-id pub-id-type="pmid">14517783</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR51">
+ <label>51.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Peeling</surname>
+    <given-names>RW</given-names>
+   </name>
+   <name>
+    <surname>Boeras</surname>
+    <given-names>DI</given-names>
+   </name>
+   <name>
+    <surname>Marinucci</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Easterbrook</surname>
+    <given-names>P</given-names>
+   </name>
+  </person-group>
+  <article-title>The future of viral hepatitis testing: innovations in testing technologies and approaches</article-title>
+  <source>BMC Infect Dis</source>
+  <year>2017</year>
+  <volume>17</volume>
+  <issue>Suppl 1</issue>
+  <fpage>699</fpage>
+  <pub-id pub-id-type="doi">10.1186/s12879-017-2775-0</pub-id>
+  <?supplied-pmid 29143676?>
+  <pub-id pub-id-type="pmid">29143676</pub-id>
+ </element-citation>
+</ref>

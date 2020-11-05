@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Serrano-Ripoll</surname>
+   <given-names>Maria J.</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Meneses-Echavez</surname>
+   <given-names>Jose F.</given-names>
+  </name>
+  <xref rid="aff0004" ref-type="aff">d</xref>
+  <xref rid="aff0005" ref-type="aff">e</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0003">
+  <name>
+   <surname>Ricci-Cabello</surname>
+   <given-names>Ignacio</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0006" ref-type="aff">f</xref>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0004">
+  <name>
+   <surname>Fraile-Navarro</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref rid="aff0007" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0005">
+  <name>
+   <surname>Fiol-deRoque</surname>
+   <given-names>Maria A.</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0006">
+  <name>
+   <surname>Pastor-Moreno</surname>
+   <given-names>Guadalupe</given-names>
+  </name>
+  <xref rid="aff0006" ref-type="aff">f</xref>
+  <xref rid="aff0008" ref-type="aff">h</xref>
+  <xref rid="aff0009" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0007">
+  <name>
+   <surname>Castro</surname>
+   <given-names>Adoración</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">j</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0008">
+  <name>
+   <surname>Ruiz-Pérez</surname>
+   <given-names>Isabel</given-names>
+  </name>
+  <xref rid="aff0003" ref-type="aff">c</xref>
+  <xref rid="aff0006" ref-type="aff">f</xref>
+  <xref rid="aff0008" ref-type="aff">h</xref>
+  <xref rid="aff0009" ref-type="aff">i</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0009">
+  <name>
+   <surname>Zamanillo Campos</surname>
+   <given-names>Rocío</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="aff0011" ref-type="aff">k</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0010">
+  <name>
+   <surname>Gonçalves-Bradley</surname>
+   <given-names>Daniela C.</given-names>
+  </name>
+  <xref rid="aff0012" ref-type="aff">l</xref>
+ </contrib>
+ <aff id="aff0001">
+  <label>a</label>Health Research Institute of the Balearic Islands (IdISBa). Carretera de Valldemossa, 79 Hospital Universitario Son Espases. Edificio S. 07120 Palma, Illes Balears, Spain
+ </aff>
+ <aff id="aff0002">
+  <label>b</label>Balearic Islands Health Services, Primary Care Research Unit of Mallorca, Palma, Illes Balears, Spain
+ </aff>
+ <aff id="aff0003">
+  <label>c</label>University of Balearic Islands (UIB), Department of Psychology, Carretera de Valldemossa, km 7.5. 07122, Palma, Illes Balears, Spain
+ </aff>
+ <aff id="aff0004">
+  <label>d</label>Division for Health Services, Norwegian Institute of Public Health. Oslo, Norway
+ </aff>
+ <aff id="aff0005">
+  <label>e</label>Facultad de Cultura Física, Deporte y Recreación. Universidad Santo Tomás. Bogotá, Colombia
+ </aff>
+ <aff id="aff0006">
+  <label>f</label>Centro de Investigación Biomédica en Red (CIBERESP). Avda. Monforte de Lemos, 3-5. Pabellón 11. 28029 Madrid, Spain
+ </aff>
+ <aff id="aff0007">
+  <label>g</label>Australian Institute of Health Innovation, Macquarie University, Sydney, Australia
+ </aff>
+ <aff id="aff0008">
+  <label>h</label>Escuela Andaluza de Salud Pública. Campus Universitario de Cartuja. Cuesta del Observatorio, 4. 18080. Granada, Spain
+ </aff>
+ <aff id="aff0009">
+  <label>i</label>Instituto de Investigación Biosanitaria (Ibs. Granada). Avda. de Madrid, 15. 18012. Granada, Spain
+ </aff>
+ <aff id="aff0010">
+  <label>j</label>Research Institute of Health Sciences (IUNICS), University of Balearic Islands. Carretera de Valldemossa, km 7.5. Edificio Científico-Técnico. 07122 Palma, Illes Balears, Spain
+ </aff>
+ <aff id="aff0011">
+  <label>k</label>Valencian International University (VIU), Department of Health, 46002, Valencia, Comunitat Valenciana, Spain
+ </aff>
+ <aff id="aff0012">
+  <label>l</label>Nuffield Department of Population Health, University of Oxford, UK
+ </aff>
+</contrib-group>

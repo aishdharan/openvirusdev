@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R27">
+ <label>27</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Kim</surname>
+    <given-names>J</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Pronyk</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Barnett</surname>
+    <given-names>T</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Exploring the role of economic empowerment in HIV prevention</article-title>. 
+  <source>AIDS</source>
+  <year>2008</year>;
+  <volume>22 Suppl 4</volume>:
+  <fpage>S57</fpage>–
+  <lpage>71</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/01.aids.0000341777.78876.40</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19033756?>
+ </mixed-citation>
+</ref>

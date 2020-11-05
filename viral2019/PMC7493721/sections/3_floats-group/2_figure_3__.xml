@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="F3" orientation="portrait" position="float">
+ <label>Figure 3.
+  <span xml:space="preserve" class="x" xmlns="http://www.w3.org/1999/xhtml"> </span>
+ </label>
+ <caption>
+  <title>Potential infection course of SARS-CoV-2 and the different specimens for SARS-CoV-2 detection.</title>
+  <p>First, SARS-CoV-2 infects the upper respiratory system mainly by respiratory droplets (asymptomatic or fever, dry cough, fatigue, myalgia and dyspnoea; high positive RT-PCR results in throat swabs). Subsequently, it infects the lower respiratory tract and massively replicates (mainly presented as pulmonary infection; high positive results of RT-PCR in throat swabs and sputum). Furthermore, virus is released into blood, leading to the formation of viremia (low copy number detected in blood by RT-PCR). Finally, it is transmitted to other organs, including the GI tract, and colonizes via ACE2 (higher positive detection rate in anal swabs).</p>
+  <p>ACE2: Angiotensin-converting enzyme 2; GI : Gastrointestinal; RT-PCR: Reverse transcriptase-PCR.</p>
+ </caption>
+ <graphic xlink:href="figure3" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

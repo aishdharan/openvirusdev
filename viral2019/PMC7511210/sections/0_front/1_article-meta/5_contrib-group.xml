@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="aut0005">
+  <name>
+   <surname>Colson</surname>
+   <given-names>Philippe</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0010">
+  <name>
+   <surname>Esteves-Vieira</surname>
+   <given-names>Vera</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0015">
+  <name>
+   <surname>Giraud-Gatineau</surname>
+   <given-names>Audrey</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+  <xref rid="aff0020" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0020">
+  <name>
+   <surname>Zandotti</surname>
+   <given-names>Christine</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0025">
+  <name>
+   <surname>Filosa</surname>
+   <given-names>Véronique</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0030">
+  <name>
+   <surname>Chaudet</surname>
+   <given-names>Hervé</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+  <xref rid="aff0020" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0035">
+  <name>
+   <surname>Lagier</surname>
+   <given-names>Jean-Christophe</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0040">
+  <name>
+   <surname>Raoult</surname>
+   <given-names>Didier</given-names>
+  </name>
+  <xref rid="aff0005" ref-type="aff">a</xref>
+  <xref rid="aff0010" ref-type="aff">b</xref>
+  <xref rid="aff0015" ref-type="aff">c</xref>
+  <xref rid="cor0005" ref-type="corresp">⁎</xref>
+ </contrib>
+ <aff id="aff0005">
+  <label>a</label>IHU Méditerranée Infection, Marseille, France
+ </aff>
+ <aff id="aff0010">
+  <label>b</label>Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France
+ </aff>
+ <aff id="aff0015">
+  <label>c</label>Aix-Marseille Univ., Microbes Evolution Phylogeny and Infections (MEPHI), Institut de recherche pour le développement (IRD), Marseille, France
+ </aff>
+ <aff id="aff0020">
+  <label>d</label>Service de Santé des Armées (SSA), Marseille, France
+ </aff>
+</contrib-group>

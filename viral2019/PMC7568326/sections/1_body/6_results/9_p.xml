@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>It has been suggested that children might have reduced susceptibility to infection with SARS-CoV-2 (
+ <xref rid="r25" ref-type="bibr">25</xref>). We repeated our analysis of suppression and mitigation assuming 50% reduction in susceptibility of individuals under 20 y old, with transmission rates among adults increased to ensure the same reproductive number, 
+ <inline-formula>
+  <math id="i9">
+   <msub>
+    <mrow>
+     <mi>R</mi>
+    </mrow>
+    <mrow>
+     <mn>0</mn>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>2.3</mn>
+  </math>
+ </inline-formula>. As might be expected, there is a decreased impact of school closures; however, this is compensated by the increased impact of social distancing by over-20-y-olds, resulting in little net change in our findings if both work and school closures occur (
+ <ext-link ext-link-type="uri" xlink:href="https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.2008087117/-/DCSupplemental" xlink:show="new" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <italic>SI Appendix</italic>, Figs. S1 and S2
+ </ext-link>).
+</p>

@@ -1,0 +1,522 @@
+{
+  "id": [
+    "33095842"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33095842"
+  ],
+  "pmcid": [
+    "PMC7584246"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7584246"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1371/journal.pone.0241269"
+  ],
+  "title": [
+    "Prevalence and spatiotemporal dynamics of HIV-1 Circulating Recombinant Form 03_AB (CRF03_AB) in the Former Soviet Union countries."
+  ],
+  "authorString": [
+    "Lebedev A, Pasechnik O, Ozhmegova E, Antonova A, Blokh A, Grezina L, Sandyreva T, Dementeva N, Kazennova E, Bobkova M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lebedev A"
+          ],
+          "firstName": [
+            "Aleksey"
+          ],
+          "lastName": [
+            "Lebedev"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6787-9345",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of T-Lymphotropic Viruses, Gamaleya National Research Center for Epidemiology and Microbiology, Moscow, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pasechnik O"
+          ],
+          "firstName": [
+            "Oksana"
+          ],
+          "lastName": [
+            "Pasechnik"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Epidemiology, Omsk State Medical University, Omsk, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ozhmegova E"
+          ],
+          "firstName": [
+            "Ekaterina"
+          ],
+          "lastName": [
+            "Ozhmegova"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of T-Lymphotropic Viruses, Gamaleya National Research Center for Epidemiology and Microbiology, Moscow, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Antonova A"
+          ],
+          "firstName": [
+            "Anastasiia"
+          ],
+          "lastName": [
+            "Antonova"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of T-Lymphotropic Viruses, Gamaleya National Research Center for Epidemiology and Microbiology, Moscow, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blokh A"
+          ],
+          "firstName": [
+            "Aleksey"
+          ],
+          "lastName": [
+            "Blokh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departments of Epidemiology, Omsk State Medical University, Omsk, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grezina L"
+          ],
+          "firstName": [
+            "Liliya"
+          ],
+          "lastName": [
+            "Grezina"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Clinical Diagnostic Laboratory, Yamalo-Nenets Autonomous District Center for Prevention and Control of AIDS and Infectious Diseases, Noyabr'sk, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sandyreva T"
+          ],
+          "firstName": [
+            "Tatiana"
+          ],
+          "lastName": [
+            "Sandyreva"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Clinical Diagnostic Laboratory, Sverdlovsk Regional Center for Prevention and Control of AIDS and Infectious Diseases, Ekaterinburg, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dementeva N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Dementeva"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Clinical Diagnostic Laboratory, Saint-Petersburg Center for Prevention and Control of AIDS and Infectious Disease, Saint-Petersburg, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kazennova E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Kazennova"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of T-Lymphotropic Viruses, Gamaleya National Research Center for Epidemiology and Microbiology, Moscow, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bobkova M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Bobkova"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Laboratory of T-Lymphotropic Viruses, Gamaleya National Research Center for Epidemiology and Microbiology, Moscow, Russia."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6787-9345",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "3033510"
+      ],
+      "dateOfPublication": [
+        "2020 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS One"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "e0241269"
+  ],
+  "abstractText": [
+    "BACKGROUND:HIV-1 circulating recombinant forms (CRFs) infections has been increasing in Former Soviet Union (FSU) countries in the recent decade. One is the CRF03_AB, which circulated in the region since late 1990s and probably became widespread in northwestern FSU countries. However, there is not much information provided about the dissemination of this recombinant. Here, we examine the prevalence, evolutionary dynamics and dispersion pattern of HIV-1 CRF03_AB recombinant. METHODS:We analyzed 32 independent studies and 151 HIV-1 CRF03_AB pol sequences isolated from different FSU countries over a period of 22 years. Pooled prevalence was estimated using a random effects model. Bayesian coalescent-based method was used to estimate the evolutionary, phylogeographic and demographic parameters. RESULTS:Our meta-analysis showed that the pooled prevalence of CRF03_AB infection in northwestern FSU region was 5.9% [95%CI: 4.1-7.8]. Lithuania (11.6%), Russia (5.9%) and Belarus (2.9%) were the most affected by CRF03_AB. We found that early region wide spread of HIV-1 CRF03_AB originated from one viral clade that arose in the city of Kaliningrad in 1992 [95%HPD: 1990-1995]. Fourteen migration route of this variant were found. The city of Kaliningrad is involved in most of these, confirming its leading role in CRF03_AB spread within FSU. Demographic reconstruction point to this is that CRF03_AB clade seems to have experienced an exponential growth until the mid-2000s and a decrease in recent years. CONCLUSION:These data provide new insights into the molecular epidemiology of CRF03_AB as well as contributing to the fundamental understanding of HIV epidemic in FSU."
+  ],
+  "affiliation": [
+    "Laboratory of T-Lymphotropic Viruses, Gamaleya National Research Center for Epidemiology and Microbiology, Moscow, Russia."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0241269"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7584246"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7584246?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-23"
+  ],
+  "firstIndexDate": [
+    "2020-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-30"
+  ],
+  "dateOfRevision": [
+    "2020-10-29"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-23"
+  ],
+  "firstPublicationDate": [
+    "2020-10-23"
+  ]
+}

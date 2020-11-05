@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dunn</surname>
+   <given-names>Rick</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Musabaev</surname>
+   <given-names>Erkin</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Razavi</surname>
+   <given-names>Homie</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sadirova</surname>
+   <given-names>Shakhlo</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bakieva</surname>
+   <given-names>Shokhista</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Razavi-Shearer</surname>
+   <given-names>Katie</given-names>
+  </name>
+  <degrees>MPH</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brigida</surname>
+   <given-names>Krestina</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kamili</surname>
+   <given-names>Saleem</given-names>
+  </name>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Averhoff</surname>
+   <given-names>Francisco</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Nasrullah</surname>
+   <given-names>Muazzam</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <degrees>PhD</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <aff>
+  <span id="aff1" target-type="aff" class="target" xmlns="http://www.w3.org/1999/xhtml">
+   <sup xmlns="">1</sup>
+  </span>Center for Disease Analysis Foundation, Lafayette, Colorado; 
+  <span id="aff2" target-type="aff" class="target" xmlns="http://www.w3.org/1999/xhtml">
+   <sup xmlns="">2</sup>
+  </span>Research Institute of Virology, Tashkent, Uzbekistan; 
+  <span id="aff3" target-type="aff" class="target" xmlns="http://www.w3.org/1999/xhtml">
+   <sup xmlns="">3</sup>
+  </span>Division of Viral Hepatitis, National Center for HIV/AIDS, Viral Hepatitis, STD and TB Prevention, CDC.
+ </aff>
+</contrib-group>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par35">The variant calling was carried out by the Variant Finder Tool (Geneious) filtering out variants with a 
+ <italic>p</italic> value greater than 0, using a minimum variant frequency of 0 and default parameters for Maximum Variant p-value (10
+ <sup>−6</sup>). The minimum sequencing coverage for each variant position was 10 reads. Variant’s frequencies were evaluated as a sum of variant frequencies at that position. Each sample was processed and analyzed in two independent experiments.
+</p>

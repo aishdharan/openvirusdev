@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl0002">
+ <label>Table 2</label>
+ <caption>
+  <p>Characteristics of people living with and without HCV who died of drug-related causes (N=5616) in the BC-HTC (2010-2018)</p>
+ </caption>
+ <alt-text id="alt0005">Table 2</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th valign="top"/>
+    <th valign="top">Drug-related deaths among HCV+ (N=2018) n (%)</th>
+    <th valign="top">Drug-related deaths among HCV- (N=3598) n (%)</th>
+    <th valign="top">p-value</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top">Median age at death [IQR]</td>
+    <td valign="top">50 [42, 56]</td>
+    <td valign="top">37 [30, 47]</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">Male sex</td>
+    <td valign="top">1423 (70.5)</td>
+    <td valign="top">2518 (70.0)</td>
+    <td valign="top">0.676</td>
+   </tr>
+   <tr>
+    <td valign="top">Birth year</td>
+    <td valign="top"/>
+    <td valign="top"/>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">&lt;1945</td>
+    <td valign="top">8 (0.4)</td>
+    <td valign="top">59 (1.6)</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">1945-1964</td>
+    <td valign="top">1042 (51.6)</td>
+    <td valign="top">945 (26.3)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">1965+</td>
+    <td valign="top">968 (48.0)</td>
+    <td valign="top">2594 (72.1)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">HBV infection*</td>
+    <td valign="top">211 (10.5)</td>
+    <td valign="top">40 (1.1)</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">HIV infection*</td>
+    <td valign="top">275 (13.6)</td>
+    <td valign="top">56 (1.6)</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">Injecting drug use (ever)^</td>
+    <td valign="top">1925 (95.4)</td>
+    <td valign="top">3081 (85.6)</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">Opioid agonist therapy (ever)^</td>
+    <td valign="top">1108 (54.9)</td>
+    <td valign="top">934 (26.0)</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">Major mental illness (ever)*</td>
+    <td valign="top">1116 (55.3)</td>
+    <td valign="top">2020 (56.1)</td>
+    <td valign="top">0.543</td>
+   </tr>
+   <tr>
+    <td valign="top">Psychosis diagnosis*</td>
+    <td valign="top">461 (22.8)</td>
+    <td valign="top">765 (21.3)</td>
+    <td valign="top">0.168</td>
+   </tr>
+   <tr>
+    <td valign="top">Material deprivation quintile**</td>
+    <td valign="top"/>
+    <td valign="top"/>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">1 (most privileged)</td>
+    <td valign="top">324 (16.1)</td>
+    <td valign="top">607 (16.9)</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">2</td>
+    <td valign="top">224 (11.1)</td>
+    <td valign="top">582 (16.2)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">3</td>
+    <td valign="top">259 (12.8)</td>
+    <td valign="top">617 (17.1)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">4</td>
+    <td valign="top">439 (21.8)</td>
+    <td valign="top">745 (20.7)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">5 (Most deprived)</td>
+    <td valign="top">742 (36.8)</td>
+    <td valign="top">1005 (27.9)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">Missing</td>
+    <td valign="top">30 (1.5)</td>
+    <td valign="top">42 (1.2)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">Social deprivation quintile**</td>
+    <td valign="top"/>
+    <td valign="top"/>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">1 (most privileged)</td>
+    <td valign="top">132 (6.5)</td>
+    <td valign="top">468 (13.0)</td>
+    <td valign="top">&lt;.0001</td>
+   </tr>
+   <tr>
+    <td valign="top">2</td>
+    <td valign="top">153 (7.6)</td>
+    <td valign="top">470 (13.1)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">3</td>
+    <td valign="top">225 (11.1)</td>
+    <td valign="top">533 (14.8)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">4</td>
+    <td valign="top">350 (17.3)</td>
+    <td valign="top">674 (18.7)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">5 (Most deprived)</td>
+    <td valign="top">1128 (55.9)</td>
+    <td valign="top">1411 (39.2)</td>
+    <td valign="top"/>
+   </tr>
+   <tr>
+    <td valign="top">Missing</td>
+    <td valign="top">30 (1.5)</td>
+    <td valign="top">42 (1.2)</td>
+    <td valign="top"/>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="spara009">
+   <p>*Ever as of December 31st, 2015</p>
+  </fn>
+  <fn id="spara010">
+   <p>^Physician visits, hospitalizations and emergency room visits until December 31
+    <sup>st</sup>, 2015 and prescription data until December 31st, 2019
+   </p>
+  </fn>
+  <fn id="spara011">
+   <p>**At time of death</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

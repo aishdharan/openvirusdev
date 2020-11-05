@@ -1,0 +1,456 @@
+{
+  "id": [
+    "32984763"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32984763"
+  ],
+  "pmcid": [
+    "PMC7500500"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7500500"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s42058-020-00048-w"
+  ],
+  "title": [
+    "How to evaluate the value of chest CT in COVID-19: case reports and literature review."
+  ],
+  "authorString": [
+    "Fu J, Huang PP, Yao QD, Zhang S, Han R, Liu HF, Yang Y, Zhang DY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fu J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang PP"
+          ],
+          "firstName": [
+            "Pian-Pian"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "PP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Geriatrics, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yao QD"
+          ],
+          "firstName": [
+            "Qing-Dong"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "QD"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang S"
+          ],
+          "firstName": [
+            "Shuang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Clinical Laboratory, Wuhan No.1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Han R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liu HF"
+          ],
+          "firstName": [
+            "Hai-Feng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "HF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang DY"
+          ],
+          "firstName": [
+            "Dong-You"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0852-4410",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Radiology, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0852-4410",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "3017236"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chinese journal of academic radiology"
+          ],
+          "medlineAbbreviation": [
+            "Chin J Acad Radiol"
+          ],
+          "NLMid": [
+            "101765551"
+          ],
+          "ISSN": [
+            "2520-8985"
+          ],
+          "ESSN": [
+            "2520-8993"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-5"
+  ],
+  "abstractText": [
+    "The coronavirus disease 2019 (COVID-19) that occurred in Wuhan, Hubei Province, China, has been declared a public health emergency of international concern and a pandemic by the World Health Organization. The Chinese government has temporarily taken strong response measures and effective procedures to stop the further expansion and development of the epidemic. It is important for clinicians to screen, diagnose, and monitor COVID-19."
+  ],
+  "affiliation": [
+    "Department of Radiology, Wuhan No. 1 Hospital, Zhongshan Avenue #215, Qiaokou District, Wuhan, 430022 Hubei China."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Imaging",
+        "computed tomography",
+        "Covid-19",
+        "Sars-cov-2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s42058-020-00048-w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7500500"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7500500?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-28"
+  ],
+  "firstIndexDate": [
+    "2020-09-29"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-24"
+  ],
+  "dateOfRevision": [
+    "2020-10-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-18"
+  ],
+  "firstPublicationDate": [
+    "2020-09-18"
+  ]
+}

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl1">
+ <label>Table 1</label>
+ <caption>
+  <p>Examples of molecular approaches for coronavirus diagnosis, commercially and laboratory developed</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Assay</th>
+    <th>HCoVs Detected</th>
+    <th colspan="2">Target</th>
+    <th>Testing Methodology</th>
+    <th>Primer Type</th>
+    <th>Comments</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="2">Luminex Respiratory Pathogen Panel NxTAG</td>
+    <td rowspan="2">HCoV-NL63
+     <break/>HCoV-OC43
+     <break/>HCoV-229E
+     <break/>HCoV-HKU1
+    </td>
+    <td>HCoV-NL63
+     <break/>HCoV-OC43
+     <break/>HCoV-229E
+    </td>
+    <td>N gene</td>
+    <td rowspan="2">Multiplex
+     <break/>RT-PCR and bead array hybridization
+    </td>
+    <td rowspan="2">Specific</td>
+    <td rowspan="2">FDA cleared</td>
+   </tr>
+   <tr>
+    <td>HCoV-HKU1 —</td>
+    <td>Orf1ab</td>
+   </tr>
+   <tr>
+    <td>BioFire FilmArray Respiratory Panel 2 
+     <italic>plus</italic>
+     <break/>
+     <break/>
+     <break/>
+     <break/>BioFire FilmArray Respiratory Panel 2.1
+    </td>
+    <td>HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1 MERS-CoV
+     <break/>
+     <break/>HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1
+     <break/>SARS-CoV-2
+    </td>
+    <td colspan="2">Not disclosed</td>
+    <td>Multiplex
+     <break/>RT-PCR with melt curve analysis
+    </td>
+    <td>Specific</td>
+    <td>FDA cleared
+     <break/>FDA-EUA
+    </td>
+   </tr>
+   <tr>
+    <td>GenMark ePlex Respiratory Panel</td>
+    <td>HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1</td>
+    <td colspan="2">N gene</td>
+    <td>Digital microfluidics with electrochemical detection</td>
+    <td>Specific</td>
+    <td>FDA cleared</td>
+   </tr>
+   <tr>
+    <td>Qiagen RespiFinder RG
+     <break/>QIAGEN Gmbh/Qiastat-Dx Respiratory SARS-Cov-2 Panel
+    </td>
+    <td>HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1
+     <break/>HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1
+     <break/>SARS-CoV-2
+    </td>
+    <td colspan="2">N gene</td>
+    <td>Multiplex RT-PCR with melt curve analysis</td>
+    <td>Specific</td>
+    <td>FDA cleared
+     <break/>FDA-EUA
+    </td>
+   </tr>
+   <tr>
+    <td>CDC
+     <xref rid="bib50" ref-type="bibr">
+      <sup>50</sup>
+     </xref>
+    </td>
+    <td>MERS-CoV</td>
+    <td colspan="2">UpE and ORF1a</td>
+    <td>RT-PCR</td>
+    <td>Specific</td>
+    <td>
+     <list list-type="simple" id="ulist0015">
+      <list-item id="u0035">
+       <p id="p0140">UpE: F (5′-GCAACGCGCGATTCAGTT-3′)
+        <list list-type="simple" id="ulist0020">
+         <list-item id="u0040">
+          <p id="p0145">R (5′-GCCTCTACACGGGACCCATA-3′)</p>
+         </list-item>
+         <list-item id="u0045">
+          <p id="p0150">P (5′6- FAM/CTCTTCACATAATCGCCCCGAGCTCG/3′6-TAMSp)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0050">
+       <p id="p0155">ORF: F (5′- CCACTACTCCCATTTCGTCAG-3′)
+        <list list-type="simple" id="ulist0025">
+         <list-item id="u0055">
+          <p id="p0160">R (5′- CAGTATGTGTAGTGCGCATATAAGCA-3′)</p>
+         </list-item>
+         <list-item id="u0060">
+          <p id="p0165">P (5′6- FAM/TTGCAAATTGGCTTGCCCCCACT/3′6-TAMSp)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td>CDC
+     <xref rid="bib51" ref-type="bibr">
+      <sup>51</sup>
+     </xref>
+    </td>
+    <td>SARS-CoV</td>
+    <td colspan="2">RNA polymerase, N gene</td>
+    <td>RT-PCR</td>
+    <td>Specific</td>
+    <td>
+     <list list-type="simple" id="ulist0030">
+      <list-item id="u0065">
+       <p id="p0170">SARS1: F (5′-CATGTGTGGCGGCTCACTATAT-3′)
+        <list list-type="simple" id="ulist0035">
+         <list-item id="u0070">
+          <p id="p0175">R (5′-GACACTATTAGCATAAGCAGTTGTAGCA-3′)</p>
+         </list-item>
+         <list-item id="u0075">
+          <p id="p0180">P (5′-TTAAACCAGGTGGAACATCATCCGGTG-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0080">
+       <p id="p0185">SARS2: F (5′-GGAGCCTTGAATACACCCAAAG-3′)
+        <list list-type="simple" id="ulist0040">
+         <list-item id="u0085">
+          <p id="p0190">R (5′-GCACGGTGGCAGCATTG-3′)</p>
+         </list-item>
+         <list-item id="u0090">
+          <p id="p0195">P (5′-CCACATTGGCACCCGCAATCC-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0095">
+       <p id="p0200">SARS3: F (5′-CAAACATTGGCCGCAAATT-3′)
+        <list list-type="simple" id="ulist0045">
+         <list-item id="u0100">
+          <p id="p0205">R (5′-CAATGCGTGACATTCCAAAGA-3′)</p>
+         </list-item>
+         <list-item id="u0105">
+          <p id="p0210">P (5′-CACAATTTGCTCCAAGTGCCTCTGCA-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td>CDC</td>
+    <td>SARS-CoV-2</td>
+    <td colspan="2">N gene</td>
+    <td>RT-PCR</td>
+    <td>Specific</td>
+    <td>
+     <list list-type="simple" id="ulist0050">
+      <list-item id="u0110">
+       <p id="p0215">N1: F (5′-GACCCCAAAATCAGCGAAAT-3′)
+        <list list-type="simple" id="ulist0055">
+         <list-item id="u0115">
+          <p id="p0220">R (5′-TCTGGTTACTGCCAGTTGAATCTG-3′)</p>
+         </list-item>
+         <list-item id="u0120">
+          <p id="p0225">P (5′-FAM-ACCCCGCATTACGTTTGGTGGACC-BHQ1-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0125">
+       <p id="p0230">N2: F (5′-TTACAAACATTGGCCGCAAA-3′)
+        <list list-type="simple" id="ulist0060">
+         <list-item id="u0130">
+          <p id="p0235">R (5′-GCGCGACATTCCGAAGAA-3′)</p>
+         </list-item>
+         <list-item id="u0135">
+          <p id="p0240">P (5′-FAM-ACAATTTGCCCCCAGCGCTTCAG-BHQ1-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td rowspan="2">Zhang, et al,
+     <xref rid="bib52" ref-type="bibr">
+      <sup>52</sup>
+     </xref> 2018
+    </td>
+    <td rowspan="2">HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1</td>
+    <td>HCoV-NL63
+     <break/>HCoV-OC43
+     <break/>HCoV-229E
+    </td>
+    <td>N gene</td>
+    <td rowspan="2">Multiplex RT-PCR</td>
+    <td rowspan="2">Specific</td>
+    <td rowspan="2">
+     <list list-type="simple" id="ulist0065">
+      <list-item id="u0140">
+       <p id="p0245">NL63: F (5′-GTTCTTCTGGTACTTCCACTCCT-3′)
+        <list list-type="simple" id="ulist0070">
+         <list-item id="u0145">
+          <p id="p0250">R (5′-TTCCAACGAGGTTTCTTCAA-3′)</p>
+         </list-item>
+         <list-item id="u0150">
+          <p id="p0255">P (5′-FAM-AGCCTCTTTCTCAACCCAGGGCTG-BHQ1-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0155">
+       <p id="p0260">OC43: F (5′-CCCAAGTAGCGATGAGGCTA-3′)
+        <list list-type="simple" id="ulist0075">
+         <list-item id="u0160">
+          <p id="p0265">R (5′-AGGAGCAGACCTTCCTGAGC-3′)</p>
+         </list-item>
+         <list-item id="u0165">
+          <p id="p0270">P (5′-FAM-ACTAGGTTTCCGCCTGGCACGGTA-BHQ1-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0170">
+       <p id="p0275">229E: F (5′-CAGAAAACGAAAGATTGCTTCA-3′)
+        <list list-type="simple" id="ulist0080">
+         <list-item id="u0175">
+          <p id="p0280">R (5′-CAAGCAAAGGGCTATAAAGAGA-3′)</p>
+         </list-item>
+         <list-item id="u0180">
+          <p id="p0285">P (5′-VIC-ATGGCTACAGTCAAATGGGCTGATGC-BHQ1-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0185">
+       <p id="p0290">HKU1: F (5′-TGAATTTTGTTGTTCACATGGT-3′)
+        <list list-type="simple" id="ulist0085">
+         <list-item id="u0190">
+          <p id="p0295">R (5′-ATAATAGCAACCGCCACACAT-3′)</p>
+         </list-item>
+         <list-item id="u0195">
+          <p id="p0300">P (5′-VIC-ATCGCCTTGCGAATGAATGTGCTC-BHQ1-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td>HCoV-HKU1 —</td>
+    <td>P gene</td>
+   </tr>
+   <tr>
+    <td rowspan="2">Gaunt et al,
+     <xref rid="bib17" ref-type="bibr">
+      <sup>17</sup>
+     </xref> 2010
+    </td>
+    <td rowspan="2">HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1</td>
+    <td>HCoV-OC43
+     <break/>HCoV-229E
+     <break/>HCoV-NL63
+    </td>
+    <td>M gene</td>
+    <td rowspan="2">One-step multiplex RT-PCR</td>
+    <td rowspan="2">Specific</td>
+    <td rowspan="2">
+     <list list-type="simple" id="ulist0090">
+      <list-item id="u0200">
+       <p id="p0305">NL63: F (5′-GTTCTGATAAGGCACCATATAGG-3′)
+        <list list-type="simple" id="ulist0095">
+         <list-item id="u0205">
+          <p id="p0310">R (5′-TTTAGGAGGCAAATCAACACG-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0210">
+       <p id="p0315">OC43: F (5′-CATACYCTGACGGTCACAATAATA-3′)
+        <list list-type="simple" id="ulist0100">
+         <list-item id="u0215">
+          <p id="p0320">R (5′-ACCTTAGCAACAGTCATATAAGC-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0220">
+       <p id="p0325">229E: F (5′-CATACTATCAACCCATTCAACAAG-3′)
+        <list list-type="simple" id="ulist0105">
+         <list-item id="u0225">
+          <p id="p0330">R (5′-CACGGCAACTGTCATGTATT-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+      <list-item id="u0230">
+       <p id="p0335">HKU1: F (5′-TCCTACTAYTCAAGAAGCTATCC-3′)
+        <list list-type="simple" id="ulist0110">
+         <list-item id="u0235">
+          <p id="p0340">R (5′-AATGAACGATTATTGGGTCCAC-3′)</p>
+         </list-item>
+        </list>
+       </p>
+      </list-item>
+     </list>
+    </td>
+   </tr>
+   <tr>
+    <td>HCoV-HKU1</td>
+    <td>N gene</td>
+   </tr>
+   <tr>
+    <td>Vijgen et al,
+     <xref rid="bib30" ref-type="bibr">
+      <sup>30</sup>
+     </xref> 2008
+    </td>
+    <td>HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1
+     <break/>SARS-CoV
+    </td>
+    <td colspan="2">RdRp</td>
+    <td>One-step RT-PCR</td>
+    <td>Pan</td>
+    <td>F: (5′-ACWCARHTVAAYYTNAARTAYGC-3′)
+     <break/>R: (5′-TCRCAYTTDGGRTARTCCCA-3′)
+    </td>
+   </tr>
+   <tr>
+    <td>Canducci et al,
+     <xref rid="bib53" ref-type="bibr">
+      <sup>53</sup>
+     </xref> 2008
+    </td>
+    <td>HCoV-NL63 HCoV-OC43 HCoV-229E HCoV-HKU1
+     <break/>SARS-CoV
+    </td>
+    <td colspan="2">RdRp</td>
+    <td>RT-PCR</td>
+    <td>Pan</td>
+    <td>F1: (5′-TTATGGGTTGGGATTATCCYAARTGTGAT-3′)
+     <break/>R1: (5′-GTACTAGCRTCACCAGAAGTYGTACCACC-3′)
+     <break/>F2: (5′-ATGGGATGGGACTATCCTAAGTGTGATAGAG-3′)
+     <break/>R2: (5′-TTGCATCACCACTRCTAGTRCCACCAGGC-3′)
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <italic>Abbreviations:</italic> CDC, US Centers for Disease Control and Prevention; EUA, Emergency Use Authorization; F, forward; M, membrane; N, nucleocapsid; P gene, polyprotein; P, probe; R, reverse; RdRp, RNA-dependent RNA polymerase; RT-PCR, real-time polymerase chain reaction; UpE, upstream E.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

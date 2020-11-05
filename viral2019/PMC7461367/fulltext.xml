@@ -1,0 +1,78 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="brief-report"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jpoasis-nisons2nlmx2.xsl?><?ConverterInfo.Version 1?><?covid-19-tdm?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Med Virol</journal-id><journal-id journal-id-type="iso-abbrev">J. Med. Virol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1096-9071</journal-id><journal-id journal-id-type="publisher-id">JMV</journal-id><journal-title-group><journal-title>Journal of Medical Virology</journal-title></journal-title-group><issn pub-type="ppub">0146-6615</issn><issn pub-type="epub">1096-9071</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">7461367</article-id><article-id pub-id-type="doi">10.1002/jmv.26445</article-id><article-id pub-id-type="publisher-id">JMV26445</article-id><article-categories><subj-group subj-group-type="overline"><subject>Short Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Short Communications</subject></subj-group></article-categories><title-group><article-title>Low prevalence of antibodies against SARS&#x02010;CoV&#x02010;2 among voluntary blood donors in Guangzhou, China</article-title><alt-title alt-title-type="left-running-head">XU <sc>et al.</sc></alt-title></title-group><contrib-group><contrib id="jmv26445-cr-0001" contrib-type="author"><name><surname>Xu</surname><given-names>Ru</given-names></name><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="jmv26445-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jmv26445-cr-0002" contrib-type="author"><name><surname>Huang</surname><given-names>Jieting</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2886-9344</contrib-id><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="jmv26445-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jmv26445-cr-0003" contrib-type="author"><name><surname>Duan</surname><given-names>Chaohui</given-names></name><xref ref-type="aff" rid="jmv26445-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="jmv26445-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jmv26445-cr-0004" contrib-type="author"><name><surname>Liao</surname><given-names>Qiao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1422-6161</contrib-id><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv26445-cr-0005" contrib-type="author"><name><surname>Shan</surname><given-names>Zhengang</given-names></name><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv26445-cr-0006" contrib-type="author"><name><surname>Wang</surname><given-names>Min</given-names></name><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jmv26445-cr-0007" contrib-type="author"><name><surname>Rong</surname><given-names>Xia</given-names></name><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv26445-cr-0008" contrib-type="author"><name><surname>Li</surname><given-names>Chengyao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2087-873X</contrib-id><xref ref-type="aff" rid="jmv26445-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jmv26445-cr-0009" contrib-type="author" corresp="yes"><name><surname>Fu</surname><given-names>Yongshui</given-names></name><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0004">
+<sup>4</sup>
+</xref><address><email>fuyongshui1969@yahoo.com</email></address></contrib><contrib id="jmv26445-cr-0010" contrib-type="author"><name><surname>Wang</surname><given-names>Hao</given-names></name><xref ref-type="aff" rid="jmv26445-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jmv26445-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jmv26445-aff-0001">
+<label><sup>1</sup></label>
+<institution>Guangzhou Blood Center</institution>
+<city>Guangzhou</city>
+<named-content content-type="country-part">Guangdong</named-content>
+<country country="CN">China</country>
+</aff><aff id="jmv26445-aff-0002">
+<label><sup>2</sup></label>
+<institution>The Key Medical Laboratory of Guangzhou</institution>
+<city>Guangzhou</city>
+<named-content content-type="country-part">Guangdong</named-content>
+<country country="CN">China</country>
+</aff><aff id="jmv26445-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Laboratory</named-content>
+<institution>Sun Yat&#x02010;sen Memorial Hospital, Sun Yat&#x02010;sen University</institution>
+<city>Guangzhou</city>
+<named-content content-type="country-part">Guangdong</named-content>
+<country country="CN">China</country>
+</aff><aff id="jmv26445-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Transfusion Medicine, School of Biotechnology</named-content>
+<institution>Southern Medical University</institution>
+<city>Guangzhou</city>
+<named-content content-type="country-part">Guangdong</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence Yongshui Fu, Guangzhou Blood Center, 31 Luyuan Road, Guangzhou, Guangdong, China.<break/>
+Email: <email>fuyongshui1969@yahoo.com</email><break/>
+Hao Wang, Guangzhou Blood Center, 31 Luyuan Road, Guangzhou, Guangdong, China.<break/>
+Email: <email>479053321@qq.com</email><break/></corresp><fn id="jmv26445-note-0001"><label>&#x02020;</label><p>Ru Xu, Jieting Huang and Chaohui Duan contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>19</day><month>8</month><year>2020</year></pub-date><elocation-id>10.1002/jmv.26445</elocation-id><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Wiley Periodicals LLC <copyright-statement>--><copyright-statement content-type="article-copyright">This article is protected by copyright. All rights reserved.</copyright-statement><license><license-p>This article is being made freely available through PubMed Central as part of the COVID-19 public health emergency response. It can be used for unrestricted research re-use and analysis in any form or by any means with acknowledgement of the original source, for the duration of the public health emergency.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JMV-9999-na.pdf"/><abstract><title>ABSTRACT</title><p>Since the first case of COVID&#x02010;19 reported in late December of 2019 in Wuhan, China, the SARS&#x02010;CoV&#x02010;2 virus has caused approximately 20 million infections and 732 thousand deaths around the world by 11 August, 2020. Although the pathogen generally infects respiratory system, whether it is present in the bloodstream and whether it poses a threat to the blood supply during the period of outbreak is a serious public concern. In this study, we used ELISA to screen total antibodies against SARS&#x02010;CoV&#x02010;2 in 2,199 blood donors who had donated blood at the Guangzhou Blood Center during the epidemic. The Ig&#x02010;reactive samples were further characterized for IgA, IgG and IgM subtypes by ELISA and viral nucleic acid by real&#x02010;time PCR. Among the 2,199 plasma samples, seven were reactive under total antibodies screening. Further testing revealed that none of them had detectable viral nucleic acid or IgM antibody, but two samples contained IgA and IgG. The IgG antibody titers of both positive samples were 1:16 and 1:4, respectively. Our results indicated a low prevalence of past SARS&#x02010;CoV&#x02010;2 infection in our blood donors, as none of the tests were positive for viral nucleic acid and only 2/2,199 (0.09%) of samples were positive for IgG and IgA. There would be limited necessity of implementation of such testing in blood screening in COVID&#x02010;19 low&#x02010;risk area.</p><p>This article is protected by copyright. All rights reserved.</p></abstract><kwd-group><kwd id="jmv26445-kwd-0001">Blood &#x0003c; Epidemiology</kwd><kwd id="jmv26445-kwd-0002">Coronavirus &#x0003c; Virus classification</kwd><kwd id="jmv26445-kwd-0003">Immunoglobulin &#x0003c; Immune responses</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="17"/><word-count count="369"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>edited-state</meta-name><meta-value>accepted-manuscript</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.8 mode:remove_FC converted:01.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="jmv26445-note-0002"><p>This article has been accepted for publication and undergone full peer review but has not been through the copyediting, typesetting, pagination and proofreading process, which may lead to differences between this version and the Version of Record. Please cite this article as doi: 10.1002/jmv.26445</p></fn></fn-group></notes></front></article>

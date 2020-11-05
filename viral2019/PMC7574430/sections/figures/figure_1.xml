@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>The distribution of CRF85_BC from Sichuan in 2019. 
+   <bold>a</bold> Phylogenetic analysis of 
+   <italic>pol</italic> sequences from Sichuan in 2019. The phylogenetic tree was constructed using the approximately-maximum-likelihood method based on the 
+   <italic>pol</italic> region (HXB2: 2, 253 to 3, 312 nt) in FastTree 2.3. The nucleotide substitution mode was GTR + G + I. The subtypes and circulating recombinant forms are marked in different colors. The bootstrap value is indicated at relevant nodes. HIV-1 group O was chosen as an out-group in the rooted tree. The reference sequences from the Los Alamos HIV sequence database (
+   <ext-link ext-link-type="uri" xlink:href="http://hiv-web.lanl.gov/content/index" xmlns:xlink="http://www.w3.org/1999/xlink">http://hiv-web.lanl.gov/content/index</ext-link>). 
+   <bold>b</bold> The demographic distribution of CRF85_BC in Sichuan. Number of reported cases in different prefectures in Sichuan based on the molecular epidemiological surveillance of Sichuan in 2019
+  </p>
+ </caption>
+ <graphic xlink:href="12879_2020_5488_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

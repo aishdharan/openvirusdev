@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig4">
+ <label>Fig. 4</label>
+ <caption>
+  <p>The left figure shows the geographical map of the Netherlands. The darker the province, the more infections per 100,000 inhabitants on May 19. The four provinces with the most infections on May 19 are displayed on the right.</p>
+ </caption>
+ <graphic xlink:href="gr4_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

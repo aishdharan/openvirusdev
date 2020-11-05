@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We also analyzed the overall outcome of patients, death or discharge, without accounting for path details. We examined the effect of the date of admission using a 1-week sliding window to smooth estimates. We modelled the percentage of death after admission according to age, and computed age-adjusted odds ratios for death according to sex and duration from onset to hospital admission (see 
+ <xref ref-type="app" rid="app1-jcm-09-03148">Statistical Methods in the Supplementary Information</xref> for more detail). Computations were done using R (v3.6. R Foundation for Statistical Computing, Vienna, Austria).
+</p>

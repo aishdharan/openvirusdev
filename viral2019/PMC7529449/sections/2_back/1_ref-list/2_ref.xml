@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B2">
+ <label>2</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Castillo-Mancilla</surname>
+    <given-names>JR</given-names>
+   </name>
+   <name>
+    <surname>Haberer</surname>
+    <given-names>JE</given-names>
+   </name>
+  </person-group>
+  <article-title>Adherence Measurements in HIV: New Advancements in Pharmacologic Methods and Real-Time Monitoring</article-title>
+  <source>Curr HIV/AIDS Rep</source>
+  <year>2018</year>
+  <date-in-citation content-type="access-date">Aug 7,2019</date-in-citation>
+  <volume>15</volume>
+  <issue>1</issue>
+  <fpage>49</fpage>
+  <lpage>59</lpage>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1007/s11904-018-0377-0</pub-id>
+  <pub-id pub-id-type="pmid">29380227</pub-id>
+ </element-citation>
+</ref>

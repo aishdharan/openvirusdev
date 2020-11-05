@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="TAB1" orientation="portrait" position="float">
+ <label>Table 1</label>
+ <caption>
+  <title>Demographic data</title>
+  <p>LDL, lower than a detectable level.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <tbody>
+   <tr style="background-color:#ccc">
+    <td rowspan="1" colspan="1"> </td>
+    <td rowspan="1" colspan="1">Age (years)</td>
+    <td rowspan="1" colspan="1">Sex</td>
+    <td rowspan="1" colspan="1">Hb (g/dl)</td>
+    <td rowspan="1" colspan="1">CD4 (cells/mm
+     <sup>3</sup>)
+    </td>
+    <td rowspan="1" colspan="1">Viral Load</td>
+    <td rowspan="1" colspan="1">No. of days</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Case 1</td>
+    <td rowspan="1" colspan="1">1.5</td>
+    <td rowspan="1" colspan="1">Female</td>
+    <td rowspan="1" colspan="1">11.1</td>
+    <td rowspan="1" colspan="1">2034</td>
+    <td rowspan="1" colspan="1">LDL</td>
+    <td rowspan="1" colspan="1">3</td>
+   </tr>
+   <tr style="background-color:#ccc">
+    <td rowspan="1" colspan="1">Case 2</td>
+    <td rowspan="1" colspan="1">7.0</td>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">11.8</td>
+    <td rowspan="1" colspan="1">630</td>
+    <td rowspan="1" colspan="1">LDL</td>
+    <td rowspan="1" colspan="1">10</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Case 3</td>
+    <td rowspan="1" colspan="1">13.0</td>
+    <td rowspan="1" colspan="1">Female</td>
+    <td rowspan="1" colspan="1">10.4(mod)</td>
+    <td rowspan="1" colspan="1">754</td>
+    <td rowspan="1" colspan="1">100</td>
+    <td rowspan="1" colspan="1">9</td>
+   </tr>
+   <tr style="background-color:#ccc">
+    <td rowspan="1" colspan="1">Case 4</td>
+    <td rowspan="1" colspan="1">0.35</td>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">11.8</td>
+    <td rowspan="1" colspan="1">630</td>
+    <td rowspan="1" colspan="1">LDL</td>
+    <td rowspan="1" colspan="1">9</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Case 5</td>
+    <td rowspan="1" colspan="1">4.5</td>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">8.1(mod)</td>
+    <td rowspan="1" colspan="1">849</td>
+    <td rowspan="1" colspan="1">5705</td>
+    <td rowspan="1" colspan="1">6</td>
+   </tr>
+   <tr style="background-color:#ccc">
+    <td rowspan="1" colspan="1">Case 6</td>
+    <td rowspan="1" colspan="1">10.0</td>
+    <td rowspan="1" colspan="1">Male</td>
+    <td rowspan="1" colspan="1">13.5</td>
+    <td rowspan="1" colspan="1">1371</td>
+    <td rowspan="1" colspan="1">20</td>
+    <td rowspan="1" colspan="1">12</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

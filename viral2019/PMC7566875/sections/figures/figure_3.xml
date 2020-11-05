@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Plot of 
+   <inline-formula>
+    <math id="d1e182" display="inline" altimg="si204.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">k</mi>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </math>
+   </inline-formula> under a bang–bang control with a single switch. Here, 
+   <inline-formula>
+    <math id="d1e202" display="inline" altimg="si205.svg">
+     <mrow>
+      <mi mathvariant="bold-fraktur">k</mi>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>016</mn>
+     </mrow>
+    </math>
+   </inline-formula> and 
+   <inline-formula>
+    <math id="d1e216" display="inline" altimg="si206.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">t</mi>
+       </mrow>
+       <mrow>
+        <mn>0</mn>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>13</mn>
+      <mspace width="0.16667em"/>
+      <mtext>Days</mtext>
+     </mrow>
+    </math>
+   </inline-formula>. The curves correspond in monotone order to 
+   <inline-formula>
+    <math id="d1e235" display="inline" altimg="si207.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">m</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">x</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>8</mn>
+      <mo>,</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>78</mn>
+      <mo>,</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>76</mn>
+      <mo>,</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>74</mn>
+      <mo>,</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>72</mn>
+      <mo>,</mo>
+      <mn>0</mn>
+      <mo>.</mo>
+      <mn>71</mn>
+     </mrow>
+    </math>
+   </inline-formula>.
+  </p>
+ </caption>
+ <graphic xlink:href="gr3_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

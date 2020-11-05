@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl1">
+ <label>Table 1</label>
+ <caption>
+  <p>Clinical characteristic of nine children infected with 2019-nCoV.</p>
+ </caption>
+ <alt-text id="alttext0030">Table 1</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th rowspan="2">Case no.</th>
+    <th rowspan="2">Sex</th>
+    <th rowspan="2">Age (year)</th>
+    <th colspan="2">Initial diagnosis
+     <hr/>
+    </th>
+    <th colspan="4">Epidemiology history
+     <hr/>
+    </th>
+    <th rowspan="2">WBC count (×10
+     <sup>9</sup>/l)
+    </th>
+    <th rowspan="2">Lymphocyte count (×10
+     <sup>9</sup>/l)
+    </th>
+    <th colspan="3">2019-nCov nucleic acid real-time PCR test
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th>Temp (°C)</th>
+    <th>Symptoms</th>
+    <th>Exposure history
+     <xref rid="tbl1fna" ref-type="table-fn">a</xref>
+    </th>
+    <th>Close contact history</th>
+    <th>Familial cluster</th>
+    <th>Incubation period (day)</th>
+    <th>Oropharyngeal swab</th>
+    <th>Cloacal swab</th>
+    <th>Urine</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>1</td>
+    <td>Male</td>
+    <td>13</td>
+    <td>36.8°</td>
+    <td>None</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-
+     <xref rid="tbl1fnb" ref-type="table-fn">b</xref>
+    </td>
+    <td>5.9</td>
+    <td>2.03</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td>2</td>
+    <td>Female</td>
+    <td>7</td>
+    <td>38.7°</td>
+    <td>Fever</td>
+    <td>+</td>
+    <td>-/+</td>
+    <td>+</td>
+    <td>2–14
+     <xref rid="tbl1fnc" ref-type="table-fn">c</xref>
+    </td>
+    <td>5.7</td>
+    <td>2.34</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td>3</td>
+    <td>Male</td>
+    <td>1</td>
+    <td>37.8°</td>
+    <td>Fever</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>9</td>
+    <td>7.8</td>
+    <td>6.19</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>Female</td>
+    <td>12</td>
+    <td>38°</td>
+    <td>Fever</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>4–10
+     <xref rid="tbl1fnd" ref-type="table-fn">d</xref>
+    </td>
+    <td>3.8</td>
+    <td>1.26</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td>5</td>
+    <td>Male</td>
+    <td>6</td>
+    <td>39.1°</td>
+    <td>Fever/cough</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>2–8
+     <xref rid="tbl1fne" ref-type="table-fn">e</xref>
+    </td>
+    <td>12</td>
+    <td>1.35</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td>7</td>
+    <td>Male</td>
+    <td>3</td>
+    <td>36°</td>
+    <td>Stuffy nose/post-nasal drip</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>9</td>
+    <td>8.8</td>
+    <td>4.73</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td>7</td>
+    <td>Female</td>
+    <td>15</td>
+    <td>38.5°</td>
+    <td>Fever</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>12</td>
+    <td>4.0</td>
+    <td>1.66</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td>8</td>
+    <td>Male</td>
+    <td>13</td>
+    <td>38.5°</td>
+    <td>Fever/cough</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>9</td>
+    <td>7.8</td>
+    <td>1.75</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td>9</td>
+    <td>Female</td>
+    <td>0.17</td>
+    <td>36.8°</td>
+    <td>Cough</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>&gt;8
+     <xref rid="tbl1fnf" ref-type="table-fn">f</xref>
+    </td>
+    <td>10.8</td>
+    <td>9.05</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn id="tbl1fna">
+   <label>a</label>
+   <p id="ntpara0010">Clear history of exposure to epidemic area including Wuhan (three cases), Suizhou (one case), Jingzhou (two cases), Enshi (one case) cities, Hubei Province, China.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fnb">
+   <label>b</label>
+   <p id="ntpara0015">Patient had no symptoms but was living in Wuhan and visited Guangzhou with his grandfather on 20 January 2020. He was tested for 2019-nCoV by the CDC because his grandfather had confirmed 2019-nCoV infection.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fnc">
+   <label>c</label>
+   <p id="ntpara0020">Between 12–24 January 2020, the patient visited the epidemic area of Suizhou, but did not have a history of contact with suspected 2019-nCoV-infected patients. Once back in Guangzhou, the patient was exposed to a suspected infected person on a train on 24 January 2020, and had fever on 26 January 2020.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fnd">
+   <label>d</label>
+   <p id="ntpara0025">Patient was visiting the epidemic area of Jingzhou from 16–22 January 2020, and had fever on 26 January 2020.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fne">
+   <label>e</label>
+   <p id="ntpara0030">Patient was visiting the epidemic area of Wuhan from 14–20 January 2020, and had fever and cough on 22 January 2020.</p>
+  </fn>
+ </table-wrap-foot>
+ <table-wrap-foot>
+  <fn id="tbl1fnf">
+   <label>f</label>
+   <p id="ntpara0035">The incubation period (&gt;8 days) of this 2-month-old patient is unclear, but was living in Wuhan, Hubei Province, and visited Guangdong Province on 25 January 2020. The patient's father had cough, weakness, and sore throat, and the patient then developed the disease as the final member of this family on 2 February 2020.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

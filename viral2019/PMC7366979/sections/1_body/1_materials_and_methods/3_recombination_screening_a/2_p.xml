@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="par0045">Recombination may impact evolutionary estimates and is known to occur in coronaviruses (
+ <xref rid="bib0090" ref-type="bibr">Graham and Baric, 2010</xref>). To assess recombination of our dataset (“dataset_112”), we employed the pairwise homoplasy index (PHI) to measure similarity between closely linked sites using SplitsTree v4.15.1 (
+ <xref rid="bib0115" ref-type="bibr">Huson and Bryant, 2006</xref>) and the default recombination detection methods using the Recombination Detection Program (RDP) v4.100 (
+ <xref rid="bib0180" ref-type="bibr">Martin et al., 2015</xref>). The best-fit nucleotide substitution model for “dataset_112” was identified according to the Bayesian information criterion (BIC) method with three (24 candidate models) or 11 (88 candidate models) substitution schemes in jModelTest v2.1.10 (
+ <xref rid="bib0035" ref-type="bibr">Darriba et al., 2012</xref>). To evaluate the phylogenetic signals of “dataset_112”, we performed likelihood-mapping analysis (
+ <xref rid="bib0215" ref-type="bibr">Schmidt and von Haeseler, 2007</xref>) using TREE-PUZZLE v5.3 (
+ <xref rid="bib0220" ref-type="bibr">Schmidt et al., 2002</xref>), with 280 000 randomly chosen quartets for the dataset. Split network analysis was performed for “dataset_112” using Kishino-Yano-85 (
+ <xref rid="bib0125" ref-type="bibr">Kimura, 1980</xref>) distance transformation with the NeighborNet method, which can be loosely thought of as a “hybrid” between the neighbor-joining (NJ) and split decomposition methods, implemented in TREE-PUZZLE v5.3 (
+ <xref rid="bib0220" ref-type="bibr">Schmidt et al., 2002</xref>). Maximum-likelihood (ML) phylogenetic trees for the dataset were estimated using PhyML v3.1 (
+ <xref rid="bib0105" ref-type="bibr">Guindon et al., 2010</xref>) under a Hasegawa-Kishino-Yano (HKY) (
+ <xref rid="bib0125" ref-type="bibr">Kimura, 1980</xref>) nucleotide substitution model with a proportion of invariable sites, which was identified as the best fitting model for ML inference by jModelTest v2.1.10 (
+ <xref rid="bib0035" ref-type="bibr">Darriba et al., 2012</xref>). Branch support was inferred using 1 000 bootstrap replicates (
+ <xref rid="bib0070" ref-type="bibr">Felsenstein, 1985</xref>) and trees were midpoint rooted. Analysis of temporal molecular evolutionary signals for the dataset was conducted using TempEst v1.5 (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>). In brief, regression analyses were used to determine the relationship between sampling dates and root-to-tip genetic divergence obtained from the ML phylogeny. The slope of the regression line provides an estimate of the rate of evolution in substitutions per site per year, and the intercept with the time-axis constitutes an estimate of the age of the root. We also estimated the evolutionary rate and time to the most recent common ancestor (TMRCA) for “dataset_112” using ML dating in the TreeTime package (
+ <xref rid="bib0210" ref-type="bibr">Sagulenko et al., 2018</xref>).
+</p>

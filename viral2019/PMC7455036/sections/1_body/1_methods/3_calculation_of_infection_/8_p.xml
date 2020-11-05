@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Based on data from Wuhan from December 18, 2019 to December 22, 2019, we found 
+ <italic>β</italic> = 0.20. Since 
+ <italic>β</italic> = 
+ <italic>λ</italic>×
+ <italic>p</italic>, we found 
+ <italic>p</italic> = 0.040 and R
+ <sub>0</sub> = 2.805. This value of 
+ <italic>p</italic> was determined from real-world Hubei data, so we did not calculate a 95% confidence interval for it.
+</p>

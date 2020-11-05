@@ -1,0 +1,470 @@
+{
+  "id": [
+    "32662832"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32662832"
+  ],
+  "pmcid": [
+    "PMC7454758"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7454758"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1093/jtm/taaa117"
+  ],
+  "title": [
+    "Absence of in-flight transmission of SARS-CoV-2 likely due to use of face masks on board."
+  ],
+  "authorString": [
+    "Nir-Paz R, Grotto I, Strolov I, Salmon A, Mandelboim M, Mendelson E, Regev-Yochay G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nir-Paz R"
+          ],
+          "firstName": [
+            "Ran"
+          ],
+          "lastName": [
+            "Nir-Paz"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1567-2550",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Hadassah-Hebrew University Medical Cenetr."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Israeli mission for the Diamond Princesses in Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grotto I"
+          ],
+          "firstName": [
+            "Itamar"
+          ],
+          "lastName": [
+            "Grotto"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Israeli mission for the Diamond Princesses in Japan."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Israeli Ministry of Health, Jerusalem, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Strolov I"
+          ],
+          "firstName": [
+            "Israel"
+          ],
+          "lastName": [
+            "Strolov"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Israel Embassy in Japan, Tokyo, Japan."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Salmon A"
+          ],
+          "firstName": [
+            "Asher"
+          ],
+          "lastName": [
+            "Salmon"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Israeli Ministry of Health, Jerusalem, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mandelboim M"
+          ],
+          "firstName": [
+            "Michal"
+          ],
+          "lastName": [
+            "Mandelboim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Israel National Virology Laboratory, Tel Hashomer, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mendelson E"
+          ],
+          "firstName": [
+            "Ella"
+          ],
+          "lastName": [
+            "Mendelson"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Israel National Virology Laboratory, Tel Hashomer, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Regev-Yochay G"
+          ],
+          "firstName": [
+            "Gili"
+          ],
+          "lastName": [
+            "Regev-Yochay"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Infection Prevention & Control Unit, Sheba Medical Center."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1567-2550",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2976709"
+      ],
+      "dateOfPublication": [
+        "2020 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of travel medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Travel Med"
+          ],
+          "medlineAbbreviation": [
+            "J Travel Med"
+          ],
+          "NLMid": [
+            "9434456"
+          ],
+          "ISSN": [
+            "1195-1982"
+          ],
+          "ESSN": [
+            "1708-8305"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Using flights was severely affected during the COVID19 pandemic. We describe a 14 hours flight of 11 passengers and 4 crew members in which 2 positive SARS-COV-2 were on board. No new viral acquisitions found in this flight, probably due to the use of masks."
+  ],
+  "affiliation": [
+    "Hadassah-Hebrew University Medical Cenetr."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Air Travel",
+        "Travel Restrictions",
+        "Ppe",
+        "Airplane",
+        "Asymptomatic Transmission",
+        "Covid-19"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jtm/taaa117"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7454758"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7454758?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-07-15"
+  ],
+  "firstIndexDate": [
+    "2020-07-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-02"
+  ],
+  "dateOfRevision": [
+    "2020-09-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-07-14"
+  ],
+  "firstPublicationDate": [
+    "2020-07-14"
+  ]
+}

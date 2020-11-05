@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We adapted the previously developed susceptible–exposed–infectious–recovered model of RVFV transmission among Mayotte livestock (
+ <xref rid="r9" ref-type="bibr">9</xref>) to the current epidemiological context. We kept the previous underlying demographic livestock population age structure (10 yearly age groups), and we used a discrete-time deterministic framework, with a daily time step. In the previous model, the transmission parameter among livestock 
+ <inline-formula>
+  <math id="i4">
+   <mrow>
+    <mrow>
+     <mo>(</mo>
+     <mrow>
+      <msub>
+       <mi>β</mi>
+       <mrow>
+        <mi>L</mi>
+        <mo>−</mo>
+        <mi>L</mi>
+        <mo>,</mo>
+        <mi>t</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and corresponding time-varying reproductive number (
+ <italic>R</italic>
+ <sub>
+  <italic>s,t</italic>
+ </sub>) were assumed to be vector-borne and modeled as a function of monthly NDVI (normalized difference vegetation index) values, as a proxy for vector abundance. Here, instead of using monthly NDVI, we used rainfall data (
+ <xref rid="r51" ref-type="bibr">51</xref>) at a daily time step, since the model time step and the human epidemic curve available for fitting had a smaller time resolution. We also included a lag of 14 d between rainfall and its impact on the vector abundance (
+ <xref rid="r21" ref-type="bibr">21</xref>, 
+ <xref rid="r22" ref-type="bibr">22</xref>). To look at the temporal pattern of the viral transmission over time, we also calculated 
+ <italic>R</italic>
+ <sub>
+  <italic>e,t</italic>
+ </sub>, the time-varying effective reproduction number, as the product of 
+ <italic>R</italic>
+ <sub>
+  <italic>s,t</italic>
+ </sub> with the proportion of susceptible livestock at time 
+ <italic>t.</italic>
+</p>

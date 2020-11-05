@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e1214">As described in 
+ <xref rid="b31" ref-type="bibr">Prasse, Achterberg, Ma and Van Mieghem (2020)</xref>, we obtain the fraction of susceptible 
+ <inline-formula>
+  <math id="d1e1221" display="inline" altimg="si31.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="script">S</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, infectious 
+ <inline-formula>
+  <math id="d1e1239" display="inline" altimg="si32.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="script">I</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and removed 
+ <inline-formula>
+  <math id="d1e1258" display="inline" altimg="si33.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="script">R</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> individuals in every region 
+ <inline-formula>
+  <math id="d1e1276" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> from the observed infections 
+ <inline-formula>
+  <math id="d1e1281" display="inline" altimg="si138.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. We aim to find the best possible forecast 
+ <inline-formula>
+  <math id="d1e1299" display="inline" altimg="si36.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mover accent="true">
+       <mrow>
+        <mi>y</mi>
+       </mrow>
+       <mrow>
+        <mo>ˆ</mo>
+       </mrow>
+      </mover>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> for the cumulative number of infected cases 
+ <inline-formula>
+  <math id="d1e1323" display="inline" altimg="si138.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi>y</mi>
+     </mrow>
+     <mrow>
+      <mi>i</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>[</mo>
+     <mi>k</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> for every region 
+ <inline-formula>
+  <math id="d1e1341" display="inline" altimg="si137.svg">
+   <mi>i</mi>
+  </math>
+ </inline-formula> and time 
+ <inline-formula>
+  <math id="d1e1346" display="inline" altimg="si140.svg">
+   <mi>k</mi>
+  </math>
+ </inline-formula>. In this work, we discuss eight prediction methods.
+</p>

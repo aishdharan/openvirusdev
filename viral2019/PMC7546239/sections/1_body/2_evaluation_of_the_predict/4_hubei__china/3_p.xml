@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3304"> For NIPA static prior, we require a traffic network describing the interactions between the cities in Hubei. The Chinese company Baidu provides an estimate of the number of commuters between all cities in Hubei on a daily basis (
+ <xref rid="b2" ref-type="bibr">Baidu Migration website, 2020</xref>). The static prior is set proportional to the traffic network on January 21, which corresponds to day 
+ <inline-formula>
+  <math id="d1e3314" display="inline" altimg="si18.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula>.
+</p>

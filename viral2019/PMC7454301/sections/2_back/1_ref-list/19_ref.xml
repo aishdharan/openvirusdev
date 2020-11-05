@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref19">
+ <label>19.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Gorbalenya</surname>
+    <given-names>AE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Baker</surname>
+    <given-names>SC</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Baric</surname>
+    <given-names>RS</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>The species severe acute respiratory syndromerelated coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2</article-title>. 
+  <source>Nat Microbiol</source>
+  <year>2020</year>;
+  <volume>5</volume>:
+  <fpage>536</fpage>–
+  <lpage>44</lpage>. doi: 
+  <pub-id pub-id-type="doi">10.1038/s41564-020-0695-z</pub-id>.
+  <pub-id pub-id-type="pmid">32123347</pub-id>
+ </mixed-citation>
+</ref>

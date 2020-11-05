@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Both of these interventions take the form of modifications to the contact matrix between infectious and susceptible individuals,
+ <disp-formula id="eq7">
+  <math id="me7">
+   <msub>
+    <mrow>
+     <mover accent="false">
+      <mrow>
+       <mi>c</mi>
+      </mrow>
+      <mo>~</mo>
+     </mover>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>,</mo>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mrow>
+    <mo>(</mo>
+    <mrow>
+     <mn>1</mn>
+     <mo>−</mo>
+     <mi>k</mi>
+     <msub>
+      <mrow>
+       <mi>p</mi>
+      </mrow>
+      <mrow>
+       <mi>s</mi>
+      </mrow>
+     </msub>
+    </mrow>
+    <mo>)</mo>
+   </mrow>
+   <mrow>
+    <mo>(</mo>
+    <mrow>
+     <mn>1</mn>
+     <mo>−</mo>
+     <msub>
+      <mrow>
+       <mi>q</mi>
+      </mrow>
+      <mrow>
+       <mi>i</mi>
+       <mo>,</mo>
+       <mi>j</mi>
+      </mrow>
+     </msub>
+    </mrow>
+    <mo>)</mo>
+   </mrow>
+   <msub>
+    <mrow>
+     <mi>c</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>,</mo>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+   <mo>.</mo>
+  </math>
+  <label>[7]</label>
+ </disp-formula>This expression for 
+ <inline-formula>
+  <math id="i71">
+   <msub>
+    <mrow>
+     <mover accent="false">
+      <mrow>
+       <mi>c</mi>
+      </mrow>
+      <mo>~</mo>
+     </mover>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>,</mo>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> is inserted in place of 
+ <inline-formula>
+  <math id="i72">
+   <msub>
+    <mrow>
+     <mi>c</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+     <mo>,</mo>
+     <mi>j</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> in 
+ <xref ref-type="disp-formula" rid="eq6">Eq. 
+  <bold>6</bold>
+ </xref>.
+</p>

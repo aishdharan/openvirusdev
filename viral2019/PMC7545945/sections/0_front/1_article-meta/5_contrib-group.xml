@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5418-3055</contrib-id>
+  <name>
+   <surname>Gomillia</surname>
+   <given-names>Courtney E. Sims</given-names>
+  </name>
+  <address>
+   <email>cegomillia@umc.edu</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+  <name>
+   <surname>Backus</surname>
+   <given-names>Kandis V.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Brock</surname>
+   <given-names>James B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Melvin</surname>
+   <given-names>Sandra C.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Parham</surname>
+   <given-names>Jason J.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Mena</surname>
+   <given-names>Leandro A.</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410721.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1937 0407</institution-id>
+   <institution>Department of Population Health Science, John D. Bower School of Population Health, </institution>
+   <institution>University of Mississippi Medical Center, </institution>
+  </institution-wrap>2500 N State Street, Jackson, MS 39216 USA 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.410721.1</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0004 1937 0407</institution-id>
+   <institution>Division of Infectious Diseases, School of Medicine, </institution>
+   <institution>University of Mississippi Medical Center, </institution>
+  </institution-wrap>Jackson, MS USA 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Open Arms Healthcare Center, Jackson, MS USA 
+ </aff>
+</contrib-group>

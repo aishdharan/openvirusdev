@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9939-7698</contrib-id>
+  <name>
+   <surname>Lin</surname>
+   <given-names>Haixiong</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5329-2663</contrib-id>
+  <name>
+   <surname>Wang</surname>
+   <given-names>Xiaotong</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Zige</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Li</surname>
+   <given-names>Kangju</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4217-4899</contrib-id>
+  <name>
+   <surname>Lin</surname>
+   <given-names>Chunni</given-names>
+  </name>
+  <degrees>BS</degrees>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Huijun</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Weiqin</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ye</surname>
+   <given-names>Xiaopeng</given-names>
+  </name>
+  <degrees>MS</degrees>
+  <xref ref-type="aff" rid="aff6">
+   <sup>f</sup>
+  </xref>
+  <xref rid="cor1" ref-type="corresp">
+   <sup>∗</sup>
+  </xref>
+ </contrib>
+</contrib-group>

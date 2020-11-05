@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3602">The prediction accuracy for the Netherlands is outlined in 
+ <xref rid="fig5" ref-type="fig">Fig. 5</xref>. Before April 1, the situation in the Netherlands is similar to Hubei, where the NIPA methods perform better, but there exist large deviations in the prediction accuracy. After April 1, the accuracy of the NIPA methods is nearly identical. In other words, the influence of the initial static/dynamic network on the prediction is small. The main reason is that the NIPA algorithms are trained on a growing amount of infection data as time advances. Among the best performing methods over the whole period are traditional NIPA and NIPA separate, whereas the logistic function and LSTM show the worst performance.
+</p>

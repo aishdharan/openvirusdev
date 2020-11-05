@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig fig-type="Figure" xml:lang="en" id="jmv25723-fig-0001" orientation="portrait" position="float">
+ <label>Figure 1</label>
+ <caption>
+  <p>A, Bayesian skyline plot of the SARS‐CoV‐2 outbreak. The 
+   <italic>y</italic>‐axis indicates Ne and 
+   <italic>x</italic>‐axis shows the time in year units (0 = 30 January; 18.2 days; 36.5 days; 54.7 days; and 73 days before). The thick solid line represents the median value of the estimates, and the gray area the 95% HPD. B, Birth‐death skyline plot of the SARS‐CoV‐2 outbreak allowing two 
+   <italic>R</italic>
+   <sub>e</sub> intervals. The curve and the orange area show the mean 
+   <italic>R</italic>
+   <sub>e</sub> values and their 95% confidence intervals. The 
+   <italic>y</italic> and 
+   <italic>x</italic>‐axes, respectively, represent 
+   <italic>R</italic> values and time in days. HPD, highest posterior density
+  </p>
+ </caption>
+ <graphic id="nlm-graphic-1" xlink:href="JMV-9999-na-g001" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

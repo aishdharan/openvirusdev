@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="f0015">
+ <label>Fig. 3</label>
+ <caption>
+  <p>Epidemic impact of an outbreak-control holiday with different transmission rates during the holiday. (a) Cumulative number of confirmed infections, (b) cumulative number of all infections (including latent and active infection). The solid line represents the base case outbreak-control holiday scenario (with 21 d in Hubei province and 10 d in all other provinces of China, both starting on 24 January, 2020), and dashed lines represent the outbreak-control holiday scenarios with transmission rates further reduced by 50% and 90%, respectively, during the holiday period. The shaded bands represent 95% uncertainty intervals of model outputs.</p>
+ </caption>
+ <graphic xlink:href="gr3_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

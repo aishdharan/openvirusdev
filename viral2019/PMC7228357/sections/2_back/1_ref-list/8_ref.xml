@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="jmv25723-bib-0008">
+ <label>8</label>
+ <mixed-citation publication-type="journal" id="jmv25723-cit-0008">
+  <string-name>
+   <surname>Pybus</surname>
+   <given-names>OG</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Charleston</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Gupta</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Rambaut</surname>
+   <given-names>A</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Holmes</surname>
+   <given-names>EC</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Harvey</surname>
+   <given-names>PH</given-names>
+  </string-name>. 
+  <article-title>The epidemic behavior of the hepatitis C virus</article-title>. 
+  <source xml:lang="en">Science</source>. 
+  <year>2001</year>;
+  <volume>292</volume>(
+  <issue>5525</issue>):
+  <fpage>2323</fpage>‐
+  <lpage>2325</lpage>.
+  <pub-id pub-id-type="pmid">11423661</pub-id>
+ </mixed-citation>
+</ref>

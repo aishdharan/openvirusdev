@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig5">
+ <label>Figure 5</label>
+ <caption>
+  <p>Non-recurring Influenza</p>
+  <p>Same as 
+   <xref rid="fig3" ref-type="fig">Figure 3</xref> for the first 8 years (curves of growth of [A and C]) and 100 years (S–I phase diagrams of panels [B] and [D]) of an influenza-like epidemics with zero LOI rate. When internal dynamics is absent (no LOI), the epidemics cannot become endemic. However, when the solar pump is active (ε = 1; [A and B]), UV photons from the sun are able to modulate the outbreak and prolong it for a few cycles. A couple of bursts are seen at ±40°, whereas a single long, mild, and Sun-modulated epidemics develops at the equator and last for about 6 years. Without solar pump (ε = 0; [C and D]), a single intense episode is seen at all latitudes. With epidemics starting during northern hemisphere winters (as in our models), latitude +40° reaches a maximum infected over susceptible fraction of 1%, while this fraction is four times larger at −40° and about ten times smaller at the equator (B).
+  </p>
+ </caption>
+ <graphic xlink:href="gr5_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

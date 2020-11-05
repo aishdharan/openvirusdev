@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="t0010">
+ <label>Table 2</label>
+ <caption>
+  <p>Summary of the advances and interventions contributing to COVID-19 containment in mainland China.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Advance/intervention</th>
+    <th>Measures</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="4">Non-pharmaceutical interventions</td>
+    <td>Announcing the potential of human-to-human transmission</td>
+   </tr>
+   <tr>
+    <td>Lockdown of Wuhan and other adjacent cities in Hubei province</td>
+   </tr>
+   <tr>
+    <td>Imposing restrictions on all social activities</td>
+   </tr>
+   <tr>
+    <td>Enforcing national and international travel restrictions</td>
+   </tr>
+   <tr>
+    <td colspan="2">  </td>
+   </tr>
+   <tr>
+    <td rowspan="5">Clinical characterization and epidemiologic advances</td>
+    <td>Comprehensive characterization of the viral ultrastructure</td>
+   </tr>
+   <tr>
+    <td>Revealing the route for SARS-CoV-2 transmission (including fomite transmission)</td>
+   </tr>
+   <tr>
+    <td>Defining the clinical and epidemiological characteristics of COVID-19</td>
+   </tr>
+   <tr>
+    <td>Demonstration of the immune regulation network of COVID-19</td>
+   </tr>
+   <tr>
+    <td>AI prediction of the epidemics trend of COVID-19 under public health interventions</td>
+   </tr>
+   <tr>
+    <td colspan="2">  </td>
+   </tr>
+   <tr>
+    <td rowspan="3">Therapeutic interventions</td>
+    <td>Validation of the efficacy and safety of repurposed drugs, especially traditional Chinese medicines (Lianhuaqingwen capsule, Xuebijing injection, and Liu Shen capsule), for accelerating symptom recovery</td>
+   </tr>
+   <tr>
+    <td>Validation of the efficacy and safety of H
+     <sub>2</sub>–O
+     <sub>2</sub> inhalation and endorsement by the National Health Commission of the People’s Republic of China for COVID-19 patients with dyspnea or those in facilities without sufficient oxygen supplies
+    </td>
+   </tr>
+   <tr>
+    <td>Validation of the efficacy and safety of granulocyte colony stimulating factor for patients with marked lymphopenia</td>
+   </tr>
+   <tr>
+    <td colspan="2">  </td>
+   </tr>
+   <tr>
+    <td rowspan="2">Diagnosis</td>
+    <td>Development of PCR- and serology-based rapid detection method</td>
+   </tr>
+   <tr>
+    <td>Development of the portable, laboratory-instrument-independent CRISPR/Cas method for detection</td>
+   </tr>
+   <tr>
+    <td colspan="2">  </td>
+   </tr>
+   <tr>
+    <td rowspan="2">Prognostic prediction</td>
+    <td>Identification of hematologic and immunologic biomarkers that correlate with the disease severity</td>
+   </tr>
+   <tr>
+    <td>Establishment of AI model to predict the likelihood of developing into critical illness</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

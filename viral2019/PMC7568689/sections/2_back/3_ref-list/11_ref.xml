@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR11">
+ <label>11.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moon</surname>
+    <given-names>AM</given-names>
+   </name>
+   <name>
+    <surname>Webb</surname>
+    <given-names>GJ</given-names>
+   </name>
+   <name>
+    <surname>Aloman</surname>
+    <given-names>C</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>High mortality rates for SARS-CoV-2 infection in patients with pre-existing chronic liver disease and cirrhosis: preliminary results from an international registry [published online ahead of print, 2020 May 21]</article-title>
+  <source>J Hepatol</source>
+  <year>2020</year>
+  <volume>S0168–8278</volume>
+  <issue>20</issue>
+  <fpage>30305</fpage>
+  <lpage>30306</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jhep.2020.05.013</pub-id>
+ </element-citation>
+</ref>

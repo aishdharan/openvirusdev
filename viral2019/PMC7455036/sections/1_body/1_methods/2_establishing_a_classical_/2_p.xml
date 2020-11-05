@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Suppose 
+ <italic>i</italic> (
+ <italic>t</italic>), 
+ <italic>s</italic> (
+ <italic>t</italic>) and 
+ <italic>r</italic> (
+ <italic>t</italic>) represent the numbers of infected, uninfected and recovered individuals, respectively, at time 
+ <italic>t</italic>. Meanwhile, the effective daily infection rate 
+ <italic>β</italic> is defined as 
+ <italic>λ</italic>×
+ <italic>p</italic>, where 
+ <italic>λ</italic> is the number of infected and healthy individuals’ effective contacts with infected individuals per day, and 
+ <italic>p</italic> is the infection probability during each contact. The model equations were established to be 
+ <disp-formula id="pone.0238411.e001">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e001.jpg" id="pone.0238411.e001g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M1">
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+     <mo>+</mo>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>−</mo>
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>×</mo>
+    <mi>β</mi>
+    <mo>×</mo>
+    <mfrac>
+     <mrow>
+      <mi>s</mi>
+      <mo>(</mo>
+      <mrow>
+       <mi>t</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+    <mo>×</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <mi>t</mi>
+    <mo>−</mo>
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>×</mo>
+    <mi>μ</mi>
+    <mo>×</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <mi>t</mi>
+   </math>
+  </alternatives>
+  <label>(1)</label>
+ </disp-formula>
+ <disp-formula id="pone.0238411.e002">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e002.jpg" id="pone.0238411.e002g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M2">
+    <mi>s</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+     <mo>+</mo>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>−</mo>
+    <mi>s</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mo>−</mo>
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>×</mo>
+    <mi>β</mi>
+    <mo>×</mo>
+    <mfrac>
+     <mrow>
+      <mi>s</mi>
+      <mo>(</mo>
+      <mrow>
+       <mi>t</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+    <mo>×</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <mi>t</mi>
+   </math>
+  </alternatives>
+  <label>(2)</label>
+ </disp-formula>
+ <disp-formula id="pone.0238411.e003">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e003.jpg" id="pone.0238411.e003g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M3">
+    <mi>r</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+     <mo>+</mo>
+     <mi mathvariant="normal">Δ</mi>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>−</mo>
+    <mi>r</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>×</mo>
+    <mi>μ</mi>
+    <mo>×</mo>
+    <mi mathvariant="normal">Δ</mi>
+    <mi>t</mi>
+   </math>
+  </alternatives>
+  <label>(3)</label>
+ </disp-formula> where 
+ <inline-formula id="pone.0238411.e004">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e004.jpg" id="pone.0238411.e004g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M4">
+    <mfrac>
+     <mrow>
+      <mi>s</mi>
+      <mo>(</mo>
+      <mrow>
+       <mi>t</mi>
+      </mrow>
+      <mo>)</mo>
+     </mrow>
+     <mrow>
+      <mi>N</mi>
+     </mrow>
+    </mfrac>
+   </math>
+  </alternatives>
+ </inline-formula> represents the proportion of healthy individuals involved in the effective contacts, since only they can transmit the disease.
+</p>

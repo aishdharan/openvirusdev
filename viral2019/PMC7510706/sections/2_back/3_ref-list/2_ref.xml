@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R2">
+ <label>2. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Vairo</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Haider</surname>
+   <given-names>N</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kock</surname>
+   <given-names>R</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ntoumi</surname>
+   <given-names>F</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Ippolito</surname>
+   <given-names>G</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Zumla</surname>
+   <given-names>A</given-names>
+  </string-name>. 
+  <article-title>Chikungunya: epidemiology, pathogenesis, clinical features, management, and prevention.</article-title>
+  <source>Infect Dis Clin North Am</source>. 
+  <year>2019</year>;
+  <volume>33</volume>:
+  <fpage>1003</fpage>–
+  <lpage>25</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.idc.2019.08.006</pub-id>
+  <?supplied-pmid 31668189?>
+  <pub-id pub-id-type="pmid">31668189</pub-id>
+ </mixed-citation>
+</ref>

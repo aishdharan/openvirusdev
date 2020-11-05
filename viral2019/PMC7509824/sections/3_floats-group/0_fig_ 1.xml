@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Characterization of SARS-CoV-2 samples analyzed at the Brescia Civic Hospital. Nasopharyngeal swabs were routinely collected and evaluated for the presence of SARS-CoV-2 RNA using a multitarget (E, RdRP, N genes) real time PCR approach as described in the Methods section. 
+   <bold>a</bold> Graphs represent the absolute number of specimens that were tested daily. Positive SARS-CoV-2 samples are shown in red; negative SARS-CoV-2 samples are shown in blue. Horizontal axis indicates time in daily interval from February 28 through May 31, 2020. Arrows show the days in which AP66 and GZ69 samples were respectively collected. 
+   <bold>b</bold> One-hundred randomly selected SARS-CoV-2 positive samples collected at the early peak of infection epidemic (March 2020) and at the late stage of infection epidemic (May 2020) in Brescia region were stratified according to the Ct values obtained from E, RdRP and N genes. In box and whiskers graphs, boxes extend from the 25
+   <sup>th</sup> to the 75
+   <sup>th</sup> percentiles, lines indicate the median values, and whiskers indicate the range of values. (*** p &lt; 0.001). Green signs indicate Ct from AP66 sample; red signs indicate Ct from GZ69 sample
+  </p>
+ </caption>
+ <graphic xlink:href="12967_2020_2535_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

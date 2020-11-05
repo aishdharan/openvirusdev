@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Schematic diagram of the PEDV genome alignment relative to the overall G2b consensus sequence derived from at least 50% of the genomic sequences of the 60 global G2b strains, using Geneious software version 10.2.4. Genetic subgroups of PEDV are color-coded: G1a (purple), G1b (blue), and G2b (black). The genomic regions are shown above with the green bars representing the identified open reading frames (ORFs) and the black arrows indicating the nonstructural proteins (nsp1–16) that are produced when ORF1a/1b is translated and processed by viral-encoded proteases. The light grey arrows represent 5′ and 3′ untranslated regions (UTRs). Lightly shaded regions are identical to the consensus sequence, and the vertical black bars represent differences from the consensus nucleotide sequence. The thin horizontal dashed lines indicate deleted nucleotides. The Korean G1b strains are indicated by a red line box, and the novel G1b variants identified in this study (KNU-1808 and KNU-1909) are indicated by an asterisk. The nt 1–1,170 region of the Korean G1b spike gene (corresponding to genomic nt positions 20,634–21,803) is shaded blue</p>
+ </caption>
+ <graphic xlink:href="705_2020_4767_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

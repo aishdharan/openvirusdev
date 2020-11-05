@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR20">
+ <label>20.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Croxford</surname>
+    <given-names>S</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Mortality and causes of death in people diagnosed with HIV in the era of highly active antiretroviral therapy compared with the general population: An analysis of a national observational cohort</article-title>
+  <source>Lancet Public Health</source>
+  <year>2017</year>
+  <volume>2</volume>
+  <fpage>e35</fpage>
+  <lpage>e46</lpage>
+  <pub-id pub-id-type="doi">10.1016/s2468-2667(16)30020-2</pub-id>
+  <?supplied-pmid 29249478?>
+  <pub-id pub-id-type="pmid">29249478</pub-id>
+ </element-citation>
+</ref>

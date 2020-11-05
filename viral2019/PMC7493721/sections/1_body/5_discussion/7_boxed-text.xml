@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boxed-text id="BB1" position="float" orientation="portrait">
+ <caption>
+  <title>Summary points</title>
+ </caption>
+ <list list-type="bullet">
+  <list-item>
+   <p>The COVID-19 outbreak caused by SARS-CoV-2 has become a global health concern.</p>
+  </list-item>
+  <list-item>
+   <p>SARS-CoV-2 detection is positive in anal swabs but negative in throat swabs and sputum swabs of a few discharged patients.</p>
+  </list-item>
+  <list-item>
+   <p>Anal swabs might be the optimal specimen for SARS-CoV-2 detection to evaluate the hospital discharge of COVID-19 patients.</p>
+  </list-item>
+ </list>
+</boxed-text>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We calculated 
+ <italic>p</italic> using the first available local data from Wuhan city (January 18, 2020) and extending until the city lockdown on January 23, 2020. Infection number was calculated as the cumulative number of confirmed cases minus the cumulative number of hospital discharges and deaths. Based on the initial 
+ <italic>i</italic> (
+ <italic>t</italic>) and real-time 
+ <italic>i</italic> (
+ <italic>t</italic>) during this period, the value of 
+ <italic>p</italic> in 
+ <italic>i</italic>(
+ <italic>t</italic>) was found.
+</p>

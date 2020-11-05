@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig3">
+ <label>Fig. 3</label>
+ <caption>
+  <title>A representation of the structure and domain organization of the spike glycoprotein of the coronavirus, which is formed by the two subunits S1 and S2.</title>
+  <p>At the N-terminus of subunit S1 a signal peptide permits the insertion of the nascent protein into the secretory pathway of the host cell. The S1 subunit contains the receptor binding domain (RBD) that attaches the S protein to the ACE2 receptor of the host cell. The S2 subunit contains the membrane fusion complex (fusion peptide, heptad repeats HR 1 and HR2), anchors the S2 subunits to the viral membrane with its transmembrane domain, and interacts with the viral ribonucleoprotein complex through its endodomain. (modified from Hoffmann et al.)
+   <sup>
+    <xref ref-type="bibr" rid="CR17">17</xref>
+   </sup>.
+  </p>
+ </caption>
+ <graphic xlink:href="41419_2020_2995_Fig3_HTML" id="d30e479" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

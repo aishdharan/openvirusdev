@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-50734301" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Van Damme</surname>
+   <given-names>Wim</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-78324733" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4773-5341</contrib-id>
+  <name>
+   <surname>Dahake</surname>
+   <given-names>Ritwik</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-72124274" contrib-type="author">
+  <name>
+   <surname>Delamou</surname>
+   <given-names>Alexandre</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+ </contrib>
+ <contrib id="author-78324975" contrib-type="author">
+  <name>
+   <surname>Ingelbeen</surname>
+   <given-names>Brecht</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-76134523" contrib-type="author">
+  <name>
+   <surname>Wouters</surname>
+   <given-names>Edwin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib id="author-78324995" contrib-type="author">
+  <name>
+   <surname>Vanham</surname>
+   <given-names>Guido</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">6</xref>
+  <xref ref-type="aff" rid="aff7">7</xref>
+ </contrib>
+ <contrib id="author-51328996" contrib-type="author">
+  <name>
+   <surname>van de Pas</surname>
+   <given-names>Remco</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-55837016" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1681-2604</contrib-id>
+  <name>
+   <surname>Dossou</surname>
+   <given-names>Jean-Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff8">8</xref>
+ </contrib>
+ <contrib id="author-50785352" contrib-type="author">
+  <name>
+   <surname>Ir</surname>
+   <given-names>Por</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff9">9</xref>
+ </contrib>
+ <contrib id="author-45743176" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1294-3850</contrib-id>
+  <name>
+   <surname>Abimbola</surname>
+   <given-names>Seye</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">10</xref>
+  <xref ref-type="aff" rid="aff11">11</xref>
+ </contrib>
+ <contrib id="author-79469185" contrib-type="author">
+  <name>
+   <surname>Van der Borght</surname>
+   <given-names>Stefaan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff12">12</xref>
+ </contrib>
+ <contrib id="author-79469245" contrib-type="author">
+  <name>
+   <surname>Narayanan</surname>
+   <given-names>Devadasan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff13">13</xref>
+ </contrib>
+ <contrib id="author-53082133" contrib-type="author">
+  <name>
+   <surname>Bloom</surname>
+   <given-names>Gerald</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff14">14</xref>
+ </contrib>
+ <contrib id="author-79469280" contrib-type="author">
+  <name>
+   <surname>Van Engelgem</surname>
+   <given-names>Ian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff15">15</xref>
+ </contrib>
+ <contrib id="author-79469310" contrib-type="author">
+  <name>
+   <surname>Ag Ahmed</surname>
+   <given-names>Mohamed Ali</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff16">16</xref>
+ </contrib>
+ <contrib id="author-70514708" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7000-3712</contrib-id>
+  <name>
+   <surname>Kiendrébéogo</surname>
+   <given-names>Joël Arthur</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff17">17</xref>
+  <xref ref-type="aff" rid="aff18">18</xref>
+ </contrib>
+ <contrib id="author-66627966" contrib-type="author">
+  <name>
+   <surname>Verdonck</surname>
+   <given-names>Kristien</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-79469361" contrib-type="author">
+  <name>
+   <surname>De Brouwere</surname>
+   <given-names>Vincent</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+ </contrib>
+ <contrib id="author-79469463" contrib-type="author">
+  <name>
+   <surname>Bello</surname>
+   <given-names>Kéfilath</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff8">8</xref>
+ </contrib>
+ <contrib id="author-54131361" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-5867-971X</contrib-id>
+  <name>
+   <surname>Kloos</surname>
+   <given-names>Helmut</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff19">19</xref>
+ </contrib>
+ <contrib id="author-52184713" contrib-type="author">
+  <name>
+   <surname>Aaby</surname>
+   <given-names>Peter</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff20">20</xref>
+ </contrib>
+ <contrib id="author-79469568" contrib-type="author">
+  <name>
+   <surname>Kalk</surname>
+   <given-names>Andreas</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff21">21</xref>
+ </contrib>
+ <contrib id="author-79469596" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-2761-3566</contrib-id>
+  <name>
+   <surname>Al-Awlaqi</surname>
+   <given-names>Sameh</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff22">22</xref>
+ </contrib>
+ <contrib id="author-48718684" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-0968-0826</contrib-id>
+  <name>
+   <surname>Prashanth</surname>
+   <given-names>NS</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff23">23</xref>
+ </contrib>
+ <contrib id="author-79469656" contrib-type="author">
+  <name>
+   <surname>Muyembe-Tamfum</surname>
+   <given-names>Jean-Jacques</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff24">24</xref>
+ </contrib>
+ <contrib id="author-79469688" contrib-type="author">
+  <name>
+   <surname>Mbala</surname>
+   <given-names>Placide</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff24">24</xref>
+ </contrib>
+ <contrib id="author-79469709" contrib-type="author">
+  <name>
+   <surname>Ahuka-Mundeke</surname>
+   <given-names>Steve</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff24">24</xref>
+ </contrib>
+ <contrib id="author-54007943" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-2393-1492</contrib-id>
+  <name>
+   <surname>Assefa</surname>
+   <given-names>Yibeltal</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff25">25</xref>
+ </contrib>
+</contrib-group>

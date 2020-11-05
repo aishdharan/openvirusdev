@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR17">
+ <label>17.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alvarez</surname>
+    <given-names>P</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>HIV-1 variability and viral load technique could lead to false positive HIV-1 detection and to erroneous viral quantification in infected specimens</article-title>
+  <source>J. Infect.</source>
+  <year>2015</year>
+  <volume>71</volume>
+  <fpage>368</fpage>
+  <lpage>376</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.jinf.2015.05.011</pub-id>
+  <?supplied-pmid 26033694?>
+  <pub-id pub-id-type="pmid">26033694</pub-id>
+ </element-citation>
+</ref>

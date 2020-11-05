@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aff id="aff25">
+ <label>25</label>
+ <institution content-type="department">School of Public Health</institution>, 
+ <institution>The University of Queensland</institution>, 
+ <addr-line content-type="city">Brisbane</addr-line>, 
+ <addr-line content-type="state">Queensland</addr-line>, 
+ <country>Australia</country>
+</aff>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>For the multi-class (COVID-19/SARS-CoV/MERS-CoV) classification, the same previous parameters are calculated, but in macro-averaging level as mentioned in [
+ <xref rid="ref56" ref-type="bibr">56</xref>]:
+ <disp-formula id="deqn19">
+  <label>(19)</label>
+  <tex-math id="M19">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} \mathrm{Average}\ \mathrm{ACC}=\frac{\sum_{i=1}^m\frac{{\mathrm{Tp}}_i+{\mathrm{Tn}}_i}{{\mathrm{Tn}}_i+{\mathrm{Tn}}_i+{\mathrm{Fp}}_i+{\mathrm{Fn}}_i}}{m}\times 100\% \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

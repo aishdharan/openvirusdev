@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib19">
+ <label>19</label>
+ <element-citation publication-type="journal" id="sbref190">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Liang</surname>
+    <given-names>K-Y</given-names>
+   </name>
+   <name>
+    <surname>Zeger</surname>
+    <given-names>SL</given-names>
+   </name>
+  </person-group>
+  <article-title>Longitudinal data analysis using generalized linear models</article-title>
+  <source>Biometrika</source>
+  <volume>73</volume>
+  <year>1986</year>
+  <fpage>13</fpage>
+  <lpage>22</lpage>
+ </element-citation>
+</ref>

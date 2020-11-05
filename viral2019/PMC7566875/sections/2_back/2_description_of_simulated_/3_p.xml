@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e11194">We use the default convergence criteria in the simulated annealing algorithm in Matlab. In particular, the algorithm is deemed to have converged if the average change in the objective function over the previous 
+ <inline-formula>
+  <math id="d1e11196" display="inline" altimg="si396.svg">
+   <mrow>
+    <mn>500</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">×</mo>
+    <mfenced open="(" close=")">
+     <mrow>
+      <mi mathvariant="normal">Problem Size</mi>
+     </mrow>
+    </mfenced>
+   </mrow>
+  </math>
+ </inline-formula> is less than 10
+ <sup>−6</sup>. Here, 
+ <inline-formula>
+  <math id="d1e11210" display="inline" altimg="si397.svg">
+   <mfenced open="(" close=")">
+    <mrow>
+     <mi mathvariant="normal">Problem Size</mi>
+    </mrow>
+   </mfenced>
+  </math>
+ </inline-formula> is the size of the optimization problem which in the present case is 
+ <inline-formula>
+  <math id="d1e11216" display="inline" altimg="si398.svg">
+   <mrow>
+    <mn>2</mn>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <mn>1</mn>
+   </mrow>
+  </math>
+ </inline-formula>. We have systematically varied these parameters and find no significant change to the estimated global minima.
+</p>

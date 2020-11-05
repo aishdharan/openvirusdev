@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Tang</surname>
+   <given-names>L</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>An</surname>
+   <given-names>J</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Yu</surname>
+   <given-names>P</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Xu</surname>
+   <given-names>W</given-names>
+  </string-name>. 
+  <article-title>Complete genome sequence of human adenovirus type 7 associated with fatal infant pneumonia.</article-title>
+  <source>Genome Announc</source>. 
+  <year>2013</year>;
+  <volume>1</volume>:
+  <fpage>e00182</fpage>–
+  <lpage>12</lpage>. 
+  <pub-id pub-id-type="doi">10.1128/genomeA.00182-12</pub-id>
+  <?supplied-pmid 23409258?>
+  <pub-id pub-id-type="pmid">23409258</pub-id>
+ </mixed-citation>
+</ref>

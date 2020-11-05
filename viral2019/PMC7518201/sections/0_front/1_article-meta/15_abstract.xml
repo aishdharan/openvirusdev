@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="abs0010">
+ <p>To date, many models have been proposed which estimate the transmission risk of COVID-19 in terms of time; however, its dependency on space dimensions has been ignored. In this research, by multiplying risk parameters in certain regions and bridging, we obtain a stable action, which means that the transmission risk worldwide could shrink to a constant. Thus, by increasing the risk parameters in one region, the risk parameters in other regions decrease. Then, by adding space dimensions to the parameters in transmission risk models, and using the wave equations of manifolds for the regions, we obtain the dynamics of the exchanged novel coronavirus (2019-nCov) between countries. We calculate the risk factors of COVID19 for different regions in this model, and observe that they are in good agreement with experimental data.</p>
+</abstract>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3357">The logistic function performs generally worse than the other algorithms, for which several reasons may exist. First, by fitting a logistic curve, we assume the number of cases to follow the SIR model closely (
+ <xref rid="b21" ref-type="bibr">Kermack and McKendrick, 1927</xref>, 
+ <xref rid="b32" ref-type="bibr">Prasse, Achterberg and Van Mieghem, 2020</xref>). Hence, we do not allow any individual or governmental responses to COVID-19, which typically flattens the (logistic) curve. Second, the logistic function ignores the spread between regions, which further deteriorates the prediction accuracy. Third, the logistic function is symmetric around the epidemic peak at 
+ <inline-formula>
+  <math id="d1e3365" display="inline" altimg="si125.svg">
+   <mrow>
+    <mi>k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi>t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+   </mrow>
+  </math>
+ </inline-formula>; the increase and decrease of the number of cases around the peak is equal. Most epidemic outbreaks of COVID-19 show a rapid increase and a more gradual decrease of the daily number of cases. A possible reason is that most lockdowns are enforced immediately, whereas lockdown measures are lifted gradually. Occasionally, the Hill function (
+ <xref rid="b16" ref-type="bibr">Hill, 1910</xref>) and Gompertz function (
+ <xref rid="b12" ref-type="bibr">Gompertz, 1825</xref>) are used to predict epidemic outbreaks, because they allow asymmetry around the epidemic peak. In this work, we focus on the logistic function because of its relation to the solution of the SIR and SIS model, and discuss the Hill function and the Gompertz function in Appendix F.
+</p>

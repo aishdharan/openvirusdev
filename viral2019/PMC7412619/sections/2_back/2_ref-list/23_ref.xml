@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R23">
+ <label>23</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Vickerman</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Terris-Prestholt</surname>
+    <given-names>F</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Delany</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Are targeted HIV prevention activities cost-effective in high prevalence settings? Results from a sexually transmitted infection treatment project for sex workers in Johannesburg, South Africa</article-title>. 
+  <source>Sex Transm Dis</source>
+  <year>2006</year>;
+  <volume>33</volume>:
+  <fpage>S122</fpage>–
+  <lpage>32</lpage>. 
+  <pub-id pub-id-type="doi">10.1097/01.olq.0000221351.55097.36</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/16735954?>
+  <pub-id pub-id-type="pmid">16735954</pub-id>
+ </mixed-citation>
+</ref>

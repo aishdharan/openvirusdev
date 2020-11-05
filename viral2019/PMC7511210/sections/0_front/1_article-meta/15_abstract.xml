@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0005">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="lis0005">
+   <list-item id="lsti0005">
+    <label>•</label>
+    <p id="par0005">Comparable bell-shaped distributions for SARS-CoV-2 and endemic coronaviruses.</p>
+   </list-item>
+   <list-item id="lsti0010">
+    <label>•</label>
+    <p id="par0010">Different age distributions for SARS-CoV-2 and other respiratory viruses.</p>
+   </list-item>
+   <list-item id="lsti0015">
+    <label>•</label>
+    <p id="par0015">Fewer children among all SARS-CoV-2-positive than all endemic coronavirus-positive.</p>
+   </list-item>
+   <list-item id="lsti0020">
+    <label>•</label>
+    <p id="par0020">SARS-CoV-2 was the only respiratory virus to spare children.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

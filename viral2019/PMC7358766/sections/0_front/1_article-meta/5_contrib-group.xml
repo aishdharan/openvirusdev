@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0010">
+  <name>
+   <surname>Steele</surname>
+   <given-names>Edward J.</given-names>
+  </name>
+  <xref rid="af0010" ref-type="aff">a</xref>
+  <xref rid="af0015" ref-type="aff">b</xref>
+  <xref rid="af0020" ref-type="aff">c</xref>
+  <xref rid="cr0010" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0020">
+  <name>
+   <surname>Gorczynski</surname>
+   <given-names>Reginald M.</given-names>
+  </name>
+  <xref rid="af0025" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0025">
+  <name>
+   <surname>Lindley</surname>
+   <given-names>Robyn A.</given-names>
+  </name>
+  <xref rid="af0030" ref-type="aff">e</xref>
+  <xref rid="af0035" ref-type="aff">f</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0030">
+  <name>
+   <surname>Tokoro</surname>
+   <given-names>Gensuke</given-names>
+  </name>
+  <xref rid="af0040" ref-type="aff">g</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0035">
+  <name>
+   <surname>Temple</surname>
+   <given-names>Robert</given-names>
+  </name>
+  <xref rid="af0045" ref-type="aff">h</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0040">
+  <name>
+   <surname>Wickramasinghe</surname>
+   <given-names>N. Chandra</given-names>
+  </name>
+  <xref rid="af0020" ref-type="aff">c</xref>
+  <xref rid="af0040" ref-type="aff">g</xref>
+  <xref rid="af0050" ref-type="aff">i</xref>
+  <xref rid="af0055" ref-type="aff">j</xref>
+  <xref rid="cr0010" ref-type="corresp">⁎</xref>
+ </contrib>
+ <aff id="af0010">
+  <label>a</label>C.Y.O'Connor ERADE Village Foundation, Piara Waters, Perth, WA, Australia
+ </aff>
+ <aff id="af0015">
+  <label>b</label>Melville Analytics Pty Ltd, Melbourne, VIC, Australia
+ </aff>
+ <aff id="af0020">
+  <label>c</label>Centre for Astrobiology, University of Ruhuna, Matara, Sri Lanka
+ </aff>
+ <aff id="af0025">
+  <label>d</label>University Toronto Health Network, Toronto General Hospital, University of Toronto, Toronto, ON, Canada
+ </aff>
+ <aff id="af0030">
+  <label>e</label>Department of Clinical Pathology, Faculty of Medicine, Dentistry &amp; Health Sciences, University of Melbourne, Melbourne, VIC, Australia
+ </aff>
+ <aff id="af0035">
+  <label>f</label>GMDx Group Ltd, Melbourne, VIC, Australia
+ </aff>
+ <aff id="af0040">
+  <label>g</label>Institute for the Study of Panspermia and Astroeconomics, Gifu, Japan
+ </aff>
+ <aff id="af0045">
+  <label>h</label>The History of Chinese Science and Culture Foundation, Conway Hall, London, United Kingdom
+ </aff>
+ <aff id="af0050">
+  <label>i</label>University of Buckingham, Buckingham, United Kingdom
+ </aff>
+ <aff id="af0055">
+  <label>j</label>National Institute of Fundamental Studies, Kandy, Sri Lanka
+ </aff>
+</contrib-group>

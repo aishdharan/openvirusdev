@@ -1,0 +1,748 @@
+{
+  "id": [
+    "32929025"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32929025"
+  ],
+  "pmcid": [
+    "PMC7533885"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7533885"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1073/pnas.2004468117"
+  ],
+  "title": [
+    "Estimation of Rift Valley fever virus spillover to humans during the Mayotte 2018-2019 epidemic."
+  ],
+  "authorString": [
+    "Métras R, Edmunds WJ, Youssouffi C, Dommergues L, Fournié G, Camacho A, Funk S, Cardinale E, Le Godais G, Combo S, Filleul L, Youssouf H, Subiros M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Métras R"
+          ],
+          "firstName": [
+            "Raphaëlle"
+          ],
+          "lastName": [
+            "Métras"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2646-196X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "INSERM, Sorbonne Université, Institut Pierre Louis d'Épidémiologie et de Santé Publique (Unité Mixte de Recherche en Santé 1136), 75012 Paris, France; raphaelle.metras@inserm.fr."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre de Coopération Internationale en Recherche Agronomique pour le Développement, UMR Animal, Santé, Territoires, Risques, et Écosystèmes, Campus International de Baillarguet, 34398 Montpellier, France."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Animal, Santé, Territoires, Risques, et Écosystèmes, I site Montpellier Université d'Excellence (I-MUSE), Centre de Coopération Internationale en Recherche Agronomique pour le Développement, Institut national de recherche pour l'agriculture, l'alimentation et l'environnement, 34398 Montpellier, France."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre for the Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London WC1E 7HT, United Kingdom."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Edmunds WJ"
+          ],
+          "firstName": [
+            "W John"
+          ],
+          "lastName": [
+            "Edmunds"
+          ],
+          "initials": [
+            "WJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9179-2917",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for the Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London WC1E 7HT, United Kingdom."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Youssouffi C"
+          ],
+          "firstName": [
+            "Chouanibou"
+          ],
+          "lastName": [
+            "Youssouffi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Groupement de Défense Sanitaire Mayotte - Coopérative des Eleveurs Mahorais, Division Santé Animale, 97670 Coconi, Mayotte, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dommergues L"
+          ],
+          "firstName": [
+            "Laure"
+          ],
+          "lastName": [
+            "Dommergues"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1688-6689",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "La Coopération Agricole, Division Santé Animale, F-75538 Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fournié G"
+          ],
+          "firstName": [
+            "Guillaume"
+          ],
+          "lastName": [
+            "Fournié"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6998-1201",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Veterinary Epidemiology, Economics and Public Health Group, Department of Pathobiology and Population Sciences, The Royal Veterinary College, Hatfield AL9 7TA, United Kingdom."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Camacho A"
+          ],
+          "firstName": [
+            "Anton"
+          ],
+          "lastName": [
+            "Camacho"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0023-3985",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for the Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London WC1E 7HT, United Kingdom."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Epicentre, Research Department, 75019 Paris, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Funk S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Funk"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2842-3406",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre for the Mathematical Modelling of Infectious Diseases, Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London WC1E 7HT, United Kingdom."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cardinale E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Cardinale"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3434-3541",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Centre de Coopération Internationale en Recherche Agronomique pour le Développement, UMR Animal, Santé, Territoires, Risques, et Écosystèmes, Campus International de Baillarguet, 34398 Montpellier, France."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Centre de Coopération Internationale en Recherche Agronomique pour le Développement, UMR Animal, Santé, Territoires, Risques, et Écosystèmes, F-97490 Sainte Clotilde, La Réunion, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Le Godais G"
+          ],
+          "firstName": [
+            "Gilles"
+          ],
+          "lastName": [
+            "Le Godais"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Direction de l'Alimentation, de l'Agriculture et de la Forêt de Mayotte, Service de l'Alimentation, 97600 Mamoudzou, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Combo S"
+          ],
+          "firstName": [
+            "Soihibou"
+          ],
+          "lastName": [
+            "Combo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Direction de l'Alimentation, de l'Agriculture et de la Forêt de Mayotte, Service de l'Alimentation, 97600 Mamoudzou, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Filleul L"
+          ],
+          "firstName": [
+            "Laurent"
+          ],
+          "lastName": [
+            "Filleul"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Santé Publique France, Cellule Mayotte de Santé publique France, 97600 Mamoudzou, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Youssouf H"
+          ],
+          "firstName": [
+            "Hassani"
+          ],
+          "lastName": [
+            "Youssouf"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Santé Publique France, Cellule Mayotte de Santé publique France, 97600 Mamoudzou, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Subiros M"
+          ],
+          "firstName": [
+            "Marion"
+          ],
+          "lastName": [
+            "Subiros"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Santé Publique France, Cellule Mayotte de Santé publique France, 97600 Mamoudzou, France."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2646-196X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9179-2917",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1688-6689",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6998-1201",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0023-3985",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2842-3406",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3434-3541",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "full_text",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "39"
+      ],
+      "volume": [
+        "117"
+      ],
+      "journalIssueId": [
+        "3030865"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "24567-24574"
+  ],
+  "abstractText": [
+    "Rift Valley fever (RVF) is an emerging, zoonotic, arboviral hemorrhagic fever threatening livestock and humans mainly in Africa. RVF is of global concern, having expanded its geographical range over the last decades. The impact of control measures on epidemic dynamics using empirical data has not been assessed. Here, we fitted a mathematical model to seroprevalence livestock and human RVF case data from the 2018-2019 epidemic in Mayotte to estimate viral transmission among livestock, and spillover from livestock to humans through both direct contact and vector-mediated routes. Model simulations were used to assess the impact of vaccination on reducing the epidemic size. The rate of spillover by direct contact was about twice as high as vector transmission. Assuming 30% of the population were farmers, each transmission route contributed to 45% and 55% of the number of human infections, respectively. Reactive vaccination immunizing 20% of the livestock population reduced the number of human cases by 30%. Vaccinating 1 mo later required using 50% more vaccine doses for a similar reduction. Vaccinating only farmers required 10 times as more vaccine doses for a similar reduction in human cases. Finally, with 52.0% (95% credible interval [CrI] [42.9-59.4]) of livestock immune at the end of the epidemic wave, viral reemergence in the next rainy season (2019-2020) is unlikely. Coordinated human and animal health surveillance, and timely livestock vaccination appear to be key to controlling RVF in this setting. We furthermore demonstrate the value of a One Health quantitative approach to surveillance and control of zoonotic infectious diseases."
+  ],
+  "affiliation": [
+    "INSERM, Sorbonne Université, Institut Pierre Louis d'Épidémiologie et de Santé Publique (Unité Mixte de Recherche en Santé 1136), 75012 Paris, France; raphaelle.metras@inserm.fr."
+  ],
+  "publicationStatus": [
+    "ppublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Modeling",
+        "Spillover",
+        "epidemics",
+        "Rift Valley Fever",
+        "One Health"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.2004468117"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7533885"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7533885?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR113463"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-09-15"
+  ],
+  "firstIndexDate": [
+    "2020-09-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-17"
+  ],
+  "dateOfRevision": [
+    "2020-10-16"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-14"
+  ],
+  "firstPublicationDate": [
+    "2020-09-14"
+  ]
+}

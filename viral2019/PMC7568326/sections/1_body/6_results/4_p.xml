@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Our modeling indicates that, if sustained, such control measures can lead to the suppression of COVID-19 in the United Kingdom by reducing 
+ <italic>R</italic>
+ <sub>0</sub> to &lt;1 (
+ <xref ref-type="fig" rid="fig02">Fig. 2 
+  <italic>A</italic> and 
+  <italic>B</italic>
+ </xref>). The effectiveness of self-isolation by symptomatic individuals (i.e., its impact on reducing overall transmission) is a product of two factors. Firstly, the proportion of infections generated while the primary case is exhibiting symptoms (including mild symptoms) and, secondly, the engagement of symptomatic individuals with self-isolation policies (see 
+ <xref ref-type="sec" rid="s3">
+  <italic>Materials and Methods</italic>
+ </xref>). As both of these parameters decrease, the self-isolation efficacy drops, and greater social distancing measures are necessary to achieve suppression (
+ <xref ref-type="fig" rid="fig02">Fig. 2
+  <italic>A</italic>
+ </xref>). At present, there is a large uncertainty in the relationship between symptoms and viral shedding (
+ <xref rid="r9" ref-type="bibr">9</xref>). For the social distancing strengths considered, suppression is possible if over 14% of infections are caused while the primary case is exhibiting symptoms (
+ <inline-formula>
+  <math id="i2">
+   <msub>
+    <mrow>
+     <mi>p</mi>
+    </mrow>
+    <mrow>
+     <mi>s</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>). The associated self-isolation observance necessary to achieve suppression is inversely proportional to 
+ <inline-formula>
+  <math id="i3">
+   <msub>
+    <mrow>
+     <mi>p</mi>
+    </mrow>
+    <mrow>
+     <mi>s</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, decreasing from 100% if 
+ <inline-formula>
+  <math id="i4">
+   <msub>
+    <mrow>
+     <mi>p</mi>
+    </mrow>
+    <mrow>
+     <mi>s</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.14</mn>
+  </math>
+ </inline-formula> to 50% if 
+ <inline-formula>
+  <math id="i5">
+   <msub>
+    <mrow>
+     <mi>p</mi>
+    </mrow>
+    <mrow>
+     <mi>s</mi>
+    </mrow>
+   </msub>
+   <mo>=</mo>
+   <mn>0.28</mn>
+  </math>
+ </inline-formula>. Given the uncertainty surrounding asymptomatic transmission, the likelihood of successful suppression is greatest if all social distancing measures are enacted (
+ <xref ref-type="fig" rid="fig02">Fig. 2
+  <italic>B</italic>
+ </xref>).
+</p>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>Rubio-Garrido</surname>
+   <given-names>Marina</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <contrib contrib-type="author" equal-contrib="yes">
+  <name>
+   <surname>González-Alba</surname>
+   <given-names>José María</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Reina</surname>
+   <given-names>Gabriel</given-names>
+  </name>
+  <address>
+   <email>gabi@unav.es</email>
+  </address>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ndarabu</surname>
+   <given-names>Adolphe</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff4">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Barquín</surname>
+   <given-names>David</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff3">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Carlos</surname>
+   <given-names>Silvia</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff5">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Galán</surname>
+   <given-names>Juan Carlos</given-names>
+  </name>
+  <xref ref-type="aff" rid="Aff2">2</xref>
+ </contrib>
+ <contrib contrib-type="author" corresp="yes">
+  <name>
+   <surname>Holguín</surname>
+   <given-names>África</given-names>
+  </name>
+  <address>
+   <email>africa.holguin@salud.madrid.org</email>
+  </address>
+  <xref ref-type="aff" rid="Aff1">1</xref>
+ </contrib>
+ <aff id="Aff1">
+  <label>1</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.411347.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9248 5770</institution-id>
+   <institution>HIV-1 Molecular Epidemiology Laboratory, Microbiology and Parasitology Department, </institution>
+   <institution>Hospital Ramón y Cajal-IRYCIS and CIBEREsp-RITIP, </institution>
+  </institution-wrap>28034 Madrid, Spain 
+ </aff>
+ <aff id="Aff2">
+  <label>2</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.411347.4</institution-id>
+   <institution-id institution-id-type="ISNI">0000 0000 9248 5770</institution-id>
+   <institution>Virology Section, Microbiology and Parasitology Department, </institution>
+   <institution>Hospital Ramón y Cajal-IRYCIS and CIBEREsp, </institution>
+  </institution-wrap>28034 Madrid, Spain 
+ </aff>
+ <aff id="Aff3">
+  <label>3</label>Microbiology Department, Clínica Universidad de Navarra, Navarra Institute for Health Research (IdiSNA), Institute of Tropical Health, Universidad de Navarra (ISTUN), 31008 Pamplona, Spain 
+ </aff>
+ <aff id="Aff4">
+  <label>4</label>Monkole Hospital, Kinshasa, Democratic Republic of the Congo 
+ </aff>
+ <aff id="Aff5">
+  <label>5</label>
+  <institution-wrap>
+   <institution-id institution-id-type="GRID">grid.5924.a</institution-id>
+   <institution-id institution-id-type="ISNI">0000000419370271</institution-id>
+   <institution>Department of Preventive Medicine and Public Health, </institution>
+   <institution>Navarra Institute for Health Research (IdiSNA), Institute of Tropical Health, Universidad de Navarra (ISTUN), </institution>
+  </institution-wrap>Pamplona, 31008 Spain 
+ </aff>
+</contrib-group>

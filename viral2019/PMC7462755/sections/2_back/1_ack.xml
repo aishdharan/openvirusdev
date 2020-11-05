@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ack id="ac0005">
+ <sec id="s0015">
+  <title>Acknowledgements</title>
+  <p id="p0075">This work was supported by 
+   <funding-source id="gts0005">CAMS</funding-source> Initiative for Innovative Medicine (grant number 2016-I2M-1-005), 
+   <funding-source id="gts0010">
+    <institution-wrap>
+     <institution-id institution-id-type="doi">10.13039/501100001809</institution-id>
+     <institution>National Natural Science Foundation of China</institution>
+    </institution-wrap>
+   </funding-source> (grant number 31671371, 31600750), and 
+   <funding-source id="gts0015">Central Public-Interest Scientific Institution Basal Research Fund</funding-source> (grant number 2017PT31026, 2018PT31016). We thank the 
+   <funding-source id="gts0020">Chinese National Influenza Surveillance Network</funding-source> for contributing to influenza epidemiological and laboratory surveillance. We thank Dr. Jing Meng for linguistic assistance during the preparation of this manuscript.
+  </p>
+ </sec>
+ <sec id="s0020">
+  <title>Conflict of interest statement</title>
+  <p id="p0080">The authors declare that there are no conflicts of interest.</p>
+ </sec>
+</ack>

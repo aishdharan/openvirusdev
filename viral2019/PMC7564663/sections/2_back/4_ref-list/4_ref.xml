@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B4-vaccines-08-00531">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Alejo</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Matamoros</surname>
+    <given-names>T.</given-names>
+   </name>
+   <name>
+    <surname>Guerra</surname>
+    <given-names>M.</given-names>
+   </name>
+   <name>
+    <surname>Andrés</surname>
+    <given-names>G.</given-names>
+   </name>
+  </person-group>
+  <article-title>A Proteomic Atlas of the African Swine Fever Virus Particle</article-title>
+  <source>J. Virol.</source>
+  <year>2018</year>
+  <volume>92</volume>
+  <fpage>e01293-18</fpage>
+  <pub-id pub-id-type="doi">10.1128/JVI.01293-18</pub-id>
+  <?supplied-pmid 30185597?>
+  <pub-id pub-id-type="pmid">30185597</pub-id>
+ </element-citation>
+</ref>

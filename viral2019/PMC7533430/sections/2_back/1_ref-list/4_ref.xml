@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R4">
+ <label>4</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Semba</surname>
+    <given-names>RD</given-names>
+   </name>
+   <name>
+    <surname>Bloem</surname>
+    <given-names>MW</given-names>
+   </name>
+  </person-group>
+  <article-title>Measles blindness.</article-title>
+  <source>Surv Ophthalmol</source>. 
+  <year>2004</year>;
+  <volume>49</volume>:
+  <fpage>243</fpage>-
+  <lpage>55</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.survophthal.2003.12.005</pub-id>
+  <?supplied-pmid 14998696?>
+  <pub-id pub-id-type="pmid">14998696</pub-id>
+ </mixed-citation>
+</ref>

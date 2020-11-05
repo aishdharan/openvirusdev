@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Hongguang</given-names>
+  </name>
+  <xref rid="aff0001" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Zhang</surname>
+   <given-names>Konglai</given-names>
+  </name>
+  <email>konglai_zhang@163.com</email>
+  <xref rid="aff0002" ref-type="aff">b</xref>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+ </contrib>
+ <aff id="aff0001">
+  <label>a</label>Peking University Sixth Hospital, Peking University Institute of Mental Health, NHC Key Laboratory of Mental Health (Peking University), National Clinical Research Center for Mental Disorders, Peking University Sixth Hospital, Beijing 100191, China
+ </aff>
+ <aff id="aff0002">
+  <label>b</label>Department of Epidemiology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences, Beijing 100005, China
+ </aff>
+</contrib-group>

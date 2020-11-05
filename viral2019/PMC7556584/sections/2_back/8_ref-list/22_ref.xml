@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR22">
+ <label>22.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Fouchier</surname>
+    <given-names>RA</given-names>
+   </name>
+   <name>
+    <surname>Hartwig</surname>
+    <given-names>NG</given-names>
+   </name>
+   <name>
+    <surname>Bestebroer</surname>
+    <given-names>TM</given-names>
+   </name>
+   <name>
+    <surname>Niemeyer</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>de Jong</surname>
+    <given-names>JC</given-names>
+   </name>
+   <name>
+    <surname>Simon</surname>
+    <given-names>JH</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>A previously undescribed coronavirus associated with respiratory disease in humans</article-title>
+  <source>Proc Natl Acad Sci U S A</source>
+  <year>2004</year>
+  <volume>101</volume>
+  <issue>16</issue>
+  <fpage>6212</fpage>
+  <lpage>6216</lpage>
+  <pub-id pub-id-type="doi">10.1073/pnas.0400762101</pub-id>
+  <?supplied-pmid 15073334?>
+  <pub-id pub-id-type="pmid">15073334</pub-id>
+ </element-citation>
+</ref>

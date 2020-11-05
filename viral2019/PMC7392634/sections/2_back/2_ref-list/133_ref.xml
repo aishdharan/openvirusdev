@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R133">
+ <label>133</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Bar-On</surname>
+    <given-names>YM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Flamholz</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Phillips</surname>
+    <given-names>R</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>SARS-CoV-2 (COVID-19) by the numbers</article-title>. 
+  <source>eLife</source>
+  <year>2020</year>;
+  <volume>9</volume>:
+  <elocation-id>e57309</elocation-id>
+  <pub-id pub-id-type="doi">10.7554/eLife.57309</pub-id>
+  <pub-id pub-id-type="pmid">32228860</pub-id>
+ </mixed-citation>
+</ref>

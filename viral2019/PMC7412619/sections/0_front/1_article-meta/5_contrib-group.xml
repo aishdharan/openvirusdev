@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib id="author-67944310" contrib-type="author" corresp="yes">
+  <name>
+   <surname>Nsanzimana</surname>
+   <given-names>Sabin</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">1</xref>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-54744232" contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3120-9694</contrib-id>
+  <name>
+   <surname>Mills</surname>
+   <given-names>Edward J</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-70574131" contrib-type="author">
+  <name>
+   <surname>Harari</surname>
+   <given-names>Ofir</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-70574137" contrib-type="author">
+  <name>
+   <surname>Mugwaneza</surname>
+   <given-names>Placidie</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">5</xref>
+ </contrib>
+ <contrib id="author-55615371" contrib-type="author">
+  <name>
+   <surname>Karita</surname>
+   <given-names>Etienne</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff6">6</xref>
+ </contrib>
+ <contrib id="author-70574147" contrib-type="author">
+  <name>
+   <surname>Uwizihiwe</surname>
+   <given-names>Jean Paul</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff7">7</xref>
+  <xref ref-type="aff" rid="aff8">8</xref>
+ </contrib>
+ <contrib id="author-70574154" contrib-type="author">
+  <name>
+   <surname>Park</surname>
+   <given-names>Jay JH</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+  <xref ref-type="aff" rid="aff9">9</xref>
+ </contrib>
+ <contrib id="author-76554318" contrib-type="author">
+  <name>
+   <surname>Dron</surname>
+   <given-names>Louis</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+ <contrib id="author-70574162" contrib-type="author">
+  <name>
+   <surname>Condo</surname>
+   <given-names>Jeanine</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff10">10</xref>
+ </contrib>
+ <contrib id="author-70574173" contrib-type="author">
+  <name>
+   <surname>Bucher</surname>
+   <given-names>Heiner</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">2</xref>
+ </contrib>
+ <contrib id="author-70574179" contrib-type="author">
+  <name>
+   <surname>Thorlund</surname>
+   <given-names>Kristian</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff3">3</xref>
+  <xref ref-type="aff" rid="aff4">4</xref>
+ </contrib>
+</contrib-group>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="jmv25723-bib-0006">
+ <label>6</label>
+ <mixed-citation publication-type="journal" id="jmv25723-cit-0006">
+  <string-name>
+   <surname>Suchard</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Weiss</surname>
+   <given-names>RE</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Sinsheimer</surname>
+   <given-names>JS</given-names>
+  </string-name>. 
+  <article-title>Bayesian selection of continuous‐time Markov chain evolutionary models</article-title>. 
+  <source xml:lang="en">Mol Biol Evol</source>. 
+  <year>2001</year>;
+  <volume>18</volume>(
+  <issue>6</issue>):
+  <fpage>1001</fpage>‐
+  <lpage>1013</lpage>.
+  <pub-id pub-id-type="pmid">11371589</pub-id>
+ </mixed-citation>
+</ref>

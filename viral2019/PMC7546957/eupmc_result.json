@@ -1,0 +1,438 @@
+{
+  "id": [
+    "PMC7546957"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC7546957"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7546957"
+      ]
+    }
+  ],
+  "title": [
+    "Seroprevalence of COVID-19 in Taiwan revealed by testing anti-SARS-CoV-2 serological antibodies on 14,765 hospital patients"
+  ],
+  "authorString": [
+    "Ho H, Wang F, Lee H, Huang Y, Lai C, Jen W, Hsieh S, Chou T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ho H"
+          ],
+          "firstName": [
+            "Hsiang-Ling"
+          ],
+          "lastName": [
+            "Ho"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "b The Department of Biotechnology and Laboratory Science in Medicine, National Yang-Ming University, Taipei, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang F"
+          ],
+          "firstName": [
+            "Fang-Yu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a The Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, 201, Section 2, Shipai Road, Taipei 11217, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee H"
+          ],
+          "firstName": [
+            "Hao-Ru"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a The Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, 201, Section 2, Shipai Road, Taipei 11217, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Ya-Lan"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "c The Genomics Research Center, Academia Sinica, Taipei, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lai C"
+          ],
+          "firstName": [
+            "Chien-Liang"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a The Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, 201, Section 2, Shipai Road, Taipei 11217, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jen W"
+          ],
+          "firstName": [
+            "Wen-Chin"
+          ],
+          "lastName": [
+            "Jen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "a The Department of Pathology and Laboratory Medicine, Taipei Veterans General Hospital, 201, Section 2, Shipai Road, Taipei 11217, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hsieh S"
+          ],
+          "firstName": [
+            "Shie-Liang"
+          ],
+          "lastName": [
+            "Hsieh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "d The Institute of Clinical Medicine, National Yang-Ming University, Taipei, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chou T"
+          ],
+          "firstName": [
+            "Teh-Ying"
+          ],
+          "lastName": [
+            "Chou"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "e The Institute of Biochemistry and Molecular Biology, National Yang-Ming University, Taipei, Taiwan"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "3039530"
+      ],
+      "dateOfPublication": [
+        "2020 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Lancet Regional Health - Western Pacific"
+          ],
+          "ISSN": [
+            "2666-6065"
+          ],
+          "ESSN": [
+            "2666-6065"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "100041-100041"
+  ],
+  "abstractText": [
+    "Background Coronavirus Disease 2019 (COVID-19) has become a worldwide pandemic and affected more than 227 countries or territories, resulting in more than 25 million cases with over 0•85 million deaths, as of September 2, 2020. Taiwan has been successful in countering the COVID-19 outbreak, however, the potential risk for asymptomatic infections and the prevalence rates remain unknown. We aimed to estimate the seroprevalence of COVID-19 in Taiwan via serologically testing hospital patients with neither symptoms indicative of nor positive nucleic acid test for SARS-CoV-2 infection. Methods Residual specimens from laboratory blood tests for outpatient and emergency department patients visiting a medical centre in Taipei, Taiwan, within one week in May and another in July, 2020, were collected. We used Elecsys Anti-SARS-CoV-2 Assay to screen and further validated cases with high cutoff index by a confirmatory ELISA assay. We also analysed antibody responses against SARS-CoV-2 along disease progression in four nucleic acid test confirmed COVID-19 patients. Findings Blood samples from a total of 14,765 patients were tested. The unweighted seroprevalence of anti-SARS-CoV-2 antibodies was 0•07% [95% CI, 0•04%-0•13%]; after weighting with the population demographics of Taiwan, the estimated overall seroprevalence was 0•05% [95% CI, 0•02%-0•10%]. Furthermore, based on data of the four COVID-19 cases, the seroconversion dates for IgM were as early as 9 days and that for IgG 11 days after symptoms onset. Interpretation We screened the anti-SARS-CoV-2 antibodies in a small-scale population-based study and observed an approximately 0•05% seroprevalence of COVID-19, indicating that the current containment protocols emphasising mask wearing, hand washing, social distancing and mandatory quarantine for all incomers are effective in Taiwan. Funding Taipei Veterans General Hospital, Taipei, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Seroprevalence",
+        "Covid-19",
+        "Anti-Sars-Cov-2 Serological Antibodies",
+        "Pandemic;Taiwan"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7546957/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7546957/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7546957"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7546957?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-17"
+  ],
+  "firstIndexDate": [
+    "2020-10-17"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-17"
+  ],
+  "dateOfRevision": [
+    "2020-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-10-01"
+  ],
+  "firstPublicationDate": [
+    "2020-10-01"
+  ]
+}

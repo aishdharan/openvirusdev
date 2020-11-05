@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par33">The novel Coronavirus Disease 2019 (COVID-19) epidemic has caused 75,204 confirmed cases and 2,006 death utile February 19, 2020, which triggers global public health concern. Peak prediction informing social and non-pharmaceutical prevention interventions is illuminating but remains difficult to achieve accuracy. Intercity migration is one of the essential factors in the spread of the disease. We construct migration networks of 367 cities in China. An SEIR-migration model with more than 1800 unknown parameters is utilized to model the spreading of COVID-19 in the 367 cities in China. We proposed a pseudocoevolutionary simulated annealing algorithm to identify these unknown parameters from historical data of the number of infected, recovered, and death toll. From this model, we can achieve all the essential information about the epidemic spreading, including infection rates, recovery rates, and eventual percentage of the infected population for 367 cities in China. The main conclusion of our study is that the COVID-19 epidemic spreading would peak between mid-February to early March 2020, with about 
+ <inline-formula id="IEq75">
+  <alternatives>
+   <tex-math id="M175">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$0.8\%$$\end{document}</tex-math>
+   <math id="M176">
+    <mrow>
+     <mn>0.8</mn>
+     <mo>%</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq75.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, less than 
+ <inline-formula id="IEq76">
+  <alternatives>
+   <tex-math id="M177">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$0.1\%$$\end{document}</tex-math>
+   <math id="M178">
+    <mrow>
+     <mn>0.1</mn>
+     <mo>%</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq76.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, and less than 
+ <inline-formula id="IEq77">
+  <alternatives>
+   <tex-math id="M179">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$0.01\%$$\end{document}</tex-math>
+   <math id="M180">
+    <mrow>
+     <mn>0.01</mn>
+     <mo>%</mo>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq77.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> of the population eventually infected in Wuhan, Hubei Province, and the rest of China, respectively. Results indicate that the COVID-19 epidemic has been controlled. This work provides a method for estimating the proportion of infected people. However, only seroprevalence studies may actually estimate the proportion of infected individuals.
+</p>

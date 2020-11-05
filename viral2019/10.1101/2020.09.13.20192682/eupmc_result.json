@@ -1,0 +1,398 @@
+{
+  "id": [
+    "PPR213721"
+  ],
+  "source": [
+    "PPR"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PPR213721"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1101/2020.09.13.20192682"
+  ],
+  "title": [
+    "The impact of digital contact tracing on the SARS-CoV-2 pandemic - a comprehensive modelling study"
+  ],
+  "authorString": [
+    "Pollmann TR, Pollmann J, Wiesinger C, Haack C, Shtembari L, Turcati A, Neumair B, Meighen-Berger S, Zattera G, Neumair M, Apel U, Okolie A, Mueller J, Schoenert S, Resconi E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pollmann TR"
+          ],
+          "firstName": [
+            "Tina"
+          ],
+          "lastName": [
+            "Pollmann"
+          ],
+          "initials": [
+            "TR"
+          ]
+        },
+        {
+          "fullName": [
+            "Pollmann J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Pollmann"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Wiesinger C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Wiesinger"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Haack C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Haack"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Shtembari L"
+          ],
+          "firstName": [
+            "Lolian"
+          ],
+          "lastName": [
+            "Shtembari"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Turcati A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Turcati"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Neumair B"
+          ],
+          "firstName": [
+            "Birgit"
+          ],
+          "lastName": [
+            "Neumair"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Meighen-Berger S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Meighen-Berger"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Zattera G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Zattera"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Neumair M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Neumair"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Apel U"
+          ],
+          "firstName": [
+            "Uljana"
+          ],
+          "lastName": [
+            "Apel"
+          ],
+          "initials": [
+            "U"
+          ]
+        },
+        {
+          "fullName": [
+            "Okolie A"
+          ],
+          "firstName": [
+            "Augustine"
+          ],
+          "lastName": [
+            "Okolie"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Mueller J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Mueller"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Schoenert S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Schoenert"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Resconi E"
+          ],
+          "firstName": [
+            "Elisa"
+          ],
+          "lastName": [
+            "Resconi"
+          ],
+          "initials": [
+            "E"
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics",
+        "supporting_data"
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "abstractText": [
+    "Contact tracing is one of several strategies employed in many countries to curb the spread of SARS-CoV-2. Digital contact tracing (DCT) uses tools such as cell-phone applications to improve tracing speed and reach. We model the impact of DCT on the spread of the virus for a large epidemiological parameter space consistent with current literature on SARS-CoV-2. We also model DCT in combination with random testing (RT) and social distancing (SD).  Modelling is done with two independently developed individual-based (stochastic) models that use the Monte Carlo technique, benchmarked against each other and against two types of deterministic models. For current best estimates of the number of asymptomatic SARS-CoV-2 carriers (approximately 40\\%), their contagiousness (similar to that of symptomatic carriers), the reproductive number before interventions (R0 at least 3) we find that DCT must be combined with other interventions such as SD and/or RT to push the reproductive number below one. At least 60\\% of the population would have to use the DCT system for its effect to become significant. On its own, DCT cannot bring the reproductive number below 1 unless nearly the entire population uses the DCT system and follows quarantining and testing protocols strictly. For lower uptake of the DCT system, DCT still reduces the number of people that become infected.  When DCT is deployed in a population with an ongoing outbreak where O(0.1\\%) of the population have already been infected, the gains of the DCT intervention come at the cost of requiring up to 15% of the population to be quarantined (in response to being traced) on average each day for the duration of the epidemic, even when there is sufficient testing capability to test every traced person."
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Preprint"
+      ]
+    }
+  ],
+  "bookOrReportDetails": [
+    {
+      "publisher": [
+        "medRxiv"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1101/2020.09.13.20192682"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/article/PPR/PPR213721"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/api/fulltextRepo?pprId=PPR213721&type=FILE&fileName=EMS95097-pdf.pdf&mimeType=application/pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-15"
+  ],
+  "firstIndexDate": [
+    "2020-09-15"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-12"
+  ],
+  "firstPublicationDate": [
+    "2020-09-14"
+  ]
+}

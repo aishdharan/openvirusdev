@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b10">
+ <element-citation publication-type="journal" id="sb10">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Gers</surname>
+    <given-names>F.A.</given-names>
+   </name>
+   <name>
+    <surname>Schmidhuber</surname>
+    <given-names>J.</given-names>
+   </name>
+  </person-group>
+  <article-title>LSTM Recurrent networks learn simple context-free and context-sensitive languages</article-title>
+  <source>IEEE Transactions on Neural Networks</source>
+  <volume>12 6</volume>
+  <year>2001</year>
+  <fpage>1333</fpage>
+  <lpage>1340</lpage>
+  <pub-id pub-id-type="pmid">18249962</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib1">
+ <label>1</label>
+ <element-citation publication-type="journal" id="sref1">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Moorthy</surname>
+    <given-names>V.</given-names>
+   </name>
+   <name>
+    <surname>Restrepo</surname>
+    <given-names>A.M.</given-names>
+   </name>
+   <name>
+    <surname>Preziosi</surname>
+    <given-names>M.P.</given-names>
+   </name>
+   <name>
+    <surname>Swaminathan</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Data sharing for novel coronavirus (COVID-19)</article-title>
+  <source>Bull World Health Organ</source>
+  <volume>98</volume>
+  <year>2020</year>
+  <fpage>150</fpage>
+  <pub-id pub-id-type="pmid">32132744</pub-id>
+ </element-citation>
+</ref>

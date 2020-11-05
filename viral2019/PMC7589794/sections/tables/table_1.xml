@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="pathogens-09-00856-t001" orientation="portrait" position="float">
+ <object-id pub-id-type="pii">pathogens-09-00856-t001_Table 1</object-id>
+ <label>Table 1</label>
+ <caption>
+  <p>Reported HEV outbreaks.</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Year(s)</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Country</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Mode of Transmission</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reported</th>
+    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Ref.</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1955–1956</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">29,300</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B80-pathogens-09-00856" ref-type="bibr">80</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1978–1979</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Kashmir </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;270</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B23-pathogens-09-00856" ref-type="bibr">23</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1980–1981</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Algeria</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sewage contamination—river water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">788</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B81-pathogens-09-00856" ref-type="bibr">81</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1982</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Myanmar</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">399</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B82-pathogens-09-00856" ref-type="bibr">82</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1983</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Namibia</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">hundreds</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B79-pathogens-09-00856" ref-type="bibr">79</xref>,
+     <xref rid="B83-pathogens-09-00856" ref-type="bibr">83</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1983–1984</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cote d’Ivoire</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">623</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B84-pathogens-09-00856" ref-type="bibr">84</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1985</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Turkmenistan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">16,175</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B85-pathogens-09-00856" ref-type="bibr">85</xref>,
+     <xref rid="B86-pathogens-09-00856" ref-type="bibr">86</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1985</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Botswana</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fecal contamination of water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">273</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B87-pathogens-09-00856" ref-type="bibr">87</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1986</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mexico </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contaminated well water </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;200</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B88-pathogens-09-00856" ref-type="bibr">88</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1988</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Somalia</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">106</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B89-pathogens-09-00856" ref-type="bibr">89</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1988–1989</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contaminated drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">53</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B90-pathogens-09-00856" ref-type="bibr">90</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1988–1989</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ethiopia </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">After monsoon rains </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;750</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B91-pathogens-09-00856" ref-type="bibr">91</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1989</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Myanmar</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contamination—water supply by feces</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">93</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B92-pathogens-09-00856" ref-type="bibr">92</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1991</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contaminated river water (Ganges) </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">79,000 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B93-pathogens-09-00856" ref-type="bibr">93</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1991</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">China</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">119,000</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B94-pathogens-09-00856" ref-type="bibr">94</xref>,
+     <xref rid="B95-pathogens-09-00856" ref-type="bibr">95</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1991</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Indonesia</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1688 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B96-pathogens-09-00856" ref-type="bibr">96</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1993–1994</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pakistan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3827</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B97-pathogens-09-00856" ref-type="bibr">97</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1994</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Vietnam </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">After heavy rains </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;300</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B98-pathogens-09-00856" ref-type="bibr">98</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1994</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Morocco</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fecal contamination of drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">73</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B99-pathogens-09-00856" ref-type="bibr">99</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1995–1996</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Namibia</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;600</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B79-pathogens-09-00856" ref-type="bibr">79</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1998</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B100-pathogens-09-00856" ref-type="bibr">100</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1998</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Indonesia</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">472</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B101-pathogens-09-00856" ref-type="bibr">101</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1998</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pakistan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fecal contamination—water system</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">104</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B102-pathogens-09-00856" ref-type="bibr">102</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2002</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contaminated water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">185</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B103-pathogens-09-00856" ref-type="bibr">103</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2004</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Central African Republic</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rainy season</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">213</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B104-pathogens-09-00856" ref-type="bibr">104</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2004</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sudan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Safe water insufficient </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;2600</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B105-pathogens-09-00856" ref-type="bibr">105</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2004</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Drinking untreated raw river water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">538</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B106-pathogens-09-00856" ref-type="bibr">106</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2004</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Chad</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1442 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B107-pathogens-09-00856" ref-type="bibr">107</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2005</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Iraq</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">268 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B108-pathogens-09-00856" ref-type="bibr">108</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2005</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contaminated drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">429</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B109-pathogens-09-00856" ref-type="bibr">109</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2006</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sudan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2621</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B110-pathogens-09-00856" ref-type="bibr">110</xref>,
+     <xref rid="B111-pathogens-09-00856" ref-type="bibr">111</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2007–2008</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fecal contamination of water resources</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">64</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B112-pathogens-09-00856" ref-type="bibr">112</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2007–2008</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Egypt</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">28</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B113-pathogens-09-00856" ref-type="bibr">113</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2007–2009</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Uganda</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">146</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B114-pathogens-09-00856" ref-type="bibr">114</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2008</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sewage contamination of the river</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">23,915 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B115-pathogens-09-00856" ref-type="bibr">115</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2008</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Uganda</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Substantial person-to-person </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&gt;10,000</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B116-pathogens-09-00856" ref-type="bibr">116</xref>,
+     <xref rid="B117-pathogens-09-00856" ref-type="bibr">117</xref>,
+     <xref rid="B118-pathogens-09-00856" ref-type="bibr">118</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2008–2009</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bangladesh</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sewage contamination—municipal water </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4751 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B119-pathogens-09-00856" ref-type="bibr">119</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2009–2012</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Uganda</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contaminated water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">987</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B120-pathogens-09-00856" ref-type="bibr">120</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2010</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bangladesh</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">200</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B121-pathogens-09-00856" ref-type="bibr">121</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2010</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">102</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B122-pathogens-09-00856" ref-type="bibr">122</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2005–2010</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">442</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B123-pathogens-09-00856" ref-type="bibr">123</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2010–2011</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sudan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">39</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B105-pathogens-09-00856" ref-type="bibr">105</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2012</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fecal contamination of drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">180</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B124-pathogens-09-00856" ref-type="bibr">124</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2012</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Kenya</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">131</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B125-pathogens-09-00856" ref-type="bibr">125</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2008–2012</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Central African Republic</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">745</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B126-pathogens-09-00856" ref-type="bibr">126</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2012–2013</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">South Sudan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5080 
+     <sup>1</sup>
+    </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B127-pathogens-09-00856" ref-type="bibr">127</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2013</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sewage contamination of drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">240</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B128-pathogens-09-00856" ref-type="bibr">128</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2013</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cameroon</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">33</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B129-pathogens-09-00856" ref-type="bibr">129</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2014–2015</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bangladesh</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">103</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B130-pathogens-09-00856" ref-type="bibr">130</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2014–2016</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">India</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">17</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B131-pathogens-09-00856" ref-type="bibr">131</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2016–2017</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Chad</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne </td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1293</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B132-pathogens-09-00856" ref-type="bibr">132</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2017–2018</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nigeria</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Contamination of drinking water</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1376</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B133-pathogens-09-00856" ref-type="bibr">133</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2014–2017</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bangladesh</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">661</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B134-pathogens-09-00856" ref-type="bibr">134</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2018</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Central African Republic</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">149</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B135-pathogens-09-00856" ref-type="bibr">135</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2018</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">South Sudan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">161</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B135-pathogens-09-00856" ref-type="bibr">135</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2019</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pakistan</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">300</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B136-pathogens-09-00856" ref-type="bibr">136</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2017–2020</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Namibia</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Waterborne</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7247</td>
+    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[
+     <xref rid="B137-pathogens-09-00856" ref-type="bibr">137</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>
+    <sup>1</sup> Numbers based on reported estimates.
+   </p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

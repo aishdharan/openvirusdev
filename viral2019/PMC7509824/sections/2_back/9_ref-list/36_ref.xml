@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR36">
+ <label>36.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Guo</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>Shang</surname>
+    <given-names>P</given-names>
+   </name>
+   <name>
+    <surname>Carrillo</surname>
+    <given-names>CA</given-names>
+   </name>
+   <name>
+    <surname>Sun</surname>
+    <given-names>Z</given-names>
+   </name>
+   <name>
+    <surname>Lakshmanappa</surname>
+    <given-names>YS</given-names>
+   </name>
+   <name>
+    <surname>Yan</surname>
+    <given-names>X</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Double-stranded viral RNA persists in vitro and in vivo during prolonged infection of porcine reproductive and respiratory syndrome virus</article-title>
+  <source>Virology</source>
+  <year>2018</year>
+  <volume>524</volume>
+  <fpage>78</fpage>
+  <lpage>89</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.virol.2018.08.006</pub-id>
+  <?supplied-pmid 30165309?>
+  <pub-id pub-id-type="pmid">30165309</pub-id>
+ </element-citation>
+</ref>

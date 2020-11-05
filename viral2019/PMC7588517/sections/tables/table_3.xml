@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T3" position="float">
+ <label>Table 3</label>
+ <caption>
+  <title>Results of multivariable Cox proportional hazard regression analysis of substantiated outbreaks by predictor variables, WHO African Region, 2017–2019* </title>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <col width="153" span="1"/>
+  <col width="54" span="1"/>
+  <col width="103" span="1"/>
+  <col width="89" span="1"/>
+  <col width="82" span="1"/>
+  <thead>
+   <tr>
+    <th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Categories</th>
+    <th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Total no.†</th>
+    <th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Time to detection (
+     <xref rid="R15" ref-type="bibr">
+      <italic>15</italic>
+     </xref>)
+    </th>
+    <th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Time to notification (
+     <xref rid="R15" ref-type="bibr">
+      <italic>15</italic>
+     </xref>)
+    </th>
+    <th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Time to end (
+     <xref rid="R15" ref-type="bibr">
+      <italic>15</italic>
+     </xref>)
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">Income (
+     <xref rid="R16" ref-type="bibr">
+      <italic>16</italic>
+     </xref>) 
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Low </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">156</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Middle and high </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">140</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.01 (0.68–1.52)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.11 (0.71–1.73)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.07 (0.78–1.73)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.5147
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.6289
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.1513
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">WHO subregion (
+     <xref rid="R10" ref-type="bibr">
+      <italic>10</italic>
+     </xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Eastern and Southern</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">133</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Western</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">102</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.02 (0.52–1.46)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.84 (0.47–1.50)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.94 (0.56–1.54)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Central </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">61</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.81 (0.49–1.38) </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.13 (0.65–1.97)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.55 (0.33–0.90) </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0427
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.6784
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0608
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">Outbreak start date‡ (
+     <xref rid="R15" ref-type="bibr">
+      <italic>15</italic>
+     </xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 2017</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">103</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 2018</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">101</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.68 (1.16–2.34)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.46 (0.31–0.70)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.57 (1.08–2.27)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> 2019</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">87</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">2.59 (1.71–3.94)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.40 (0.25–0.64)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.94 (0.63–1.43)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0000
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0000
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0182
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">No. refugees from elsewhere (
+     <xref rid="R13" ref-type="bibr">
+      <italic>13</italic>
+     </xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Low‡</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">199</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> High‡</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">97</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.61 (0.96–2.70)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.82 (0.45–1.48)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.80 (0.48–1.33)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.2017
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.8066
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0236
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">IDP, % population (
+     <xref rid="R13" ref-type="bibr">
+      <italic>13</italic>
+     </xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Low‡</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">212</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> High‡</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">84</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.01 (0.64–2.70) </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.38 (0.85–2.23) </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.70 (0.47–1.04)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.8446
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.2843
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0163
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">Disease category (
+     <xref rid="R13" ref-type="bibr">
+      <italic>13</italic>
+     </xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Food/waterborne </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">74</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Vectorborne </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">48</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.59 (0.34–1.03)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.18 (0.63–2.22)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.89 (0.54–1.45)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Viral hemorrhagic fever</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">56</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.40 (0.25–0.66)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.57 (0.89–2.77)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.20 (0.75–1.91)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Vaccine-preventable </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">85</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.46 (0.29–0.73)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.19 (0.69–2.05)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.53 (0.34–0.83)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Other</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">33</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.44 (0.34–1.05)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.91 (0.47–1.78)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.45 (0.85–2.46)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0023
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.4704
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.0014
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">Current health expenditure, % GDP (
+     <xref rid="R13" ref-type="bibr">
+      <italic>13</italic>
+     </xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Low§</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">162</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> High§</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">134</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.11 (0.75–1.65)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.93 (0.58–1.49)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.02 (0.69–1.51)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance
+     <hr/>
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1">
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.5415
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.7700
+     <hr/>
+    </td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.9354
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="col" rowspan="1" colspan="1">Population density (
+     <xref rid="R13" ref-type="bibr">
+      <italic>13</italic>
+     </xref>)
+    </td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Low§</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">201</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">Referent</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> High§</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">95</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">1.10 (0.74–1.61)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.98 (0.64–1.49)</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">0.96 (0.67–1.38)</td>
+   </tr>
+   <tr>
+    <td valign="top" align="left" scope="row" rowspan="1" colspan="1"> Significance</td>
+    <td valign="top" align="left" rowspan="1" colspan="1"/>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.6555</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.9258</td>
+    <td valign="top" align="center" rowspan="1" colspan="1">p = 0.8251</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>*GDP, gross domestic product; IDP, internally displaced persons; IQR, interquartile range. †Numbers, based on records of total outbreaks meeting selection criteria (total for each modality = 296).  ‡Five dates missing in initial dataset.  §Low indicates 
+   <underline>&lt;</underline> median, high indicates &gt; median of in-country value for variable compared with that value for all countries in the African region.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

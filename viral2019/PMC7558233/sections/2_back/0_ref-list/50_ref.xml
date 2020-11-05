@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0250">
+ <label>50</label>
+ <element-citation publication-type="journal" id="h0250">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Ackerman</surname>
+    <given-names>C.M.</given-names>
+   </name>
+   <name>
+    <surname>Myhrvold</surname>
+    <given-names>C.</given-names>
+   </name>
+   <name>
+    <surname>Thakku</surname>
+    <given-names>S.G.</given-names>
+   </name>
+   <name>
+    <surname>Freije</surname>
+    <given-names>C.A.</given-names>
+   </name>
+   <name>
+    <surname>Metsky</surname>
+    <given-names>H.C.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>D.K.</given-names>
+   </name>
+  </person-group>
+  <article-title>Massively multiplexed nucleic acid detection with Cas13</article-title>
+  <source>Nature</source>
+  <volume>582</volume>
+  <year>2020</year>
+  <fpage>277</fpage>
+  <lpage>282</lpage>
+  <pub-id pub-id-type="pmid">32349121</pub-id>
+ </element-citation>
+</ref>

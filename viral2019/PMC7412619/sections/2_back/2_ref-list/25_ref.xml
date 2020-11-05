@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R25">
+ <label>25</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Nsanzimana</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Kanters</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Remera</surname>
+    <given-names>E</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>HIV care continuum in Rwanda: a cross-sectional analysis of the National programme</article-title>. 
+  <source>Lancet HIV</source>
+  <year>2015</year>;
+  <volume>2</volume>:
+  <fpage>e208</fpage>–
+  <lpage>15</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S2352-3018(15)00024-7</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26423003?>
+  <pub-id pub-id-type="pmid">26423003</pub-id>
+ </mixed-citation>
+</ref>

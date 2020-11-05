@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="Fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Phylogenetic tree of current PEDV strains. Phylogenetic tree of 2019 PEDV strains from Germany, Hungary, and France as well as 2014 PEDV strains from Germany, USA, and China. The complete genome sequences were aligned using MAFFT and a phylogenetic analysis was performed using PhyML, with a GTR substitution model and tree reconstruction supported by 1000 bootstrapping replicas [
+   <xref ref-type="bibr" rid="CR28">28</xref>, 
+   <xref ref-type="bibr" rid="CR29">29</xref>]. Green branches show the 2019 PEDV isolates from Germany, blue branches highlight the isolates from Hungary and France and red branches are the highly virulent NON-INDEL strains from the USA and China
+  </p>
+ </caption>
+ <graphic xlink:href="12917_2020_2548_Fig1_HTML" id="MO1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

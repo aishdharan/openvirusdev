@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B49">
+ <label>49</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Forni</surname>
+    <given-names>D</given-names>
+   </name>
+   <name>
+    <surname>Filippi</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Cagliani</surname>
+    <given-names>R</given-names>
+   </name>
+   <name>
+    <surname>De</surname>
+    <given-names>Gioia L</given-names>
+   </name>
+   <name>
+    <surname>Pozzoli</surname>
+    <given-names>U</given-names>
+   </name>
+   <name>
+    <surname>Al-Daghri</surname>
+    <given-names>N</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>The heptad repeat region is a major selection target in MERS-CoV and related coronaviruses</article-title>
+  <source> Scientific Reports</source>
+  <year>2015</year>
+  <volume>5</volume>
+  <issue>1</issue>
+  <fpage>14480</fpage>
+  <pub-id pub-id-type="pmid">26404138</pub-id>
+ </element-citation>
+</ref>

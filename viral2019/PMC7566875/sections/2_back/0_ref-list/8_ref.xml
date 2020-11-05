@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b8">
+ <label>8</label>
+ <element-citation publication-type="journal" id="sb8">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Grigorieva</surname>
+    <given-names>Ellina V.</given-names>
+   </name>
+   <name>
+    <surname>Khailov</surname>
+    <given-names>Evgenii N.</given-names>
+   </name>
+  </person-group>
+  <article-title>Optimal intervention strategies for a SEIR control model of Ebola epidemics</article-title>
+  <source>Mathematics</source>
+  <volume>3</volume>
+  <issue>4</issue>
+  <year>2015</year>
+  <fpage>961</fpage>
+  <lpage>983</lpage>
+ </element-citation>
+</ref>

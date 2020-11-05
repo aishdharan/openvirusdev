@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table id="PMC7546239/table_2" xmlns="http://www.w3.org/1999/xhtml">
+ <caption>
+  <label>Table 2</label>
+  <p>All algorithms discussed in this paper. The Netherlands is abbreviated as NL. *As input, each algorithm requires the population size 
+   <div class="inline-formula">
+    <div class="math" id="d1e164" display="inline" altimg="si136.svg">
+     <div>
+      <div>
+       <div class="mi">N</div>
+      </div>
+      <div>
+       <div class="mi">i</div>
+      </div>
+     </div>
+    </div>
+   </div> of each region 
+   <div class="inline-formula">
+    <div class="math" id="d1e174" display="inline" altimg="si137.svg">
+     <div class="mi">i</div>
+    </div>
+   </div> and a time series of the infected cases  
+   <div class="inline-formula">
+    <div class="math" id="d1e179" display="inline" altimg="si138.svg">
+     <div>
+      <div>
+       <div>
+        <div class="mi">y</div>
+       </div>
+       <div>
+        <div class="mi">i</div>
+       </div>
+      </div>
+      <div>
+       <div>[</div>
+       <div class="mi">k</div>
+       <div>]</div>
+      </div>
+     </div>
+    </div>
+   </div> in each region 
+   <div class="inline-formula">
+    <div class="math" id="d1e198" display="inline" altimg="si137.svg">
+     <div class="mi">i</div>
+    </div>
+   </div> at every time 
+   <div class="inline-formula">
+    <div class="math" id="d1e203" display="inline" altimg="si140.svg">
+     <div class="mi">k</div>
+    </div>
+   </div>. 
+  </p>
+ </caption>
+ <thead>
+  <tr>
+   <th align="left" colspan="1" rowspan="1" id="0-0-.">Algorithm</th>
+   <th align="left" colspan="1" rowspan="1" id="0-1-.">Additional input*</th>
+   <th align="left" colspan="1" rowspan="1" id="0-2-.">Error (Hubei)</th>
+   <th align="left" colspan="1" rowspan="1" id="0-3-.">Error (NL)</th>
+   <th align="left" colspan="1" rowspan="1" id="0-4-.">Bias</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td align="left">NIPA</td>
+   <td align="left">–</td>
+   <td align="left">0.122</td>
+   <td align="left">0.0381</td>
+   <td align="left"/>
+  </tr>
+  <tr>
+   <td align="left">NIPA separate</td>
+   <td align="left">–</td>
+   <td align="left">0.129</td>
+   <td align="left">0.0487</td>
+   <td align="left"/>
+  </tr>
+  <tr>
+   <td align="left">NIPA static prior</td>
+   <td align="left">Static network</td>
+   <td align="left">0.135</td>
+   <td align="left">0.0384</td>
+   <td align="left">Over</td>
+  </tr>
+  <tr>
+   <td align="left">NIPA dynamic prior</td>
+   <td align="left">Dynamic network</td>
+   <td align="left">0.129</td>
+   <td align="left">0.0429</td>
+   <td align="left"/>
+  </tr>
+  <tr>
+   <td align="left">Logistic function</td>
+   <td align="left">–</td>
+   <td align="left">0.186</td>
+   <td align="left">0.0735</td>
+   <td align="left">Under</td>
+  </tr>
+  <tr>
+   <td align="left">Hill function</td>
+   <td align="left">–</td>
+   <td align="left">0.142</td>
+   <td align="left">0.0531</td>
+   <td align="left"/>
+  </tr>
+  <tr>
+   <td align="left">Gompertz function</td>
+   <td align="left">–</td>
+   <td align="left">0.141</td>
+   <td align="left">0.0528</td>
+   <td align="left"/>
+  </tr>
+  <tr>
+   <td align="left">LSTM</td>
+   <td align="left">–</td>
+   <td align="left">0.160</td>
+   <td align="left">0.0570</td>
+   <td align="left">Under</td>
+  </tr>
+ </tbody>
+</table>

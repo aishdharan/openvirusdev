@@ -1,0 +1,406 @@
+{
+  "id": [
+    "33102270"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "33102270"
+  ],
+  "pmcid": [
+    "PMC7567250"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7567250"
+      ]
+    }
+  ],
+  "doi": [
+    "10.4103/jfmpc.jfmpc_496_20"
+  ],
+  "title": [
+    "Novel coronavirus- A comprehensive review."
+  ],
+  "authorString": [
+    "Nair AM, Shilpa PH, Shekhar V, Tiwari RVC, Shaik I, Dasari B, Tiwari H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nair AM"
+          ],
+          "firstName": [
+            "Aparna M"
+          ],
+          "lastName": [
+            "Nair"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Periodontics, PMS College of Dental Science and Research, Trivandrum, Kerala, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shilpa PH"
+          ],
+          "firstName": [
+            "P H"
+          ],
+          "lastName": [
+            "Shilpa"
+          ],
+          "initials": [
+            "PH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Faculty of Dentistry, AIMST University, Bedong, Malaysia."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shekhar V"
+          ],
+          "firstName": [
+            "Vijay"
+          ],
+          "lastName": [
+            "Shekhar"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Government Dental Surgeon, PHC Sampatchak, Patna, Bihar, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tiwari RVC"
+          ],
+          "firstName": [
+            "Rahul V C"
+          ],
+          "lastName": [
+            "Tiwari"
+          ],
+          "initials": [
+            "RVC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "CLOVE Dental and OMNI Hospitals, Visakhapatnam, Andhra Pradesh, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shaik I"
+          ],
+          "firstName": [
+            "Izaz"
+          ],
+          "lastName": [
+            "Shaik"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Rutgers School of Dental Medicine, Newark, New Jersey, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dasari B"
+          ],
+          "firstName": [
+            "Bhargavi"
+          ],
+          "lastName": [
+            "Dasari"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Rutgers School of Dental Medicine, Newark, New Jersey, USA."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tiwari H"
+          ],
+          "firstName": [
+            "Heena"
+          ],
+          "lastName": [
+            "Tiwari"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "PGDHHM, Government Dental Surgeon, Kondagaon, Chhattisgarh, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "3042651"
+      ],
+      "dateOfPublication": [
+        "2020 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of family medicine and primary care"
+          ],
+          "ISOAbbreviation": [
+            "J Family Med Prim Care"
+          ],
+          "medlineAbbreviation": [
+            "J Family Med Prim Care"
+          ],
+          "NLMid": [
+            "101610082"
+          ],
+          "ISSN": [
+            "2249-4863"
+          ],
+          "ESSN": [
+            "2278-7135"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "3200-3204"
+  ],
+  "abstractText": [
+    "Recently coronavirus outbreak which started in Wuhan, China, has caused international concern that has affected more than 29 lakh people worldwide and with no vaccine or specific antiviral drugs present as well as oblivious testing of carriers who are generally asymptomatic, the use of general health intervention techniques are failing to comply. As compared to other epidemics like severe acute respiratory syndrome-coronavirus (SARS-CoV) and the Middle-East respiratory syndrome (MERS-CoV), coronavirus (also named as COVID-19) exhibit mild symptoms in the majority of cases. But in the case of a vulnerable population, it can prove to be life-threatening. Relying on proper barrier technique, use of chest computed tomography scans, managing co-morbid conditions of susceptible patients, identifying the pattern of disease spread as well as the use of polymerase chain reaction to assess the specificity of cases will eventually prove to be efficacious since most of the positive cases are asymptomatic at the beginning which poses a challenge to the primary health care physicians. The development of vaccines will also take some time so it is better to know about COVID-19 better and also follow quarantine restrictions properly till then. In this review, we try to put forward all the relevant studies which have been published by the end of March 2020 so as to summarize the natural history, diagnosis as well as treatment strategies for eradicating COVID-19, which will help in managing this pandemic."
+  ],
+  "affiliation": [
+    "Department of Periodontics, PMS College of Dental Science and Research, Trivandrum, Kerala, India."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Coronavirus",
+        "Pandemic",
+        "Respiratory Distress"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/jfmpc.jfmpc_496_20"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7567250"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-10-26"
+  ],
+  "firstIndexDate": [
+    "2020-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-10-24"
+  ],
+  "dateOfRevision": [
+    "2020-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-07-30"
+  ],
+  "firstPublicationDate": [
+    "2020-07-30"
+  ]
+}

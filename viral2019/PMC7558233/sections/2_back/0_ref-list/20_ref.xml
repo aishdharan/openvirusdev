@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b0100">
+ <label>20</label>
+ <element-citation publication-type="journal" id="h0100">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Hosoki</surname>
+    <given-names>K.</given-names>
+   </name>
+   <name>
+    <surname>Chakraborty</surname>
+    <given-names>A.</given-names>
+   </name>
+   <name>
+    <surname>Sur</surname>
+    <given-names>S.</given-names>
+   </name>
+  </person-group>
+  <article-title>Molecular mechanisms and epidemiology of COVID-19 from an allergist's perspective</article-title>
+  <source>J Allergy Clin Immunol</source>
+  <volume>146</volume>
+  <issue>2</issue>
+  <year>2020</year>
+  <fpage>285</fpage>
+  <lpage>299</lpage>
+  <pub-id pub-id-type="pmid">32624257</pub-id>
+ </element-citation>
+</ref>

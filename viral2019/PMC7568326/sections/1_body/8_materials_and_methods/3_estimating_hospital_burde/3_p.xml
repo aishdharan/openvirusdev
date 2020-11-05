@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Hospital burden was calculated as 
+ <inline-formula>
+  <math id="i91">
+   <mi>H</mi>
+   <mo>=</mo>
+   <mi>d</mi>
+   <msub>
+    <mrow>
+     <mo>∑</mo>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+   <msub>
+    <mrow>
+     <mi>h</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+   <msub>
+    <mrow>
+     <mi mathvariant="normal">Λ</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+   <msub>
+    <mrow>
+     <mi>S</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. Although there is a lag between exposure and hospitalization, this has no bearing on our mathematical results.
+</p>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0011">
+ <label>11</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Bernheim</surname>
+    <given-names>A</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Mei</surname>
+    <given-names>X</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Huang</surname>
+    <given-names>M</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Chest CT findings in coronavirus disease-19 (COVID-19): relationship to duration of infection</article-title>. 
+  <source>Radiology</source>. 
+  <year>2020</year>;
+  <volume>295</volume>(
+  <issue>3</issue>):
+  <fpage>200463</fpage>. doi: 
+  <pub-id pub-id-type="doi">10.1148/radiol.2020200463</pub-id>
+  <pub-id pub-id-type="pmid">32077789</pub-id>
+ </mixed-citation>
+</ref>

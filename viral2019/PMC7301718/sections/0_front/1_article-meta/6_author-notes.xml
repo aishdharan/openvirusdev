@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author-notes>
+ <corresp id="cor1">
+  <label>CONTACT</label> Jincun Zhao 
+  <email xlink:href="zhaojincun@gird.cn" xmlns:xlink="http://www.w3.org/1999/xlink">zhaojincun@gird.cn</email>
+ </corresp>
+ <corresp id="cor2">Yimin Li 
+  <email xlink:href="dryiminli@vip.163.com" xmlns:xlink="http://www.w3.org/1999/xlink">dryiminli@vip.163.com</email>
+ </corresp>
+ <corresp id="cor3">Jicheng Huang 
+  <email xlink:href="jichenghuang@126.com" xmlns:xlink="http://www.w3.org/1999/xlink">jichenghuang@126.com</email>
+ </corresp>
+ <corresp id="cor4">Zifeng Yang 
+  <email xlink:href="jeffyah@163.com" xmlns:xlink="http://www.w3.org/1999/xlink">jeffyah@163.com</email>
+ </corresp>
+ <fn id="an1">
+  <label>*</label>
+  <p>Contributed equally to this manuscript</p>
+ </fn>
+ <fn>
+  <p>Supplemental data for this article can be accessed 
+   <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/22221751.2020.1760144" xmlns:xlink="http://www.w3.org/1999/xlink">https://doi.org/10.1080/22221751.2020.1760144</ext-link>
+  </p>
+ </fn>
+</author-notes>

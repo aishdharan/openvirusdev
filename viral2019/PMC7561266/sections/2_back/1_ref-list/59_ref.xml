@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pntd.0008679.ref059">
+ <label>59</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Ellis</surname>
+   <given-names>AM</given-names>
+  </name>, 
+  <name>
+   <surname>Garcia</surname>
+   <given-names>AJ</given-names>
+  </name>, 
+  <name>
+   <surname>Focks</surname>
+   <given-names>DA</given-names>
+  </name>, 
+  <name>
+   <surname>Morrison</surname>
+   <given-names>AC</given-names>
+  </name>, 
+  <name>
+   <surname>Scott</surname>
+   <given-names>TW</given-names>
+  </name>. 
+  <article-title>Parameterization and sensitivity analysis of a complex simulation model for mosquito population dynamics, dengue transmission, and their control</article-title>. 
+  <source>Am J Trop Med Hyg</source>. 
+  <year>2011</year>;
+  <volume>85</volume>(
+  <issue>2</issue>):
+  <fpage>257</fpage>–
+  <lpage>64</lpage>. 
+  <pub-id pub-id-type="doi">10.4269/ajtmh.2011.10-0516</pub-id>. 
+  <?supplied-pmid 21813844?>
+  <pub-id pub-id-type="pmid">21813844</pub-id>
+ </mixed-citation>
+</ref>

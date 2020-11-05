@@ -1,0 +1,282 @@
+{
+  "id": [
+    "32837951"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32837951"
+  ],
+  "pmcid": [
+    "PMC7431552"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7431552"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1007/s12070-020-02040-3"
+  ],
+  "title": [
+    "Effect of Covid-19 in Otorhinolaryngology Practice: A Review."
+  ],
+  "authorString": [
+    "Grag K, Kumar Shubhanshu."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Grag K"
+          ],
+          "firstName": [
+            "Kanchan"
+          ],
+          "lastName": [
+            "Grag"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Hind Institute of Medical Sciences, Sitapur, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar Shubhanshu"
+          ],
+          "lastName": [
+            "Kumar Shubhanshu"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Otorhinolaryngology, Hind Institute of Medical Sciences, Sitapur, India."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2988279"
+      ],
+      "dateOfPublication": [
+        "2020 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India"
+          ],
+          "ISOAbbreviation": [
+            "Indian J Otolaryngol Head Neck Surg"
+          ],
+          "medlineAbbreviation": [
+            "Indian J Otolaryngol Head Neck Surg"
+          ],
+          "NLMid": [
+            "9422551"
+          ],
+          "ISSN": [
+            "2231-3796"
+          ],
+          "ESSN": [
+            "0973-7707"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "1-4"
+  ],
+  "abstractText": [
+    "Otorhinolaryngological manifestations are common among patients suffering from COVID-19. This study provides a brief and precise review of the current knowledge regarding COVID-19 including disease transmission and clinical characteristics. This article aims to review the otolaryngologist experience treating patients in the cities where COVID 19 impact is most, and to propose appropriate protective measures while managing ENT patients. This is a retrospective study conducted in the Department of Otorhinolaryngology, Hind Institute of Medical Sciences, Ataria, Sitapur from 10 March 2020 to 4 May 2020. The most common otolaryngological symptoms of COVID-19 were cough, sore throat, and dyspnea. Rhinorrhea, nasal congestion and dizziness also seen in some of the patients. COVID-19 could also manifest as an isolated sudden hyposmia/anosmia. Upper respiratory tract (URT) symptoms were commonly observed in younger patients and usually appeared initially. They could be present even before the molecular confirmation of SARS-CoV-2. Otolaryngologists are at higher risk for SARS-CoV-2 infection as they cope with URT symptoms in OPD and while performing surgery in COVID-19 positive patients. Patients with cough, sore throat, dyspnea, hyposmia/anosmia and a history of travel to the region with confirmed COVID-19 patients, should be considered as potential COVID-19 cases. An otolaryngologist should wear FFP3/N95 mask, glasses, disposable and fluid resistant gloves and gown while examining such individuals. ENT surgeries should be postponed if not urgent."
+  ],
+  "affiliation": [
+    "Department of Pathology, Hind Institute of Medical Sciences, Sitapur, India."
+  ],
+  "publicationStatus": [
+    "aheadofprint"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ppe",
+        "Urt",
+        "Covid-19"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s12070-020-02040-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7431552"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7431552?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2020-08-25"
+  ],
+  "firstIndexDate": [
+    "2020-08-26"
+  ],
+  "fullTextReceivedDate": [
+    "2020-08-20"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2020-08-18"
+  ],
+  "firstPublicationDate": [
+    "2020-08-18"
+  ]
+}

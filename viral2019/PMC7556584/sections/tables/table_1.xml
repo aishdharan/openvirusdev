@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="Tab1">
+ <label>Table 1</label>
+ <caption>
+  <p>Comparison of human and mammalian coronaviruses</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Name</th>
+    <th>Taxonomy</th>
+    <th>Host</th>
+    <th>Gastrointestinal symptoms</th>
+    <th>Other system symptoms</th>
+    <th>Ref.</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>HCoV-229E</td>
+    <td>α</td>
+    <td>Human/bat</td>
+    <td>Rarely mild nausea, vomiting, diarrhea</td>
+    <td>Common cold symptoms, such as headache, tiredness, rhinorrhea, sore throat, fever and cough</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR21">21</xref>, 
+     <xref ref-type="bibr" rid="CR24">24</xref>, 
+     <xref ref-type="bibr" rid="CR25">25</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>HCoV-OC43</td>
+    <td>
+     <italic>β-coronavirus</italic> lineage A
+    </td>
+    <td>Human/rat, cow</td>
+    <td>Rarely mild nausea, vomiting, diarrhea</td>
+    <td>Common cold symptoms, such as headache, tiredness, rhinorrhea, sore throat, fever and cough</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR27">27</xref>, 
+     <xref ref-type="bibr" rid="CR29">29</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>SARS-CoV</td>
+    <td>
+     <italic>β-coronavirus</italic> lineage B
+    </td>
+    <td>Human/bat, masked civet</td>
+    <td>Abdominal pain, nausea, vomiting, diarrhea</td>
+    <td>Fever, muscle weakness, tiredness, headache, chill, dyspnea, pneumonia, multiple organ dysfunction</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR32">32</xref>–
+     <xref ref-type="bibr" rid="CR35">35</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>HCoV-NL63</td>
+    <td>α</td>
+    <td>Human/bat</td>
+    <td>Rarely mild nausea, vomiting, diarrhea</td>
+    <td>Common cold symptoms, such as headache, tiredness, rhinorrhea, sore throat, fever and cough</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR22">22</xref>, 
+     <xref ref-type="bibr" rid="CR26">26</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>HCoV-HKU1</td>
+    <td>
+     <italic>β-coronavirus</italic> lineage A
+    </td>
+    <td>Human</td>
+    <td>Rarely mild nausea, vomiting, diarrhea</td>
+    <td>Common cold symptoms, such as headache, tiredness, rhinorrhea, sore throat, fever and cough</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR28">28</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>MERS-CoV</td>
+    <td>
+     <italic>β-coronavirus</italic> lineage C
+    </td>
+    <td>Human/bat, camel</td>
+    <td>Abdominal pain, nausea, vomiting, diarrhea</td>
+    <td>Fever, muscle weakness, tiredness, headache, chill, dyspnea, pneumonia, multiple organ dysfunction</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR36">36</xref>–
+     <xref ref-type="bibr" rid="CR38">38</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>SARS-CoV-2</td>
+    <td>
+     <italic>β-coronavirus</italic> lineage B
+    </td>
+    <td>Human</td>
+    <td>Abdominal pain, nausea, vomiting, diarrhea</td>
+    <td>Fever, muscle weakness, tiredness, headache, chill, dyspnea, pneumonia, multiple organ dysfunction</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR1">1</xref>–
+     <xref ref-type="bibr" rid="CR3">3</xref>, 
+     <xref ref-type="bibr" rid="CR39">39</xref>–
+     <xref ref-type="bibr" rid="CR45">45</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>PEDV</td>
+    <td>α</td>
+    <td>Porcine</td>
+    <td>Diarrhea, vomiting</td>
+    <td>–</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR6">6</xref>–
+     <xref ref-type="bibr" rid="CR8">8</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>TGEV</td>
+    <td>α</td>
+    <td>Porcine</td>
+    <td>Diarrhea, vomiting</td>
+    <td>–</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR6">6</xref>–
+     <xref ref-type="bibr" rid="CR8">8</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>SADS-CoV</td>
+    <td>α</td>
+    <td>Porcine/bat</td>
+    <td>Acute severe diarrhea, vomiting</td>
+    <td>Tiredness, rapid weight loss</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR6">6</xref>–
+     <xref ref-type="bibr" rid="CR8">8</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>PDCoV</td>
+    <td>δ</td>
+    <td>Porcine</td>
+    <td>Diarrhea, vomiting</td>
+    <td>–</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR9">9</xref>–
+     <xref ref-type="bibr" rid="CR11">11</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>FIPV</td>
+    <td>α</td>
+    <td>Feline</td>
+    <td>Diarrhea, vomiting</td>
+    <td>
+     <p>Anorexia, weight loss, dehydration, consecutive fever in the early stage;</p>
+     <p>pleural effusion, ascites, enlarged mesenteric lymph nodes, multiple organ dysfunction, such as in the eyes, kidneys, liver or central nervous system, in the later stage</p>
+    </td>
+    <td>[
+     <xref ref-type="bibr" rid="CR15">15</xref>, 
+     <xref ref-type="bibr" rid="CR16">16</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>FECV</td>
+    <td>α</td>
+    <td>Feline</td>
+    <td>Mild intestinal infection, diarrhea, vomiting</td>
+    <td>–</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR15">15</xref>, 
+     <xref ref-type="bibr" rid="CR16">16</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>CCoV</td>
+    <td>α</td>
+    <td>Canine</td>
+    <td>Diarrhea, sometimes vomiting</td>
+    <td>–</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR12">12</xref>, 
+     <xref ref-type="bibr" rid="CR13">13</xref>]
+    </td>
+   </tr>
+   <tr>
+    <td>BCoV</td>
+    <td>β</td>
+    <td>Bovine</td>
+    <td>Diarrhea, sometimes hematochezia</td>
+    <td>Fever, milk production reduction, anorexia, sometimes cough and rhinorrhea</td>
+    <td>[
+     <xref ref-type="bibr" rid="CR18">18</xref>–
+     <xref ref-type="bibr" rid="CR20">20</xref>]
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>SARS-CoV. Severe acute respiratory syndrome coronavirus; MERS-CoV. Middle East respiratory syndrome coronavirus; PEDV. Porcine epidemic diarrhea virus; TGEV. Transmissible gastroenteritis virus; SADS-CoV. Swine acute diarrhea syndrome coronavirus; PDCoV. Porcine delta coronavirus; FIPV. Feline infectious peritonitis virus; FECV. Feline enteric coronavirus; CCoV. Canine coronavirus; BCoV. Bovine coronavirus</p>
+ </table-wrap-foot>
+</table-wrap>

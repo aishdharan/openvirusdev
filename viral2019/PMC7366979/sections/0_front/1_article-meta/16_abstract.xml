@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0005">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="lis0005">
+   <list-item id="lsti0005">
+    <label>•</label>
+    <p id="par0005">We estimated the time to the most recent common ancestor (TMRCA) and evolutionary rate of SARS-CoV-2 to be 12 November 2019 (95% BCI: 11 October 2019 and 09 December 2019) and 9.90 × 10-4 substitutions per site per year (95% BCI: 6.29 × 10-4–1.35 × 10-3), respectively.</p>
+   </list-item>
+   <list-item id="lsti0010">
+    <label>•</label>
+    <p id="par0010">Our results emphasize the importance of using phylogenetic and phylodynamic analyses to provide insights into the roles of various interventions to limit the spread of SARS-CoV-2 in China and beyond.</p>
+   </list-item>
+   <list-item id="lsti0015">
+    <label>•</label>
+    <p id="par0015">Understanding epidemic dynamics of SARS-CoV-2 in real time is increasingly important for guiding prevention efforts.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="anchor" id="tblA.3">
+ <label>Table A.3</label>
+ <caption>
+  <p>Optimal parameter values corresponding to the optimization problem 
+   <xref rid="fd6" ref-type="disp-formula">(6)</xref>. The reported confidence intervals use 
+   <inline-formula>
+    <math id="d1e1722" display="inline" altimg="si371.svg">
+     <mrow>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">n</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">b</mi>
+        <mi mathvariant="bold-fraktur">o</mi>
+        <mi mathvariant="bold-fraktur">o</mi>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mi mathvariant="bold-fraktur">s</mi>
+        <mi mathvariant="bold-fraktur">t</mi>
+        <mi mathvariant="bold-fraktur">r</mi>
+        <mi mathvariant="bold-fraktur">a</mi>
+        <mi mathvariant="bold-fraktur">p</mi>
+       </mrow>
+      </msub>
+      <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+      <mn>1000</mn>
+     </mrow>
+    </math>
+   </inline-formula>.
+  </p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1766" display="inline" altimg="si344.svg">
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">o</mi>
+         <mi mathvariant="bold-fraktur">f</mi>
+         <mi mathvariant="bold-fraktur">f</mi>
+         <mi mathvariant="bold-fraktur">s</mi>
+         <mi mathvariant="bold-fraktur">e</mi>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1786" display="inline" altimg="si49.svg">
+       <msub>
+        <mrow>
+         <mi>β</mi>
+        </mrow>
+        <mrow>
+         <mn>0</mn>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1796" display="inline" altimg="si52.svg">
+       <msub>
+        <mrow>
+         <mi>β</mi>
+        </mrow>
+        <mrow>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1806" display="inline" altimg="si53.svg">
+       <msub>
+        <mrow>
+         <mi>β</mi>
+        </mrow>
+        <mrow>
+         <mn>2</mn>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1816" display="inline" altimg="si351.svg">
+       <mi mathvariant="bold-fraktur">f</mi>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1821" display="inline" altimg="si352.svg">
+       <mi mathvariant="bold-fraktur">g</mi>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1826" display="inline" altimg="si353.svg">
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">E</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+   </tr>
+   <tr>
+    <th align="left"/>
+    <th align="left">(days)</th>
+    <th align="left">(days)
+     <sup>−1</sup>
+    </th>
+    <th align="left">(days)
+     <sup>−1</sup>
+    </th>
+    <th align="left">(days)
+     <sup>−1</sup>
+    </th>
+    <th align="left"/>
+    <th align="left"/>
+    <th align="left">(days)</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Lower bound</td>
+    <td align="left">7.9057</td>
+    <td align="left">1.4679</td>
+    <td align="left">0.9524</td>
+    <td align="left">0.3205</td>
+    <td align="left">0.2245</td>
+    <td align="left">0.0500</td>
+    <td align="left">3.6257</td>
+   </tr>
+   <tr>
+    <td align="left">Best estimate</td>
+    <td align="left">9.9831</td>
+    <td align="left">1.4695</td>
+    <td align="left">1.1009</td>
+    <td align="left">0.3576</td>
+    <td align="left">0.3084</td>
+    <td align="left">0.0599</td>
+    <td align="left">3.7486</td>
+   </tr>
+   <tr>
+    <td align="left">Upper bound</td>
+    <td align="left">9.9936</td>
+    <td align="left">1.6961</td>
+    <td align="left">1.2201</td>
+    <td align="left">0.3908</td>
+    <td align="left">0.4445</td>
+    <td align="left">0.0614</td>
+    <td align="left">3.7976</td>
+   </tr>
+  </tbody>
+ </table>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th align="left"/>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1919" display="inline" altimg="si354.svg">
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+         <mi mathvariant="bold-fraktur">P</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1931" display="inline" altimg="si356.svg">
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">I</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1941" display="inline" altimg="si357.svg">
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">D</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1951" display="inline" altimg="si358.svg">
+       <msub>
+        <mrow>
+         <mi>τ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">T</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1961" display="inline" altimg="si359.svg">
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">i</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">A</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+    <th align="left">
+     <inline-formula>
+      <math id="d1e1971" display="inline" altimg="si54.svg">
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">i</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">S</mi>
+        </mrow>
+       </msub>
+      </math>
+     </inline-formula>
+    </th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left">Lower bound</td>
+    <td align="left">1.1394</td>
+    <td align="left">1.9160</td>
+    <td align="left">14.9812</td>
+    <td align="left">3.3146</td>
+    <td align="left">0.3303</td>
+    <td align="left">0.2741</td>
+   </tr>
+   <tr>
+    <td align="left">Best estimate</td>
+    <td align="left">1.2938</td>
+    <td align="left">2.1738</td>
+    <td align="left">15.2210</td>
+    <td align="left">3.8911</td>
+    <td align="left">0.4096</td>
+    <td align="left">0.3405</td>
+   </tr>
+   <tr>
+    <td align="left">Upper bound</td>
+    <td align="left">1.3841</td>
+    <td align="left">2.4337</td>
+    <td align="left">16.5007</td>
+    <td align="left">5.2055</td>
+    <td align="left">0.4758</td>
+    <td align="left">0.4367</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

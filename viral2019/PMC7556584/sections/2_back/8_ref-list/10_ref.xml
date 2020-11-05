@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR10">
+ <label>10.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Boley</surname>
+    <given-names>PA</given-names>
+   </name>
+   <name>
+    <surname>Alhamo</surname>
+    <given-names>MA</given-names>
+   </name>
+   <name>
+    <surname>Lossie</surname>
+    <given-names>G</given-names>
+   </name>
+   <name>
+    <surname>Yadav</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>Vasquez-Lee</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Saif</surname>
+    <given-names>LJ</given-names>
+   </name>
+   <etal/>
+  </person-group>
+  <article-title>Porcine deltacoronavirus infection and transmission in poultry, United States</article-title>
+  <source>Emerg Infect Dis</source>
+  <year>2020</year>
+  <volume>26</volume>
+  <issue>2</issue>
+  <fpage>255</fpage>
+  <lpage>265</lpage>
+  <pub-id pub-id-type="doi">10.3201/eid2602.190346</pub-id>
+  <?supplied-pmid 31961296?>
+  <pub-id pub-id-type="pmid">31961296</pub-id>
+ </element-citation>
+</ref>

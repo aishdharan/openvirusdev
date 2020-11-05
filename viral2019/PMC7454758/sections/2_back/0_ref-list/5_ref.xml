@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref5">
+ <label>5</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>JG Breugelmans</surname>
+    <given-names>P</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Zucs</surname>
+    <given-names>KP</given-names>
+   </name>
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>Sars transmission and commercial aircraft</article-title>. 
+  <source>Emerg Infect Dis</source>
+  <year>2004</year>; 
+  <volume>10</volume>:
+  <fpage>1502</fpage>–
+  <lpage>3</lpage>.
+  <pub-id pub-id-type="pmid">15503396</pub-id>
+ </mixed-citation>
+</ref>

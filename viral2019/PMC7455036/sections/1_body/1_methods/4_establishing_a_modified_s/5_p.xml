@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>We also predicted future daily recovery numbers (
+ <italic>daily_recover_num</italic>(
+ <italic>t</italic>+Δ
+ <italic>t</italic>)) based on current daily recovery numbers. The resulting (
+ <italic>daily_recover_num</italic>(
+ <italic>t</italic>+Δ
+ <italic>t</italic>) was used together with the 
+ <italic>α</italic> value to predict i(t). We calculated future numbers of cured people every day (
+ <italic>daily_recover_num</italic>(
+ <italic>t</italic>)) from the cumulative number of cured people 
+ <italic>φ</italic>.
+</p>

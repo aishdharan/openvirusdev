@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract>
+ <sec>
+  <title>Background</title>
+  <p>Rwanda has identified several targeted HIV prevention strategies, such as promotion of condom use and provision of antiretroviral therapy (ART) and pre-exposure prophylaxis (PrEP) for female sex workers (FSWs). Given this country’s limited resources, understanding how the HIV epidemic will be affected by these strategies is crucial.</p>
+ </sec>
+ <sec>
+  <title>Methods</title>
+  <p>We developed a Markov model to estimate the effects of targeted strategies to FSWs on the HIV prevalence/incidence in Rwanda from 2017 to 2027. Our model consists of the six states: HIV-; HIV+ undiagnosed/diagnosed pre-ART; HIV+ diagnosed with/without ART; and death. We considered three populations: FSWs, sex clients and the general population. For the period 2017–2027, the HIV epidemic among each of these population was estimated using Rwanda’s demographic, sexual risk behaviour and HIV-associated morbidity and mortality data.</p>
+ </sec>
+ <sec>
+  <title>Results</title>
+  <p>Between 2017 and 2027, with no changes in the current condom and ART use, the overall number of people living with HIV is expected to increase from 344,971 to 402,451. HIV incidence will also decrease from 1.36 to 1.20 100 person-years. By 2027, a 30% improvement in consistent condom use among FSWs will result in absolute reduction of HIV prevalence among FSWs, sex clients and the general population by 7.86%, 5.97% and 0.17%, respectively. While recurring HIV testing and improving the ART coverage mildly reduced the prevalence/incidence among FSWs and sex clients, worsening the two (shown by our worst-case scenario) will result in an increase in the HIV prevalence/incidence among FSWs and sex clients. Introduction of PrEP to FSWs in 2019 will reduce the HIV incidence among FSWs by 1.28%.</p>
+ </sec>
+ <sec>
+  <title>Conclusions</title>
+  <p>Continued efforts toward improving condom and ART use will be critical for Rwanda to continue their HIV epidemic control. Implementing a targeted intervention strategy in PrEP for FSWs will reduce the HIV epidemic in this high-risk population.</p>
+ </sec>
+</abstract>

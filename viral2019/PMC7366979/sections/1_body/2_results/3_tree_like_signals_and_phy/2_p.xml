@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="par0065">For “dataset_112”, a HKY (
+ <xref rid="bib0125" ref-type="bibr">Kimura, 1980</xref>) nucleotide substitution model with a proportion of invariable sites was the model of best fit across the two different substitution schemes (i.e., 24 and 88 candidate models) according to the BIC method, and was thus used in subsequent likelihood-mapping and phylogenetic analyses. The PHI test of “dataset_112” did not find statistically significant evidence of recombination (
+ <italic>p</italic> = 1.0). In addition, no evidence of recombination was found using RDP v4.100 (
+ <xref rid="bib0180" ref-type="bibr">Martin et al., 2015</xref>). Our likelihood-mapping analysis revealed that the quartets from “dataset_112” were primarily distributed in the center (63.2 %) rather than the corners (36.8 %) or sides (0%) of the triangle, indicating a strong star-like topology signal, which may be due to exponential epidemic spread (
+ <xref rid="fig0005" ref-type="fig">Fig. 1</xref> A), in accordance with previous studies (
+ <xref rid="bib0160" ref-type="bibr">Li et al., 2020b</xref>; 
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>). The split network generated for “dataset_112” using the NeighborNet method revealed the existence of polytomies, and thus was highly unresolved. This indicated that the phylogenetic relationship of our dataset was probably best represented by a star-like phylogenetic tree rather than a strictly bifurcating tree (
+ <xref rid="fig0005" ref-type="fig">Fig. 1</xref>B), suggesting possible rapid early spread of SARS-CoV-2, in accordance with the likelihood-mapping results. ML phylogenetic analysis of “dataset_112” also showed star-like topology (
+ <xref rid="fig0010" ref-type="fig">Fig. 2</xref> ), indicating the introduction of a new virus to an immunologically naive population, in accordance with the likelihood-mapping and split network results. Root-to-tip linear regression analyses between genetic divergence and sampling date using the best-fitting root, which minimizes the mean of the squares of the residuals, showed that “dataset_112” had a minor positive temporal signal (
+ <italic>R
+  <sup>2</sup>
+ </italic> = 0.087; correlation coefficient = 0.2945), thus suggesting a minor clocklike pattern of molecular evolution (
+ <xref rid="fig0015" ref-type="fig">Fig. 3</xref> ). We estimated the whole-genome evolutionary rate of SARS-CoV-2 to be 5.3504 × 10
+ <sup>−3</sup> substitutions per site per year and the TMRCA of SARS-CoV-2 to be 19 October 2019. The ML dating analyses between root-to-tip genetic divergence and sampling date also showed that our dataset had a minor strong positive temporal signal (
+ <italic>R
+  <sup>2</sup>
+ </italic> = 0.09) (Supplementary Fig. 1). The evolutionary rate and TMRCA date estimates of SARS-CoV-2 for “dataset_112” were 5.35 × 10
+ <sup>−3</sup> substitutions per site per year and 19 October 2019, respectively, in accordance with the root-to-tip regression results using TempEst v1.5 (
+ <xref rid="bib0200" ref-type="bibr">Rambaut et al., 2016</xref>). Based on Bayesian time-scaled phylogenetic analysis using the tip-dating method, the estimated TMRCA dates and evolutionary rates of SARS-CoV-2 for “dataset_112” ranged from 12 November 2019 to 7 December 2019 (95 % BCI: 11 October 2019 and 21 December 2019) and from 8.37 × 10
+ <sup>−4</sup> to 1.12 × 10
+ <sup>−3</sup> substitutions per site per year (95 % BCI: 5.06 × 10
+ <sup>−4</sup>–1.53 × 10
+ <sup>−3</sup>), respectively (
+ <xref rid="tbl0005" ref-type="table">Table 1</xref> ). Notably, the estimated TMRCA dates and evolutionary rates of SARS-CoV-2 were consistent across different molecular clock models but were distinct across different coalescent tree prior models. The best-fitting combination was an UCLN relaxed molecular clock along with an exponential growth tree prior model with growth rate parameterization, as shown by the marginal likelihood estimates for “dataset_112” when comparing the two clock models and five tree prior models. Thus, the TMRCA date and evolutionary rate estimates of SARS-CoV-2 for “dataset_112” with the best-fitting combination were 12 November 2019 (95 % BCI: 11 October 2019 and 09 December 2019) and 9.90 × 10
+ <sup>−4</sup> substitutions per site per year (95 % BCI: 6.29 × 10
+ <sup>−4</sup>–1.35 × 10
+ <sup>−3</sup>), respectively (
+ <xref rid="tbl0005" ref-type="table">Table 1</xref>). The estimates of the MCC phylogenetic relationships among the SARS-CoV-2 genomes for our dataset from the Bayesian coalescent framework using the tip-dating method, as well as the exponential coalescent tree prior with doubling time parameterization and UCLN relaxed molecular clock, are displayed in 
+ <xref rid="fig0020" ref-type="fig">Fig. 4</xref> . As shown, “dataset_112” exhibited more genetic diversity than our previous datasets (
+ <xref rid="bib0160" ref-type="bibr">Li et al., 2020b</xref>; 
+ <xref rid="bib0165" ref-type="bibr">Li et al., 2020c</xref>; 
+ <xref rid="bib0170" ref-type="bibr">Li et al., 2020d</xref>).
+</p>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R1">
+ <label>1. </label>
+ <mixed-citation publication-type="journal">
+  <string-name>
+   <surname>Crenshaw</surname>
+   <given-names>BJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Jones</surname>
+   <given-names>LB</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Bell</surname>
+   <given-names>CR</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Kumar</surname>
+   <given-names>S</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Matthews</surname>
+   <given-names>QL</given-names>
+  </string-name>. 
+  <article-title>Perspective on adenoviruses: epidemiology, pathogenicity, and gene therapy.</article-title>
+  <source>Biomedicines</source>. 
+  <year>2019</year>;
+  <volume>7</volume>:
+  <fpage>61</fpage>. 
+  <pub-id pub-id-type="doi">10.3390/biomedicines7030061</pub-id>
+  <?supplied-pmid 31430920?>
+  <pub-id pub-id-type="pmid">31430920</pub-id>
+ </mixed-citation>
+</ref>

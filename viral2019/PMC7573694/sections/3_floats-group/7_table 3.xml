@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap position="float" id="tbl3">
+ <label>Table 3</label>
+ <caption>
+  <p>Summary of studies on associations between exposures to air pollution and COVID-19 incidence or mortality in different regions.</p>
+ </caption>
+ <alt-text id="alttext0050">Table 3</alt-text>
+ <table frame="hsides" rules="groups">
+  <thead>
+   <tr>
+    <th>Study</th>
+    <th>Study location</th>
+    <th>Time period</th>
+    <th>Methodology</th>
+    <th>Statistics</th>
+    <th>Air pollutants</th>
+    <th>Estimate</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td align="left" rowspan="5">
+     <xref rid="bib47" ref-type="bibr">Zhu et al. (2020)</xref>
+    </td>
+    <td align="left" rowspan="5">120 cities in China</td>
+    <td align="left" rowspan="5">Jan. 23 to Feb. 29, 2020</td>
+    <td align="left" rowspan="5">Time series, Generalized Additive Model (GAM)</td>
+    <td align="left" rowspan="5">Percentage daily confirmed cases change of 10-μg/m
+     <sup>3</sup> increase on lag 0-14
+    </td>
+    <td align="left">PM
+     <sub>2.5</sub>
+    </td>
+    <td align="left">2.24% (95% CI: 1.02 to 3.45)</td>
+   </tr>
+   <tr>
+    <td align="left">PM
+     <sub>10</sub>
+    </td>
+    <td align="left">1.76% (95% CI: 0.89 to 2.63)</td>
+   </tr>
+   <tr>
+    <td align="left">NO
+     <sub>2</sub>
+    </td>
+    <td align="left">6.94% (95% CI: 2.38 to 11.51)</td>
+   </tr>
+   <tr>
+    <td align="left">O
+     <sub>3</sub>
+    </td>
+    <td align="left">4.76% (95% CI: 1.99 to 7.52)</td>
+   </tr>
+   <tr>
+    <td align="left">SO
+     <sub>2</sub>
+    </td>
+    <td align="left">7.79% (95% CI: −14.57 to −1.01)</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <xref rid="bib44" ref-type="bibr">Xu et al. (2020)</xref>
+    </td>
+    <td align="left">33 cities in China</td>
+    <td align="left">Jan. 29 to Feb. 15, 2020</td>
+    <td align="left">Time-series Poisson regression model</td>
+    <td align="left">RR on confirmed cases for each unit on lag 3</td>
+    <td align="left">AQI</td>
+    <td align="left">1.0008 (95% CI:1.0003, 1.0012)</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="4">
+     <xref rid="bib2" ref-type="bibr">Bashir et al. (2020)</xref>
+    </td>
+    <td align="left" rowspan="4">California, USA</td>
+    <td align="left" rowspan="4">Mar. 4 to Apr. 24, 2020</td>
+    <td align="left" rowspan="4">Spearman rank correlation tests</td>
+    <td align="left" rowspan="4">Correlation coefficient (R) on daily confirmed cases and deaths</td>
+    <td align="left">PM
+     <sub>2.5</sub>
+    </td>
+    <td align="left">−0.267
+     <sup>a</sup>; −0.350
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">PM
+     <sub>10</sub>
+    </td>
+    <td align="left">−0.339
+     <sup>a</sup>; −0.429
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">NO
+     <sub>2</sub>
+    </td>
+    <td align="left">−0.485
+     <sup>a</sup>; −0.731
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">SO
+     <sub>2</sub>
+    </td>
+    <td align="left">−0.309
+     <sup>a</sup>; −0.397
+     <sup>b</sup>
+    </td>
+   </tr>
+   <tr>
+    <td align="left">
+     <xref rid="bib15" ref-type="bibr">Hendryx and Luo (2020)</xref>
+    </td>
+    <td align="left">3143 counties in the US</td>
+    <td align="left">Data up to May 31, 2020</td>
+    <td align="left">Linear multiple regression</td>
+    <td align="left">Estimate (SE) on prevalence and death rates</td>
+    <td align="left">PM
+     <sub>2.5</sub>
+    </td>
+    <td align="left">Prevalence: 23.5 (10.3) ∗ Death rates: 1.08 (0.54) ∗</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="4">
+     <xref rid="bib12" ref-type="bibr">Fattorini and Regoli (2020)</xref>
+    </td>
+    <td align="left" rowspan="4">71 provinces in Italy</td>
+    <td align="left" rowspan="4">Data up to Apr. 27, 2020</td>
+    <td align="left" rowspan="4">Pearson correlation</td>
+    <td align="left" rowspan="4">coefficient of determination (R
+     <sup>2</sup>)
+    </td>
+    <td align="left">PM
+     <sub>2.5</sub>
+    </td>
+    <td align="left">0.340∗∗</td>
+   </tr>
+   <tr>
+    <td align="left">PM
+     <sub>10</sub>
+    </td>
+    <td align="left">0.267∗</td>
+   </tr>
+   <tr>
+    <td align="left">NO
+     <sub>2</sub>
+    </td>
+    <td align="left">0.247∗∗</td>
+   </tr>
+   <tr>
+    <td align="left">O
+     <sub>3</sub>
+    </td>
+    <td align="left">0.264∗</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2">
+     <xref rid="bib49" ref-type="bibr">Zoran et al. (2020)</xref>
+    </td>
+    <td align="left" rowspan="2">Milan, Italy</td>
+    <td align="left" rowspan="2">Jan. 1 to Apr. 25, 2020</td>
+    <td align="left" rowspan="2">Pearson coefficient correlation</td>
+    <td align="left" rowspan="2">Coefficient (R) on daily new cases</td>
+    <td align="left">PM
+     <sub>2.5</sub>
+    </td>
+    <td align="left">0.25</td>
+   </tr>
+   <tr>
+    <td align="left">PM
+     <sub>10</sub>
+    </td>
+    <td align="left">0.35</td>
+   </tr>
+   <tr>
+    <td align="left" rowspan="2">
+     <xref rid="bib49" ref-type="bibr">Zoran et al. (2020)</xref>
+    </td>
+    <td align="left" rowspan="2">Milan, Italy</td>
+    <td align="left" rowspan="2">Jan. 1 to Apr. 30, 2020</td>
+    <td align="left" rowspan="2">Pearson coefficient correlation</td>
+    <td align="left" rowspan="2">Coefficient (R) on daily new cases</td>
+    <td align="left">NO
+     <sub>2</sub>
+    </td>
+    <td align="left">−0.35∗∗</td>
+   </tr>
+   <tr>
+    <td align="left">O
+     <sub>3</sub>
+    </td>
+    <td align="left">0.50∗∗</td>
+   </tr>
+   <tr>
+    <td align="left">
+     <xref rid="bib25" ref-type="bibr">Ogen (2020)</xref>
+    </td>
+    <td align="left">66 regions in European countries (Italy, Spain, France and Germany)</td>
+    <td align="left">up to Mar. 19, 2020</td>
+    <td align="left">Ecological, descriptive analysis</td>
+    <td align="left">/</td>
+    <td align="left">NO
+     <sub>2</sub>
+    </td>
+    <td align="left">83% of all fatalities were associated with NO
+     <sub>2</sub> &gt; 100 μmol/m
+     <sup>2</sup>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <fn>
+   <p>NOTE: a: on daily confirmed cases; b: on deaths; ∗: p &lt; 0.05; ∗∗: p &lt; 0.01.</p>
+  </fn>
+ </table-wrap-foot>
+</table-wrap>

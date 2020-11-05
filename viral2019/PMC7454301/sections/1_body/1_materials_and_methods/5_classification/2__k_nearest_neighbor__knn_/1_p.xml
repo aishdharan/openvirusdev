@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The K-nearest algorithm is a learning method based on states, so it doesn’t want a learning stage. It treats with the training pattern that is related to a distance function and the choice of the class function based on the classes of the nearest neighbors [
+ <xref rid="ref41" ref-type="bibr">41</xref>, 
+ <xref rid="ref42" ref-type="bibr">42</xref>]. When a new pattern is classified, it must be compared to others using a similarity measure taking into consideration the 
+ <italic>k</italic>-neighbors. The distance between the new pattern and the neighbor is used as the weight [
+ <xref rid="ref47" ref-type="bibr">47–49</xref>]. The most prevalent method to measure this distance is Euclidean. To measure the Euclidean distance between two vectors p
+ <sub>i</sub> and p
+ <sub>j</sub>, the equation mentioned in [
+ <xref rid="ref50" ref-type="bibr">50</xref>] will be used:
+ <disp-formula id="deqn14">
+  <label>(14)</label>
+  <tex-math id="M14">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} D\left({p}_i,{p}_j\right)=\sqrt{\sum_{r=1}^n{\left({p}_{ir}-{p}_{jr}\right)}^2} \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR14">
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Duchin</surname>
+    <given-names>JS</given-names>
+   </name>
+   <name>
+    <surname>Koster</surname>
+    <given-names>FT</given-names>
+   </name>
+   <name>
+    <surname>Peters</surname>
+    <given-names>CJ</given-names>
+   </name>
+   <name>
+    <surname>Simpson</surname>
+    <given-names>GL</given-names>
+   </name>
+   <name>
+    <surname>Tempest</surname>
+    <given-names>B</given-names>
+   </name>
+   <name>
+    <surname>Zaki</surname>
+    <given-names>SR</given-names>
+   </name>
+   <name>
+    <surname>Ksiazek</surname>
+    <given-names>TG</given-names>
+   </name>
+   <name>
+    <surname>Rollin</surname>
+    <given-names>PE</given-names>
+   </name>
+   <name>
+    <surname>Nichol</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Umland</surname>
+    <given-names>ET</given-names>
+   </name>
+  </person-group>
+  <article-title>Hantavirus pulmonary syndrome: a clinical description of 17 patients with a newly recognized disease. The hantavirus study group</article-title>
+  <source>N Engl J Med</source>
+  <year>1994</year>
+  <volume>330</volume>
+  <fpage>949</fpage>
+  <lpage>955</lpage>
+  <pub-id pub-id-type="doi">10.1056/NEJM199404073301401</pub-id>
+  <?supplied-pmid 8121458?>
+  <pub-id pub-id-type="pmid">8121458</pub-id>
+ </element-citation>
+</ref>

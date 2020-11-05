@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The MCMC analysis was run until convergence with sampling every 100 000 generations. Convergence was assessed by estimating the effective sampling size (ESS) after 10% burn‐in using Tracer v.1.7 software (
+ <ext-link ext-link-type="uri" xlink:href="http://tree.bio.ed.ac.uk/software/tracer/" xmlns:xlink="http://www.w3.org/1999/xlink">http://tree.bio.ed.ac.uk/software/tracer/</ext-link>), and accepting ESS values of 300 or more. The uncertainty of the estimates is indicated by 95% highest marginal likelihoods estimated
+ <xref rid="jmv25723-bib-0006" ref-type="ref">
+  <sup>6</sup>
+ </xref> by path sampling (PS)/stepping stone (SS) methods.
+ <xref rid="jmv25723-bib-0007" ref-type="ref">
+  <sup>7</sup>
+ </xref>
+</p>

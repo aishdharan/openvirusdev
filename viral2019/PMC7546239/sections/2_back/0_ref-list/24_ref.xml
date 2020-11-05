@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b24">
+ <element-citation publication-type="book" id="sb24">
+  <person-group person-group-type="author">
+   <name>
+    <surname>LLC</surname>
+    <given-names>G.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Google COVID-19 community mobility reports</chapter-title>
+  <year>2020</year>
+  <comment>Retrieved on May 25, 2020 from 
+   <ext-link ext-link-type="uri" xlink:href="https://www.google.com/covid19/mobility/" id="interref16" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.google.com/covid19/mobility/</ext-link>
+  </comment>
+ </element-citation>
+</ref>

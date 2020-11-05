@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="ref38">
+ <label>38.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Ko</surname>
+    <given-names>LT</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Chen</surname>
+    <given-names>JE</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Hsin</surname>
+    <given-names>HC</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>A unified algorithm for subband-based discrete cosine transform</article-title>. 
+  <source>Math Probl Eng</source>
+  <year>2012</year>. doi: 
+  <pub-id pub-id-type="doi">10.1155/2012/912194</pub-id>.
+ </mixed-citation>
+</ref>

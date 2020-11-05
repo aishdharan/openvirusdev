@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au000001">
+  <name>
+   <surname>Achterberg</surname>
+   <given-names>Massimo A.</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+  <xref rid="cor1" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au000002">
+  <name>
+   <surname>Prasse</surname>
+   <given-names>Bastian</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au000003">
+  <name>
+   <surname>Ma</surname>
+   <given-names>Long</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au000004">
+  <name>
+   <surname>Trajanovski</surname>
+   <given-names>Stojan</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au000005">
+  <name>
+   <surname>Kitsak</surname>
+   <given-names>Maksim</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au000006">
+  <name>
+   <surname>Van Mieghem</surname>
+   <given-names>Piet</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">a</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>Faculty of Electrical Engineering, Mathematics and Computer Science, Delft University of Technology, P.O. Box 5031, 2600 GA Delft, The Netherlands
+ </aff>
+ <aff id="aff2">
+  <label>b</label>Microsoft Inc., 2 Kingdom St, London W2 6BD, United Kingdom
+ </aff>
+</contrib-group>

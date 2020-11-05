@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR18">
+ <label>18.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Li</surname>
+    <given-names>F</given-names>
+   </name>
+   <name>
+    <surname>Li</surname>
+    <given-names>W</given-names>
+   </name>
+   <name>
+    <surname>Farzan</surname>
+    <given-names>M</given-names>
+   </name>
+   <name>
+    <surname>Harrison</surname>
+    <given-names>SC</given-names>
+   </name>
+  </person-group>
+  <article-title>Interactions between Sars coronavirus and its receptors</article-title>
+  <source>Adv. Exp. Med. Biol.</source>
+  <year>2006</year>
+  <volume>581</volume>
+  <fpage>229</fpage>
+  <lpage>234</lpage>
+  <pub-id pub-id-type="doi">10.1007/978-0-387-33012-9_38</pub-id>
+  <?supplied-pmid 17037534?>
+  <pub-id pub-id-type="pmid">17037534</pub-id>
+ </element-citation>
+</ref>

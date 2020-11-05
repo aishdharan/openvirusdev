@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Age-specific hospitalization probabilities, 
+ <inline-formula>
+  <math id="i89">
+   <msub>
+    <mrow>
+     <mi>h</mi>
+    </mrow>
+    <mrow>
+     <mi>i</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, and fatality rates were taken from point estimates calculated in a study of cases in Wuhan, China (
+ <xref rid="r22" ref-type="bibr">22</xref>). Due to differences in the final age group of our model (70+ y) and those of the Wuhan study (70- to 79-y-olds and 80+-y-olds), the hospitalization and fatality rates for 70+-y-old individuals were calculated by summing the estimated 70- to 79-y-old and 80+-y-old rates weighted by their relative UK population sizes. Based on data from the United Kingdom, we assumed the average duration of hospitalization with COVID-19, 
+ <inline-formula>
+  <math id="i90">
+   <mi>d</mi>
+  </math>
+ </inline-formula>, was 7 d (
+ <xref rid="r24" ref-type="bibr">24</xref>).
+</p>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e10783">To maximize the chance of finding a globally optimal control, we use the method of Simulated Annealing. We exploit the built-in simulated annealing capabilities in Matlab and Octave for these purposes. As such, we solve Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> for an arbitrary sequence of controls 
+ <inline-formula>
+  <math id="d1e10788" display="inline" altimg="si149.svg">
+   <mrow>
+    <mo>{</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>}</mo>
+   </mrow>
+  </math>
+ </inline-formula>. In Matlab/Octave programming we execute the following command: Here, ode_solve_seir is a Matlab/Octave ODE45 solver which takes in the input 
+ <inline-formula>
+  <math id="d1e10862" display="inline" altimg="si392.svg">
+   <mrow>
+    <mstyle mathvariant="monospace">
+     <mi>u</mi>
+    </mstyle>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mrow>
+     <mo>{</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">u</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">n</mi>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>,</mo>
+     <mo>…</mo>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mi mathvariant="bold-fraktur">s</mi>
+       <mo>,</mo>
+       <mi mathvariant="bold-fraktur">n</mi>
+       <mo>−</mo>
+       <mn>1</mn>
+      </mrow>
+     </msub>
+     <mo>}</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, solves Eqs. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> out the final time 
+ <inline-formula>
+  <math id="d1e10931" display="inline" altimg="si114.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">T</mi>
+   </mrow>
+  </math>
+ </inline-formula>, and returns the penalty function 
+ <xref rid="fd11" ref-type="disp-formula">(11)</xref>. The state constraints 
+ <xref rid="fd12" ref-type="disp-formula">(12)</xref>–
+ <xref rid="fd13" ref-type="disp-formula">(13)</xref> are taken into account by adjoining to the penalty function an additional term 
+ <disp-formula id="fdB.1">
+  <label>(B.1)</label>
+  <math id="d1e10955" display="block" altimg="si394.svg">
+   <mrow>
+    <mfenced open="[" close="]" id="mmlalignd1e11012">
+     <mrow>
+      <mo class="qopname">tanh</mo>
+      <mfenced open="(" close=")">
+       <mrow>
+        <mfrac>
+         <mrow>
+          <mn>0</mn>
+          <mo>.</mo>
+          <mn>016</mn>
+          <mo class="qopname">max</mo>
+          <mrow>
+           <mo>(</mo>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">I</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">S</mi>
+            </mrow>
+           </msub>
+           <mo>)</mo>
+          </mrow>
+          <mo linebreak="badbreak">−</mo>
+          <mn>300</mn>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+          <mo>.</mo>
+          <mn>1</mn>
+         </mrow>
+        </mfrac>
+       </mrow>
+      </mfenced>
+      <mo>+</mo>
+      <mn>1</mn>
+     </mrow>
+    </mfenced>
+    <msup>
+     <mrow>
+      <mfenced open="[" close="]">
+       <mrow>
+        <mn>0</mn>
+        <mo>.</mo>
+        <mn>016</mn>
+        <mo class="qopname">max</mo>
+        <mrow>
+         <mo>(</mo>
+         <msub>
+          <mrow>
+           <mi mathvariant="bold-fraktur">I</mi>
+          </mrow>
+          <mrow>
+           <mi mathvariant="bold-fraktur">S</mi>
+          </mrow>
+         </msub>
+         <mo>)</mo>
+        </mrow>
+        <mo linebreak="badbreak">−</mo>
+        <mn>300</mn>
+       </mrow>
+      </mfenced>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msup>
+    <mspace width="1em" id="mmlalignd1e11105"/>
+    <mo linebreak="goodbreak">+</mo>
+    <mspace width="0.16667em"/>
+    <mfenced open="[" close="]">
+     <mrow>
+      <mo class="qopname">tanh</mo>
+      <mfenced open="(" close=")">
+       <mrow>
+        <mfrac>
+         <mrow>
+          <msub>
+           <mrow>
+            <mrow>
+             <mo>(</mo>
+             <mi mathvariant="bold-fraktur">d</mi>
+             <msub>
+              <mrow>
+               <mi mathvariant="bold-fraktur">I</mi>
+              </mrow>
+              <mrow>
+               <mi mathvariant="bold-fraktur">S</mi>
+              </mrow>
+             </msub>
+             <mo>∕</mo>
+             <mi mathvariant="bold-fraktur">d</mi>
+             <mi mathvariant="bold-fraktur">t</mi>
+             <mo>)</mo>
+            </mrow>
+           </mrow>
+           <mrow>
+            <mi mathvariant="bold-fraktur">t</mi>
+            <mo linebreak="badbreak">=</mo>
+            <mi mathvariant="bold-fraktur">T</mi>
+           </mrow>
+          </msub>
+         </mrow>
+         <mrow>
+          <mn>0</mn>
+          <mo>.</mo>
+          <mn>1</mn>
+         </mrow>
+        </mfrac>
+       </mrow>
+      </mfenced>
+      <mo>+</mo>
+      <mn>1</mn>
+     </mrow>
+    </mfenced>
+    <msup>
+     <mrow>
+      <mfenced open="[" close="]">
+       <mrow>
+        <msub>
+         <mrow>
+          <mrow>
+           <mo>(</mo>
+           <mi mathvariant="bold-fraktur">d</mi>
+           <msub>
+            <mrow>
+             <mi mathvariant="bold-fraktur">I</mi>
+            </mrow>
+            <mrow>
+             <mi mathvariant="bold-fraktur">S</mi>
+            </mrow>
+           </msub>
+           <mo>∕</mo>
+           <mi mathvariant="bold-fraktur">d</mi>
+           <mi mathvariant="bold-fraktur">t</mi>
+           <mo>)</mo>
+          </mrow>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">t</mi>
+          <mo linebreak="badbreak">=</mo>
+          <mi mathvariant="bold-fraktur">T</mi>
+         </mrow>
+        </msub>
+       </mrow>
+      </mfenced>
+     </mrow>
+     <mrow>
+      <mn>2</mn>
+     </mrow>
+    </msup>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula> this imposes an additional penalty on configurations 
+ <inline-formula>
+  <math id="d1e11128" display="inline" altimg="si149.svg">
+   <mrow>
+    <mo>{</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>}</mo>
+   </mrow>
+  </math>
+ </inline-formula> that violate the state constraints 
+ <xref rid="fd12" ref-type="disp-formula">(12)</xref>–
+ <xref rid="fd13" ref-type="disp-formula">(13)</xref> but leaves other states un-penalized.
+</p>

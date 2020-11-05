@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e7691">We solve a variant of optimization problem 
+ <xref rid="fd14" ref-type="disp-formula">(14)</xref> numerically. Specifically, for various values of the number of controls 
+ <inline-formula>
+  <math id="d1e7700" display="inline" altimg="si311.svg">
+   <mi mathvariant="bold-fraktur">n</mi>
+  </math>
+ </inline-formula>, we compute 
+ <disp-formula id="fd16">
+  <label>(16)</label>
+  <math id="d1e7712" display="block" altimg="si210.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">J</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">m</mi>
+      <mi mathvariant="bold-fraktur">i</mi>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">=</mo>
+    <munder>
+     <mrow>
+      <mo class="qopname">min</mo>
+     </mrow>
+     <mrow>
+      <mfrac linethickness="0">
+       <mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">u</mi>
+         </mrow>
+         <mrow>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>…</mo>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">u</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">n</mi>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+       </mrow>
+       <mrow>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">t</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">s</mi>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>…</mo>
+        <mo>,</mo>
+        <msub>
+         <mrow>
+          <mi mathvariant="bold-fraktur">t</mi>
+         </mrow>
+         <mrow>
+          <mi mathvariant="bold-fraktur">s</mi>
+          <mo>,</mo>
+          <mi mathvariant="bold-fraktur">n</mi>
+          <mo linebreak="badbreak">−</mo>
+          <mn>1</mn>
+         </mrow>
+        </msub>
+       </mrow>
+      </mfrac>
+     </mrow>
+    </munder>
+    <mfenced open="[" close="]">
+     <mrow>
+      <munderover>
+       <mrow>
+        <mo linebreak="badbreak">∑</mo>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">i</mi>
+        <mo linebreak="badbreak">=</mo>
+        <mn>1</mn>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">n</mi>
+       </mrow>
+      </munderover>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">u</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">i</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">s</mi>
+         <mo>,</mo>
+         <mi mathvariant="bold-fraktur">i</mi>
+        </mrow>
+       </msub>
+       <mo>−</mo>
+       <msub>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="bold-fraktur">s</mi>
+         <mo>,</mo>
+         <mi mathvariant="bold-fraktur">i</mi>
+         <mo linebreak="badbreak">−</mo>
+         <mn>1</mn>
+        </mrow>
+       </msub>
+       <mo>)</mo>
+      </mrow>
+     </mrow>
+    </mfenced>
+   </mrow>
+  </math>
+ </disp-formula>subject to the constraints 
+ <xref rid="fd12" ref-type="disp-formula">(12)</xref>–
+ <xref rid="fd13" ref-type="disp-formula">(13)</xref> (we also compute the corresponding values 
+ <inline-formula>
+  <math id="d1e7853" display="inline" altimg="si144.svg">
+   <mrow>
+    <mo>{</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">u</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">n</mi>
+     </mrow>
+    </msub>
+    <mo>}</mo>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e7882" display="inline" altimg="si212.svg">
+   <mrow>
+    <mo>{</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">s</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">n</mi>
+      <mo>−</mo>
+      <mn>1</mn>
+     </mrow>
+    </msub>
+    <mo>}</mo>
+   </mrow>
+  </math>
+ </inline-formula> which achieve the minimum). We report on the trends as the integer 
+ <inline-formula>
+  <math id="d1e7920" display="inline" altimg="si311.svg">
+   <mi mathvariant="bold-fraktur">n</mi>
+  </math>
+ </inline-formula> is increased from 
+ <inline-formula>
+  <math id="d1e7925" display="inline" altimg="si200.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>2</mn>
+   </mrow>
+  </math>
+ </inline-formula> to 
+ <inline-formula>
+  <math id="d1e7935" display="inline" altimg="si312.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">n</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>12</mn>
+   </mrow>
+  </math>
+ </inline-formula>. The model 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> is solved subject to the initial conditions 
+ <xref rid="fd4" ref-type="disp-formula">(4)</xref>, with 
+ <inline-formula>
+  <math id="d1e7954" display="inline" altimg="si86.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> corresponding to February 29th 2020, the day on which the first case of COVID-19 was recorded in Ireland. The model is solved without any controls until 
+ <inline-formula>
+  <math id="d1e7964" display="inline" altimg="si217.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>13</mn>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <mtext>Days</mtext>
+   </mrow>
+  </math>
+ </inline-formula> (
+ <italic>cf.</italic> Eq. 
+ <xref rid="fd5" ref-type="disp-formula">(5)</xref>), whereupon the control 
+ <inline-formula>
+  <math id="d1e7995" display="inline" altimg="si118.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">u</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is activated. In this way we look at counter-factual scenarios, to determine what would have been the optimal sequence of controls to implement, to control the outbreak of COVID-19 in Ireland. We fix the final time to be 
+ <inline-formula>
+  <math id="d1e8008" display="inline" altimg="si219.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">T</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">+</mo>
+    <mn>365</mn>
+   </mrow>
+  </math>
+ </inline-formula> days. In this, we are motivated by similar recent work which looks at how to control an outbreak of COVID-19 over a timeframe prior to the development of pharmaceutical treatments of the disease 
+ <xref rid="b5" ref-type="bibr">[5]</xref>. Finally, based on the official statistics 
+ <xref rid="b26" ref-type="bibr">[26]</xref>, we use 
+ <inline-formula>
+  <math id="d1e8036" display="inline" altimg="si205.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">k</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+    <mo>.</mo>
+    <mn>016</mn>
+   </mrow>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e8050" display="inline" altimg="si221.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">B</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>300</mn>
+   </mrow>
+  </math>
+ </inline-formula> in the state constraints 
+ <xref rid="fd12" ref-type="disp-formula">(12)</xref>–
+ <xref rid="fd13" ref-type="disp-formula">(13)</xref>, this corresponds to an ICU admission rate of 1.6% among all confirmed cases of COVID-19.
+</p>

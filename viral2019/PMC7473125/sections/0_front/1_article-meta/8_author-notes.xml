@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author-notes>
+ <corresp id="cor1">
+  <label>CONTACT</label> Hongzhou Lu 
+  <email xlink:href="luhongzhou@fudan.edu.cn" xmlns:xlink="http://www.w3.org/1999/xlink">luhongzhou@fudan.edu.cn</email>
+  <institution>Department of Infection and Immunity, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People's Republic of China</country>
+ </corresp>
+ <corresp id="cor2">Tongyu Zhu 
+  <email xlink:href="zhutongyu@shphc.org.cn" xmlns:xlink="http://www.w3.org/1999/xlink">zhutongyu@shphc.org.cn</email>
+  <institution>Department of Urology, Shanghai Public Health Clinical Center, Fudan University</institution>, 
+  <city>Shanghai</city>, 
+  <country>People's Republic of China</country>
+ </corresp>
+</author-notes>

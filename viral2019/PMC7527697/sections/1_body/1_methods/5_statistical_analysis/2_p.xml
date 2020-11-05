@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="para270">Effects of the randomisation groups on viral suppression were estimated as relative risks (RRs) produced with Poisson regression generalised estimating equations with robust variance estimation that accounted for within-household correlation.
+ <xref rid="bib19" ref-type="bibr">
+  <sup>19</sup>
+ </xref> Models were adjusted a priori for gender, age less than 30 years, baseline CD4 cell count category, and study site, which are known covariates of viral suppression. Tests for superiority of the two intervention groups compared with the clinic group were based on two-sided Wald p values less than 0·05. In the absence of significant evidence for superiority, an a-priori test for non-inferiority was done to test for a RR of more than 0·95 based on a one-sided Wald p value of less than 0·025. Effect modification was evaluated with interaction terms for gender, age, and site.
+</p>

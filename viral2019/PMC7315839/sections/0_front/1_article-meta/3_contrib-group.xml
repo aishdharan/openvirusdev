@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Simand</surname>
+   <given-names>Celestine</given-names>
+  </name>
+  <degrees>MD, PhD</degrees>
+  <xref ref-type="aff" rid="aff1">∗</xref>
+  <xref ref-type="aff" rid="aff2">†</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bund</surname>
+   <given-names>Caroline</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">∗</xref>
+  <xref ref-type="aff" rid="aff3">‡</xref>
+  <xref ref-type="aff" rid="aff4">§</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Guffroy</surname>
+   <given-names>Blandine</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">∗</xref>
+  <xref ref-type="aff" rid="aff2">†</xref>
+  <xref ref-type="aff" rid="aff5">∥</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chaban</surname>
+   <given-names>Vitaliy</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff6">¶</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Herbrecht</surname>
+   <given-names>Raoul</given-names>
+  </name>
+  <degrees>MD</degrees>
+  <xref ref-type="aff" rid="aff1">∗</xref>
+  <xref ref-type="aff" rid="aff2">†</xref>
+  <xref ref-type="aff" rid="aff5">∥</xref>
+ </contrib>
+</contrib-group>

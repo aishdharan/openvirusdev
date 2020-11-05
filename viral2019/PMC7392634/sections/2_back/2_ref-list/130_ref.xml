@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R130">
+ <label>130</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Gomes</surname>
+    <given-names>MGM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Corder</surname>
+    <given-names>RM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>King</surname>
+    <given-names>JG</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold</article-title>. 
+  <source>medRxiv</source>
+  <year>2020</year>. 
+  <pub-id pub-id-type="doi">10.1101/2020.04.27.20081893</pub-id>. [Epub ahead of print: 02 May 2020].
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/32511451?>
+ </mixed-citation>
+</ref>

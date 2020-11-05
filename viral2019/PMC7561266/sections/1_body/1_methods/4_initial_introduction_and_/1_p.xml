@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>Firstly, we examine the variability in epidemic dynamics, as a function of arrival dates of an infectious human in a susceptible population. To do this, we ran simulations for introductions on all 365 calendar days of the year, with all other parameters fixed at their default values (
+ <xref rid="pntd.0008679.t002" ref-type="table">Table 2</xref>) and default starting conditions (
+ <xref ref-type="supplementary-material" rid="pntd.0008679.s007">S1 File</xref>). Each simulation was started on February 15 (the phase shift in the annual cycle) and ran for 2 years.
+</p>

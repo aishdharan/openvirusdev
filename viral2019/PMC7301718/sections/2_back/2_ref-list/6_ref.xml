@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CIT0006">
+ <label>6</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Fan</surname>
+    <given-names>C</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Li</surname>
+    <given-names>K</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Ding</surname>
+    <given-names>Y</given-names>
+   </name>, 
+   <etal>et al.</etal>
+  </person-group>
+  <article-title>ACE2 expression in kidney and testis may cause kidney and testis damage after 2019-nCoV infection</article-title>. 
+  <source>MedRxiv</source>. 
+  <year>2020</year>. doi:
+  <ext-link ext-link-type="uri" xlink:href="https://doi.org/101101/2020021220022418" xmlns:xlink="http://www.w3.org/1999/xlink">101101/2020021220022418</ext-link>.
+ </mixed-citation>
+</ref>

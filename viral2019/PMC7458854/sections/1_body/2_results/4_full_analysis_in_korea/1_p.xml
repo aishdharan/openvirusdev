@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>In this section, we comprehensively analyzed the difference of epidemic peaks and the number of those recovering in the actual trend and the epidemic model for cities in Korea. 
+ <xref rid="T3" ref-type="table">Table 3</xref> shows the result of parameters related to infections and recoveries for the actual and modeled trend of COVID-19 in the cities of Korea. It is necessary to note that the actual (as well as modeled) epidemic peaks and the cross date (
+ <italic>d</italic>
+ <sub>R.C</sub>) of the actual and modeled recovery curves were different in Daegu-Gyeongbuk, where small mass infection occurred, and Seoul-Gyeonggi, where small-scale general infection occurred. Despite the fact that 
+ <italic>t
+  <sub>d</sub>
+ </italic> was set considering the actual duration of infection, λ
+ <sub>I</sub> in Daegu-Gyeongbuk with mass infection showed a time leading phenomenon of epidemic peaks, while λ
+ <sub>I</sub> in Seoul-Gyeonggi with normal infection showed little difference. The fitting curve of Daegu-Gyeongbuk (
+ <italic>d</italic>
+ <sub>I.a</sub> − 
+ <italic>d</italic>
+ <sub>I.f</sub> = −5, 2) did not express the actual infection trend due to the rapid increase in the number of infected people compared to Seoul-Gyeonggi (
+ <italic>d</italic>
+ <sub>I.a</sub> − 
+ <italic>d</italic>
+ <sub>I.f</sub> = 0, 1). The average epidemic peaks of each region are 
+ <inline-formula>
+  <alternatives>
+   <math id="m22">
+    <mstyle scriptlevel="+1">
+     <mover accent="true">
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>λ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="normal">I</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mo>-</mo>
+     </mover>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i010.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> = −5.8 days for Daegu-Gyeongbuk and 
+ <inline-formula>
+  <alternatives>
+   <math id="m23">
+    <mstyle scriptlevel="+1">
+     <mover accent="true">
+      <mrow>
+       <msub>
+        <mrow>
+         <mi>λ</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="normal">I</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mo>-</mo>
+     </mover>
+    </mstyle>
+   </math>
+   <inline-graphic xlink:href="jkms-35-e317-i010.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> = −0.1 days for Seoul-Gyeonggi. The parameters used in this paper were analyzed based on the resulting trends. If only the initial infection trend is given without prior information of the mass infection, the actual epidemic peak may appear much faster than the epidemic peak predicted by the model.
+</p>

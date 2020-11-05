@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="CR4">
+ <label>4.</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Nikolopoulos</surname>
+    <given-names>GK</given-names>
+   </name>
+   <name>
+    <surname>Kostaki</surname>
+    <given-names>EG</given-names>
+   </name>
+   <name>
+    <surname>Paraskevis</surname>
+    <given-names>D</given-names>
+   </name>
+  </person-group>
+  <article-title>Overview of HIV molecular epidemiology among people who inject drugs in Europe and Asia</article-title>
+  <source>Infect Genet Evol</source>
+  <year>2016</year>
+  <volume>46</volume>
+  <fpage>256</fpage>
+  <lpage>268</lpage>
+  <pub-id pub-id-type="doi">10.1016/j.meegid.2016.06.017</pub-id>
+  <pub-id pub-id-type="pmid">27287560</pub-id>
+ </element-citation>
+</ref>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e10248"> In the same way, we emphasize again (
+ <italic>cf.</italic> Section 
+ <xref rid="sec1" ref-type="sec">1</xref>) that the time horizon of the optimal control problem is fixed, with 
+ <inline-formula>
+  <math id="d1e10264" display="inline" altimg="si339.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">T</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>1</mn>
+    <mspace width="0.16667em"/>
+    <mtext>year</mtext>
+   </mrow>
+  </math>
+ </inline-formula>. The motivation is that this is a realistic time horizon over which to manage the spread of COVID-19 in population, before the advent of anticipated therapeutic interventions such as anti-viral drugs and vaccines. Introducing a variable time horizon for the optimal control problem can be addressed in future work — the same observations as above will apply, namely the importance of suppressing the initial exponential growth of the epidemic.
+</p>

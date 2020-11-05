@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-4238-5880</contrib-id>
+  <name>
+   <surname>Salami</surname>
+   <given-names>Donald</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Visualization</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor001">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Capinha</surname>
+   <given-names>César</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sousa</surname>
+   <given-names>Carla Alexandra</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor001">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Martins</surname>
+   <given-names>Maria do Rosário Oliveira</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lord</surname>
+   <given-names>Cynthia</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Software</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff003">
+   <sup>3</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor001">*</xref>
+ </contrib>
+</contrib-group>

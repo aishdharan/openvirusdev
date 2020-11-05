@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+ <title>Abbreviations</title>
+ <def-list>
+  <def-item>
+   <term>BRT</term>
+   <def>
+    <p id="Par5">Blood routine examination</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>CCT</term>
+   <def>
+    <p id="Par6">Chest computed tomography</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MDT</term>
+   <def>
+    <p id="Par7">Multidisciplinary diagnosis and treatment model</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>COVID-19</term>
+   <def>
+    <p id="Par8">Coronavirus disease 2019</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>OR</term>
+   <def>
+    <p id="Par9">Operating room</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ID card</term>
+   <def>
+    <p id="Par10">Identification card</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>SSI</term>
+   <def>
+    <p id="Par11">Surgical site infection</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>TKA</term>
+   <def>
+    <p id="Par12">Total knee arthroplasty</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ASA</term>
+   <def>
+    <p id="Par13">American Society of Anesthesiologists</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>NSAIDs</term>
+   <def>
+    <p id="Par14">nonsteroidal anti-inflammatory drugs</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>ARDS</term>
+   <def>
+    <p id="Par15">Acute respiratory distress syndrome</p>
+   </def>
+  </def-item>
+  <def-item>
+   <term>MODS</term>
+   <def>
+    <p id="Par16">Multi-organ dysfunction</p>
+   </def>
+  </def-item>
+ </def-list>
+</glossary>

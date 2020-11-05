@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract abstract-type="author-highlights" id="abs0015">
+ <title>Highlights</title>
+ <p>
+  <list list-type="simple" id="ulist0010">
+   <list-item id="u0010">
+    <label>•</label>
+    <p id="p0010">Clinical features of child clusters infected with 2019-nCoV lack a typical pattern.</p>
+   </list-item>
+   <list-item id="u0015">
+    <label>•</label>
+    <p id="p0015">In mildly infected children, initial CT may be only negative or subtly abnormal.</p>
+   </list-item>
+   <list-item id="u0020">
+    <label>•</label>
+    <p id="p0020">Ground-glass opacity and patchy shadow are vital CT features.</p>
+   </list-item>
+  </list>
+ </p>
+</abstract>

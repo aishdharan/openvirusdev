@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="d1e410">
+ <p>Researchers from various scientific disciplines have attempted to forecast the spread of the Coronavirus Disease 2019 (COVID-19). The proposed epidemic prediction methods range from basic curve fitting methods and traffic interaction models to machine-learning approaches. If we combine all these approaches, we obtain the Network Inference-based Prediction Algorithm (NIPA). In this paper, we analyse a diverse set of COVID-19 forecast algorithms, including several modifications of NIPA. Among the diverse set of algorithms that we evaluated, original NIPA performs best on forecasting the spread of COVID-19 in Hubei, China and in the Netherlands. In particular, we show that network-based forecasting is superior to any other forecasting algorithm.</p>
+</abstract>

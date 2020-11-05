@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="TB4" orientation="portrait" position="float">
+ <label>Table 4</label>
+ <caption>
+  <p>Comparison of different classification studies</p>
+ </caption>
+ <table frame="hsides" rules="groups">
+  <colgroup span="1">
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="left" span="1"/>
+   <col align="center" span="1"/>
+  </colgroup>
+  <thead>
+   <tr>
+    <th rowspan="1" colspan="1">Study</th>
+    <th rowspan="1" colspan="1">Dataset</th>
+    <th rowspan="1" colspan="1">Method</th>
+    <th rowspan="1" colspan="1">Classifier</th>
+    <th rowspan="1" colspan="1">Accuracy %</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td rowspan="1" colspan="1">Barstugan 
+     <italic>et al.</italic> [
+     <xref rid="ref22" ref-type="bibr">22</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Abdominal CT images: 16 × 16</td>
+    <td rowspan="1" colspan="1">
+     <p>− Grey-level co-occurrence matrix (GLCM)</p>
+     <p>− Local directional pattern (LDP)</p>
+     <p>− Grey-level run length matrix (GLRLM)</p>
+     <p>− Grey-level size zone matrix (GLSZM)</p>
+     <p>− Discrete wavelet transform (DWT)</p>
+    </td>
+    <td rowspan="1" colspan="1">Support vector machine (SVM)</td>
+    <td rowspan="1" colspan="1">99.68</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">32 × 32</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">99.37</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">48 × 48</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">99.64</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">64 × 64</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">97.28</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Basu 
+     <italic>et al.</italic> [
+     <xref rid="ref23" ref-type="bibr">23</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Chest X-ray images</td>
+    <td rowspan="1" colspan="1">Domain extension transfer learning (DETL)</td>
+    <td rowspan="1" colspan="1">Machine learning (ML)
+     <break/>Deep learning (DL)
+    </td>
+    <td rowspan="1" colspan="1">95.3% ± 0.02</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Ozturk 
+     <italic>et al.</italic> [
+     <xref rid="ref24" ref-type="bibr">24</xref>]
+    </td>
+    <td rowspan="1" colspan="1">Raw chest X-ray images:</td>
+    <td rowspan="1" colspan="1">DarkCovidNet model</td>
+    <td rowspan="1" colspan="1">Deep learning (DL)</td>
+    <td rowspan="1" colspan="1">98.08</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− Binary classification (COVID versus no-findings)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− Multi-class classification (COVID versus no-findings versus pneumonia)</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">87.02</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Elasnaoui 
+     <italic>et al.</italic> [
+     <xref rid="ref25" ref-type="bibr">25</xref>]
+    </td>
+    <td rowspan="1" colspan="1">X-ray and CT images</td>
+    <td rowspan="1" colspan="1">Models: Inception_ResNet_V2</td>
+    <td rowspan="1" colspan="1">Multilayer perceptron classifier</td>
+    <td rowspan="1" colspan="1">92.18</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">DenseNet201</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">88.09</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Resnet50</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">87.54</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">MobileNet_V2</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">85.47</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Inception_V3</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">88.03</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">VGG16</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">74.84</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">VGG19</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">72.52</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1">Proposed study</td>
+    <td rowspan="1" colspan="1">DNA sequences:</td>
+    <td rowspan="1" colspan="1">− Discrete Fourier transform</td>
+    <td rowspan="1" colspan="1">
+     <italic>K</italic>-nearest neighbor algorithm
+    </td>
+    <td rowspan="1" colspan="1">100</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− Discrete cosine transform</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− COVID-19 versus SARS-CoV</td>
+    <td rowspan="1" colspan="1">− Seven moment invariants</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− COVID-19 versus MERS-CoV</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">100</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− COVID-19 versus SARS-CoV versus MERS-CoV</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">100</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− COVID-19 versus SARS-CoV</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">Trainable cascade-forward back propagation neural network</td>
+    <td rowspan="1" colspan="1">100</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− COVID-19 versus MERS-CoV</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">98.34</td>
+   </tr>
+   <tr>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">− COVID-19 versus SARS-CoV versus MERS-CoV</td>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1"/>
+    <td rowspan="1" colspan="1">98.89</td>
+   </tr>
+  </tbody>
+ </table>
+</table-wrap>

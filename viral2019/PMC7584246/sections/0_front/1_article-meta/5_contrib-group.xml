@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-6787-9345</contrib-id>
+  <name>
+   <surname>Lebedev</surname>
+   <given-names>Aleksey</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Data curation</role>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Software</role>
+  <role content-type="https://casrai.org/credit/">Validation</role>
+  <role content-type="https://casrai.org/credit/">Visualization</role>
+  <role content-type="https://casrai.org/credit/">Writing – original draft</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+  <xref ref-type="corresp" rid="cor001">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pasechnik</surname>
+   <given-names>Oksana</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Software</role>
+  <role content-type="https://casrai.org/credit/">Validation</role>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Ozhmegova</surname>
+   <given-names>Ekaterina</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Validation</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Antonova</surname>
+   <given-names>Anastasiia</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Validation</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Blokh</surname>
+   <given-names>Aleksey</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <role content-type="https://casrai.org/credit/">Methodology</role>
+  <role content-type="https://casrai.org/credit/">Software</role>
+  <role content-type="https://casrai.org/credit/">Validation</role>
+  <xref ref-type="aff" rid="aff002">
+   <sup>2</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Grezina</surname>
+   <given-names>Liliya</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <xref ref-type="aff" rid="aff003">
+   <sup>3</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Sandyreva</surname>
+   <given-names>Tatiana</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <xref ref-type="aff" rid="aff004">
+   <sup>4</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Dementeva</surname>
+   <given-names>Natalia</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Resources</role>
+  <xref ref-type="aff" rid="aff005">
+   <sup>5</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Kazennova</surname>
+   <given-names>Elena</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Formal analysis</role>
+  <role content-type="https://casrai.org/credit/">Investigation</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Bobkova</surname>
+   <given-names>Marina</given-names>
+  </name>
+  <role content-type="https://casrai.org/credit/">Conceptualization</role>
+  <role content-type="https://casrai.org/credit/">Funding acquisition</role>
+  <role content-type="https://casrai.org/credit/">Project administration</role>
+  <role content-type="https://casrai.org/credit/">Supervision</role>
+  <role content-type="https://casrai.org/credit/">Writing – review &amp; editing</role>
+  <xref ref-type="aff" rid="aff001">
+   <sup>1</sup>
+  </xref>
+ </contrib>
+</contrib-group>

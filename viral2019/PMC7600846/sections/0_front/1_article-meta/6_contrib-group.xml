@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5367-8232</contrib-id>
+  <name>
+   <surname>Boëlle</surname>
+   <given-names>Pierre-Yves</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jcm-09-03148">1</xref>
+  <xref rid="c1-jcm-09-03148" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0165-8934</contrib-id>
+  <name>
+   <surname>Delory</surname>
+   <given-names>Tristan</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jcm-09-03148">1</xref>
+  <xref ref-type="aff" rid="af2-jcm-09-03148">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Maynadier</surname>
+   <given-names>Xavier</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jcm-09-03148">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Janssen</surname>
+   <given-names>Cécile</given-names>
+  </name>
+  <xref ref-type="aff" rid="af2-jcm-09-03148">2</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Piarroux</surname>
+   <given-names>Renaud</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jcm-09-03148">1</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Pichenot</surname>
+   <given-names>Marie</given-names>
+  </name>
+  <xref ref-type="aff" rid="af3-jcm-09-03148">3</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lemaire</surname>
+   <given-names>Xavier</given-names>
+  </name>
+  <xref ref-type="aff" rid="af4-jcm-09-03148">4</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Baclet</surname>
+   <given-names>Nicolas</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-jcm-09-03148">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Weyrich</surname>
+   <given-names>Pierre</given-names>
+  </name>
+  <xref ref-type="aff" rid="af5-jcm-09-03148">5</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Melliez</surname>
+   <given-names>Hugues</given-names>
+  </name>
+  <xref ref-type="aff" rid="af6-jcm-09-03148">6</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Meybeck</surname>
+   <given-names>Agnès</given-names>
+  </name>
+  <xref ref-type="aff" rid="af7-jcm-09-03148">7</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0463-4636</contrib-id>
+  <name>
+   <surname>Lanoix</surname>
+   <given-names>Jean-Philippe</given-names>
+  </name>
+  <xref ref-type="aff" rid="af8-jcm-09-03148">8</xref>
+  <xref ref-type="aff" rid="af9-jcm-09-03148">9</xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Robineau</surname>
+   <given-names>Olivier</given-names>
+  </name>
+  <xref ref-type="aff" rid="af1-jcm-09-03148">1</xref>
+  <xref ref-type="aff" rid="af7-jcm-09-03148">7</xref>
+  <xref rid="c1-jcm-09-03148" ref-type="corresp">*</xref>
+ </contrib>
+</contrib-group>

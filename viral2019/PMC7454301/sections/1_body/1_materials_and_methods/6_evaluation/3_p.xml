@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>(Error rate: worst value = 1; best value = 0)
+ <disp-formula id="deqn17">
+  <label>(17)</label>
+  <tex-math id="M17">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} }{}\begin{equation*} \mathrm{MCC}=\frac{\left(\mathrm{Tp}\times \mathrm{Tn}\right)-\left(\mathrm{Fp}\times \mathrm{Fn}\right)}{\sqrt{\left(\mathrm{Tp}+\mathrm{Fp}\right)\left(\mathrm{Tp}+\mathrm{Fn}\right)\left(\mathrm{Tn}+\mathrm{Fp}\right)\left(\mathrm{Tn}+\mathrm{Fn}\right)}} \end{equation*}\end{document}</tex-math>
+ </disp-formula>
+</p>

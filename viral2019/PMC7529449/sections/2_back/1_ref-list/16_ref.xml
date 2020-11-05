@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B16">
+ <label>16</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Haeussler</surname>
+    <given-names>K</given-names>
+   </name>
+   <name>
+    <surname>den Hout</surname>
+    <given-names>AV</given-names>
+   </name>
+   <name>
+    <surname>Baio</surname>
+    <given-names>G</given-names>
+   </name>
+  </person-group>
+  <article-title>A dynamic Bayesian Markov model for health economic evaluations of interventions in infectious disease</article-title>
+  <source>BMC Med Res Methodol</source>
+  <year>2018</year>
+  <date-in-citation content-type="access-date">Dec 3, 2019</date-in-citation>
+  <volume>18</volume>
+  <issue>1</issue>
+  <fpage>82</fpage>
+  <lpage>82</lpage>
+  <comment>Available from: </comment>
+  <pub-id pub-id-type="doi">10.1186/s12874-018-0541-7</pub-id>
+  <pub-id pub-id-type="pmid">30068316</pub-id>
+ </element-citation>
+</ref>

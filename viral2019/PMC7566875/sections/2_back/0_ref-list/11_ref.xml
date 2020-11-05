@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b11">
+ <label>11</label>
+ <element-citation publication-type="journal" id="sb11">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Bolzoni</surname>
+    <given-names>Luca</given-names>
+   </name>
+   <name>
+    <surname>Bonacini</surname>
+    <given-names>Elena</given-names>
+   </name>
+   <name>
+    <surname>Soresina</surname>
+    <given-names>Cinzia</given-names>
+   </name>
+   <name>
+    <surname>Groppi</surname>
+    <given-names>Maria</given-names>
+   </name>
+  </person-group>
+  <article-title>Time-optimal control strategies in SIR epidemic models</article-title>
+  <source>Math. Biosci.</source>
+  <volume>292</volume>
+  <year>2017</year>
+  <fpage>86</fpage>
+  <lpage>96</lpage>
+  <pub-id pub-id-type="pmid">28801246</pub-id>
+ </element-citation>
+</ref>

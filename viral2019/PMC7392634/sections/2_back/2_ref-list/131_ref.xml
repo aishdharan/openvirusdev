@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R131">
+ <label>131</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Kwok</surname>
+    <given-names>KO</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Lai</surname>
+    <given-names>F</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Wei</surname>
+    <given-names>WI</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Herd immunity – estimating the level required to halt the COVID-19 epidemics in affected countries</article-title>. 
+  <source>Journal of Infection</source>
+  <year>2020</year>;
+  <volume>80</volume>:
+  <fpage>e32</fpage>–
+  <lpage>3</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.jinf.2020.03.027</pub-id>
+  <pub-id pub-id-type="pmid">32209383</pub-id>
+ </mixed-citation>
+</ref>

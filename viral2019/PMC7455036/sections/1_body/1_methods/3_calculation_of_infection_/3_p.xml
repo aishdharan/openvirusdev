@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>According to (4), the expression 
+ <italic>i</italic>(
+ <italic>t</italic>) can be obtained: 
+ <disp-formula id="pone.0238411.e006">
+  <alternatives>
+   <graphic xlink:href="pone.0238411.e006.jpg" id="pone.0238411.e006g" mimetype="image" position="anchor" orientation="portrait" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <math id="M6">
+    <mi>i</mi>
+    <mo>(</mo>
+    <mrow>
+     <mi>t</mi>
+    </mrow>
+    <mo>)</mo>
+    <mo>=</mo>
+    <mi>C</mi>
+    <mo>×</mo>
+    <msup>
+     <mrow>
+      <mi>e</mi>
+     </mrow>
+     <mrow>
+      <mo>(</mo>
+      <mrow>
+       <mi>β</mi>
+       <mo>−</mo>
+       <mi>μ</mi>
+      </mrow>
+      <mo>)</mo>
+      <mi>t</mi>
+     </mrow>
+    </msup>
+    <mo>.</mo>
+   </math>
+  </alternatives>
+  <label>(5)</label>
+ </disp-formula>
+</p>

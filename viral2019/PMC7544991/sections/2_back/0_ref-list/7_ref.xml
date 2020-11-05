@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B7">
+ <label>7.</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Meyerowitz</surname>
+    <given-names>EA</given-names>
+   </name>
+   <name>
+    <surname>Vannier</surname>
+    <given-names>AGL</given-names>
+   </name>
+   <name>
+    <surname>Friesen</surname>
+    <given-names>MGN</given-names>
+   </name>
+   <name>
+    <surname>Schoenfeld</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Gelfand</surname>
+    <given-names>JA</given-names>
+   </name>
+   <name>
+    <surname>Callahan</surname>
+    <given-names>MV</given-names>
+   </name>
+   <etal/>
+  </person-group>. 
+  <article-title>Rethinking the role of hydroxychloroquine in the treatment of COVID-19</article-title>. 
+  <source>FASEB J</source>. (
+  <year>2020</year>) 
+  <volume>34</volume>:
+  <fpage>6027</fpage>–
+  <lpage>37</lpage>. 
+  <pub-id pub-id-type="doi">10.1096/fj.202000919</pub-id>
+  <?supplied-pmid 32350928?>
+  <pub-id pub-id-type="pmid">32350928</pub-id>
+ </mixed-citation>
+</ref>

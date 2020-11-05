@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="pone.0238411.ref012">
+ <label>12</label>
+ <mixed-citation publication-type="journal">
+  <name>
+   <surname>Eikenberry</surname>
+   <given-names>SE</given-names>
+  </name>, 
+  <name>
+   <surname>Mancuso</surname>
+   <given-names>M</given-names>
+  </name>, 
+  <name>
+   <surname>Iboi</surname>
+   <given-names>E</given-names>
+  </name>, 
+  <name>
+   <surname>Phan</surname>
+   <given-names>T</given-names>
+  </name>, 
+  <name>
+   <surname>Eikenberry</surname>
+   <given-names>K</given-names>
+  </name>, 
+  <name>
+   <surname>Kuang</surname>
+   <given-names>Y</given-names>
+  </name>, 
+  <etal>et al</etal>
+  <article-title>To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic.</article-title>
+  <source>Infect Dis Model.</source>
+  <year>2020</year>;
+  <volume>5</volume>:
+  <fpage>293</fpage>–
+  <lpage>308</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/j.idm.2020.04.001</pub-id>
+  <?supplied-pmid 32355904?>
+  <pub-id pub-id-type="pmid">32355904</pub-id>
+ </mixed-citation>
+</ref>

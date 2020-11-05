@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>LBS data are adopted to conduct PM
+ <sub>2.5</sub> exposure assessment and health risk analysis, since LBS data are with a daily temporal resolution, which can accurately reflect the population mobility [
+ <xref rid="B36-ijerph-17-07664" ref-type="bibr">36</xref>]. In this study, the LBS data are employed as an indicator to quantify the spatial and temporal patterns of population distribution. Due to the differences of socio-economic development and mobile internet penetration among different cities, the population dynamic distribution of each city is estimated separately. Since the daily total location data contains duplicate data, in order to eliminate the impact of duplicate data, this study redistributes the total population data of each city based on the hourly LBS data location data (Equation (6)), and generates the density map of LBS data by aggregating all the geotagged records of each grid. 
+ <disp-formula id="FD6-ijerph-17-07664">
+  <label>(6)</label>
+  <math id="mm24">
+   <mrow>
+    <mrow>
+     <mi>P</mi>
+     <mi>o</mi>
+     <msub>
+      <mi>p</mi>
+      <mrow>
+       <mi>p</mi>
+       <mi>q</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <msub>
+        <mi>P</mi>
+        <mrow>
+         <mi>p</mi>
+         <mi>q</mi>
+        </mrow>
+       </msub>
+      </mrow>
+      <mrow>
+       <msubsup>
+        <mstyle mathsize="70%" displaystyle="true">
+         <mo>∑</mo>
+        </mstyle>
+        <mrow>
+         <mi>p</mi>
+         <mo>=</mo>
+         <mn>1</mn>
+        </mrow>
+        <mi>z</mi>
+       </msubsup>
+       <msub>
+        <mi>P</mi>
+        <mrow>
+         <mi>p</mi>
+         <mi>q</mi>
+        </mrow>
+       </msub>
+      </mrow>
+     </mfrac>
+     <mo>·</mo>
+     <mi>T</mi>
+     <mi>o</mi>
+     <msub>
+      <mi>l</mi>
+      <mi>p</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm25">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>p</mi>
+      <mrow>
+       <mi>p</mi>
+       <mi>q</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the positioning quantity of Tencent’s position data in the 
+ <inline-formula>
+  <math id="mm26">
+   <mrow>
+    <mi>p</mi>
+   </mrow>
+  </math>
+ </inline-formula> grid; 
+ <inline-formula>
+  <math id="mm27">
+   <mrow>
+    <mi>z</mi>
+   </mrow>
+  </math>
+ </inline-formula> is the total number of pixels in the city; 
+ <inline-formula>
+  <math id="mm28">
+   <mrow>
+    <mrow>
+     <mi>T</mi>
+     <mi>o</mi>
+     <msub>
+      <mi>l</mi>
+      <mi>p</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the total population of the city. For each city, the PM
+ <sub>2.5</sub> exposures were assessed via a pixel-based method (Equation (7)) [
+ <xref rid="B37-ijerph-17-07664" ref-type="bibr">37</xref>], which can effectively reduce the potential zoning effect of the modifiable areal unit problem (MAUP) [
+ <xref rid="B38-ijerph-17-07664" ref-type="bibr">38</xref>]. 
+ <disp-formula id="FD7-ijerph-17-07664">
+  <label>(7)</label>
+  <math id="mm29">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>E</mi>
+      <mrow>
+       <mi>P</mi>
+       <mi>M</mi>
+      </mrow>
+     </msub>
+     <mo>=</mo>
+     <mfrac>
+      <mrow>
+       <mi>P</mi>
+       <mi>o</mi>
+       <msub>
+        <mi>p</mi>
+        <mi>p</mi>
+       </msub>
+       <mo>×</mo>
+       <mi>P</mi>
+       <msub>
+        <mi>M</mi>
+        <mi>p</mi>
+       </msub>
+      </mrow>
+      <mrow>
+       <msubsup>
+        <mstyle mathsize="70%" displaystyle="true">
+         <mo>∑</mo>
+        </mstyle>
+        <mrow>
+         <mi>p</mi>
+         <mo>=</mo>
+         <mn>1</mn>
+        </mrow>
+        <mi>n</mi>
+       </msubsup>
+       <mi>P</mi>
+       <mi>o</mi>
+       <msub>
+        <mi>p</mi>
+        <mi>p</mi>
+       </msub>
+      </mrow>
+     </mfrac>
+    </mrow>
+   </mrow>
+  </math>
+ </disp-formula> where 
+ <inline-formula>
+  <math id="mm30">
+   <mrow>
+    <mrow>
+     <mi>P</mi>
+     <msub>
+      <mi>M</mi>
+      <mi>p</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> stands for PM
+ <sub>2.5</sub> concentration; 
+ <inline-formula>
+  <math id="mm31">
+   <mrow>
+    <mrow>
+     <mi>P</mi>
+     <mi>o</mi>
+     <msub>
+      <mi>p</mi>
+      <mi>p</mi>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> is the data redistributed based on LBS data. 
+ <inline-formula>
+  <math id="mm32">
+   <mrow>
+    <mrow>
+     <msub>
+      <mi>E</mi>
+      <mrow>
+       <mi>P</mi>
+       <mi>M</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> represents a population-weighted assessment of PM
+ <sub>2.5</sub> exposure.
+</p>

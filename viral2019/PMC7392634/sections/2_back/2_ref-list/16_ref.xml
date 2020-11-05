@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R16">
+ <label>16</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Böhmer</surname>
+    <given-names>MM</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Buchholz</surname>
+    <given-names>U</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Corman</surname>
+    <given-names>VM</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Investigation of a COVID-19 outbreak in Germany resulting from a single travel-associated primary case: a case series</article-title>. 
+  <source>Lancet Infect Dis</source>
+  <year>2020</year>
+  <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30314-5</pub-id>
+ </mixed-citation>
+</ref>

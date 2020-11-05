@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B29">
+ <label>29</label>
+ <element-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Wurtzer</surname>
+    <given-names>S</given-names>
+   </name>
+   <name>
+    <surname>Marechal</surname>
+    <given-names>V</given-names>
+   </name>
+   <name>
+    <surname>Mouchel</surname>
+    <given-names>J-M</given-names>
+   </name>
+   <name>
+    <surname>Moulin</surname>
+    <given-names>L</given-names>
+   </name>
+  </person-group>
+  <article-title>Time course quantitative detection of SARS-CoV-2 in Parisian wastewaters correlates with COVID-19 confirmed cases</article-title>
+  <source> medRxiv</source>
+  <volume>2020</volume>
+  <fpage>2020.04.12.20062679</fpage>
+  <lpage>2020</lpage>
+ </element-citation>
+</ref>

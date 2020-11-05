@@ -1,0 +1,464 @@
+{
+  "id": [
+    "32912228"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "32912228"
+  ],
+  "pmcid": [
+    "PMC7481547"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC7481547"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s12917-020-02548-4"
+  ],
+  "title": [
+    "Re-emergence of porcine epidemic diarrhea virus in a piglet-producing farm in northwestern Germany in 2019."
+  ],
+  "authorString": [
+    "Karte C, Platje N, Bullermann J, Beer M, Höper D, Blome S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Karte C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Karte"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Suedufer 10, 17493 Greifswald - Insel Riems, Greifswald, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Platje N"
+          ],
+          "firstName": [
+            "Nadine"
+          ],
+          "lastName": [
+            "Platje"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tierarztpraxis Wietmarschen, Wietmarschen, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bullermann J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Bullermann"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Tierarztpraxis Bethen, Cloppenburg, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Beer M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Beer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Suedufer 10, 17493 Greifswald - Insel Riems, Greifswald, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Höper D"
+          ],
+          "firstName": [
+            "Dirk"
+          ],
+          "lastName": [
+            "Höper"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Suedufer 10, 17493 Greifswald - Insel Riems, Greifswald, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Blome S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Blome"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5465-5609",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Suedufer 10, 17493 Greifswald - Insel Riems, Greifswald, Germany. sandra.blome@fli.de."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5465-5609",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "3004523"
+      ],
+      "dateOfPublication": [
+        "2020 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2020"
+      ],
+      "printPublicationDate": [
+        "2020-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC veterinary research"
+          ],
+          "ISOAbbreviation": [
+            "BMC Vet Res"
+          ],
+          "medlineAbbreviation": [
+            "BMC Vet Res"
+          ],
+          "NLMid": [
+            "101249759"
+          ],
+          "ISSN": [
+            "1746-6148"
+          ],
+          "ESSN": [
+            "1746-6148"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2020"
+  ],
+  "pageInfo": [
+    "329"
+  ],
+  "abstractText": [
+    "BACKGROUND:Porcine epidemic diarrhea (PED) is a viral enteric disease of pigs. It affects all age classes of animals but lethality is mainly seen in suckling piglets. After its first appearance in England in 1971, Porcine epidemic diarrhea virus (PEDV) has spread worldwide. While sporadic outbreaks prevailed in Europe, the disease had high impact in Asia. Following particularly severe outbreaks in 2011, high impact cases were also reported in the United States and neighboring countries in 2013. Subsequently, outbreaks were also reported in several European countries including Germany. These outbreaks were less severe. This case report describes a recent case of PED re-emergence in Germany and the sequence analyses of the causative PEDV. CASE PRESENTATION:In spring 2019 5 years after re-introduction of PED into Central Europe, a piglet-producer in northwestern Germany experienced an outbreak that affected sows, their suckling piglets, and weaners. After initial confirmation of PEDV by real-time RT-PCR, fecal material and small intestine samples from affected pigs were subjected to metagenomic analyses employing next-generation sequencing. Phylogenetic analyses showed high identities among the PEDV sequences obtained from samples of different animals and a close relation to recent strains from Hungary and France. Compared to the PEDV strains analyzed in 2014, genetic drift could be confirmed. Changes were mainly observed in the spike protein encoding S gene segment. In addition, metagenomic analyses showed multiple Picobirnavirus reads in all investigated samples. CONCLUSION:This case report shows that PEDV is still circulating in Europe. The causative strains are moderately virulent and are still closely related to the so-called INDEL strains reported previously in Europe, including Germany. However, a genetic drift has taken place that can be seen in a novel cluster comprising strains from Germany, Hungary and France in 2019. Relevance and impact of the detected Picobirna sequences need further investigations."
+  ],
+  "affiliation": [
+    "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Suedufer 10, 17493 Greifswald - Insel Riems, Greifswald, Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Journal Article",
+        "case-report"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Grant KoInfekt (ESF_14-BM-A55-00xx_16)"
+          ],
+          "agency": [
+            "Federal Excellence Initiative of Mecklenburg Western Pomerania"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phylogenetic analysis",
+        "Porcine Epidemic Diarrhea Virus (PEDV)",
+        "Next-generation Sequencing",
+        "Metagenomics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12917-020-02548-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7481547"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC7481547?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2020-09-11"
+  ],
+  "firstIndexDate": [
+    "2020-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2020-09-18"
+  ],
+  "dateOfRevision": [
+    "2020-10-01"
+  ],
+  "electronicPublicationDate": [
+    "2020-09-10"
+  ],
+  "firstPublicationDate": [
+    "2020-09-10"
+  ]
+}

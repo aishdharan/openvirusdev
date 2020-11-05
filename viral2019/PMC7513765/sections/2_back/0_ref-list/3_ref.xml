@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="bib3">
+ <element-citation publication-type="journal" id="sref3">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Baker</surname>
+    <given-names>R.E.</given-names>
+   </name>
+   <name>
+    <surname>Yang</surname>
+    <given-names>W.</given-names>
+   </name>
+   <name>
+    <surname>Vecchi</surname>
+    <given-names>G.A.</given-names>
+   </name>
+   <name>
+    <surname>Metcalf</surname>
+    <given-names>C.J.E.</given-names>
+   </name>
+   <name>
+    <surname>Grenfell</surname>
+    <given-names>B.T.</given-names>
+   </name>
+  </person-group>
+  <article-title>Susceptible Supply limits the role of climate in early SARS-CoV-2 pandemic</article-title>
+  <source>Science</source>
+  <volume>10</volume>
+  <year>2020</year>
+  <fpage>1126</fpage>
+  <lpage>1129</lpage>
+ </element-citation>
+</ref>

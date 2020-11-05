@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fig id="fig1">
+ <label>Fig. 1</label>
+ <caption>
+  <p>Phylogenetic relationship of human coronaviruses. Viruses in the subfamily group into 4 genera that include 
+   <italic>Alphacoronavirus</italic> (
+   <italic>blue arms</italic>), 
+   <italic>Betacoronavirus</italic> (
+   <italic>pink</italic>), 
+   <italic>Gammacoronavirus</italic> (
+   <italic>purple</italic>), and 
+   <italic>Deltacoronavirus</italic> (
+   <italic>green</italic>). The human coronaviruses belong to 
+   <italic>Alphacoronavirus</italic> and 
+   <italic>Betacoronavirus</italic> genera and are highlighted in red. The tree was created by Geneious version 2020.0 created by Biomatters. Available from 
+   <ext-link ext-link-type="uri" xlink:href="https://www.geneious.com" id="intref0025" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.geneious.com</ext-link>. Accession numbers for selected whole genomes are as follows: AY291315.1, MN908947.3, EF065505.1, EF065509.1, KF186564.1, AY391777.1, AY700211.1, AY597011.2, EF065513.1, FJ376619.2, FJ376621.1, FJ376622.1, AF304460.1, AY567487.2, AF353511.1, NC_009657.1, EF203064.1, NC_010437.1, NC_010438.1, AY514485.1, and EU111742.1.
+  </p>
+ </caption>
+ <graphic xlink:href="gr1_lrg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>

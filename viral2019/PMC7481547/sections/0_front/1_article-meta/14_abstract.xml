@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abstract id="Abs1">
+ <sec>
+  <title>Background</title>
+  <p id="Par1">Porcine epidemic diarrhea (PED) is a viral enteric disease of pigs. It affects all age classes of animals but lethality is mainly seen in suckling piglets. After its first appearance in England in 1971, Porcine epidemic diarrhea virus (PEDV) has spread worldwide. While sporadic outbreaks prevailed in Europe, the disease had high impact in Asia. Following particularly severe outbreaks in 2011, high impact cases were also reported in the United States and neighboring countries in 2013. Subsequently, outbreaks were also reported in several European countries including Germany. These outbreaks were less severe. This case report describes a recent case of PED re-emergence in Germany and the sequence analyses of the causative PEDV.</p>
+ </sec>
+ <sec>
+  <title>Case presentation</title>
+  <p id="Par2">In spring 2019 5 years after re-introduction of PED into Central Europe, a piglet-producer in northwestern Germany experienced an outbreak that affected sows, their suckling piglets, and weaners. After initial confirmation of PEDV by real-time RT-PCR, fecal material and small intestine samples from affected pigs were subjected to metagenomic analyses employing next-generation sequencing. Phylogenetic analyses showed high identities among the PEDV sequences obtained from samples of different animals and a close relation to recent strains from Hungary and France. Compared to the PEDV strains analyzed in 2014, genetic drift could be confirmed. Changes were mainly observed in the spike protein encoding S gene segment. In addition, metagenomic analyses showed multiple Picobirnavirus reads in all investigated samples.</p>
+ </sec>
+ <sec>
+  <title>Conclusion</title>
+  <p id="Par3">This case report shows that PEDV is still circulating in Europe. The causative strains are moderately virulent and are still closely related to the so-called INDEL strains reported previously in Europe, including Germany. However, a genetic drift has taken place that can be seen in a novel cluster comprising strains from Germany, Hungary and France in 2019. Relevance and impact of the detected Picobirna sequences need further investigations.</p>
+ </sec>
+</abstract>

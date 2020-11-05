@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-wrap id="T2" orientation="portrait" position="float">
+ <label>TABLE 2</label>
+ <caption>
+  <title>Prevalence of medication adherence and association with selected sociodemographic characteristics among Hispanic/Latino men who have sex with men currently taking antiretroviral therapy (ART) (N = 1,673)— Medical Monitoring Project, United States, 2015–2019</title>
+ </caption>
+ <table frame="hsides" rules="groups" width="6.850in">
+  <col width="22%" span="1"/>
+  <col width="7%" span="1"/>
+  <col width="8%" span="1"/>
+  <col width="15%" span="1"/>
+  <col width="15%" span="1"/>
+  <col width="8%" span="1"/>
+  <col width="17%" span="1"/>
+  <col width="8%" span="1"/>
+  <thead>
+   <tr>
+    <th rowspan="2" valign="bottom" align="left" scope="col" colspan="1">Characteristic</th>
+    <th rowspan="2" valign="bottom" align="center" scope="col" colspan="1">Total no.*</th>
+    <th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Adherence score ≥85
+     <sup>†</sup>
+     <hr/>
+    </th>
+    <th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Unadjusted
+     <hr/>
+    </th>
+    <th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Adjusted
+     <hr/>
+    </th>
+   </tr>
+   <tr>
+    <th valign="bottom" colspan="1" align="center" scope="colgroup" rowspan="1">No.*</th>
+    <th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">% (95% CI)
+     <sup>§</sup>
+    </th>
+    <th valign="middle" align="center" scope="col" rowspan="1" colspan="1">Prevalence ratio (95% CI)</th>
+    <th valign="middle" align="center" scope="col" rowspan="1" colspan="1">P-value</th>
+    <th valign="middle" align="center" scope="col" rowspan="1" colspan="1">Prevalence ratio (95% CI)</th>
+    <th valign="middle" align="center" scope="col" rowspan="1" colspan="1">P-value</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Sociodemographic variables</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Age group (yrs)</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">18–29
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">192
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">126
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">65.7 (57.3–74.1)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.79 (0.69–0.90)
+     <hr/>
+    </td>
+    <td rowspan="4" valign="top" align="center" colspan="1">&lt;0.001
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.85 (0.76–0.96)
+     <hr/>
+    </td>
+    <td rowspan="4" valign="top" align="center" colspan="1">0.005
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">30–39
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">398
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">279
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">72.2 (66.9–77.5)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.86 (0.79–0.94)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">0.88 (0.80–0.96)
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">40–49
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">482
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">372
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">77.8 (73.3–82.2)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.93 (0.87–1.00)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">0.94 (0.87–1.01)
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">≥50
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">598
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">492
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">83.6 (80.4–86.7)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">Reference
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Education level</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Less than high school
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">207
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">158
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">75.2 (68.3–82.2)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.95 (0.86–1.05)
+     <hr/>
+    </td>
+    <td rowspan="3" valign="top" align="center" colspan="1">0.069
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <sup>¶</sup>
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">High school diploma or equivalent
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">342
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">242
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">72.6 (67.0–78.2)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.92 (0.85–1.00)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">More than high school
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,120
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">868
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">79.1 (76.3–81.8)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Household poverty level**</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Above threshold
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,024
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">801
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">79.7 (76.8–82.6)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.002
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.024
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">At or below threshold
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">535
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">380
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">71.5 (66.8–76.2)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.90 (0.83–0.96)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">0.93 (0.87–0.99)
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Homeless
+      <sup>††</sup>
+     </bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">124
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">72
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">60.7 (50.9–70.5)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.77 (0.66–0.91)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">&lt;0.001
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,546
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">1,197
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">78.5 (76.0–81.0)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Risk behaviors</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Binge drinking, previous 30 days
+      <sup>§§</sup>
+     </bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">405
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">289
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">74.0 (68.6–79.4)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.94 (0.87–1.02)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.142
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,254
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">974
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">78.4 (75.7–81.2)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Drug use, previous 12 mos</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">548
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">349
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">67.2 (62.2–72.3)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.82 (0.76–0.89)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">&lt;0.001
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.86 (0.80–0.93)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">&lt;0.001
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,114
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">916
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">81.9 (79.4–84.4)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">Reference
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Clinical variables</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Time since HIV diagnosis (yrs)</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">&lt;5
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">377
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">279
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">72.3 (66.7–77.8)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.91 (0.84–0.99)
+     <hr/>
+    </td>
+    <td rowspan="3" valign="top" align="center" colspan="1">0.058
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">5–9
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">386
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">290
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">77.4 (72.5–82.4)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.98 (0.91–1.05)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">≥10
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">905
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">698
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">79.2 (76.3–82.1)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Symptoms of depression, previous 2 wks
+      <sup>¶¶</sup>
+     </bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">323
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">206
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">66.3 (60.3–72.4)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.83 (0.76–0.91)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">&lt;0.001
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.91 (0.83–1.00)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.026
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,335
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">1,054
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">79.9 (77.3–82.5)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">Reference
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Symptoms of generalized anxiety disorder, previous 2 wks***</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">349
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">234
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">69.5 (63.2–75.8)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.88 (0.80–0.96)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.001
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,315
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">1,031
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">79.4 (76.9–81.9)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Attended Ryan White–funded facility for usual care</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,165
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">878
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">76.5 (73.5–79.5)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.96 (0.90–1.03)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.266
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">436
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">341
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">79.7 (75.1–84.3)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Retained in care, previous 12 mos
+      <sup>†††</sup>
+     </bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,462
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">1,122
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">78.2 (75.8–80.7)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.180
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">153
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">108
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">72.2 (63.1–81.3)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.92 (0.81–1.05)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Health insurance type</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Any private insurance
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">652
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">519
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">80.3 (76.7–83.9)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td rowspan="3" valign="top" align="center" colspan="1">0.130
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Public insurance only
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">764
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">557
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">75.4 (71.7–79.1)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.94 (0.88–1.00)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Uninsured or Ryan White HIV/AIDS Program coverage only
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">239
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">181
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">75.0 (68.8–81.2)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.93 (0.85–1.03)
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Had at least one unmet need for ancillary services, previous 12 mos
+      <sup>§§§</sup>
+     </bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">At least one unmet need
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">832
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">581
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">71.6 (67.7–75.5)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.86 (0.81–0.92)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">&lt;0.001
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.89 (0.83–0.95)
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.001
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Received or did not need services
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">836
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">687
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">83.0 (80.0–85.9)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">Reference
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" colspan="8" align="left" scope="col" rowspan="1">
+     <bold>Received adherence support services</bold>
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">Yes
+     <hr/>
+    </td>
+    <td valign="top" align="right" rowspan="1" colspan="1">624
+     <hr/>
+    </td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">474
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">77.7 (73.8–81.5)
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">Reference
+     <hr/>
+    </td>
+    <td rowspan="2" valign="top" align="center" colspan="1">0.851</td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—
+     <hr/>
+    </td>
+   </tr>
+   <tr>
+    <td valign="middle" align="left" scope="row" rowspan="1" colspan="1">No</td>
+    <td valign="top" align="right" rowspan="1" colspan="1">1,042</td>
+    <td valign="middle" align="right" rowspan="1" colspan="1">794</td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">77.2 (74.2–80.2)</td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">0.99 (0.94–1.06)</td>
+    <td valign="middle" colspan="1" align="center" rowspan="1">—</td>
+    <td valign="middle" align="center" rowspan="1" colspan="1">—</td>
+   </tr>
+  </tbody>
+ </table>
+ <table-wrap-foot>
+  <p>
+   <bold>Abbreviations:</bold> CI = confidence interval; HIV = human immunodeficiency virus.
+  </p>
+  <p>* Numbers are unweighted.</p>
+  <p>
+   <sup>†</sup> Adherence scale score is composite of three variables (number of missed days of ART, how often respondent took ART correctly, and how good of a job taking ART respondent reported) and ranges from 0 to 100, with 100 indicating perfect adherence.
+  </p>
+  <p>
+   <sup>§</sup> Percentages and corresponding CIs are weighted percentages.
+  </p>
+  <p>
+   <sup>¶</sup> Dash indicates that a value is not applicable.
+  </p>
+  <p>** Poverty guidelines as defined by the U.S. Department of Health and Human Services.</p>
+  <p>
+   <sup>††</sup> Living on the street, in a shelter, in a single-room–occupancy hotel, or in a car.
+  </p>
+  <p>
+   <sup>§§</sup> Binge drinking for men is defined as five or more alcoholic drinks in one sitting.
+  </p>
+  <p>
+   <sup>¶¶</sup> Depression was assessed by using the eight-item Patient Health Questionnaire algorithm.
+  </p>
+  <p>*** Anxiety was assessed by using the Generalized Anxiety Disorder Scale.</p>
+  <p>
+   <sup>†††</sup> Retention in care was defined as documentation of two indications of outpatient HIV care, including a documented visit with an HIV provider, a documented CD4
+   <sup>+</sup> or viral load test, or a documented resistance test or tropism assay, ≥90 days apart during the previous 12 months.
+  </p>
+  <p>
+   <bold>
+    <sup>§§§</sup>
+   </bold> Ancillary services include HIV case management services, adherence counseling services, AIDS Drug Assistance Program services, patient navigation services, HIV peer group support, dental services, drug or alcohol counseling or treatment, mental health services, transportation assistance, shelter/housing services, Supplemental Security Income, Social Security Disability Insurance, food assistance, meals or food services, interpreter services, or legal services.
+  </p>
+ </table-wrap-foot>
+</table-wrap>

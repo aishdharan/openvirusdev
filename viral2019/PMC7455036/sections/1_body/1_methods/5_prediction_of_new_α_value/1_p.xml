@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>The prediction of cumulative cases requires an α value for each day. To predict the 
+ <italic>α</italic> value for M days starting from day T, we selected the real 
+ <italic>α</italic> values for n days from day T-n until day T-1 and fitted its trend. Usually an n between 10 and 15 was required, and the trend of 
+ <italic>α</italic> value for the n days was used to fit the function. In the same way, we fitted and predicted the 
+ <italic>φ</italic> value. We used a polynomial function to fit the trends in α and 
+ <italic>φ</italic> values based on the “curve_fit” algorithm and its default loss function in packages of scipy.optimize and poly of numpy in Python.
+</p>

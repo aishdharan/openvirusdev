@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au0001">
+  <name>
+   <surname>Jewell</surname>
+   <given-names>Britta L.</given-names>
+  </name>
+  <email>b.jewell@imperial.ac.uk</email>
+  <xref rid="cor0001" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au0002">
+  <name>
+   <surname>Smith</surname>
+   <given-names>Jennifer A.</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="au0003">
+  <name>
+   <surname>Hallett</surname>
+   <given-names>Timothy B.</given-names>
+  </name>
+ </contrib>
+ <aff id="aff0001">MRC Centre for Global Infectious Disease Analysis, Department of Infectious Disease Epidemiology, Imperial College London, London, UK</aff>
+</contrib-group>

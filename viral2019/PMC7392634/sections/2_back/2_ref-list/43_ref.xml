@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="R43">
+ <label>43</label>
+ <mixed-citation publication-type="journal">
+  <person-group person-group-type="author">
+   <name name-style="western">
+    <surname>Krugman</surname>
+    <given-names>S</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Giles</surname>
+    <given-names>JP</given-names>
+   </name>, 
+   <name name-style="western">
+    <surname>Friedman</surname>
+    <given-names>H</given-names>
+   </name>, 
+   <etal>et al</etal>
+  </person-group>
+  <article-title>Studies on immunity to measles</article-title>. 
+  <source>J Pediatr</source>
+  <year>1965</year>;
+  <volume>66</volume>:
+  <fpage>471</fpage>–
+  <lpage>88</lpage>. 
+  <pub-id pub-id-type="doi">10.1016/S0022-3476(65)80112-3</pub-id>
+  <?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/14264306?>
+  <pub-id pub-id-type="pmid">14264306</pub-id>
+ </mixed-citation>
+</ref>

@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e12046">From Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref>, we have 
+ <disp-formula id="fdC.6">
+  <label>(C.6)</label>
+  <math id="d1e12055" display="block" altimg="si417.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <msup>
+     <mrow>
+      <mi mathvariant="normal">e</mi>
+     </mrow>
+     <mrow>
+      <mo linebreak="badbreak">−</mo>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo>∕</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </msup>
+    <mo linebreak="goodbreak">+</mo>
+    <mfrac>
+     <mrow>
+      <mi mathvariant="bold-fraktur">f</mi>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <msubsup>
+     <mrow>
+      <mo linebreak="badbreak">∫</mo>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </msubsup>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <msup>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo>′</mo>
+      </mrow>
+     </msup>
+     <mo>)</mo>
+    </mrow>
+    <msup>
+     <mrow>
+      <mi mathvariant="normal">e</mi>
+     </mrow>
+     <mrow>
+      <mo linebreak="badbreak">−</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo linebreak="badbreak">−</mo>
+       <msup>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mo>′</mo>
+        </mrow>
+       </msup>
+       <mo>)</mo>
+      </mrow>
+      <mo>∕</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </msup>
+    <mi mathvariant="normal">d</mi>
+    <msup>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mo>′</mo>
+     </mrow>
+    </msup>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>hence 
+ <inline-formula>
+  <math id="d1e12195" display="inline" altimg="si418.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> for 
+ <inline-formula>
+  <math id="d1e12216" display="inline" altimg="si419.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo>∗</mo>
+      </mrow>
+     </msub>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Similarly, 
+ <disp-formula id="fdC.7">
+  <label>(C.7)</label>
+  <math id="d1e12243" display="block" altimg="si420.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>)</mo>
+    </mrow>
+    <msup>
+     <mrow>
+      <mi mathvariant="normal">e</mi>
+     </mrow>
+     <mrow>
+      <mo linebreak="badbreak">−</mo>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo>∕</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </msup>
+    <mo linebreak="goodbreak">+</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+      <mo linebreak="badbreak">−</mo>
+      <mi mathvariant="bold-fraktur">f</mi>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <msubsup>
+     <mrow>
+      <mo linebreak="badbreak">∫</mo>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </msubsup>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <msup>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo>′</mo>
+      </mrow>
+     </msup>
+     <mo>)</mo>
+    </mrow>
+    <msup>
+     <mrow>
+      <mi mathvariant="normal">e</mi>
+     </mrow>
+     <mrow>
+      <mo linebreak="badbreak">−</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo linebreak="badbreak">−</mo>
+       <msup>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mo>′</mo>
+        </mrow>
+       </msup>
+       <mo>)</mo>
+      </mrow>
+      <mo>∕</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </msup>
+    <mi mathvariant="normal">d</mi>
+    <msup>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mo>′</mo>
+     </mrow>
+    </msup>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>hence 
+ <inline-formula>
+  <math id="d1e12388" display="inline" altimg="si418.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> for 
+ <inline-formula>
+  <math id="d1e12409" display="inline" altimg="si419.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo>∗</mo>
+      </mrow>
+     </msub>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Thus, 
+ <disp-formula id="fdC.8">
+  <label>(C.8)</label>
+  <math id="d1e12436" display="block" altimg="si423.svg">
+   <mrow>
+    <munder>
+     <mrow>
+      <mo linebreak="badbreak">∑</mo>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+      <mo linebreak="badbreak">=</mo>
+      <mi mathvariant="bold-fraktur">P</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">A</mi>
+      <mo>,</mo>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </munder>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">q</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+     </mrow>
+    </msub>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">j</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">&gt;</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak">∈</mo>
+    <mrow>
+     <mo>[</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo linebreak="badbreak">∗</mo>
+      </mrow>
+     </msub>
+     <mo>]</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>Now, from Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> again, we have 
+ <disp-formula id="fdC.9">
+  <label>(C.9)</label>
+  <math id="d1e12508" display="block" altimg="si424.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">E</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">=</mo>
+    <msubsup>
+     <mrow>
+      <mo linebreak="badbreak">∫</mo>
+     </mrow>
+     <mrow>
+      <mn>0</mn>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </msubsup>
+    <msup>
+     <mrow>
+      <mi mathvariant="normal">e</mi>
+     </mrow>
+     <mrow>
+      <mo linebreak="badbreak">−</mo>
+      <mrow>
+       <mo>(</mo>
+       <mi mathvariant="bold-fraktur">t</mi>
+       <mo linebreak="badbreak">−</mo>
+       <msup>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mo>′</mo>
+        </mrow>
+       </msup>
+       <mo>)</mo>
+      </mrow>
+      <mo>∕</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">E</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </msup>
+    <mfenced open="[" close="]">
+     <mrow>
+      <munder>
+       <mrow>
+        <mo linebreak="badbreak">∑</mo>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">j</mi>
+        <mo linebreak="badbreak">=</mo>
+        <mi mathvariant="bold-fraktur">P</mi>
+        <mo>,</mo>
+        <mi mathvariant="bold-fraktur">A</mi>
+        <mo>,</mo>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </munder>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">q</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">j</mi>
+       </mrow>
+      </msub>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">j</mi>
+       </mrow>
+      </msub>
+      <mrow>
+       <mo>(</mo>
+       <msup>
+        <mrow>
+         <mi mathvariant="bold-fraktur">t</mi>
+        </mrow>
+        <mrow>
+         <mo>′</mo>
+        </mrow>
+       </msup>
+       <mo>)</mo>
+      </mrow>
+      <mo>&gt;</mo>
+     </mrow>
+    </mfenced>
+    <mi mathvariant="bold-fraktur">c</mi>
+    <mi mathvariant="bold-fraktur">S</mi>
+    <mrow>
+     <mo>(</mo>
+     <msup>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo>′</mo>
+      </mrow>
+     </msup>
+     <mo>)</mo>
+    </mrow>
+    <mi mathvariant="normal">d</mi>
+    <msup>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mo>′</mo>
+     </mrow>
+    </msup>
+    <mo>,</mo>
+   </mrow>
+  </math>
+ </disp-formula>hence 
+ <inline-formula>
+  <math id="d1e12641" display="inline" altimg="si425.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">E</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">&gt;</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> for 
+ <inline-formula>
+  <math id="d1e12658" display="inline" altimg="si419.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo>∗</mo>
+      </mrow>
+     </msub>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Finally, from Eq. 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> again, we have 
+ <disp-formula id="fdC.10">
+  <label>(C.10)</label>
+  <math id="d1e12688" display="block" altimg="si427.svg">
+   <mrow>
+    <mfrac>
+     <mrow>
+      <mi mathvariant="bold-fraktur">d</mi>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">d</mi>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+    </mfrac>
+    <mo linebreak="goodbreak">=</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">E</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <mi mathvariant="bold-fraktur">E</mi>
+    <mo linebreak="goodbreak">−</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak">&gt;</mo>
+    <mo linebreak="goodbreak">−</mo>
+    <mfrac>
+     <mrow>
+      <mn>1</mn>
+     </mrow>
+     <mrow>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </mfrac>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak">∈</mo>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo linebreak="badbreak">∗</mo>
+      </mrow>
+     </msub>
+     <mo>]</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>Hence, by Gronwall’s Inequality, 
+ <disp-formula id="fdC.11">
+  <label>(C.11)</label>
+  <math id="d1e12801" display="block" altimg="si428.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">&gt;</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+      <mn>0</mn>
+     </mrow>
+    </msub>
+    <msup>
+     <mrow>
+      <mi mathvariant="normal">e</mi>
+     </mrow>
+     <mrow>
+      <mo linebreak="badbreak">−</mo>
+      <mi mathvariant="bold-fraktur">t</mi>
+      <mo>∕</mo>
+      <msub>
+       <mrow>
+        <mi>τ</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+     </mrow>
+    </msup>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak">∈</mo>
+    <mrow>
+     <mo>(</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo linebreak="badbreak">∗</mo>
+      </mrow>
+     </msub>
+     <mo>]</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>But this is a contradiction, since 
+ <inline-formula>
+  <math id="d1e12874" display="inline" altimg="si429.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mrow>
+     <mo>(</mo>
+     <msub>
+      <mrow>
+       <mi mathvariant="bold-fraktur">t</mi>
+      </mrow>
+      <mrow>
+       <mo>∗</mo>
+      </mrow>
+     </msub>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula>. Hence, 
+ <inline-formula>
+  <math id="d1e12900" display="inline" altimg="si430.svg">
+   <mrow>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">t</mi>
+     </mrow>
+     <mrow>
+      <mo>∗</mo>
+     </mrow>
+    </msub>
+    <mo linebreak="goodbreak" linebreakstyle="after">≠</mo>
+    <mrow>
+     <mo>[</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>τ</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="d1e12924" display="inline" altimg="si4.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">P</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> remains positive for all 
+ <inline-formula>
+  <math id="d1e12933" display="inline" altimg="si432.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>[</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>τ</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. From Eqs. 
+ <xref rid="fdC.6" ref-type="disp-formula">(C.6)</xref>, 
+ <xref rid="fdC.7" ref-type="disp-formula">(C.7)</xref>, and 
+ <xref rid="fdC.9" ref-type="disp-formula">(C.9)</xref>, the same conclusion follows for 
+ <inline-formula>
+  <math id="d1e12960" display="inline" altimg="si5.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">A</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, 
+ <inline-formula>
+  <math id="d1e12970" display="inline" altimg="si6.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">S</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="d1e12979" display="inline" altimg="si3.svg">
+   <mi mathvariant="bold-fraktur">E</mi>
+  </math>
+ </inline-formula> respectively, and by similar reasoning, 
+ <inline-formula>
+  <math id="d1e12983" display="inline" altimg="si436.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">R</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">≥</mo>
+    <mn>0</mn>
+   </mrow>
+  </math>
+ </inline-formula> also, for all 
+ <inline-formula>
+  <math id="d1e12999" display="inline" altimg="si432.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>[</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>τ</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula>. Thus, 
+ <disp-formula id="d1e13018">
+  <math id="d1e13019" display="block" altimg="si438.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">S</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">≥</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mspace width="0.16667em"/>
+    <mspace width="0.16667em"/>
+    <mi mathvariant="bold-fraktur">E</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">≥</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mo>…</mo>
+    <mo>,</mo>
+    <mi mathvariant="bold-fraktur">R</mi>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak">≥</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mspace width="2em"/>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak">∈</mo>
+    <mrow>
+     <mo>[</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>τ</mi>
+     <mo>]</mo>
+    </mrow>
+    <mo>.</mo>
+   </mrow>
+  </math>
+ </disp-formula>Since 
+ <inline-formula>
+  <math id="d1e13093" display="inline" altimg="si439.svg">
+   <mrow>
+    <mfenced open="(" close=")">
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+      <mo>+</mo>
+      <mi mathvariant="bold-fraktur">E</mi>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">P</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">A</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <msub>
+       <mrow>
+        <mi mathvariant="bold-fraktur">I</mi>
+       </mrow>
+       <mrow>
+        <mi mathvariant="bold-fraktur">S</mi>
+       </mrow>
+      </msub>
+      <mo>+</mo>
+      <mi mathvariant="bold-fraktur">R</mi>
+     </mrow>
+    </mfenced>
+    <mrow>
+     <mo>(</mo>
+     <mi mathvariant="bold-fraktur">t</mi>
+     <mo>)</mo>
+    </mrow>
+    <mo linebreak="goodbreak" linebreakstyle="after">=</mo>
+    <mi mathvariant="bold-fraktur">N</mi>
+   </mrow>
+  </math>
+ </inline-formula>, it follows that each of 
+ <inline-formula>
+  <math id="d1e13147" display="inline" altimg="si399.svg">
+   <mrow>
+    <mo>(</mo>
+    <mi mathvariant="bold-fraktur">S</mi>
+    <mo>,</mo>
+    <mi mathvariant="bold-fraktur">E</mi>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">P</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">A</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <msub>
+     <mrow>
+      <mi mathvariant="bold-fraktur">I</mi>
+     </mrow>
+     <mrow>
+      <mi mathvariant="bold-fraktur">S</mi>
+     </mrow>
+    </msub>
+    <mo>,</mo>
+    <mi mathvariant="bold-fraktur">R</mi>
+    <mo>)</mo>
+   </mrow>
+  </math>
+ </inline-formula> remains between 
+ <inline-formula>
+  <math id="d1e13192" display="inline" altimg="si441.svg">
+   <mn>0</mn>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e13196" display="inline" altimg="si22.svg">
+   <mi mathvariant="bold-fraktur">N</mi>
+  </math>
+ </inline-formula> for all 
+ <inline-formula>
+  <math id="d1e13200" display="inline" altimg="si432.svg">
+   <mrow>
+    <mi mathvariant="bold-fraktur">t</mi>
+    <mo linebreak="goodbreak" linebreakstyle="after">∈</mo>
+    <mrow>
+     <mo>[</mo>
+     <mn>0</mn>
+     <mo>,</mo>
+     <mi>τ</mi>
+     <mo>]</mo>
+    </mrow>
+   </mrow>
+  </math>
+ </inline-formula> and hence, the solution of the ordinary differential equation 
+ <xref rid="fd1j" ref-type="disp-formula">(1j)</xref> is bounded.
+</p>

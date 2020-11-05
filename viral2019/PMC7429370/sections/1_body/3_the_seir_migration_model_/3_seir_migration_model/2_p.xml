@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="Par22">Here, 
+ <inline-formula id="IEq20">
+  <alternatives>
+   <tex-math id="M41">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$m_{ij}(t)$$\end{document}</tex-math>
+   <math id="M42">
+    <mrow>
+     <msub>
+      <mi>m</mi>
+      <mrow>
+       <mi mathvariant="italic">ij</mi>
+      </mrow>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq20.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> represents the volume of individuals moving from city 
+ <italic>i</italic> to city 
+ <italic>j</italic> at time 
+ <italic>t</italic>. Here, we assume the population of city 
+ <italic>j</italic> is 
+ <inline-formula id="IEq21">
+  <alternatives>
+   <tex-math id="M43">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$P_j$$\end{document}</tex-math>
+   <math id="M44">
+    <msub>
+     <mi>P</mi>
+     <mi>j</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq21.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. Then, the number of infected individuals moving from city 
+ <italic>i</italic> to city 
+ <italic>j</italic> is
+ <disp-formula id="Equ2">
+  <label>2</label>
+  <alternatives>
+   <tex-math id="M45">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} \Delta I_{ij}^\mathrm{in}(t)=\frac{I_i(t)m_{ij}(t)}{P_i}. \end{aligned}$$\end{document}</tex-math>
+   <math id="M46" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <msubsup>
+          <mi>I</mi>
+          <mrow>
+           <mi mathvariant="italic">ij</mi>
+          </mrow>
+          <mi mathvariant="normal">in</mi>
+         </msubsup>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>=</mo>
+         <mfrac>
+          <mrow>
+           <msub>
+            <mi>I</mi>
+            <mi>i</mi>
+           </msub>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+           </mrow>
+           <msub>
+            <mi>m</mi>
+            <mrow>
+             <mi mathvariant="italic">ij</mi>
+            </mrow>
+           </msub>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+           </mrow>
+          </mrow>
+          <msub>
+           <mi>P</mi>
+           <mi>i</mi>
+          </msub>
+         </mfrac>
+         <mo>.</mo>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ2.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>Also, the volume of individual migrating from city 
+ <italic>j</italic> is 
+ <inline-formula id="IEq22">
+  <alternatives>
+   <tex-math id="M47">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\sum _{i=1}^N m_{ji}$$\end{document}</tex-math>
+   <math id="M48">
+    <mrow>
+     <msubsup>
+      <mo>∑</mo>
+      <mrow>
+       <mi>i</mi>
+       <mo>=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi>N</mi>
+     </msubsup>
+     <msub>
+      <mi>m</mi>
+      <mrow>
+       <mi mathvariant="italic">ji</mi>
+      </mrow>
+     </msub>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq22.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. Then, the number of infected individuals moving out of city 
+ <italic>j</italic> is
+ <disp-formula id="Equ3">
+  <label>3</label>
+  <alternatives>
+   <tex-math id="M49">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} \Delta I_{j}^\mathrm{out}(t)=\frac{I_j(t) \sum _{i=1}^N m_{ji}(t)}{P_j}, \end{aligned}$$\end{document}</tex-math>
+   <math id="M50" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mi mathvariant="normal">Δ</mi>
+         <msubsup>
+          <mi>I</mi>
+          <mrow>
+           <mi>j</mi>
+          </mrow>
+          <mi mathvariant="normal">out</mi>
+         </msubsup>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>=</mo>
+         <mfrac>
+          <mrow>
+           <msub>
+            <mi>I</mi>
+            <mi>j</mi>
+           </msub>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+           </mrow>
+           <msubsup>
+            <mo>∑</mo>
+            <mrow>
+             <mi>i</mi>
+             <mo>=</mo>
+             <mn>1</mn>
+            </mrow>
+            <mi>N</mi>
+           </msubsup>
+           <msub>
+            <mi>m</mi>
+            <mrow>
+             <mi mathvariant="italic">ji</mi>
+            </mrow>
+           </msub>
+           <mrow>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo stretchy="false">)</mo>
+           </mrow>
+          </mrow>
+          <msub>
+           <mi>P</mi>
+           <mi>j</mi>
+          </msub>
+         </mfrac>
+         <mo>,</mo>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ3.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>Thus, the dynamic change of the number of infected cases in city 
+ <italic>j</italic> at time 
+ <italic>t</italic> is given by
+ <disp-formula id="Equ4">
+  <label>4</label>
+  <alternatives>
+   <tex-math id="M51">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} \begin{aligned}\Delta I_j(t) &amp;=\kappa _jE_i(t)-\gamma _j I_j(t) \\&amp;\quad +{k_I} \left( \sum _{i=1}^N{\left( \frac{I_i(t)m_{ij}(t)}{P_i(t)}\right) }\right. \\&amp;\quad \left. -\frac{I_j(t)\sum _{i=1}^N m_{ji}(t)}{P_j(t)}\right) , \end{aligned} \end{aligned}$$\end{document}</tex-math>
+   <math id="M52" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mtable>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>I</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mo>=</mo>
+             <msub>
+              <mi>κ</mi>
+              <mi>j</mi>
+             </msub>
+             <msub>
+              <mi>E</mi>
+              <mi>i</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <mo>-</mo>
+             <msub>
+              <mi>γ</mi>
+              <mi>j</mi>
+             </msub>
+             <msub>
+              <mi>I</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>+</mo>
+             <msub>
+              <mi>k</mi>
+              <mi>I</mi>
+             </msub>
+             <mfenced open="(">
+              <munderover>
+               <mo>∑</mo>
+               <mrow>
+                <mi>i</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+               </mrow>
+               <mi>N</mi>
+              </munderover>
+              <mfenced close=")" open="(">
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>I</mi>
+                  <mi>i</mi>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                 <msub>
+                  <mi>m</mi>
+                  <mrow>
+                   <mi mathvariant="italic">ij</mi>
+                  </mrow>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <msub>
+                  <mi>P</mi>
+                  <mi>i</mi>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+               </mfrac>
+              </mfenced>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mfenced close=")">
+              <mo>-</mo>
+              <mfrac>
+               <mrow>
+                <msub>
+                 <mi>I</mi>
+                 <mi>j</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+                <msubsup>
+                 <mo>∑</mo>
+                 <mrow>
+                  <mi>i</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                 </mrow>
+                 <mi>N</mi>
+                </msubsup>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">ji</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+               <mrow>
+                <msub>
+                 <mi>P</mi>
+                 <mi>j</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mfrac>
+             </mfenced>
+             <mo>,</mo>
+            </mrow>
+           </mtd>
+          </mtr>
+         </mtable>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ4.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq23">
+  <alternatives>
+   <tex-math id="M53">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta I_j(t)=I_j(t+1)-I_j(t)$$\end{document}</tex-math>
+   <math id="M54">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>I</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msub>
+      <mi>I</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>-</mo>
+     <msub>
+      <mi>I</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq23.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. Moreover, if city 
+ <italic>i</italic> has a population of 
+ <inline-formula id="IEq24">
+  <alternatives>
+   <tex-math id="M55">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$P_i$$\end{document}</tex-math>
+   <math id="M56">
+    <msub>
+     <mi>P</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq24.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> and the eventual percentage of infection is 
+ <inline-formula id="IEq25">
+  <alternatives>
+   <tex-math id="M57">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\delta _i$$\end{document}</tex-math>
+   <math id="M58">
+    <msub>
+     <mi>δ</mi>
+     <mi>i</mi>
+    </msub>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq25.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, then 
+ <inline-formula id="IEq26">
+  <alternatives>
+   <tex-math id="M59">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$N_i^s= \delta _i P_i$$\end{document}</tex-math>
+   <math id="M60">
+    <mrow>
+     <msubsup>
+      <mi>N</mi>
+      <mi>i</mi>
+      <mi>s</mi>
+     </msubsup>
+     <mo>=</mo>
+     <msub>
+      <mi>δ</mi>
+      <mi>i</mi>
+     </msub>
+     <msub>
+      <mi>P</mi>
+      <mi>i</mi>
+     </msub>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq26.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. Thus, we have
+ <disp-formula id="Equ5">
+  <label>5</label>
+  <alternatives>
+   <tex-math id="M61">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} N_i^s(t) = S_i(t)+E_i(t)+I_i(t)+R_i(t), \end{aligned}$$\end{document}</tex-math>
+   <math id="M62" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <msubsup>
+          <mi>N</mi>
+          <mi>i</mi>
+          <mi>s</mi>
+         </msubsup>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>=</mo>
+         <msub>
+          <mi>S</mi>
+          <mi>i</mi>
+         </msub>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>+</mo>
+         <msub>
+          <mi>E</mi>
+          <mi>i</mi>
+         </msub>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>+</mo>
+         <msub>
+          <mi>I</mi>
+          <mi>i</mi>
+         </msub>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>+</mo>
+         <msub>
+          <mi>R</mi>
+          <mi>i</mi>
+         </msub>
+         <mrow>
+          <mo stretchy="false">(</mo>
+          <mi>t</mi>
+          <mo stretchy="false">)</mo>
+         </mrow>
+         <mo>,</mo>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ5.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq27">
+  <alternatives>
+   <tex-math id="M63">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$N_i^s$$\end{document}</tex-math>
+   <math id="M64">
+    <msubsup>
+     <mi>N</mi>
+     <mi>i</mi>
+     <mi>s</mi>
+    </msubsup>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq27.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula> is the eventual number of infections. Similarly, the dynamic changes of infected, susceptible, recovered individuals, and the population of a city can be obtained. Then, we have the modified SEIR model with consideration of human migration dynamics as follows:
+ <disp-formula id="Equ6">
+  <label>6</label>
+  <alternatives>
+   <tex-math id="M65">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\begin{aligned} \begin{aligned} \Delta I_j(t)&amp;=\kappa _jE_i(t)-\gamma _j I_j(t)\\&amp;\quad +k_I\left( \sum _{i=1}^N{\left( \frac{I_i(t)m_{ij}(t)}{P_i(t)}\right) }\right. \\&amp;\quad \left. -\frac{I_j(t)\sum _{i=1}^N m_{ji}(t)}{P_j(t)}\right) ,\\ \Delta E_j(t)&amp;=\frac{\beta _j }{N_j^s(t)}I_j(t)S_j(t)\\&amp;\quad +\frac{\alpha _j}{N_j^s(t)} E_j(t)S_j(t) -\kappa _jE_i(t)\\&amp;\quad +\sum _{i=1}^N{\left( \frac{E_i(t)m_{ij}(t)}{P_i(t)}\right) }\\&amp;\quad -\frac{E_j(t)*\sum _{i=1}^N m_{ji}(t)}{P_j(t)},\\ \Delta S_j(t)&amp;= -\frac{\beta _j }{N_j^s(t)}I_j(t)S_j(t)\\&amp;\quad -\frac{\alpha _j}{N_j^s(t)} E_j(t)S_j(t) +\sum _{i=1}^N{\left( \frac{S_i(t)m_{ij}(t)}{P_i(t)}\right) }\\&amp;\quad -\frac{S_j(t)\sum _{i=1}^N m_{ji}(t)}{P_j(t)},\\ \Delta R_j(t)&amp;= \gamma _j I_j(t),\\ \Delta P_j(t)&amp;= \sum _{i=1}^Nm_{ij}(t)-\sum _{i=1}^N m_{ji}(t),\\ \Delta N_j^s(t)&amp;= k_I\left( \sum _{i=1}^N{\left( \frac{I_i(t)m_{ij}(t)}{P_i(t)}\right) }\right. \\&amp;\quad \left. -\frac{I_j(t)\sum _{i=1}^N m_{ji}(t)}{P_j(t)}\right) +\sum _{i=1}^N{\left( \frac{E_i(t)m_{ij}(t)}{P_i(t)}\right) }\\&amp;\quad -\frac{E_j(t)\sum _{i=1}^N m_{ji}(t)}{P_j(t)}\\&amp;\quad +\sum _{i=1}^N{\left( \frac{S_i(t)m_{ij}(t)}{P_i(t)}\right) }\\&amp;\quad -\frac{S_j(t)\sum _{i=1}^N m_{ji}(t)}{P_j(t)}, \end{aligned} \end{aligned}$$\end{document}</tex-math>
+   <math id="M66" display="block">
+    <mrow>
+     <mtable>
+      <mtr>
+       <mtd columnalign="right">
+        <mrow>
+         <mtable>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>I</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mo>=</mo>
+             <msub>
+              <mi>κ</mi>
+              <mi>j</mi>
+             </msub>
+             <msub>
+              <mi>E</mi>
+              <mi>i</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <mo>-</mo>
+             <msub>
+              <mi>γ</mi>
+              <mi>j</mi>
+             </msub>
+             <msub>
+              <mi>I</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>+</mo>
+             <msub>
+              <mi>k</mi>
+              <mi>I</mi>
+             </msub>
+             <mfenced open="(">
+              <munderover>
+               <mo>∑</mo>
+               <mrow>
+                <mi>i</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+               </mrow>
+               <mi>N</mi>
+              </munderover>
+              <mfenced close=")" open="(">
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>I</mi>
+                  <mi>i</mi>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                 <msub>
+                  <mi>m</mi>
+                  <mrow>
+                   <mi mathvariant="italic">ij</mi>
+                  </mrow>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <msub>
+                  <mi>P</mi>
+                  <mi>i</mi>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+               </mfrac>
+              </mfenced>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mfenced close=")">
+              <mo>-</mo>
+              <mfrac>
+               <mrow>
+                <msub>
+                 <mi>I</mi>
+                 <mi>j</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+                <msubsup>
+                 <mo>∑</mo>
+                 <mrow>
+                  <mi>i</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                 </mrow>
+                 <mi>N</mi>
+                </msubsup>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">ji</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+               <mrow>
+                <msub>
+                 <mi>P</mi>
+                 <mi>j</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mfrac>
+             </mfenced>
+             <mo>,</mo>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow>
+             <mrow/>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>E</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mo>=</mo>
+             <mfrac>
+              <msub>
+               <mi>β</mi>
+               <mi>j</mi>
+              </msub>
+              <mrow>
+               <msubsup>
+                <mi>N</mi>
+                <mi>j</mi>
+                <mi>s</mi>
+               </msubsup>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+             <msub>
+              <mi>I</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <msub>
+              <mi>S</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>+</mo>
+             <mfrac>
+              <msub>
+               <mi>α</mi>
+               <mi>j</mi>
+              </msub>
+              <mrow>
+               <msubsup>
+                <mi>N</mi>
+                <mi>j</mi>
+                <mi>s</mi>
+               </msubsup>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+             <msub>
+              <mi>E</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <msub>
+              <mi>S</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <mo>-</mo>
+             <msub>
+              <mi>κ</mi>
+              <mi>j</mi>
+             </msub>
+             <msub>
+              <mi>E</mi>
+              <mi>i</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>+</mo>
+             <munderover>
+              <mo>∑</mo>
+              <mrow>
+               <mi>i</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+             </munderover>
+             <mfenced close=")" open="(">
+              <mfrac>
+               <mrow>
+                <msub>
+                 <mi>E</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">ij</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+               <mrow>
+                <msub>
+                 <mi>P</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mfrac>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>-</mo>
+             <mfrac>
+              <mrow>
+               <msub>
+                <mi>E</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+               <mrow/>
+               <mo>∗</mo>
+               <msubsup>
+                <mo>∑</mo>
+                <mrow>
+                 <mi>i</mi>
+                 <mo>=</mo>
+                 <mn>1</mn>
+                </mrow>
+                <mi>N</mi>
+               </msubsup>
+               <msub>
+                <mi>m</mi>
+                <mrow>
+                 <mi mathvariant="italic">ji</mi>
+                </mrow>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+              <mrow>
+               <msub>
+                <mi>P</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+             <mo>,</mo>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow>
+             <mrow/>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>S</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mo>=</mo>
+             <mo>-</mo>
+             <mfrac>
+              <msub>
+               <mi>β</mi>
+               <mi>j</mi>
+              </msub>
+              <mrow>
+               <msubsup>
+                <mi>N</mi>
+                <mi>j</mi>
+                <mi>s</mi>
+               </msubsup>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+             <msub>
+              <mi>I</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <msub>
+              <mi>S</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>-</mo>
+             <mfrac>
+              <msub>
+               <mi>α</mi>
+               <mi>j</mi>
+              </msub>
+              <mrow>
+               <msubsup>
+                <mi>N</mi>
+                <mi>j</mi>
+                <mi>s</mi>
+               </msubsup>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+             <msub>
+              <mi>E</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <msub>
+              <mi>S</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <mo>+</mo>
+             <munderover>
+              <mo>∑</mo>
+              <mrow>
+               <mi>i</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+             </munderover>
+             <mfenced close=")" open="(">
+              <mfrac>
+               <mrow>
+                <msub>
+                 <mi>S</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">ij</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+               <mrow>
+                <msub>
+                 <mi>P</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mfrac>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>-</mo>
+             <mfrac>
+              <mrow>
+               <msub>
+                <mi>S</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+               <msubsup>
+                <mo>∑</mo>
+                <mrow>
+                 <mi>i</mi>
+                 <mo>=</mo>
+                 <mn>1</mn>
+                </mrow>
+                <mi>N</mi>
+               </msubsup>
+               <msub>
+                <mi>m</mi>
+                <mrow>
+                 <mi mathvariant="italic">ji</mi>
+                </mrow>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+              <mrow>
+               <msub>
+                <mi>P</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+             <mo>,</mo>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow>
+             <mrow/>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>R</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mo>=</mo>
+             <msub>
+              <mi>γ</mi>
+              <mi>j</mi>
+             </msub>
+             <msub>
+              <mi>I</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <mo>,</mo>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow>
+             <mrow/>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>P</mi>
+              <mi>j</mi>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mo>=</mo>
+             <munderover>
+              <mo>∑</mo>
+              <mrow>
+               <mi>i</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+             </munderover>
+             <msub>
+              <mi>m</mi>
+              <mrow>
+               <mi mathvariant="italic">ij</mi>
+              </mrow>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <mo>-</mo>
+             <munderover>
+              <mo>∑</mo>
+              <mrow>
+               <mi>i</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+             </munderover>
+             <msub>
+              <mi>m</mi>
+              <mrow>
+               <mi mathvariant="italic">ji</mi>
+              </mrow>
+             </msub>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+             <mo>,</mo>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow>
+             <mrow/>
+             <mi mathvariant="normal">Δ</mi>
+             <msubsup>
+              <mi>N</mi>
+              <mi>j</mi>
+              <mi>s</mi>
+             </msubsup>
+             <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+             </mrow>
+            </mrow>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mo>=</mo>
+             <msub>
+              <mi>k</mi>
+              <mi>I</mi>
+             </msub>
+             <mfenced open="(">
+              <munderover>
+               <mo>∑</mo>
+               <mrow>
+                <mi>i</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+               </mrow>
+               <mi>N</mi>
+              </munderover>
+              <mfenced close=")" open="(">
+               <mfrac>
+                <mrow>
+                 <msub>
+                  <mi>I</mi>
+                  <mi>i</mi>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                 <msub>
+                  <mi>m</mi>
+                  <mrow>
+                   <mi mathvariant="italic">ij</mi>
+                  </mrow>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+                <mrow>
+                 <msub>
+                  <mi>P</mi>
+                  <mi>i</mi>
+                 </msub>
+                 <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>t</mi>
+                  <mo stretchy="false">)</mo>
+                 </mrow>
+                </mrow>
+               </mfrac>
+              </mfenced>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mfenced close=")">
+              <mo>-</mo>
+              <mfrac>
+               <mrow>
+                <msub>
+                 <mi>I</mi>
+                 <mi>j</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+                <msubsup>
+                 <mo>∑</mo>
+                 <mrow>
+                  <mi>i</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                 </mrow>
+                 <mi>N</mi>
+                </msubsup>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">ji</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+               <mrow>
+                <msub>
+                 <mi>P</mi>
+                 <mi>j</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mfrac>
+             </mfenced>
+             <mo>+</mo>
+             <munderover>
+              <mo>∑</mo>
+              <mrow>
+               <mi>i</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+             </munderover>
+             <mfenced close=")" open="(">
+              <mfrac>
+               <mrow>
+                <msub>
+                 <mi>E</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">ij</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+               <mrow>
+                <msub>
+                 <mi>P</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mfrac>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>-</mo>
+             <mfrac>
+              <mrow>
+               <msub>
+                <mi>E</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+               <msubsup>
+                <mo>∑</mo>
+                <mrow>
+                 <mi>i</mi>
+                 <mo>=</mo>
+                 <mn>1</mn>
+                </mrow>
+                <mi>N</mi>
+               </msubsup>
+               <msub>
+                <mi>m</mi>
+                <mrow>
+                 <mi mathvariant="italic">ji</mi>
+                </mrow>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+              <mrow>
+               <msub>
+                <mi>P</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>+</mo>
+             <munderover>
+              <mo>∑</mo>
+              <mrow>
+               <mi>i</mi>
+               <mo>=</mo>
+               <mn>1</mn>
+              </mrow>
+              <mi>N</mi>
+             </munderover>
+             <mfenced close=")" open="(">
+              <mfrac>
+               <mrow>
+                <msub>
+                 <mi>S</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+                <msub>
+                 <mi>m</mi>
+                 <mrow>
+                  <mi mathvariant="italic">ij</mi>
+                 </mrow>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+               <mrow>
+                <msub>
+                 <mi>P</mi>
+                 <mi>i</mi>
+                </msub>
+                <mrow>
+                 <mo stretchy="false">(</mo>
+                 <mi>t</mi>
+                 <mo stretchy="false">)</mo>
+                </mrow>
+               </mrow>
+              </mfrac>
+             </mfenced>
+            </mrow>
+           </mtd>
+          </mtr>
+          <mtr>
+           <mtd columnalign="right">
+            <mrow/>
+           </mtd>
+           <mtd columnalign="left">
+            <mrow>
+             <mspace width="1em"/>
+             <mo>-</mo>
+             <mfrac>
+              <mrow>
+               <msub>
+                <mi>S</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+               <msubsup>
+                <mo>∑</mo>
+                <mrow>
+                 <mi>i</mi>
+                 <mo>=</mo>
+                 <mn>1</mn>
+                </mrow>
+                <mi>N</mi>
+               </msubsup>
+               <msub>
+                <mi>m</mi>
+                <mrow>
+                 <mi mathvariant="italic">ji</mi>
+                </mrow>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+              <mrow>
+               <msub>
+                <mi>P</mi>
+                <mi>j</mi>
+               </msub>
+               <mrow>
+                <mo stretchy="false">(</mo>
+                <mi>t</mi>
+                <mo stretchy="false">)</mo>
+               </mrow>
+              </mrow>
+             </mfrac>
+             <mo>,</mo>
+            </mrow>
+           </mtd>
+          </mtr>
+         </mtable>
+        </mrow>
+       </mtd>
+      </mtr>
+     </mtable>
+    </mrow>
+   </math>
+   <graphic xlink:href="521_2020_5285_Article_Equ6.gif" position="anchor" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </disp-formula>where 
+ <inline-formula id="IEq28">
+  <alternatives>
+   <tex-math id="M67">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta E_j(t)=E_j(t+1)-E_j(t)$$\end{document}</tex-math>
+   <math id="M68">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>E</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msub>
+      <mi>E</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>-</mo>
+     <msub>
+      <mi>E</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq28.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq29">
+  <alternatives>
+   <tex-math id="M69">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta S_j(t)=S_j(t+1)-S_j(t)$$\end{document}</tex-math>
+   <math id="M70">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>S</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msub>
+      <mi>S</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>-</mo>
+     <msub>
+      <mi>S</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq29.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq30">
+  <alternatives>
+   <tex-math id="M71">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta R_j(t)=R_j(t+1)-R_j(t)$$\end{document}</tex-math>
+   <math id="M72">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>R</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msub>
+      <mi>R</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>-</mo>
+     <msub>
+      <mi>R</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq30.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, 
+ <inline-formula id="IEq31">
+  <alternatives>
+   <tex-math id="M73">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta N_j^s(t)=N_j^s(t+1)-N_j^s(t)$$\end{document}</tex-math>
+   <math id="M74">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <msubsup>
+      <mi>N</mi>
+      <mi>j</mi>
+      <mi>s</mi>
+     </msubsup>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msubsup>
+      <mi>N</mi>
+      <mi>j</mi>
+      <mi>s</mi>
+     </msubsup>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>-</mo>
+     <msubsup>
+      <mi>N</mi>
+      <mi>j</mi>
+      <mi>s</mi>
+     </msubsup>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq31.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>, and 
+ <inline-formula id="IEq32">
+  <alternatives>
+   <tex-math id="M75">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\Delta P_j(t)=P_j(t+1)-P_j(t)$$\end{document}</tex-math>
+   <math id="M76">
+    <mrow>
+     <mi mathvariant="normal">Δ</mi>
+     <msub>
+      <mi>P</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>=</mo>
+     <msub>
+      <mi>P</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo>+</mo>
+      <mn>1</mn>
+      <mo stretchy="false">)</mo>
+     </mrow>
+     <mo>-</mo>
+     <msub>
+      <mi>P</mi>
+      <mi>j</mi>
+     </msub>
+     <mrow>
+      <mo stretchy="false">(</mo>
+      <mi>t</mi>
+      <mo stretchy="false">)</mo>
+     </mrow>
+    </mrow>
+   </math>
+   <inline-graphic xlink:href="521_2020_5285_Article_IEq32.gif" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </alternatives>
+ </inline-formula>. The physical meaning of each parameter of model (
+ <xref rid="Equ6" ref-type="">6</xref>) is presented in Table 
+ <xref rid="Tab1" ref-type="table">1</xref>, while a detailed description of the model is given in [
+ <xref ref-type="bibr" rid="CR1">1</xref>]. Note that we assume the recovered individuals are assumed to stay in the city 
+ <italic>j</italic>.
+</p>

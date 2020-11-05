@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="aut0005">
+  <name>
+   <surname>Lei</surname>
+   <given-names>Chunliang</given-names>
+  </name>
+  <xref rid="fn0005" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0010">
+  <name>
+   <surname>Lin</surname>
+   <given-names>Weiyin</given-names>
+  </name>
+  <xref rid="fn0005" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0015">
+  <name>
+   <surname>Deng</surname>
+   <given-names>Xilong</given-names>
+  </name>
+  <xref rid="fn0005" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0020">
+  <name>
+   <surname>Hu</surname>
+   <given-names>Fengyu</given-names>
+  </name>
+  <xref rid="fn0005" ref-type="fn">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0025">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Fengjuan</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0030">
+  <name>
+   <surname>Cai</surname>
+   <given-names>Weiping</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0035">
+  <name>
+   <surname>Li</surname>
+   <given-names>Yueping</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0040">
+  <name>
+   <surname>Wen</surname>
+   <given-names>Chunyan</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0045">
+  <name>
+   <surname>Guan</surname>
+   <given-names>Yujuan</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0050">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Jian</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0055">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Xiaoting</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0060">
+  <name>
+   <surname>Cao</surname>
+   <given-names>Yi</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0065">
+  <name>
+   <surname>Li</surname>
+   <given-names>Feng</given-names>
+  </name>
+ </contrib>
+ <contrib contrib-type="author" id="aut0070">
+  <name>
+   <surname>Tang</surname>
+   <given-names>Xiaoping</given-names>
+  </name>
+  <xref rid="cor0005" ref-type="corresp">*</xref>
+ </contrib>
+ <contrib contrib-type="author" id="aut0075">
+  <name>
+   <surname>Li</surname>
+   <given-names>Linghua</given-names>
+  </name>
+  <xref rid="cor0005" ref-type="corresp">*</xref>
+ </contrib>
+ <aff id="aff0005">Guangzhou Eighth People’s Hospital, Guangzhou Medical University, Guangzhou, Guangdong, 510060, China</aff>
+</contrib-group>

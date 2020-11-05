@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" corresp="yes">
+  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8472-2120</contrib-id>
+  <name>
+   <surname>Chinnawirotpisan</surname>
+   <given-names>Piyawan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Chusri</surname>
+   <given-names>Sarunyou</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff2">
+   <sup>b</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Manasatienkij</surname>
+   <given-names>Wudtichai</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Joonlasak</surname>
+   <given-names>Khajohn</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Huang</surname>
+   <given-names>Angkana T.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Poolpanichupatam</surname>
+   <given-names>Yongyuth</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Lohachanakul</surname>
+   <given-names>Jindarat</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Rungrojcharoenkit</surname>
+   <given-names>Kamonthip</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Thaisomboonsuk</surname>
+   <given-names>Butsaya</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Buddhari</surname>
+   <given-names>Darunee</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Anderson</surname>
+   <given-names>Kathryn B.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+  <xref ref-type="aff" rid="aff3">
+   <sup>c</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Simasatien</surname>
+   <given-names>Sriluck</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Suwanpakdee</surname>
+   <given-names>Detchvijitr</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Watanaveeradej</surname>
+   <given-names>Veerachai</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff4">
+   <sup>d</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Supadish</surname>
+   <given-names>Pra-on</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Suntarattiwong</surname>
+   <given-names>Piyarat</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff5">
+   <sup>e</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Jones</surname>
+   <given-names>Anthony R.</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Fernandez</surname>
+   <given-names>Stefan</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <contrib contrib-type="author">
+  <name>
+   <surname>Klungthong</surname>
+   <given-names>Chonticha</given-names>
+  </name>
+  <xref ref-type="aff" rid="aff1">
+   <sup>a</sup>
+  </xref>
+ </contrib>
+ <aff id="aff1">
+  <label>a</label>
+  <addr-line>Department of Virology, U.S. Army Medical Directorate-Armed Forces Research Institute of Medical Sciences, Bangkok, Thailand</addr-line>
+ </aff>
+ <aff id="aff2">
+  <label>b</label>
+  <addr-line>Division of Infectious Disease, Department of Internal Medicine, Faculty of Medicine, Prince of Songkhla University, Songkhla, Thailand</addr-line>
+ </aff>
+ <aff id="aff3">
+  <label>c</label>
+  <addr-line>Department of Microbiology and Immunology, SUNY Upstate Medical University, Syracuse, New York, USA</addr-line>
+ </aff>
+ <aff id="aff4">
+  <label>d</label>
+  <addr-line>Department of Pediatrics, Phramongkutklao Hospital, Bangkok, Thailand</addr-line>
+ </aff>
+ <aff id="aff5">
+  <label>e</label>
+  <addr-line>Department of Pediatrics, Queen Sirikit National Institute of Child Health, Bangkok, Thailand</addr-line>
+ </aff>
+</contrib-group>

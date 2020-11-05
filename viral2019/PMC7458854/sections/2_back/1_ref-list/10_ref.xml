@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="B11">
+ <label>11</label>
+ <element-citation publication-type="webpage">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Piccolomiini</surname>
+    <given-names>EL</given-names>
+   </name>
+   <name>
+    <surname>Zama</surname>
+    <given-names>F</given-names>
+   </name>
+  </person-group>
+  <source>Monitoring Italian COVID-19 spread by an adaptive SEIRD model. 
+   <italic toggle="yes">medRxiv</italic>
+  </source>
+  <date-in-citation content-type="updated">Updated 2020</date-in-citation>
+  <date-in-citation content-type="access-date">Accessed May 9, 2020</date-in-citation>
+  <comment>
+   <ext-link ext-link-type="uri" xlink:href="https://www.medrxiv.org/content/10.1101/2020.04.03.20049734v1" xmlns:xlink="http://www.w3.org/1999/xlink">https://www.medrxiv.org/content/10.1101/2020.04.03.20049734v1</ext-link>
+  </comment>
+ </element-citation>
+</ref>

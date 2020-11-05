@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="b13">
+ <element-citation publication-type="book" id="sb13">
+  <person-group person-group-type="author">
+   <name>
+    <surname>Goodfellow</surname>
+    <given-names>I.</given-names>
+   </name>
+   <name>
+    <surname>Bengio</surname>
+    <given-names>Y.</given-names>
+   </name>
+   <name>
+    <surname>Courville</surname>
+    <given-names>A.</given-names>
+   </name>
+  </person-group>
+  <chapter-title>Deep learning</chapter-title>
+  <year>2016</year>
+  <publisher-name>MIT Press</publisher-name>
+ </element-citation>
+</ref>

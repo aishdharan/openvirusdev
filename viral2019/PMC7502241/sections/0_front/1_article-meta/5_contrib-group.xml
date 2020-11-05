@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au005">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Simiao</given-names>
+  </name>
+  <xref rid="af005" ref-type="aff">a</xref>
+  <xref rid="af010" ref-type="aff">b</xref>
+  <xref rid="fn1" ref-type="fn">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au010">
+  <name>
+   <surname>Chen</surname>
+   <given-names>Qiushi</given-names>
+  </name>
+  <xref rid="af015" ref-type="aff">c</xref>
+  <xref rid="fn1" ref-type="fn">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au015">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Weizhong</given-names>
+  </name>
+  <xref rid="af010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au020">
+  <name>
+   <surname>Xue</surname>
+   <given-names>Lan</given-names>
+  </name>
+  <xref rid="af020" ref-type="aff">d</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au025">
+  <name>
+   <surname>Liu</surname>
+   <given-names>Yuanli</given-names>
+  </name>
+  <xref rid="af010" ref-type="aff">b</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au030">
+  <name>
+   <surname>Yang</surname>
+   <given-names>Juntao</given-names>
+  </name>
+  <xref rid="af025" ref-type="aff">e</xref>
+  <xref rid="cor1" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au035">
+  <name>
+   <surname>Wang</surname>
+   <given-names>Chen</given-names>
+  </name>
+  <xref rid="af010" ref-type="aff">b</xref>
+  <xref rid="af030" ref-type="aff">f</xref>
+  <xref rid="af035" ref-type="aff">g</xref>
+  <xref rid="af025" ref-type="aff">e</xref>
+  <xref rid="cor1" ref-type="corresp">⁎</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au040">
+  <name>
+   <surname>Bärnighausen</surname>
+   <given-names>Till</given-names>
+  </name>
+  <xref rid="af005" ref-type="aff">a</xref>
+  <xref rid="af010" ref-type="aff">b</xref>
+  <xref rid="af045" ref-type="aff">i</xref>
+  <xref rid="af040" ref-type="aff">h</xref>
+ </contrib>
+ <aff id="af005">
+  <label>a</label>Heidelberg Institute of Global Health (HIGH), Faculty of Medicine and University Hospital, Heidelberg University, Heidelberg 69117, Germany
+ </aff>
+ <aff id="af010">
+  <label>b</label>Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100730, China
+ </aff>
+ <aff id="af015">
+  <label>c</label>The Harold and Inge Marcus Department of Industrial and Manufacturing Engineering, The Pennsylvania State University, University Park, PA 16802, USA
+ </aff>
+ <aff id="af020">
+  <label>d</label>School of Public Policy, Tsinghua University, Beijing 100084, China
+ </aff>
+ <aff id="af025">
+  <label>e</label>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing 100730, China
+ </aff>
+ <aff id="af030">
+  <label>f</label>Chinese Academy of Engineering, Beijing 100088, China
+ </aff>
+ <aff id="af035">
+  <label>g</label>The National Center for Respiratory Medicine, Beijing 100029, China
+ </aff>
+ <aff id="af040">
+  <label>h</label>Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China–Japan Friendship Hospital, Beijing 100029, China
+ </aff>
+ <aff id="af045">
+  <label>i</label>Department of Global Health and Population, Harvard School of Public Health, Boston, MA 02115-5810, USA
+ </aff>
+</contrib-group>

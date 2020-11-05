@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contrib-group>
+ <contrib contrib-type="author" id="au1">
+  <name>
+   <surname>Calcagno</surname>
+   <given-names>Andrea</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">1</xref>
+  <xref rid="fn1" ref-type="fn">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au2">
+  <name>
+   <surname>Ghisetti</surname>
+   <given-names>Valeria</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">2</xref>
+  <xref rid="cor1" ref-type="corresp">∗</xref>
+  <xref rid="fn1" ref-type="fn">†</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au3">
+  <name>
+   <surname>Burdino</surname>
+   <given-names>Elisa</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au4">
+  <name>
+   <surname>Trunfio</surname>
+   <given-names>Mattia</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au5">
+  <name>
+   <surname>Allice</surname>
+   <given-names>Tiziano</given-names>
+  </name>
+  <xref rid="aff2" ref-type="aff">2</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au6">
+  <name>
+   <surname>Boglione</surname>
+   <given-names>Lucio</given-names>
+  </name>
+  <xref rid="aff3" ref-type="aff">3</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au7">
+  <name>
+   <surname>Bonora</surname>
+   <given-names>Stefano</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">1</xref>
+ </contrib>
+ <contrib contrib-type="author" id="au8">
+  <name>
+   <surname>Di Perri</surname>
+   <given-names>Giovanni</given-names>
+  </name>
+  <xref rid="aff1" ref-type="aff">1</xref>
+ </contrib>
+ <aff id="aff1">
+  <label>1)</label>Unit of Infectious Diseases, Department of Medical Sciences, University of Torino, Italy
+ </aff>
+ <aff id="aff2">
+  <label>2)</label>Laboratory of Microbiology and Virology, Ospedale Amedeo di Savoia, ASL ‘Città di Torino’, Torino, Italy
+ </aff>
+ <aff id="aff3">
+  <label>3)</label>University of Eastern Piedmont, Department of Translational Medicine, Novara, Italy
+ </aff>
+</contrib-group>

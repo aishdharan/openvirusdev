@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p id="d1e3194">We further elaborate on the enumerated constants. The quantity 
+ <inline-formula>
+  <math id="d1e3197" display="inline" altimg="si22.svg">
+   <mi mathvariant="bold-fraktur">N</mi>
+  </math>
+ </inline-formula> is the total initial susceptible population. The coefficient 
+ <inline-formula>
+  <math id="d1e3202" display="inline" altimg="si23.svg">
+   <mi mathvariant="bold-fraktur">c</mi>
+  </math>
+ </inline-formula> denotes the average number of contacts between a susceptible person and an infectious person, per day. Correspondingly, the coefficient 
+ <inline-formula>
+  <math id="d1e3207" display="inline" altimg="si24.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">P</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> denotes the probability that an infected, pre-symptomatic person transmits the disease to a susceptible person during one of those contacts, and similarly for 
+ <inline-formula>
+  <math id="d1e3218" display="inline" altimg="si25.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">A</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> and 
+ <inline-formula>
+  <math id="d1e3228" display="inline" altimg="si24.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">P</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. By allowing for different values between 
+ <inline-formula>
+  <math id="d1e3238" display="inline" altimg="si24.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">P</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, 
+ <inline-formula>
+  <math id="d1e3248" display="inline" altimg="si28.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">S</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, and 
+ <inline-formula>
+  <math id="d1e3259" display="inline" altimg="si25.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">A</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>, we can account for the possibility that asymptomatic cases are less infectious than symptomatic cases. We can also allow for the effect of case isolation, which will reduce the value of 
+ <inline-formula>
+  <math id="d1e3269" display="inline" altimg="si28.svg">
+   <msub>
+    <mrow>
+     <mi mathvariant="bold-fraktur">q</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">S</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula>. The time 
+ <inline-formula>
+  <math id="d1e3279" display="inline" altimg="si353.svg">
+   <msub>
+    <mrow>
+     <mi>τ</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">E</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> (in days) denotes an incubation time when an exposed individual is not yet infectious, the time 
+ <inline-formula>
+  <math id="d1e3289" display="inline" altimg="si354.svg">
+   <msub>
+    <mrow>
+     <mi>τ</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+     <mi mathvariant="bold-fraktur">P</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> (in days) denotes the time interval during which an exposed individual is infectious before symptom onset. The coefficient 
+ <inline-formula>
+  <math id="d1e3302" display="inline" altimg="si351.svg">
+   <mi mathvariant="bold-fraktur">f</mi>
+  </math>
+ </inline-formula> denotes the fraction of pre-symptomatic cases that never show any symptoms of the disease. All infectious cases (whether asymptomatic or symptomatic) are assumed to remain infectious for a period 
+ <inline-formula>
+  <math id="d1e3307" display="inline" altimg="si356.svg">
+   <msub>
+    <mrow>
+     <mi>τ</mi>
+    </mrow>
+    <mrow>
+     <mi mathvariant="bold-fraktur">I</mi>
+    </mrow>
+   </msub>
+  </math>
+ </inline-formula> days. It is assumed that all asymptomatic cases recover and are immune, while only 
+ <inline-formula>
+  <math id="d1e3317" display="inline" altimg="si35.svg">
+   <mrow>
+    <mn>1</mn>
+    <mo linebreak="goodbreak" linebreakstyle="after">−</mo>
+    <mi mathvariant="bold-fraktur">g</mi>
+   </mrow>
+  </math>
+ </inline-formula> of the symptomatic cases recover; the remaining 
+ <inline-formula>
+  <math id="d1e3327" display="inline" altimg="si352.svg">
+   <mi mathvariant="bold-fraktur">g</mi>
+  </math>
+ </inline-formula> become ailing and subsequently, die. Thus, 
+ <inline-formula>
+  <math id="d1e3333" display="inline" altimg="si352.svg">
+   <mi mathvariant="bold-fraktur">g</mi>
+  </math>
+ </inline-formula> represents the long-term case fatality rate of the disease.
+</p>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref id="jmv25723-bib-0005">
+ <label>5</label>
+ <mixed-citation publication-type="journal" id="jmv25723-cit-0005">
+  <string-name>
+   <surname>Drummond</surname>
+   <given-names>AJ</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Suchard</surname>
+   <given-names>MA</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Xie</surname>
+   <given-names>D</given-names>
+  </string-name>, 
+  <string-name>
+   <surname>Rambaut</surname>
+   <given-names>A</given-names>
+  </string-name>. 
+  <article-title>Bayesian phylogenetics with BEAUti and the BEAST 1.7</article-title>. 
+  <source xml:lang="en">Mol Biol Evol</source>. 
+  <year>2012</year>;
+  <volume>29</volume>(
+  <issue>8</issue>):
+  <fpage>1969</fpage>‐
+  <lpage>1973</lpage>.
+  <pub-id pub-id-type="pmid">22367748</pub-id>
+ </mixed-citation>
+</ref>
